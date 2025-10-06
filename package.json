@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "start": "node ./app.mjs",
-    "back": "node ./index.js"
+    "back": "node ./index.mjs"
   },
   "dependencies": {
     "axios": "^1.12.2",

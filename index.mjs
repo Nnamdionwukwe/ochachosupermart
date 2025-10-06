@@ -4,7 +4,7 @@ import { mockUsers } from "./users.js";
 const app = express();
 
 app.get("/", (request, response) => {
-  response.send("mockUsers");
+  response.send(mockUsers);
 });
 
 app.get("/api/users", (request, response) => {
@@ -13,6 +13,6 @@ app.get("/api/users", (request, response) => {
 
 const port = process.env.PORT || 3000;
 
-app.listen(port, () => {
-  console.log(`Server at http://localhost:${port}`);
+app.listen(PORT, () => {
+  console.log(`Running on Port ${PORT}`);
 });
