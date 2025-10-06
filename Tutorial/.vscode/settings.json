@@ -1,0 +1,9 @@
+{
+  "window.autoDetectColorScheme": false,
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.preferredHighContrastColorTheme": "Abyss",
+  "workbench.preferredDarkColorTheme": "Abyss",
+  "workbench.preferredHighContrastLightColorTheme": "Abyss",
+  "workbench.preferredLightColorTheme": "Hopscotch (TextMate)",
+  "editor.fontFamily": "Monospace"
+}
