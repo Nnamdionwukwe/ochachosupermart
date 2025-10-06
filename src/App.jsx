@@ -1,33 +1,111 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+// import bootstrap from "bootstrap";
+
+// // Functions first
+// import "../node_modules/bootstrap/scss/functions";
+
+// // Variable overrides second
+// // $primary: #;
+// // $enable-shadows: true;
+// // $prefix: "mo-";
+
+// // Required Bootstrap imports
+// import "../node_modules/bootstrap/scss/variables";
+// import "../node_modules/bootstrap/scss/variables-dark";
+// import "../node_modules/bootstrap/scss/maps";
+// import "../node_modules/bootstrap/scss/mixins";
+// import "../node_modules/bootstrap/scss/root";
+// // Optional components
+// import "../node_modules/bootstrap/scss/utilities";
+// import "../node_modules/bootstrap/scss/reboot";
+// import "../node_modules/bootstrap/scss/containers";
+// import "../node_modules/bootstrap/scss/grid";
+// import "../node_modules/bootstrap/scss/helpers";
+// import "../node_modules/bootstrap/scss/utilities/api";
+
 import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+      <div class="container my-5">
+        <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
+          <div class="col">
+            <div class="card h-100">
+              <img
+                src="https://via.placeholder.com/400x300.png?text=Product+1"
+                class="card-img-top"
+                alt="Product 1"
+              />
+              <div class="card-body">
+                <h5 class="card-title">Product Name 1</h5>
+                <p class="card-text text-success fw-bold">$29.99</p>
+              </div>
+              <div class="card-footer d-grid">
+                <a href="#" class="btn btn-primary">
+                  Add to cart
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card h-100">
+              <img
+                src="https://via.placeholder.com/400x300.png?text=Product+2"
+                class="card-img-top"
+                alt="Product 2"
+              />
+              <div class="card-body">
+                <h5 class="card-title">Product Name 2</h5>
+                <p class="card-text text-success fw-bold">$49.99</p>
+              </div>
+              <div class="card-footer d-grid">
+                <a href="#" class="btn btn-primary">
+                  Add to cart
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card h-100">
+              <img
+                src="https://via.placeholder.com/400x300.png?text=Product+3"
+                class="card-img-top"
+                alt="Product 3"
+              />
+              <div class="card-body">
+                <h5 class="card-title">Product Name 3</h5>
+                <p class="card-text text-success fw-bold">$19.99</p>
+              </div>
+              <div class="card-footer d-grid">
+                <a href="#" class="btn btn-primary">
+                  Add to cart
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card h-100">
+              <img
+                src="https://via.placeholder.com/400x300.png?text=Product+4"
+                class="card-img-top"
+                alt="Product 4"
+              />
+              <div class="card-body">
+                <h5 class="card-title">Product Name 4</h5>
+                <p class="card-text text-success fw-bold">$89.99</p>
+              </div>
+              <div class="card-footer d-grid">
+                <a href="#" class="btn btn-primary">
+                  Add to cart
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <h1>Michael + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   );
 }
