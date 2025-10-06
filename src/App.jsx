@@ -27,6 +27,58 @@ import "./App.css";
 function App() {
   return (
     <>
+      <header class="p-3 bg-white text-black">
+        <div class="container">
+          <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+            <a
+              href="/"
+              class="d-flex align-items-center mb-2 mb-lg-0 text-black text-decoration-none me-3"
+            >
+              <span class="fs-4">Ochacho</span>
+            </a>
+
+            <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+              <li>
+                <a href="#" class="nav-link px-2 text-black">
+                  Home
+                </a>
+              </li>
+              <li>
+                <a href="#" class="nav-link px-2 text-black">
+                  Shop
+                </a>
+              </li>
+              <li>
+                <a href="#" class="nav-link px-2 text-black">
+                  About
+                </a>
+              </li>
+            </ul>
+
+            <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
+              <input
+                type="search"
+                class="form-control form-control-dark text-bg-black"
+                placeholder="Search..."
+                aria-label="Search"
+              />
+            </form>
+
+            <div class="text-end d-flex align-items-center">
+              <button type="button" class="btn btn-outline-black me-2">
+                <i class="bi bi-person"></i>
+              </button>
+              <button type="button" class="btn btn-warning position-relative">
+                <i class="bi bi-cart"></i>
+                <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+                  3<span class="visually-hidden">unread messages</span>
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </header>
+
       <div class="container my-5">
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
           <div class="col">
