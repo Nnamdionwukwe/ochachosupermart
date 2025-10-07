@@ -14,7 +14,7 @@ const productImages = [
   "po1.png",
   "image7.png",
   "poo.png",
-  "image4.webp",
+  "po2.png",
   "image5.png",
   "image6.png.jpeg",
 ];
