@@ -11,15 +11,15 @@ import { useState, useEffect } from "react";
 import "./ProductSlider.css";
 
 const productImages = [
-  "image1.jpg",
+  "po1.png",
   "image7.png",
-  "image3.jpg",
+  "poo.png",
   "image4.webp",
   "image5.png",
   "image6.png.jpeg",
 ];
 
-const ProductSlider = ({ autoPlay = true, interval = 1000 }) => {
+const ProductSlider = ({ autoPlay = false, interval = 5000 }) => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   // Function to move to the next slide
@@ -27,17 +27,17 @@ const ProductSlider = ({ autoPlay = true, interval = 1000 }) => {
     setCurrentSlide((prevSlide) => (prevSlide + 1) % productImages.length);
   };
 
-  // Function to move to the previous slide
-  const prevSlide = () => {
-    setCurrentSlide((prevSlide) =>
-      prevSlide === 0 ? productImages.length - 1 : prevSlide - 1
-    );
-  };
+  // // Function to move to the previous slide
+  // const prevSlide = () => {
+  //   setCurrentSlide((prevSlide) =>
+  //     prevSlide === 0 ? productImages.length - 1 : prevSlide - 1
+  //   );
+  // };
 
-  // Function to jump to a specific slide
-  const goToSlide = (index) => {
-    setCurrentSlide(index);
-  };
+  // // Function to jump to a specific slide
+  // const goToSlide = (index) => {
+  //   setCurrentSlide(index);
+  // };
 
   // Logic for automatic sliding
   useEffect(() => {
@@ -72,7 +72,7 @@ const ProductSlider = ({ autoPlay = true, interval = 1000 }) => {
       </button> */}
 
       {/* Dot navigation */}
-      <div className="dots-container">
+      {/* <div className="dots-container">
         {productImages.map((_, index) => (
           <span
             key={index}
@@ -80,7 +80,7 @@ const ProductSlider = ({ autoPlay = true, interval = 1000 }) => {
             onClick={() => goToSlide(index)}
           />
         ))}
-      </div>
+      </div> */}
     </div>
   );
 };
