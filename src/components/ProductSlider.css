@@ -1,0 +1,31 @@
+/* Container for the entire slider component */
+.slider-container {
+  overflow-x: auto; /* Enables horizontal scrolling when content overflows */
+  display: flex; /* Arranges the slider items in a row */
+  flex-wrap: nowrap; /* Crucial: Prevents items from wrapping to a new line */
+  gap: 16px; /* Adds space between the slider items */
+  padding: 16px; /* Adds padding around the items inside the container */
+  -webkit-overflow-scrolling: touch; /* Adds momentum-based scrolling for iOS devices */
+}
+
+/* Optional: Hide the scrollbar for a cleaner look on Webkit browsers */
+.slider-container::-webkit-scrollbar {
+  display: none;
+}
+
+/* Styling for each individual product image item */
+.product-item {
+  flex: 0 0 auto; /* Prevents the item from shrinking and lets it maintain its size */
+  width: 200px; /* Example fixed width for each product item */
+  height: 250px; /* Example fixed height */
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.product-item img {
+  width: 100%; /* Makes the image fill the item container */
+  height: 100%;
+  object-fit: cover; /* Ensures the image covers the entire area without distortion */
+}
