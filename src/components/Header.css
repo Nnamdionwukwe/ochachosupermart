@@ -1,0 +1,53 @@
+.header {
+  display: flex; /* Enables flexbox layout */
+  justify-content: space-between; /* Pushes the main items to the opposite ends */
+  align-items: center; /* Vertically centers the items */
+  padding: 0rem 2rem; /* Add some padding on the top, bottom, and sides */
+  /* background-color: #ffffff; */
+  /* border-bottom: 1px solid #e0e0e0; */
+}
+
+.header-logo a {
+  display: flex;
+  align-items: center;
+}
+
+.logo-svg {
+  height: 8em; /* Adjust the logo size */
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem; /* Adds space between the search, profile, and cart */
+}
+
+.search-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-bar i {
+  position: absolute;
+  left: 10px;
+  height: 18px;
+  color: #888;
+}
+
+.search-bar input {
+  padding: 0.5rem 0.5rem 0.5rem 35px; /* Add left padding for the icon */
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  font-size: 1rem;
+}
+
+.user-profile,
+.cart {
+  cursor: pointer;
+}
+
+.profile-icon,
+.cart-icon {
+  height: 24px;
+}

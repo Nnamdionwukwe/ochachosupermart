@@ -1,59 +1,20 @@
-// import bootstrap from "bootstrap";
-
-// // Functions first
-// import "../node_modules/bootstrap/scss/functions";
-
-// // Variable overrides second
-// // $primary: #;
-// // $enable-shadows: true;
-// // $prefix: "mo-";
-
-// // Required Bootstrap imports
-// import "../node_modules/bootstrap/scss/variables";
-// import "../node_modules/bootstrap/scss/variables-dark";
-// import "../node_modules/bootstrap/scss/maps";
-// import "../node_modules/bootstrap/scss/mixins";
-// import "../node_modules/bootstrap/scss/root";
-// // Optional components
-// import "../node_modules/bootstrap/scss/utilities";
-// import "../node_modules/bootstrap/scss/reboot";
-// import "../node_modules/bootstrap/scss/containers";
-// import "../node_modules/bootstrap/scss/grid";
-// import "../node_modules/bootstrap/scss/helpers";
-// import "../node_modules/bootstrap/scss/utilities/api";
-
 import "./App.css";
+import Header from "./components/Header";
+
+const logo = "./ochacho.svg";
 
 function App() {
   return (
     <>
-      <header class="p-3 bg-white text-black">
+      {/* <header class="p-3 bg-white text-black">
         <div class="container">
           <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
             <a
               href="/"
               class="d-flex align-items-center mb-2 mb-lg-0 text-black text-decoration-none me-3"
             >
-              <span class="fs-4">Ochacho</span>
+              <img src={logo} class="fs-4" />
             </a>
-
-            <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-              <li>
-                <a href="#" class="nav-link px-2 text-black">
-                  Home
-                </a>
-              </li>
-              <li>
-                <a href="#" class="nav-link px-2 text-black">
-                  Shop
-                </a>
-              </li>
-              <li>
-                <a href="#" class="nav-link px-2 text-black">
-                  About
-                </a>
-              </li>
-            </ul>
 
             <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
               <input
@@ -77,7 +38,9 @@ function App() {
             </div>
           </div>
         </div>
-      </header>
+      </header> */}
+
+      <Header />
 
       <div class="container my-5">
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
