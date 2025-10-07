@@ -12,14 +12,14 @@ import "./ProductSlider.css";
 
 const productImages = [
   "image1.jpg",
-  "image3.webp",
+  "image7.png",
   "image3.jpg",
   "image4.webp",
   "image5.png",
   "image6.png.jpeg",
 ];
 
-const ProductSlider = ({ autoPlay = true, interval = 10000 }) => {
+const ProductSlider = ({ autoPlay = true, interval = 1000 }) => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   // Function to move to the next slide
