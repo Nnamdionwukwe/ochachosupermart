@@ -30,16 +30,17 @@
 
 .search-bar i {
   position: absolute;
-  left: 10px;
+  left: 15px;
   height: 18px;
   color: #888;
 }
 
 .search-bar input {
-  padding: 0.5rem 0.5rem 0.5rem 35px; /* Add left padding for the icon */
+  padding: 0.5rem 0rem 0.5rem 35px; /* Add left padding for the icon */
   border: 1px solid #ccc;
   border-radius: 20px;
   font-size: 1rem;
+  width: 200px;
 }
 
 .user-profile,
