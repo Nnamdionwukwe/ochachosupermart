@@ -11,13 +11,15 @@ import { useState, useEffect } from "react";
 import "./ProductSlider.css";
 
 const productImages = [
-  "ochacho.svg",
-  "ochacho.svg",
-  "ochacho.svg",
-  "ochacho.svg",
+  "image1.jpg",
+  "image3.webp",
+  "image3.jpg",
+  "image4.webp",
+  "image5.png",
+  "image6.png.jpeg",
 ];
 
-const ProductSlider = ({ autoPlay = true, interval = 5000 }) => {
+const ProductSlider = ({ autoPlay = true, interval = 10000 }) => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   // Function to move to the next slide
@@ -56,7 +58,7 @@ const ProductSlider = ({ autoPlay = true, interval = 5000 }) => {
       >
         {productImages.map((image, index) => (
           <div key={index} className="slide">
-            <img src={image} alt={`Product ${index + 1}`} />
+            <img className="img" src={image} alt={`Product ${index + 1}`} />
           </div>
         ))}
       </div>
