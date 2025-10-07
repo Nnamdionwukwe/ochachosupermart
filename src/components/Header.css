@@ -48,9 +48,14 @@
   cursor: pointer;
 }
 
-.user-profile i,
-.cart i {
-  height: 34px;
+.user-profile i {
+  /* height: 34px; */
   font-size: 1.3rem;
-  padding-right: 1rem;
+  padding-right: -0.5rem;
+}
+
+.cart i {
+  /* height: 34px; */
+  font-size: 1.3rem;
+  padding-right: 1.2rem;
 }
