@@ -1,10 +1,16 @@
 .header {
+  position: sticky;
+  top: 0;
+  right: 0;
+  left: 0;
   display: flex; /* Enables flexbox layout */
   justify-content: space-between; /* Pushes the main items to the opposite ends */
   align-items: center; /* Vertically centers the items */
   padding: 0rem 0rem; /* Add some padding on the top, bottom, and sides */
-  /* background-color: #ffffff; */
-  /* border-bottom: 1px solid #e0e0e0; */
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  z-index: 1000;
+  height: 5rem;
 }
 
 .header-logo a {
