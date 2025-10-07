@@ -18,14 +18,17 @@ const Header = () => {
 
       <div className="header-actions">
         <div className="search-bar">
-          {/* <SearchIcon className="search-icon" /> */}
           <i class="bi bi-search-heart"></i>
           <input type="text" placeholder="Search..." />
         </div>
+
         <div className="user-profile">
-          {/* <ProfileIcon className="profile-icon" /> */}
+          <i class="bi bi-person"></i>
         </div>
-        <div className="cart">{/* <CartIcon className="cart-icon" /> */}</div>
+
+        <div className="cart">
+          <i class="bi bi-cart-plus"></i>
+        </div>
       </div>
     </header>
   );

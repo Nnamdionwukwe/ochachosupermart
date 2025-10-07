@@ -2,7 +2,7 @@
   display: flex; /* Enables flexbox layout */
   justify-content: space-between; /* Pushes the main items to the opposite ends */
   align-items: center; /* Vertically centers the items */
-  padding: 0rem 2rem; /* Add some padding on the top, bottom, and sides */
+  padding: 0rem 0rem; /* Add some padding on the top, bottom, and sides */
   /* background-color: #ffffff; */
   /* border-bottom: 1px solid #e0e0e0; */
 }
@@ -47,7 +47,9 @@
   cursor: pointer;
 }
 
-.profile-icon,
-.cart-icon {
-  height: 24px;
+.user-profile i,
+.cart i {
+  height: 34px;
+  font-size: 1.3rem;
+  padding-right: 1rem;
 }
