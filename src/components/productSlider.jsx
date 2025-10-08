@@ -16,7 +16,7 @@ const productImages = [
   "poo.png",
   "po2.png",
   "image10.png",
-  "image6.png.jpeg",
+  "img11.png",
 ];
 
 const ProductSlider = ({ autoPlay = false, interval = 5000 }) => {
