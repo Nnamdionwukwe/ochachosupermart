@@ -7,10 +7,10 @@ import image1 from "../assets/img11.jpeg";
 import image6 from "../assets/img2.jpeg";
 import image2 from "../assets/img3.jpeg";
 import image3 from "../assets/img4.jpeg";
-// import image4 from "../assets/po2.png";
+import image4 from "../assets/img5.jpeg";
 // import image5 from "../assets/image10.png";
 
-const images = [image6, image1, image2, image3];
+const images = [image1, image2, image3, image4, image6];
 const intervalTime = 5000; // 5000 milliseconds = 5 seconds
 
 const ImageSlider = () => {
