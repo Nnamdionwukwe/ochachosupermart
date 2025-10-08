@@ -5,6 +5,7 @@ import "./App.css";
 import Header from "./components/Header";
 import ProductSlider from "./components/productSlider";
 import HomePage from "./components/HomePage";
+import ImageSlider from "./components/ImageSlider";
 
 // Simple placeholder components for each page
 // const HomePage = () => <h2>Home Page</h2>;
@@ -19,7 +20,9 @@ function App() {
       <div className="App">
         <Header />
 
-        <ProductSlider />
+        <ImageSlider />
+
+        {/* <ProductSlider /> */}
 
         <CategoryNavLinkSlider />
 
