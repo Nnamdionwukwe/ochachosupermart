@@ -15,7 +15,7 @@ const productImages = [
   "image7.png",
   "poo.png",
   "po2.png",
-  "image5.png",
+  "image10.png",
   "image6.png.jpeg",
 ];
 
