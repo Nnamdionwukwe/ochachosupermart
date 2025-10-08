@@ -5,6 +5,7 @@ import Header from "./components/Header";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import ProductSlider from "./components/productSlider";
+import CategorySlider from "./components/CategorySlider";
 // Remember to run:
 // npm install react-slick slick-carousel --save
 
@@ -14,6 +15,8 @@ function App() {
       <Header />
 
       <ProductSlider />
+
+      <CategorySlider />
 
       <CardDisplay />
     </>

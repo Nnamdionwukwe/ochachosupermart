@@ -87,23 +87,3 @@ const ProductSlider = ({ autoPlay = false, interval = 5000 }) => {
 };
 
 export default ProductSlider;
-
-// const productImages = [
-//   // Array of image URLs
-//   "ochacho.svg",
-//   "vite.svg",
-// ];
-
-// const ProductSlider = () => {
-//   const settings = {
-//     // Slider configuration options
-//   };
-
-//   return (
-//     <div className="product-slider-wrapper">
-//       <Slider {...settings}>{/* Map through images and render */}</Slider>
-//     </div>
-//   );
-// };
-
-// export default ProductSlider;
