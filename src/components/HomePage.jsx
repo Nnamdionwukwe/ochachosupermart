@@ -1,9 +1,11 @@
 import CardDisplay from "./CardDisplay";
+import ProductList from "./ProductList";
 
 function HomePage() {
   return (
     <div>
-      <CardDisplay />
+      <ProductList />
+      {/* <CardDisplay /> */}
     </div>
   );
 }
