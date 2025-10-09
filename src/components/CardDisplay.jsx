@@ -8,7 +8,7 @@ function CardDisplay() {
           <div class="col">
             <div class="card h-100">
               <img
-                src="https://via.placeholder.com/400x300.png?text=Product+1"
+                src="https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg"
                 class="card-img-top"
                 alt="Product 1"
               />
