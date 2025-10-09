@@ -1,12 +1,12 @@
 import React from "react";
 import ProductCard from "./ProductCard";
-import { products } from "../data/products";
+import { product } from "../data/products";
 import "./ProductList.css";
 
 const ProductList = () => {
   return (
     <div className="product-grid">
-      {products.map((product) => (
+      {product.map((product) => (
         <ProductCard key={product.id} product={product} />
       ))}
     </div>

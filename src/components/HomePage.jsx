@@ -1,11 +1,18 @@
-import CardDisplay from "./CardDisplay";
+import CategoryNavLinkSlider from "./CategoryNavLinkSlider";
+import Header from "./Header";
+import ImageSlider from "./ImageSlider";
 import ProductList from "./ProductList";
 
 function HomePage() {
   return (
     <div>
+      <Header />
+
+      <ImageSlider />
+
+      <CategoryNavLinkSlider />
+
       <ProductList />
-      {/* <CardDisplay /> */}
     </div>
   );
 }

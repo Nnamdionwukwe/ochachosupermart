@@ -1,13 +1,11 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import CategoryNavLinkSlider from "./components/CategoryNavLinkSlider";
 import "./App.css";
-import Header from "./components/Header";
 import HomePage from "./components/HomePage";
-import ImageSlider from "./components/ImageSlider";
 import ProductsPage from "./components/ProductsPage";
 import ElectronicsPage from "./components/ElectronicsPage";
 import ApparelPage from "./components/ApparelPage";
+import ProductPage from "./components/ProductPage";
 
 import DefaultPage from "./components/DefaultPage";
 import Cart from "./components/Cart";
@@ -16,16 +14,11 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Header />
-
-        <ImageSlider />
-
-        <CategoryNavLinkSlider />
-
         <div className="content">
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/products" element={<ProductsPage />} />
+            {/* <Route path="/products/:id" element={<ProductPage />} /> */}
             <Route path="/products/electronics" element={<ElectronicsPage />} />
             <Route path="/products/apparel" element={<ApparelPage />} />
             <Route path="/cart" element={<Cart />} />
