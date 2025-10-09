@@ -13,21 +13,22 @@ export const products = [
     price: "$249",
     imageUrl:
       "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
-
     description: "Noise-cancelling with crystal-clear audio.",
   },
   {
     id: 3,
     name: "4K Monitor",
     price: "$499",
-    imageUrl: "https://via.placeholder.com/250x200?text=Monitor",
+    imageUrl:
+      "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
     description: "Vibrant colors and high resolution for professional use.",
   },
   {
     id: 4,
     name: "Mechanical Keyboard",
     price: "$129",
-    imageUrl: "https://via.placeholder.com/250x200?text=Keyboard",
+    imageUrl:
+      "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
     description: "Tactile keys with customizable RGB lighting.",
   },
   // Add more products as needed
