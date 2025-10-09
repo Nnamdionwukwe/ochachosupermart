@@ -11,7 +11,9 @@ export const products = [
     id: 2,
     name: "Wireless Headphones",
     price: "$249",
-    imageUrl: "https://via.placeholder.com/250x200?text=Headphones",
+    imageUrl:
+      "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
+
     description: "Noise-cancelling with crystal-clear audio.",
   },
   {
