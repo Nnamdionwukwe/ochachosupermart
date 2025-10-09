@@ -13,7 +13,7 @@ function CardDisplay() {
                 alt="Product 1"
               />
               <div class="card-body">
-                <h5 class="card-title">Product Name 1</h5>
+                <h5 class="card-title">Chateau Vertely</h5>
                 <p class="card-text text-success fw-bold">$29.99</p>
               </div>
               <div class="card-footer d-grid">
