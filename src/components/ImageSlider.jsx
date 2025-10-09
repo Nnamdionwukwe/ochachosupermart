@@ -3,7 +3,7 @@ import "./ImageSlider.css";
 
 // Import your images from the assets folder.
 // You can also use public URLs for the images.
-import image1 from "../assets/img7.jpeg";
+import image1 from "../assets/img9.jpeg";
 import image6 from "../assets/img2.jpeg";
 import image2 from "../assets/img3.jpeg";
 import image3 from "../assets/img4.jpeg";

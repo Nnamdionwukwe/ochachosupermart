@@ -1,5 +1,5 @@
 function ApparelPage() {
-  return <div>APPERALE</div>;
+  return <div>APPARALE</div>;
 }
 
 export default ApparelPage;

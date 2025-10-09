@@ -20,13 +20,3 @@
   transition: opacity 1s ease-in-out; /* Fade effect duration */
   /* border-radius: 15px; */
 }
-
-/* Animate the current image */
-.fade-in-image {
-  /* opacity: 1; */
-}
-
-.fade-in-image {
-  /* animation: fadeInOut 9s infinite; */
-  /* animation-name: fadeIn; */
-}

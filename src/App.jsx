@@ -3,16 +3,13 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import CategoryNavLinkSlider from "./components/CategoryNavLinkSlider";
 import "./App.css";
 import Header from "./components/Header";
-import ProductSlider from "./components/productSlider";
 import HomePage from "./components/HomePage";
 import ImageSlider from "./components/ImageSlider";
+import ProductsPage from "./components/ProductsPage";
+import ElectronicsPage from "./components/ElectronicsPage";
+import ApparelPage from "./components/ApparelPage";
 
-// Simple placeholder components for each page
-// const HomePage = () => <h2>Home Page</h2>;
-const ProductsPage = () => <h2>All Products</h2>;
-const ElectronicsPage = () => <h2>Electronics Products</h2>;
-const ApparelPage = () => <h2>Apparel Products</h2>;
-const DefaultPage = () => <h2>Category not found</h2>;
+import DefaultPage from "./components/DefaultPage";
 
 function App() {
   return (
@@ -21,8 +18,6 @@ function App() {
         <Header />
 
         <ImageSlider />
-
-        {/* <ProductSlider /> */}
 
         <CategoryNavLinkSlider />
 
@@ -42,31 +37,3 @@ function App() {
 }
 
 export default App;
-
-// import "./App.css";
-// import CardDisplay from "./components/CardDisplay";
-// import Header from "./components/Header";
-
-// import "slick-carousel/slick/slick.css";
-// import "slick-carousel/slick/slick-theme.css";
-// import ProductSlider from "./components/productSlider";
-// import CategorySlider from "./components/CategoryNavLinkSlider";
-// // Remember to run:
-// // npm install react-slick slick-carousel --save
-
-// function App() {
-//   return (
-//     <>
-//       <Header />
-
-//       <ProductSlider />
-
-//       <CategorySlider />
-
-//       <CardDisplay />
-
-//     </>
-//   );
-// }
-
-// export default App;

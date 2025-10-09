@@ -1,9 +1,4 @@
-import React from "react";
-import "./Header.css"; // Import the stylesheet for styling
-// import { ReactComponent as Logo } from "./logo.svg"; // Assuming you have an SVG logo
-// import { ReactComponent as SearchIcon } from "./search.svg";
-// import { ReactComponent as ProfileIcon } from "./profile.svg";
-// import { ReactComponent as CartIcon } from "./cart.svg";
+import "./Header.css";
 
 const logo = "./ochacho.svg";
 
@@ -35,4 +30,3 @@ const Header = () => {
 };
 
 export default Header;
-// Compare this snippet from src/App.jsx:
