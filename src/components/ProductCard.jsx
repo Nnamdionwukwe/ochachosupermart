@@ -13,6 +13,7 @@ const ProductCard = ({ product }) => {
         <h3 className="product-name">{product.name}</h3>
         <p className="product-price">{product.price}</p>
         {/* <p className="product-description">{product.description}</p> */}
+        {/* <i class="bi bi-cart-plus"></i> */}
         <button className="add-to-cart-btn">Add to Cart</button>
       </div>
     </div>
