@@ -27,27 +27,11 @@ function CartCard({ item, removeFromCart, updateQuantity }) {
           +
         </button>
       </div>
-      {/* <div class="item-total">$99.99</div> */}
+
       <button onClick={() => removeFromCart(item.id)} class="remove-btn">
         Remove
       </button>
     </div>
-
-    // <li>
-    //   <div className="item-details">
-    //     <img src={item.imageUrl} />
-    //     {item.name} - ${item.price} x {item.quantity}
-    //   </div>
-    //   <div className="item-actions">
-    //     <button onClick={() => updateQuantity(item.id, item.quantity + 1)}>
-    //       +
-    //     </button>
-    //     <button onClick={() => updateQuantity(item.id, item.quantity - 1)}>
-    //       -
-    //     </button>
-    //     <button onClick={() => removeFromCart(item.id)}>Remove</button>
-    //   </div>
-    // </li>
   );
 }
 

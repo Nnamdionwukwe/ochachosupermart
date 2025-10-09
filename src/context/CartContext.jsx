@@ -1,4 +1,4 @@
-import React, { createContext, useState, useContext } from "react";
+import React, { createContext, useState, useContext, useEffect } from "react";
 
 // Create the context
 const CartContext = createContext();
@@ -10,7 +10,27 @@ export const useCart = () => {
 
 // Create a provider component to wrap your app
 export const CartProvider = ({ children }) => {
-  const [cartItems, setCartItems] = useState([]);
+  // const [cartItems, setCartItems] = useState([]);
+
+  // Use a lazy state initializer to read from localStorage only once
+  const [cartItems, setCartItems] = useState(() => {
+    try {
+      const localCart = localStorage.getItem("cart");
+      return localCart ? JSON.parse(localCart) : [];
+    } catch (error) {
+      console.error("Failed to load cart from localStorage", error);
+      return [];
+    }
+  });
+
+  // 3. Use useEffect to synchronize state with localStorage
+  useEffect(() => {
+    try {
+      localStorage.setItem("cart", JSON.stringify(cartItems));
+    } catch (error) {
+      console.error("Failed to save cart to localStorage", error);
+    }
+  }, [cartItems]); // Dependency array ensures this runs whenever the cart state changes
 
   const addToCart = (product) => {
     // Check if the product already exists in the cart
