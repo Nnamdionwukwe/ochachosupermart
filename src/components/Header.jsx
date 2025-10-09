@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./Header.css";
 
 const logo = "./ochacho.svg";
@@ -21,9 +22,9 @@ const Header = () => {
           <i class="bi bi-person"></i>
         </div>
 
-        <div className="cart">
+        <Link to="/cart" className="cart">
           <i class="bi bi-cart-plus"></i>
-        </div>
+        </Link>
       </div>
     </header>
   );

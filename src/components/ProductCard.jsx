@@ -1,7 +1,9 @@
-import React from "react";
 import "./ProductCard.css";
+import { useCart } from "../context/CartContext";
 
 const ProductCard = ({ product }) => {
+  const { addToCart } = useCart();
+
   return (
     <div className="product-card">
       <img
@@ -14,7 +16,9 @@ const ProductCard = ({ product }) => {
         <p className="product-price">{product.price}</p>
         {/* <p className="product-description">{product.description}</p> */}
         {/* <i class="bi bi-cart-plus"></i> */}
-        <button className="add-to-cart-btn">Add to Cart</button>
+        <button onClick={() => addToCart(product)} className="add-to-cart-btn">
+          Add to Cart
+        </button>
       </div>
     </div>
   );

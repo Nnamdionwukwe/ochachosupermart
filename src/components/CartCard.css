@@ -1,0 +1,121 @@
+.cart-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  flex-wrap: wrap; /* Allows items to wrap on smaller screens */
+}
+
+.product-image {
+  flex-shrink: 0; /* Prevents image from shrinking */
+}
+
+.product-image img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.product-details {
+  flex-grow: 1; /* Allows details to take up available space */
+  margin: 0 1rem;
+}
+
+.product-title {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.product-price {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.quantity-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: 1rem;
+  flex-shrink: 0;
+}
+
+.quantity-btn {
+  width: 30px;
+  height: 30px;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+.quantity-btn:hover {
+  background-color: #e0e0e0;
+}
+
+.quantity-count {
+  font-size: 1rem;
+  color: #333;
+}
+
+.item-total {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #333;
+  margin-left: 1rem;
+}
+
+.remove-btn {
+  background: none;
+  border: none;
+  color: #e44c4c; /* Example of a warning color */
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin-left: 1rem;
+  padding: 0.5rem;
+}
+
+.remove-btn:hover {
+  text-decoration: underline;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 600px) {
+  .cart-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .product-image {
+    margin-bottom: 1rem;
+  }
+
+  .product-details {
+    margin: 0 0 1rem 0;
+  }
+
+  .quantity-controls {
+    margin: 0 0 1rem 0;
+  }
+
+  .item-total,
+  .remove-btn {
+    align-self: flex-end;
+  }
+
+  .remove-btn {
+    margin-left: 0;
+    margin-top: -30px; /* Adjust position relative to total */
+  }
+}
