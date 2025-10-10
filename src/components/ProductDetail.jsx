@@ -12,19 +12,22 @@ function ProductDetail() {
   }
 
   return (
-    <div className="product-page2 ">
-      <div className="main-image2">
-        <div className="thumbnail-container2">
-          <img src={initialProduct.imageUrl} />
+    <>
+      <button>&larr;</button>
+      <div className="product-page2">
+        <div className="main-image2">
+          <div className="thumbnail-container2">
+            <img src={initialProduct.imageUrl} />
+          </div>
+        </div>
+
+        <div className="product-details2">
+          <h2 className="product-title2">{initialProduct.name}</h2>
+          <p className="product-price2">#{initialProduct.price}</p>
+          <p className="product-description2">{initialProduct.description}</p>
         </div>
       </div>
-
-      <div className="product-details2">
-        <h2 className="product-title2">{initialProduct.name}</h2>
-        <p className="product-price2">#{initialProduct.price}</p>
-        <p className="product-description2">{initialProduct.description}</p>
-      </div>
-    </div>
+    </>
   );
 }
 
