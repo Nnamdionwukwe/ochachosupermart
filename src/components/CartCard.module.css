@@ -1,4 +1,4 @@
-.cart-card {
+.cartCard {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -11,36 +11,36 @@
   flex-wrap: wrap; /* Allows items to wrap on smaller screens */
 }
 
-.product-image {
+.productImage {
   flex-shrink: 0; /* Prevents image from shrinking */
 }
 
-.product-image img {
+.productImage img {
   width: 100px;
   height: 100px;
   object-fit: cover;
   border-radius: 8px;
 }
 
-.product-details {
+.productDetails {
   flex-grow: 1; /* Allows details to take up available space */
   margin: 0 1rem;
 }
 
-.product-title {
+.productTitle {
   margin: 0 0 0.25rem 0;
   font-size: 1.1rem;
   font-weight: 600;
   color: #333;
 }
 
-.product-price {
+.productPrice {
   margin: 0;
   font-size: 0.9rem;
   color: #666;
 }
 
-.quantity-controls {
+.quantityControls {
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -48,7 +48,7 @@
   flex-shrink: 0;
 }
 
-.quantity-btn {
+.quantityBtn {
   width: 30px;
   height: 30px;
   background-color: #f0f0f0;
@@ -60,23 +60,23 @@
   transition: background-color 0.2s;
 }
 
-.quantity-btn:hover {
+.quantityBtn:hover {
   background-color: #e0e0e0;
 }
 
-.quantity-count {
+.quantityCount {
   font-size: 1rem;
   color: #333;
 }
 
-.item-total {
+.itemTotal {
   font-size: 1.1rem;
   font-weight: 600;
   color: #333;
   margin-left: 1rem;
 }
 
-.remove-btn {
+.removeBtn {
   background: none;
   border: none;
   color: #e44c4c; /* Example of a warning color */
@@ -86,35 +86,35 @@
   padding: 0.5rem;
 }
 
-.remove-btn:hover {
+.removeBtn:hover {
   text-decoration: underline;
 }
 
 /* Responsive adjustments for smaller screens */
 @media (max-width: 600px) {
-  .cart-card {
+  .cartCard {
     flex-direction: column;
     align-items: flex-start;
   }
 
-  .product-image {
+  .productImage {
     margin-bottom: 1rem;
   }
 
-  .product-details {
+  .productDetails {
     margin: 0 0 1rem 0;
   }
 
-  .quantity-controls {
+  .quantityControls {
     margin: 0 0 1rem 0;
   }
 
-  .item-total,
-  .remove-btn {
+  .itemTotal,
+  .removeBtn {
     align-self: flex-end;
   }
 
-  .remove-btn {
+  .removeBtn {
     margin-left: 0;
     margin-top: -30px; /* Adjust position relative to total */
   }

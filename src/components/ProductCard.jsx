@@ -1,4 +1,4 @@
-import "./ProductCard.css";
+import styles from "./ProductCard.module.css";
 import { useCart } from "../context/CartContext";
 import { Link, useParams } from "react-router-dom";
 import { useEffect } from "react";
@@ -19,20 +19,23 @@ const ProductCard = ({ product }) => {
   // };
 
   return (
-    <div className="product-card">
+    <div className={styles.productCard}>
       <Link to={`/products/${product.id}`}>
         <img
           src={product.imageUrl}
           alt={product.name}
-          className="product-image"
+          className={styles.productImage}
         />
       </Link>
-      <div className="product-details">
-        <h3 className="product-name">{product.name}</h3>
-        <p className="product-price">#{product.price}</p>
+      <div className={styles.productInfo}>
+        <h3 className={styles.ProductName}>{product.name}</h3>
+        <p className={styles.productPrice}>#{product.price}</p>
         {/* <p className="product-description">{product.description}</p> */}
         {/* <i class="bi bi-cart-plus"></i> */}
-        <button onClick={() => addToCart(product)} className="add-to-cart-btn">
+        <button
+          onClick={() => addToCart(product)}
+          className={styles.addToCartButton}
+        >
           Add to Cart
         </button>
       </div>

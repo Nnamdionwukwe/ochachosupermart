@@ -1,7 +1,7 @@
 import React from "react";
 import { useCart } from "../context/CartContext";
 import CartCard from "./CartCard";
-import "./Cart.css";
+import styles from "./Cart.module.css";
 
 const Cart = () => {
   const { cartItems, removeFromCart, updateQuantity } = useCart();
@@ -13,13 +13,13 @@ const Cart = () => {
   );
 
   return (
-    <div className="cart-container">
+    <div className={styles.cartContainer}>
       <h2>Shopping Cart</h2>
       {cartItems.length === 0 ? (
-        <p className="empty-cart-message">Your cart is empty.</p>
+        <p className={styles.emptyMessage}>Your cart is empty.</p>
       ) : (
-        <div className="cart-content">
-          <div className="cart-item-list">
+        <div className={styles.cartContent}>
+          <div className={styles.cartItemList}>
             {cartItems.map((item) => (
               <CartCard
                 key={item.id}
@@ -29,13 +29,13 @@ const Cart = () => {
               />
             ))}
           </div>
-          <div className="cart-summary">
+          <div className={styles.cartSummary}>
             <h3>Order Summary</h3>
-            <div className="cart-total">
+            <div className={styles.cartTotal}>
               <span>Total:</span>
-              <span className="total-amount">#{total.toFixed(2)}</span>
+              <span className={styles.totalAmount}>#{total.toFixed(2)}</span>
             </div>
-            <button className="checkout-btn">Proceed to Checkout</button>
+            <button className={styles.checkoutBtn}>Proceed to Checkout</button>
           </div>
         </div>
       )}
