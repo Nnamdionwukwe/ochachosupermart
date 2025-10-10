@@ -14,7 +14,7 @@ function ProductDetail() {
   return (
     <>
       <button>&larr;</button>
-      <div className="product-page2">
+      <div className="product-page2 ">
         <div className="main-image2">
           <div className="thumbnail-container2">
             <img src={initialProduct.imageUrl} />
@@ -27,6 +27,8 @@ function ProductDetail() {
           <p className="product-description2">{initialProduct.description}</p>
         </div>
       </div>
+
+      <button className="add-to-cart-btn2">add to cart</button>
     </>
   );
 }

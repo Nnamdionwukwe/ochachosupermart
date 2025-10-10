@@ -10,7 +10,7 @@ function CartCard({ item, removeFromCart, updateQuantity }) {
       </div>
       <div className={styles.productDetails}>
         <h3 className={styles.productTitle}>{item.name}</h3>
-        <p className={styles.productPrice}>#{item.price.toFixed(2)}</p>
+        <p className={styles.productPrice}>#{item.price}</p>
       </div>
       <div className={styles.quantityControls}>
         <button

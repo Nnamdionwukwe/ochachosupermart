@@ -33,7 +33,7 @@ const Cart = () => {
             <h3>Order Summary</h3>
             <div className={styles.cartTotal}>
               <span>Total:</span>
-              <span className={styles.totalAmount}>#{total.toFixed(2)}</span>
+              <span className={styles.totalAmount}>#{total}</span>
             </div>
             <button className={styles.checkoutBtn}>Proceed to Checkout</button>
           </div>
