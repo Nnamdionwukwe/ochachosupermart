@@ -1,30 +1,32 @@
 import "./ProductCard.css";
 import { useCart } from "../context/CartContext";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { useEffect } from "react";
 
 const ProductCard = ({ product }) => {
   const { addToCart } = useCart();
 
-  // ... inside ProductPage.jsx
-  const ProductPage = () => {
-    const { id } = useParams(); // Get the ID from the URL
-    // Use the 'id' to fetch the correct product from an API or local data
+  // // ... inside ProductPage.jsx
+  // const ProductPage = () => {
+  //   const { id } = useParams(); // Get the ID from the URL
+  //   // Use the 'id' to fetch the correct product from an API or local data
 
-    useEffect(() => {
-      // Fetch product logic based on `id`
-    }, [id]);
+  //   useEffect(() => {
+  //     // Fetch product logic based on `id`
+  //   }, [id]);
 
-    // ... rest of the component
-  };
+  //   // ... rest of the component
+  // };
 
   return (
     <div className="product-card">
-      <img
-        src={product.imageUrl}
-        alt={product.name}
-        className="product-image"
-      />
+      <Link to={`/products/${product.id}`}>
+        <img
+          src={product.imageUrl}
+          alt={product.name}
+          className="product-image"
+        />
+      </Link>
       <div className="product-details">
         <h3 className="product-name">{product.name}</h3>
         <p className="product-price">#{product.price}</p>
