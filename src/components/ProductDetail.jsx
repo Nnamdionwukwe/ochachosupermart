@@ -1,6 +1,7 @@
 import { useParams } from "react-router-dom";
 import { product } from "../data/products";
 import "./ProductDetail.css";
+import { useCart } from "../context/CartContext";
 
 function ProductDetail() {
   // const [products, setProducts] = useState(product);
@@ -10,6 +11,8 @@ function ProductDetail() {
   if (!initialProduct) {
     return <div>Product not found!</div>;
   }
+
+  const { addToCart } = useCart();
 
   return (
     <>
@@ -26,7 +29,12 @@ function ProductDetail() {
           <p className="product-price2">#{initialProduct.price}</p>
           <p className="product-description2">{initialProduct.description}</p>
         </div>
-        <button className="add-to-cart-btn2">add to cart</button>
+        <button
+          onClick={() => addToCart(initialProduct)}
+          className="add-to-cart-btn2"
+        >
+          add to cart
+        </button>
       </div>
     </>
   );
