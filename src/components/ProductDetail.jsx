@@ -26,9 +26,8 @@ function ProductDetail() {
           <p className="product-price2">#{initialProduct.price}</p>
           <p className="product-description2">{initialProduct.description}</p>
         </div>
+        <button className="add-to-cart-btn2">add to cart</button>
       </div>
-
-      <button className="add-to-cart-btn2">add to cart</button>
     </>
   );
 }
