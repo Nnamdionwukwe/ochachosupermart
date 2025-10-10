@@ -10,6 +10,7 @@ import ProductPage from "./components/ProductPage";
 import DefaultPage from "./components/DefaultPage";
 import Cart from "./components/Cart";
 import ProductDetail from "./components/ProductDetail";
+import Checkout from "./components/Checkout";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
             <Route path="/products/electronics" element={<ElectronicsPage />} />
             <Route path="/products/apparel" element={<ApparelPage />} />
             <Route path="/cart" element={<Cart />} />
+            <Route path="/cart/checkout" element={<Checkout />} />
             {/* You would add more routes here for each category */}
             <Route path="*" element={<DefaultPage />} />
           </Routes>
