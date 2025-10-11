@@ -54,6 +54,7 @@
   cursor: pointer;
   color: rgb(69, 68, 68);
   text-decoration: none;
+  margin-right: -35px;
 }
 
 .user-profile i {
