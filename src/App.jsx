@@ -10,7 +10,6 @@ import DefaultPage from "./components/DefaultPage";
 import Cart from "./components/Cart";
 import ProductDetail from "./components/ProductDetail";
 import Checkout from "./components/Checkout";
-import Layout from "./components/Layout";
 import Contact from "./components/Contact";
 import About from "./components/About";
 
@@ -36,7 +35,6 @@ function App() {
           </Routes>
         </div>
       </div>
-      <Layout />
     </Router>
   );
 }

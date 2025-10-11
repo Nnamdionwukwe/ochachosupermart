@@ -2,6 +2,7 @@ import CategoryNavLinkSlider from "./CategoryNavLinkSlider";
 import Header from "./Header";
 import ImageSlider from "./ImageSlider";
 import ProductList from "./ProductList";
+import Layout from "./Layout";
 
 function HomePage() {
   return (
@@ -13,6 +14,8 @@ function HomePage() {
       <CategoryNavLinkSlider />
 
       <ProductList />
+
+      <Layout />
     </div>
   );
 }
