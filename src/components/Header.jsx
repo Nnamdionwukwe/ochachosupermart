@@ -1,10 +1,13 @@
 import { Link } from "react-router-dom";
 import "./Header.css";
 import NavBar from "./NavBar";
+import { useCart } from "../context/CartContext";
 
 const logo = "./ochacho.svg";
 
 const Header = () => {
+  const { cartItems } = useCart();
+
   return (
     <header className="header">
       <div className="header-logo">
@@ -20,6 +23,9 @@ const Header = () => {
         </div>
 
         <Link to="/cart" className="cart">
+          {cartItems.length > 0 && (
+            <span className="cart-badge">{cartItems.length}</span>
+          )}
           <i class="bi bi-cart-plus"></i>
         </Link>
 

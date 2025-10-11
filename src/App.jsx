@@ -13,7 +13,6 @@ import Checkout from "./components/Checkout";
 import Layout from "./components/Layout";
 import Contact from "./components/Contact";
 import About from "./components/About";
-import NavBar from "./components/NavBar";
 
 function App() {
   return (
@@ -38,7 +37,6 @@ function App() {
         </div>
       </div>
       <Layout />
-      {/* <NavBar /> */}
     </Router>
   );
 }
