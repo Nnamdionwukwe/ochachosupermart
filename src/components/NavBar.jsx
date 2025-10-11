@@ -17,18 +17,11 @@ const NavBar = () => {
 
   return (
     <nav className="navbar">
-      {/* <NavLink to="/" onClick={closeMenu}>
-          <img
-            className="navbar-logo"
-            src="/ochacho.svg"
-            alt="Ochacho Supermart"
-          />
-        </NavLink> */}
-
       {/* Mobile menu toggle button */}
       <div className="menu-icon" onClick={toggleMenu}>
         {isMenuOpen ? <FaTimes /> : <FaBars />}
       </div>
+
       <div className="navbar-container">
         {/* Navigation links */}
         {isMenuOpen && (
