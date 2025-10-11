@@ -52,6 +52,8 @@
 .user-profile,
 .cart {
   cursor: pointer;
+  color: rgb(69, 68, 68);
+  text-decoration: none;
 }
 
 .user-profile i {

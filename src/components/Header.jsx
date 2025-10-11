@@ -23,7 +23,7 @@ const Header = () => {
           <i class="bi bi-cart-plus"></i>
         </Link>
 
-        <div className="user-profile1">
+        <div className="user-profile">
           <NavBar />
         </div>
       </div>
