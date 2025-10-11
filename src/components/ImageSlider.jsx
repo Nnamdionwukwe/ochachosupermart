@@ -6,9 +6,9 @@ import "./ImageSlider.css";
 import image1 from "../assets/dis1.jpeg";
 import image2 from "../assets/dis2.jpeg";
 import image3 from "../assets/dis3.jpeg";
-import image4 from "../assets/img4.jpeg";
-import image5 from "../assets/img5.jpeg";
-import image6 from "../assets/img6.jpeg";
+import image4 from "../assets/dis4.jpeg";
+import image5 from "../assets/dis5.jpeg";
+import image6 from "../assets/dis6.jpeg";
 
 const images = [image1, image2, image3, image4, image5, image6];
 const intervalTime = 3000; // 5000 milliseconds = 5 seconds
