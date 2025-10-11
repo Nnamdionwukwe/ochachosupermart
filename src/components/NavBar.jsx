@@ -17,8 +17,12 @@ const NavBar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <NavLink to="/" className="navbar-logo" onClick={closeMenu}>
-          MySite
+        <NavLink to="/" onClick={closeMenu}>
+          <img
+            className="navbar-logo"
+            src="/ochacho.svg"
+            alt="Ochacho Supermart"
+          />
         </NavLink>
 
         {/* Mobile menu toggle button */}
