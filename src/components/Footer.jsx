@@ -66,32 +66,3 @@ const Footer = () => {
 };
 
 export default Footer;
-
-// import React from "react";
-// import "./Footer.css"; // Don't forget to create this file
-
-// const Footer = () => {
-//   return (
-//     <footer className="main-footer">
-//       <div className="footer-content">
-//         <p>
-//           &copy; {new Date().getFullYear()} Ochacho Pharmacy/Supermarket. All
-//           rights reserved.
-//         </p>
-//         <div className="social-links">
-//           <a href="#">
-//             <i class="bi bi-facebook"></i>
-//           </a>
-//           <a href="#">
-//             <i class="bi bi-whatsapp"></i>
-//           </a>
-//           <a href="#">
-//             <i class="bi bi-instagram"></i>
-//           </a>
-//         </div>
-//       </div>
-//     </footer>
-//   );
-// };
-
-// export default Footer;
