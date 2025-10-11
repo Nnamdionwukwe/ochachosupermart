@@ -17,13 +17,13 @@ const NavBar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <NavLink to="/" onClick={closeMenu}>
+        {/* <NavLink to="/" onClick={closeMenu}>
           <img
             className="navbar-logo"
             src="/ochacho.svg"
             alt="Ochacho Supermart"
           />
-        </NavLink>
+        </NavLink> */}
 
         {/* Mobile menu toggle button */}
         <div className="menu-icon" onClick={toggleMenu}>
