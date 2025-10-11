@@ -14,6 +14,7 @@ import image8 from "../assets/dis8.jpeg";
 import image9 from "../assets/dis9.jpeg";
 import image10 from "../assets/dis10.jpeg";
 import image11 from "../assets/dis11.jpeg";
+import image12 from "../assets/dis12.jpeg";
 import image13 from "../assets/dis13.jpeg";
 import image14 from "../assets/dis14.jpeg";
 
@@ -29,6 +30,7 @@ const images = [
   image9,
   image10,
   image11,
+  image12,
   image13,
   image14,
 ];
