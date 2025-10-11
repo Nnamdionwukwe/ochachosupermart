@@ -29,9 +29,9 @@ const Navbar = () => {
       >
         <ul className="fullscreen-menu">
           <li>
-            <NavLink to="/" onClick={closeMenu}>
+            <a href="/" onClick={closeMenu}>
               Home
-            </NavLink>
+            </a>
           </li>
           <li>
             <NavLink to="/products" onClick={closeMenu}>
