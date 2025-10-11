@@ -143,33 +143,33 @@ export const product = [
   },
 
   {
-    id: 1,
-    name: "Laptop X1 Carbon",
-    price: 1000,
+    id: 5,
+    name: "home X1 Carbon",
+    price: 50,
     imageUrl:
       "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
     description: "Ultra-lightweight and powerful business laptop.",
   },
   {
-    id: 2,
-    name: "Wireless Headphones",
-    price: 2000,
+    id: 6,
+    name: "computer Headphones",
+    price: 200,
     imageUrl:
       "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
     description: "Noise-cancelling with crystal-clear audio.",
   },
   {
-    id: 3,
-    name: "4K Monitor",
-    price: 3000,
+    id: 7,
+    name: "mirror Monitor",
+    price: 500,
     imageUrl:
       "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
     description: "Vibrant colors and high resolution for professional use.",
   },
   {
-    id: 4,
-    name: "Mechanical Keyboard",
-    price: 4000,
+    id: 8,
+    name: "napkin Keyboard",
+    price: 100,
     imageUrl:
       "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
     description: "Tactile keys with customizable RGB lighting.",
