@@ -37,8 +37,8 @@ function App() {
           </Routes>
         </div>
       </div>
-      <NavBar />
       <Layout />
+      <NavBar />
     </Router>
   );
 }
