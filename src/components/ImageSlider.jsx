@@ -34,7 +34,7 @@ const images = [
   image13,
   image14,
 ];
-const intervalTime = 3000; // 5000 milliseconds = 5 seconds
+const intervalTime = 2000; // 5000 milliseconds = 5 seconds
 
 const ImageSlider = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
