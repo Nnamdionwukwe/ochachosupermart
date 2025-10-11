@@ -14,6 +14,7 @@ import Layout from "./components/Layout";
 import Contact from "./components/Contact";
 import About from "./components/About";
 import LayoutNav from "./components/LayoutNav";
+import NavBar from "./components/Navbar";
 
 function App() {
   return (
@@ -37,7 +38,7 @@ function App() {
           </Routes>
         </div>
       </div>
-      <LayoutNav />
+      <NavBar />
       <Layout />
     </Router>
   );
