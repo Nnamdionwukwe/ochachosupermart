@@ -13,6 +13,7 @@ import Checkout from "./components/Checkout";
 import Layout from "./components/Layout";
 import Contact from "./components/Contact";
 import About from "./components/About";
+import LayoutNav from "./components/LayoutNav";
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
       <div className="App">
         <div className="content">
           <Routes>
-            {/* <Route path="/" element={<Layout />} /> */}
+            {/* <Route path="/" element={<LayoutNav />} /> */}
             <Route index element={<HomePage />} />
             <Route path="/products" element={<ProductsPage />} />
             {/* <Route path="/products/:id" element={<ProductPage />} /> */}
@@ -36,6 +37,7 @@ function App() {
           </Routes>
         </div>
       </div>
+      <LayoutNav />
       <Layout />
     </Router>
   );
