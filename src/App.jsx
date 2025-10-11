@@ -13,8 +13,7 @@ import Checkout from "./components/Checkout";
 import Layout from "./components/Layout";
 import Contact from "./components/Contact";
 import About from "./components/About";
-import LayoutNav from "./components/LayoutNav";
-import NavBar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 
 function App() {
   return (
