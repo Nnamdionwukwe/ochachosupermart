@@ -1,11 +1,9 @@
-import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
 import HomePage from "./components/HomePage";
 import ProductsPage from "./components/ProductsPage";
 import ElectronicsPage from "./components/ElectronicsPage";
 import ApparelPage from "./components/ApparelPage";
-
 import DefaultPage from "./components/DefaultPage";
 import Cart from "./components/Cart";
 import ProductDetail from "./components/ProductDetail";
