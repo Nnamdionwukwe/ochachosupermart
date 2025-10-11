@@ -9,8 +9,29 @@ import image3 from "../assets/dis3.jpeg";
 import image4 from "../assets/dis4.jpeg";
 import image5 from "../assets/dis5.jpeg";
 import image6 from "../assets/dis6.jpeg";
+import image7 from "../assets/dis7.jpeg";
+import image8 from "../assets/dis8.jpeg";
+import image9 from "../assets/dis9.jpeg";
+import image10 from "../assets/dis10.jpeg";
+import image11 from "../assets/dis11.jpeg";
+import image13 from "../assets/dis13.jpeg";
+import image14 from "../assets/dis14.jpeg";
 
-const images = [image1, image2, image3, image4, image5, image6];
+const images = [
+  image1,
+  image2,
+  image3,
+  image4,
+  image5,
+  image6,
+  image7,
+  image8,
+  image9,
+  image10,
+  image11,
+  image13,
+  image14,
+];
 const intervalTime = 3000; // 5000 milliseconds = 5 seconds
 
 const ImageSlider = () => {
