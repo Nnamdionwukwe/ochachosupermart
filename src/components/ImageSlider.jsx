@@ -11,7 +11,7 @@ import image5 from "../assets/img5.jpeg";
 import image6 from "../assets/img6.jpeg";
 
 const images = [image1, image2, image3, image4, image5, image6];
-const intervalTime = 5000; // 5000 milliseconds = 5 seconds
+const intervalTime = 2000; // 5000 milliseconds = 5 seconds
 
 const ImageSlider = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
