@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import "./Header.css";
+import NavBar from "./NavBar";
 
 const logo = "./ochacho.svg";
 
@@ -18,13 +19,13 @@ const Header = () => {
           <input type="text" placeholder="Search..." />
         </div>
 
-        <div className="user-profile">
-          <i class="bi bi-person"></i>
-        </div>
-
         <Link to="/cart" className="cart">
           <i class="bi bi-cart-plus"></i>
         </Link>
+      </div>
+
+      <div className="user-profile1">
+        <NavBar />
       </div>
     </header>
   );

@@ -5,6 +5,7 @@ import "./NavBar.css";
 
 const NavBar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(false);
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
@@ -16,8 +17,7 @@ const NavBar = () => {
 
   return (
     <nav className="navbar">
-      <div className="navbar-container">
-        {/* <NavLink to="/" onClick={closeMenu}>
+      {/* <NavLink to="/" onClick={closeMenu}>
           <img
             className="navbar-logo"
             src="/ochacho.svg"
@@ -25,34 +25,36 @@ const NavBar = () => {
           />
         </NavLink> */}
 
-        {/* Mobile menu toggle button */}
-        <div className="menu-icon" onClick={toggleMenu}>
-          {isMenuOpen ? <FaTimes /> : <FaBars />}
-        </div>
-
+      {/* Mobile menu toggle button */}
+      <div className="menu-icon" onClick={toggleMenu}>
+        {isMenuOpen ? <FaTimes /> : <FaBars />}
+      </div>
+      <div className="navbar-container">
         {/* Navigation links */}
-        <ul className={isMenuOpen ? "nav-menu active" : "nav-menu"}>
-          <li className="nav-item">
-            <NavLink to="/" className="nav-links" onClick={closeMenu}>
-              Home
-            </NavLink>
-          </li>
-          <li className="nav-item">
-            <NavLink to="/products" className="nav-links" onClick={closeMenu}>
-              Products
-            </NavLink>
-          </li>
-          <li className="nav-item">
-            <NavLink to="/about" className="nav-links" onClick={closeMenu}>
-              About
-            </NavLink>
-          </li>
-          <li className="nav-item">
-            <NavLink to="/contact" className="nav-links" onClick={closeMenu}>
-              Contact
-            </NavLink>
-          </li>
-        </ul>
+        {isMenuOpen && (
+          <ul className={isMenuOpen ? "nav-menu active" : "nav-menu"}>
+            <li className="nav-item">
+              <NavLink to="/" className="nav-links" onClick={closeMenu}>
+                Home
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink to="/products" className="nav-links" onClick={closeMenu}>
+                Products
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink to="/about" className="nav-links" onClick={closeMenu}>
+                About
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink to="/contact" className="nav-links" onClick={closeMenu}>
+                Contact
+              </NavLink>
+            </li>
+          </ul>
+        )}
       </div>
     </nav>
   );
