@@ -22,10 +22,10 @@ const Header = () => {
         <Link to="/cart" className="cart">
           <i class="bi bi-cart-plus"></i>
         </Link>
-      </div>
 
-      <div className="user-profile1">
-        <NavBar />
+        <div className="user-profile1">
+          <NavBar />
+        </div>
       </div>
     </header>
   );
