@@ -8,6 +8,7 @@
 .whyhooseuscontainer {
   display: flex;
   align-items: center;
+  justify-content: left;
   max-width: 1200px;
   margin: 0 auto;
   gap: 40px;
@@ -50,12 +51,11 @@
 
 .benefititem {
   display: flex;
-  align-items: flex-start;
   margin-bottom: 20px;
 }
 
 .benefiticon {
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: #28a745;
   margin-right: 15px;
   line-height: 1;
@@ -80,11 +80,11 @@
   }
 
   .whychooseusimagewrapper {
-    order: 2; /* Place image after the content on mobile */
+    /* order: 2; Place image after the content on mobile */
   }
 
   .benefititem {
-    justify-content: center;
+    /* justify-content: center; */
   }
 
   .benefiticon {
