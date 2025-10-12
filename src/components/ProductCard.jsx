@@ -1,22 +1,13 @@
-import styles from "./ProductCard.module.css";
 import { useCart } from "../context/CartContext";
-import { Link, useParams } from "react-router-dom";
-import { useEffect } from "react";
+import styles from "./ProductCard.module.css";
+import { Link } from "react-router-dom";
 
 const ProductCard = ({ product }) => {
   const { addToCart } = useCart();
 
-  // // ... inside ProductPage.jsx
-  // const ProductPage = () => {
-  //   const { id } = useParams(); // Get the ID from the URL
-  //   // Use the 'id' to fetch the correct product from an API or local data
-
-  //   useEffect(() => {
-  //     // Fetch product logic based on `id`
-  //   }, [id]);
-
-  //   // ... rest of the component
-  // };
+  const handleAddToCart = () => {
+    addToCart(product);
+  };
 
   return (
     <div className={styles.productCard}>
@@ -32,10 +23,7 @@ const ProductCard = ({ product }) => {
         <p className={styles.productPrice}>#{product.price}</p>
         {/* <p className="product-description">{product.description}</p> */}
         {/* <i class="bi bi-cart-plus"></i> */}
-        <button
-          onClick={() => addToCart(product)}
-          className={styles.addToCartButton}
-        >
+        <button onClick={handleAddToCart} className={styles.addToCartButton}>
           Add to Cart
         </button>
       </div>

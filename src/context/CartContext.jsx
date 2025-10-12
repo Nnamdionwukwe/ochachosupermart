@@ -32,6 +32,8 @@ export const CartProvider = ({ children }) => {
     }
   }, [cartItems]); // Dependency array ensures this runs whenever the cart state changes
 
+  const [lastAddedItem, setLastAddedItem] = useState(null);
+
   const addToCart = (product) => {
     // Check if the product already exists in the cart
     const existingItem = cartItems.find((item) => item.id === product.id);
@@ -49,6 +51,9 @@ export const CartProvider = ({ children }) => {
       // If it doesn't exist, add it as a new item with a quantity of 1
       setCartItems([...cartItems, { ...product, quantity: 1 }]);
     }
+
+    // Set the last added item to trigger the effect
+    setLastAddedItem(product);
   };
 
   // (Optional) Add logic for removing items
@@ -74,6 +79,7 @@ export const CartProvider = ({ children }) => {
     addToCart,
     removeFromCart,
     updateQuantity,
+    lastAddedItem,
   };
 
   return <CartContext.Provider value={value}>{children}</CartContext.Provider>;
