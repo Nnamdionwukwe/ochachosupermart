@@ -27,9 +27,10 @@
 }
 
 .ProductName {
-  font-size: 16px;
+  font-size: 13px;
   font-weight: bold;
   margin-bottom: 8px;
+  color: rgb(66, 65, 65);
 }
 
 .priceContainer {
@@ -37,13 +38,13 @@
   align-items: center;
 }
 .nairaIcon {
-  width: 14px;
-  height: 16px;
-  margin-bottom: 9px;
+  width: 12px;
+  height: 14px;
+  margin-bottom: 11px;
 }
 
 .productPrice {
-  font-size: 14px;
+  font-size: 13px;
   color: #1e1d1d;
   margin-bottom: 8px;
   font-weight: bold;
