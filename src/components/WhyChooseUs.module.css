@@ -2,6 +2,7 @@
   padding: 60px 20px;
   background-color: #f8f9fa;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  font-weight: bold;
 }
 
 .whyhooseuscontainer {
@@ -35,6 +36,12 @@
   color: #333;
   margin-bottom: 25px;
 }
+.whychooseustitle1 {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 25px;
+}
 
 .whychooseusbenefits {
   list-style: none;
@@ -56,9 +63,9 @@
 
 .benefititem p {
   margin: 0;
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #555;
-  line-height: 1.6;
+  /* line-height: 1.6; */
 }
 
 /* Responsive adjustments */

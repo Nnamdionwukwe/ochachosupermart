@@ -7,7 +7,7 @@ const WhyChooseUs = ({ image, title, benefits }) => {
         <h3 className={styles.whychooseustitle}>{title}</h3>
 
         <h6 className={styles.whychooseustitle1}>
-          Discover why we are your ultimate frsh food and grocery destination
+          Discover why we are your ultimate fresh food and grocery destination
         </h6>
 
         <div className={styles.whychooseusimagewrapper}>
