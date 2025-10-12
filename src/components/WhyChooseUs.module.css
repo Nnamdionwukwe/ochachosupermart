@@ -80,7 +80,7 @@
   margin: 0;
   font-size: 0.9rem;
   color: #555;
-  max-width: 400px;
+  max-width: 100%;
   /* line-height: 1.6; */
 }
 
@@ -101,7 +101,16 @@
   }
 
   .benefititem {
-    /* justify-content: center; */
+    display: flex;
+    align-items: center;
+    /* justify-content: left; */
+    width: 100%;
+    /* gap: 10px; */
+  }
+
+  .benefititem p {
+    max-width: 400px;
+    justify-content: left;
   }
 
   .benefiticon {
