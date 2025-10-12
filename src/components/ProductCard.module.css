@@ -47,7 +47,7 @@
 
 .buttonContainer {
   padding: 10px;
-  background-color: rgb(236, 235, 235);
+  background-color: #f0f0f0;
   color: white;
   border: none;
   border-radius: 20px;
@@ -72,5 +72,5 @@
 
 .buttonContainer:hover,
 .addToCartButton:hover {
-  background-color: rgb(210, 207, 207);
+  background-color: rgb(236, 235, 235);
 }
