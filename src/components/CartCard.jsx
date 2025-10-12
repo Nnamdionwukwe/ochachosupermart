@@ -1,6 +1,6 @@
 import styles from "./CartCard.module.css";
 
-const nairaIconUrl = "/naira.jpeg";
+const nairaIconUrl = "/naira.png";
 
 function CartCard({ item, removeFromCart, updateQuantity }) {
   return (

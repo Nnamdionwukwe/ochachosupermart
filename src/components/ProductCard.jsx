@@ -2,7 +2,7 @@ import { useCart } from "../context/CartContext";
 import styles from "./ProductCard.module.css";
 import { Link } from "react-router-dom";
 
-const nairaIconUrl = "/naira.jpeg";
+const nairaIconUrl = "/naira.png";
 
 const ProductCard = ({ product }) => {
   const { addToCart } = useCart();

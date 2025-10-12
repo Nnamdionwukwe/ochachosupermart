@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useCart } from "../context/CartContext";
 import styles from "./Checkout.module.css";
 
-const nairaIconUrl = "/naira.jpeg";
+const nairaIconUrl = "/naira.png";
 
 const Checkout = ({ onCheckout }) => {
   const { cartItems } = useCart();

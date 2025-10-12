@@ -3,7 +3,7 @@ import { product } from "../data/products";
 import styles from "./ProductDetail.module.css";
 import { useCart } from "../context/CartContext";
 
-const nairaIconUrl = "/naira.jpeg";
+const nairaIconUrl = "/naira.png";
 
 function ProductDetail() {
   // const [products, setProducts] = useState(product);

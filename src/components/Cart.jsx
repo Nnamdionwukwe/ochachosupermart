@@ -4,7 +4,7 @@ import CartCard from "./CartCard";
 import styles from "./Cart.module.css";
 import { Link } from "react-router-dom";
 
-const nairaIconUrl = "/naira.jpeg";
+const nairaIconUrl = "/naira.png";
 
 const Cart = () => {
   const { cartItems, removeFromCart, updateQuantity } = useCart();
