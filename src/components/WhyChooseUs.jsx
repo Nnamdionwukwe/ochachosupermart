@@ -22,7 +22,7 @@ const WhyChooseUs = ({ image, title, benefits }) => {
           <ul className={styles.whychooseusbenefits}>
             {benefits.map((benefit, index) => (
               <>
-                <span className={styles.benefiticon}>✅</span>
+                {/* <span className={styles.benefiticon}>✅</span> */}
                 <li key={index} className={styles.benefititem}>
                   <p>{benefit}</p>
                 </li>
