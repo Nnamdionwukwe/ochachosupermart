@@ -68,7 +68,7 @@
 }
 
 .buttonContainer {
-  padding: 10px;
+  /* padding: 10px; */
   background-color: #f0f0f0;
   color: white;
   border: none;
@@ -77,7 +77,6 @@
   transition: background-color 0.2s;
   font-size: 12px;
   font-weight: bold;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .buttonContainer i {
@@ -86,14 +85,16 @@
 }
 
 .buttonContainer1 {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   width: 100%;
   padding: 18px;
   color: white;
   font-weight: bold;
   border: none;
-  border-radius: 5px;
+  border-radius: 40px;
   margin-top: -30px;
-  margin-bottom: -40px;
+  background-color: #f0f0f0;
+  /* margin-bottom: -30px; */
   cursor: pointer;
   text-transform: uppercase;
   transition: background-color 0.3s ease;
@@ -108,6 +109,7 @@
   font-weight: bold;
 }
 
+.buttonContainer1:hover,
 .buttonContainer:hover,
 .addToCartButton:hover {
   background-color: rgb(236, 235, 235);
