@@ -56,6 +56,9 @@
 }
 
 .benefiticon {
+  display: flex;
+  align-items: center;
+  justify-content: left;
   font-size: 1rem;
   color: #28a745;
   margin-right: 15px;
@@ -64,7 +67,7 @@
 
 .benefititem p {
   margin: 0;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   color: #555;
   /* line-height: 1.6; */
 }
