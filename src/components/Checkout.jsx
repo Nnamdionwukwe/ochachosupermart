@@ -165,7 +165,15 @@ const Checkout = ({ onCheckout }) => {
                   {item.name} x {item.quantity}
                 </p>
 
-                <p>${(item.price * item.quantity).toFixed(2)}</p>
+                <div className={styles.totalAmountContainer}>
+                  <img
+                    src={nairaIconUrl}
+                    alt="Naira Symbol"
+                    className={styles.nairaIcon1}
+                  />
+
+                  <p>{(item.price * item.quantity).toFixed(2)}</p>
+                </div>
               </div>
             ))}
           </div>
