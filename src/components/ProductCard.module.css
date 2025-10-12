@@ -26,8 +26,14 @@
   flex-grow: 1;
 }
 
+.textContainer {
+  margin: auto;
+}
+
 .ProductName {
-  font-size: 13px;
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
   font-weight: bold;
   margin-bottom: 8px;
   color: rgb(66, 65, 65);
@@ -35,6 +41,7 @@
 
 .priceContainer {
   display: flex;
+  justify-content: center;
   align-items: center;
 }
 .nairaIcon {

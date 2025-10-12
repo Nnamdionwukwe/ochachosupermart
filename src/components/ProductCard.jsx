@@ -21,16 +21,19 @@ const ProductCard = ({ product }) => {
         />
       </Link>
       <div className={styles.productInfo}>
-        <h3 className={styles.ProductName}>{product.name}</h3>
+        <div className={styles.textContainer}>
+          <h3 className={styles.ProductName}>{product.name}</h3>
 
-        <div className={styles.priceContainer}>
-          <img
-            src={nairaIconUrl}
-            alt="Naira Symbol"
-            className={styles.nairaIcon}
-          />
-          <p className={styles.productPrice}>{product.price.toFixed(2)}</p>
+          <div className={styles.priceContainer}>
+            <img
+              src={nairaIconUrl}
+              alt="Naira Symbol"
+              className={styles.nairaIcon}
+            />
+            <p className={styles.productPrice}>{product.price.toFixed(2)}</p>
+          </div>
         </div>
+
         {/* <p className="product-description">{product.description}</p> */}
         {/* <i class="bi bi-cart-plus"></i> */}
         <div className={styles.buttonContainer}>
