@@ -1,6 +1,6 @@
-// CartItem.jsx
-import React from "react";
 import styles from "./CartCard.module.css";
+
+const nairaIconUrl = "/naira.jpeg";
 
 function CartCard({ item, removeFromCart, updateQuantity }) {
   return (
@@ -10,7 +10,16 @@ function CartCard({ item, removeFromCart, updateQuantity }) {
       </div>
       <div className={styles.productDetails}>
         <h3 className={styles.productTitle}>{item.name}</h3>
-        <p className={styles.productPrice}>#{item.price}</p>
+
+        <div className={styles.priceContainer}>
+          <img
+            src={nairaIconUrl}
+            alt="Naira Symbol"
+            className={styles.nairaIcon}
+          />
+          <p className={styles.productprice}>{item.price.toFixed(2)}</p>
+        </div>
+        {/* <p className={styles.productPrice}>#{item.price}</p> */}
       </div>
       <div className={styles.quantityControls}>
         <button
