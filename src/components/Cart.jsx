@@ -24,7 +24,12 @@ const Cart = () => {
       <div className={styles.cartContainer}>
         <h2>Shopping Cart</h2>
         {cartItems.length === 0 ? (
-          <p className={styles.emptyMessage}>Your cart is empty.</p>
+          <div className={styles.emptyCart}>
+            <p className={styles.emptyMessage}>Your cart is empty.</p>
+            <Link to="/products">
+              <button className={styles.checkoutBtn2}>Add to Cart</button>
+            </Link>
+          </div>
         ) : (
           <div className={styles.cartContent}>
             <div className={styles.cartItemList}>
@@ -51,6 +56,7 @@ const Cart = () => {
                   <span className={styles.totalAmount}>{total}</span>
                 </div>
               </div>
+
               <Link to="/cart/checkout">
                 <button className={styles.checkoutBtn}>
                   Proceed to Checkout
@@ -60,6 +66,10 @@ const Cart = () => {
           </div>
         )}
       </div>
+
+      {/* {cartItems.length === 0 && (
+        
+      )} */}
     </>
   );
 };
