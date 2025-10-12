@@ -43,6 +43,17 @@
   gap: 20px;
 }
 
+.totalAmountContainer {
+  display: flex;
+  align-items: center;
+}
+
+.nairaIcon {
+  width: 16px;
+  height: 19px;
+  margin-bottom: 5px;
+}
+
 .cartItemList {
   flex: 3;
   display: flex;

@@ -4,6 +4,8 @@ import CartCard from "./CartCard";
 import styles from "./Cart.module.css";
 import { Link } from "react-router-dom";
 
+const nairaIconUrl = "/naira.jpeg";
+
 const Cart = () => {
   const { cartItems, removeFromCart, updateQuantity } = useCart();
 
@@ -39,7 +41,15 @@ const Cart = () => {
               <h3>Order Summary</h3>
               <div className={styles.cartTotal}>
                 <span>Total:</span>
-                <span className={styles.totalAmount}>#{total}</span>
+                <div className={styles.totalAmountContainer}>
+                  <img
+                    src={nairaIconUrl}
+                    alt="Naira Symbol"
+                    className={styles.nairaIcon}
+                  />
+
+                  <span className={styles.totalAmount}>{total}</span>
+                </div>
               </div>
               <Link to="/cart/checkout">
                 <button className={styles.checkoutBtn}>
