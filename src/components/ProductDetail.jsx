@@ -36,7 +36,9 @@ function ProductDetail() {
               alt="Naira Symbol"
               className={styles.nairaIcon}
             />
-            <p className={styles.productprice}>{initialProduct.price}</p>
+            <p className={styles.productprice}>
+              {initialProduct.price.toFixed(2)}
+            </p>
           </div>
 
           <p className={styles.productdescription}>
