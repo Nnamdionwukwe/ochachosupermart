@@ -68,7 +68,7 @@
 .benefititem {
   display: flex;
   align-items: center;
-  justify-content: left;
+  justify-content: center;
   width: 100%;
   /* gap: 10px; */
 }
@@ -76,7 +76,7 @@
 .benefititem p {
   display: flex;
   align-items: center;
-  justify-content: left;
+  justify-content: center;
   margin: 0;
   font-size: 0.7rem;
   color: #555;
