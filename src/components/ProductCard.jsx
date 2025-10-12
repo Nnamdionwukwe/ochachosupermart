@@ -2,6 +2,8 @@ import { useCart } from "../context/CartContext";
 import styles from "./ProductCard.module.css";
 import { Link } from "react-router-dom";
 
+const nairaIconUrl = "/naira.jpeg";
+
 const ProductCard = ({ product }) => {
   const { addToCart } = useCart();
 
@@ -20,7 +22,14 @@ const ProductCard = ({ product }) => {
       </Link>
       <div className={styles.productInfo}>
         <h3 className={styles.ProductName}>{product.name}</h3>
-        <p className={styles.productPrice}>#{product.price}</p>
+        <div className={styles.priceContainer}>
+          <img
+            src={nairaIconUrl}
+            alt="Naira Symbol"
+            className={styles.nairaIcon}
+          />
+          <p className={styles.productPrice}>${product.price.toFixed(2)}</p>
+        </div>
         {/* <p className="product-description">{product.description}</p> */}
         {/* <i class="bi bi-cart-plus"></i> */}
         <div className={styles.buttonContainer}>

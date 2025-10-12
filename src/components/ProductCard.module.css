@@ -32,9 +32,19 @@
   margin-bottom: 8px;
 }
 
+.priceContainer {
+  display: flex;
+  align-items: center;
+}
+.nairaIcon {
+  width: 14px;
+  height: 16px;
+  margin-bottom: 9px;
+}
+
 .productPrice {
-  font-size: 1rem;
-  color: #666;
+  font-size: 14px;
+  color: #1e1d1d;
   margin-bottom: 8px;
 }
 
