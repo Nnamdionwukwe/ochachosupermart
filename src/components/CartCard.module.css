@@ -42,9 +42,10 @@
   align-items: center;
 }
 .nairaIcon {
-  width: 16px;
-  height: 18px;
+  width: 14px;
+  height: 15.5px;
   margin-bottom: 11px;
+  margin-left: -5rem;
 }
 
 .productprice {
