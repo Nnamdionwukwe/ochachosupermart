@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import { useCart } from "../contexts/CartContext";
 import "./Notification.css";
 import { useCart } from "./CartContext";
 

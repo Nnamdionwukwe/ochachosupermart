@@ -23,9 +23,12 @@ const ProductCard = ({ product }) => {
         <p className={styles.productPrice}>#{product.price}</p>
         {/* <p className="product-description">{product.description}</p> */}
         {/* <i class="bi bi-cart-plus"></i> */}
-        <button onClick={handleAddToCart} className={styles.addToCartButton}>
-          Add to Cart
-        </button>
+        <div className={styles.buttonContainer}>
+          <i class="bi bi-cart-plus"></i>
+          <button onClick={handleAddToCart} className={styles.addToCartButton}>
+            Add to Cart
+          </button>
+        </div>
       </div>
     </div>
   );

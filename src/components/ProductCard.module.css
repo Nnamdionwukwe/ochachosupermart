@@ -45,18 +45,32 @@
   margin-bottom: 16px;
 }
 
-.addToCartButton {
+.buttonContainer {
   padding: 10px;
-  background-color: #007bff;
+  background-color: rgb(236, 235, 235);
   color: white;
   border: none;
-  border-radius: 4px;
+  border-radius: 20px;
   cursor: pointer;
   transition: background-color 0.2s;
-  font-size: 13px;
+  font-size: 11px;
   font-weight: bold;
 }
 
+.buttonContainer i {
+  color: rgb(66, 65, 65);
+  font-size: 13px;
+}
+
+.addToCartButton {
+  border: none;
+  background-color: rgb(236, 235, 235);
+  color: rgb(66, 65, 65);
+  outline: none;
+  font-weight: bold;
+}
+
+.buttonContainer:hover,
 .addToCartButton:hover {
   background-color: #0056b3;
 }
