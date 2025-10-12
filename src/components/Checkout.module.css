@@ -145,6 +145,10 @@
   background-color: #218838;
 }
 
+.totalAmountContainer p {
+  color: black;
+}
+
 .totalAmountContainer {
   display: flex;
   align-items: center;
