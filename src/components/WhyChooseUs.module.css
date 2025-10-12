@@ -65,6 +65,13 @@
   line-height: 1;
 }
 
+.benefititem {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  /* gap: 10px; */
+}
+
 .benefititem p {
   display: flex;
   align-items: center;
