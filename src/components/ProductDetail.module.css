@@ -27,6 +27,7 @@
 .productdetails {
   flex: 1 1 45%;
   max-width: 45%;
+  margin-top: -10px;
 }
 
 .producttitle {
