@@ -18,7 +18,9 @@ function ProductDetail() {
 
   return (
     <>
-      <button>&larr;</button>
+      <Link to="/products">
+        <button className={styles.backBtn}>&larr;</button>
+      </Link>
 
       <div className={styles.productpage}>
         <div className={styles.mainimage}>
