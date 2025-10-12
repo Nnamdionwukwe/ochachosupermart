@@ -44,15 +44,13 @@ function ProductDetail() {
           </p>
         </div>
 
-        <div className={styles.buttonContainer1}>
+        <div
+          onClick={() => addToCart(initialProduct)}
+          className={styles.buttonContainer1}
+        >
           <div className={styles.buttonContainer}>
             <i class="bi bi-cart-plus"></i>
-            <button
-              onClick={() => addToCart(initialProduct)}
-              className={styles.addToCartButton}
-            >
-              Add to Cart
-            </button>
+            <button className={styles.addToCartButton}>Add to Cart</button>
           </div>
         </div>
       </div>
