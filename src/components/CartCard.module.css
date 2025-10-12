@@ -38,14 +38,13 @@
 
 .priceContainer {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
 }
 .nairaIcon {
   width: 14px;
   height: 15.5px;
   margin-bottom: 11px;
-  margin-left: -5rem;
 }
 
 .productprice {
