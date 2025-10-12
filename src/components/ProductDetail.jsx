@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { product } from "../data/products";
 import styles from "./ProductDetail.module.css";
 import { useCart } from "../context/CartContext";
@@ -46,7 +46,8 @@ function ProductDetail() {
           </p>
         </div>
 
-        <div
+        <Link
+          to="/cart"
           onClick={() => addToCart(initialProduct)}
           className={styles.buttonContainer1}
         >
@@ -54,7 +55,7 @@ function ProductDetail() {
             <i class="bi bi-cart-plus"></i>
             <button className={styles.addToCartButton}>Add to Cart</button>
           </div>
-        </div>
+        </Link>
       </div>
     </>
   );
