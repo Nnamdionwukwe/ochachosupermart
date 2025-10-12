@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import { useCart } from "../context/CartContext";
 import styles from "./Checkout.module.css";
 
+const nairaIconUrl = "/naira.jpeg";
+
 const Checkout = ({ onCheckout }) => {
   const { cartItems } = useCart();
   // State to manage form inputs
@@ -162,13 +164,25 @@ const Checkout = ({ onCheckout }) => {
                 <p>
                   {item.name} x {item.quantity}
                 </p>
+
                 <p>${(item.price * item.quantity).toFixed(2)}</p>
               </div>
             ))}
           </div>
+
           <div className={styles.summarytotal}>
             <strong>Total:</strong>
-            <span>${calculateTotal()}</span>
+
+            <div className={styles.totalAmountContainer}>
+              <img
+                src={nairaIconUrl}
+                alt="Naira Symbol"
+                className={styles.nairaIcon}
+              />
+
+              <span className={styles.totalAmount}>{calculateTotal()}</span>
+            </div>
+            {/* <span>${calculateTotal()}</span> */}
           </div>
         </div>
       </div>

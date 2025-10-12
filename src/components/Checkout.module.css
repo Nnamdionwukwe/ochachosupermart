@@ -144,3 +144,14 @@
 .placeorderbtn:hover {
   background-color: #218838;
 }
+
+.totalAmountContainer {
+  display: flex;
+  align-items: center;
+}
+
+.nairaIcon {
+  width: 16px;
+  height: 19px;
+  margin-bottom: 3px;
+}
