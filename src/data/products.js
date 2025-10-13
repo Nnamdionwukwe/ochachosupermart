@@ -120,7 +120,7 @@ export const product = [
   {
     id: 2,
     name: "Wireless Headphones",
-    price: 2000,
+    price: 2000000,
     imageUrl:
       "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
     description: "Noise-cancelling with crystal-clear audio.",
