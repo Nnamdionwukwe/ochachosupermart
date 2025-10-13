@@ -1,0 +1,8 @@
+.categoryName {
+  display: flex;
+  justify-content: left;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 20px 20px;
+  text-align: center;
+}

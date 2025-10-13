@@ -6,6 +6,7 @@ import Layout from "./Layout";
 
 import WhyChooseUs from "./WhyChooseUs";
 import supermarketImage from "../assets/dis3.jpeg"; // Path to your image
+import CategoryName from "./CategoryName";
 
 const benefits = [
   "Fresh, organic produce delivered daily from local farms. ",
@@ -23,6 +24,8 @@ function HomePage() {
       <ImageSlider />
 
       <CategoryNavLinkSlider />
+
+      <CategoryName>Cosmetics</CategoryName>
 
       <ProductList />
 
