@@ -152,6 +152,10 @@ const Checkout = ({ onCheckout }) => {
                       required
                     />
                   </div>
+                  <p>
+                    The delivery fee will be communicated to you via the phone
+                    number you provided.
+                  </p>
                   {/* Other card details here... */}
                 </div>
               ) : (
