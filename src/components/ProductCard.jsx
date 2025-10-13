@@ -3,8 +3,6 @@ import { formatNGN } from "../utils/FormartCurrncyNG";
 import styles from "./ProductCard.module.css";
 import { Link } from "react-router-dom";
 
-// const nairaIconUrl = "/naira.png";
-
 const ProductCard = ({ product }) => {
   const { addToCart } = useCart();
 
@@ -26,11 +24,6 @@ const ProductCard = ({ product }) => {
           <h3 className={styles.ProductName}>{product.name}</h3>
 
           <div className={styles.priceContainer}>
-            {/* <img
-              src={nairaIconUrl}
-              alt="Naira Symbol"
-              className={styles.nairaIcon}
-            /> */}
             <p className={styles.productPrice}>{formatNGN(product.price)}</p>
           </div>
         </div>

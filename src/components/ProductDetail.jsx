@@ -4,8 +4,6 @@ import styles from "./ProductDetail.module.css";
 import { useCart } from "../context/CartContext";
 import { formatNGN } from "../utils/FormartCurrncyNG";
 
-// const nairaIconUrl = "/naira.png";
-
 function ProductDetail() {
   // const [products, setProducts] = useState(product);
   const { id } = useParams();
@@ -34,11 +32,6 @@ function ProductDetail() {
           <h2 className={styles.producttitle}>{initialProduct.name}</h2>
 
           <div className={styles.priceContainer}>
-            {/* <img
-              src={nairaIconUrl}
-              alt="Naira Symbol"
-              className={styles.nairaIcon}
-            /> */}
             <p className={styles.productprice}>
               {formatNGN(initialProduct.price)}
             </p>
