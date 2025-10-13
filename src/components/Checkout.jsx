@@ -40,9 +40,10 @@ const Checkout = ({ onCheckout }) => {
 
   const calculateTotal = () => {
     // Calculate the total price of all items in the cart
-    return cartItems
-      .reduce((total, item) => total + item.price * item.quantity, 0)
-      .toFixed(2);
+    return cartItems.reduce(
+      (total, item) => total + item.price * item.quantity,
+      0
+    );
   };
 
   return (
