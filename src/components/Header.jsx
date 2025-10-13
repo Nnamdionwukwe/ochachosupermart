@@ -2,8 +2,7 @@ import { Link } from "react-router-dom";
 import "./Header.css";
 import NavBar from "./NavBar";
 import { useCart } from "../context/CartContext";
-
-const logo = "./ochacho.svg";
+import logo from "../assets/ochacho.svg"; // Path to your image
 
 const Header = () => {
   const { cartItems } = useCart();
