@@ -1,4 +1,6 @@
 import { useCart } from "../context/CartContext";
+import { formatNGN } from "../utils/FormartCurrncyNG";
+import { formatCurrency } from "../utils/FormatCurrence";
 import styles from "./ProductCard.module.css";
 import { Link } from "react-router-dom";
 
@@ -25,12 +27,12 @@ const ProductCard = ({ product }) => {
           <h3 className={styles.ProductName}>{product.name}</h3>
 
           <div className={styles.priceContainer}>
-            <img
+            {/* <img
               src={nairaIconUrl}
               alt="Naira Symbol"
               className={styles.nairaIcon}
-            />
-            <p className={styles.productPrice}>{product.price.toFixed(2)}</p>
+            /> */}
+            <p className={styles.productPrice}>{formatNGN(product.price)}</p>
           </div>
         </div>
 
