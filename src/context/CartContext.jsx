@@ -1,4 +1,5 @@
-import React, { createContext, useState, useContext, useEffect } from "react";
+import { createContext, useState, useContext, useEffect } from "react";
+import Data from "../Data.json";
 
 // Create the context
 const CartContext = createContext();
@@ -10,7 +11,8 @@ export const useCart = () => {
 
 // Create a provider component to wrap your app
 export const CartProvider = ({ children }) => {
-  // const [cartItems, setCartItems] = useState([]);
+  const [cosmetic, setCosmetic] = useState(Data.cosmetics);
+  const [pharmacy, setPharmacy] = useState(Data.pharmacy);
 
   // Use a lazy state initializer to read from localStorage only once
   const [cartItems, setCartItems] = useState(() => {
@@ -80,6 +82,8 @@ export const CartProvider = ({ children }) => {
     removeFromCart,
     updateQuantity,
     lastAddedItem,
+    cosmetic,
+    pharmacy,
   };
 
   return <CartContext.Provider value={value}>{children}</CartContext.Provider>;

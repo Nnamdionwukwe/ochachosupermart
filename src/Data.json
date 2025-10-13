@@ -1,0 +1,115 @@
+{
+  "cosmetics": [
+    {
+      "id": 4,
+      "name": "Laptop X1 Carbon",
+      "price": 100000,
+      "imageUrl": "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
+      "description": "Ultra-lightweight and powerful business laptop."
+    },
+    {
+      "id": 5,
+      "name": "Smartphone Galaxy S21",
+      "price": 80000,
+      "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40056471_1-royal-toast-red-wine-non-alcoholic.jpg",
+      "description": "High-end smartphone with excellent camera features."
+    },
+    {
+      "id": 6,
+      "name": "Wireless Headphones",
+      "price": 20000,
+      "imageUrl": "https://m.media-amazon.com/images/I/716TPrttHmL.jpg",
+      "description": "Noise-cancelling over-ear headphones with long battery life."
+    },
+    {
+      "id": 7,
+      "name": "Laptop X1 Carbon",
+      "price": 100000,
+      "imageUrl": "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
+      "description": "Ultra-lightweight and powerful business laptop."
+    },
+
+    {
+      "id": 8,
+      "name": "Smartphone Galaxy S21",
+      "price": 80000,
+      "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40056471_1-royal-toast-red-wine-non-alcoholic.jpg",
+      "description": "High-end smartphone with excellent camera features."
+    },
+    {
+      "id": 9,
+      "name": "Wireless Headphones",
+      "price": 20000,
+      "imageUrl": "https://m.media-amazon.com/images/I/716TPrttHmL.jpg",
+      "description": "Noise-cancelling over-ear headphones with long battery life."
+    },
+    {
+      "id": 3,
+      "name": "KRISHAT BISACODYL",
+      "price": 100,
+      "imageUrl": "https://evolutionpharmacyng.com/wp-content/uploads/Tabs-Bisacodyl.jpg",
+      "description": "KRISHAT BISACODYL 5MG."
+    },
+
+    {
+      "id": 13,
+      "name": "EMZOR PAEDIATRIC",
+      "price": 200,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/11/29-Paediatric-zinc-sulphate-fa-View-01.png",
+      "description": "EMZOR PAEDIATRIC SULPHATE 20MGX 100."
+    },
+    {
+      "id": 14,
+      "name": "CLIMAX LOPERAMIDE",
+      "price": 150,
+      "imageUrl": "https://cpimg.tistatic.com/08818118/b/4/Loperamide-Hydrochloride-Tablets-IP-2-mg.jpg",
+      "description": ""
+    }
+  ],
+
+  "pharmacy": [
+    {
+      "id": 140,
+      "name": "EMZOR PAEDIATRIC",
+      "price": 200,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/11/29-Paediatric-zinc-sulphate-fa-View-01.png",
+      "description": "EMZOR PAEDIATRIC SULPHATE 20MGX 100."
+    },
+    {
+      "id": 2,
+      "name": "CLIMAX LOPERAMIDE",
+      "price": 150,
+      "imageUrl": "https://cpimg.tistatic.com/08818118/b/4/Loperamide-Hydrochloride-Tablets-IP-2-mg.jpg",
+      "description": ""
+    },
+    {
+      "id": 30,
+      "name": "KRISHAT BISACODYL",
+      "price": 100,
+      "imageUrl": "https://evolutionpharmacyng.com/wp-content/uploads/Tabs-Bisacodyl.jpg",
+      "description": "KRISHAT BISACODYL 5MG."
+    },
+
+    {
+      "id": 10,
+      "name": "EMZOR PAEDIATRIC",
+      "price": 200,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/11/29-Paediatric-zinc-sulphate-fa-View-01.png",
+      "description": "EMZOR PAEDIATRIC SULPHATE 20MGX 100."
+    },
+    {
+      "id": 11,
+      "name": "CLIMAX LOPERAMIDE",
+      "price": 150,
+      "imageUrl": "https://cpimg.tistatic.com/08818118/b/4/Loperamide-Hydrochloride-Tablets-IP-2-mg.jpg",
+      "description": ""
+    },
+    {
+      "id": 12,
+      "name": "KRISHAT BISACODYL",
+      "price": 100,
+      "imageUrl": "https://evolutionpharmacyng.com/wp-content/uploads/Tabs-Bisacodyl.jpg",
+      "description": "KRISHAT BISACODYL 5MG."
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 import express from "express";
 import { mockUsers } from "./users.js";
-import { products } from "./products.js";
+// import { product } from "./products.js";
+import product from "./data/product.json";
 
 const app = express();
 
@@ -13,7 +14,7 @@ app.get("/api/users", (request, response) => {
 });
 
 app.get("/api/products", (request, response) => {
-  response.send(products);
+  response.send(product);
 });
 
 const PORT = process.env.PORT || 3000;

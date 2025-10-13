@@ -1,19 +1,19 @@
 import { Link, useParams } from "react-router-dom";
-import { product } from "../data/products";
+// import { product } from "../data/products";
 import styles from "./ProductDetail.module.css";
 import { useCart } from "../context/CartContext";
 import { formatNGN } from "../utils/FormartCurrncyNG";
 
 function ProductDetail() {
+  const { addToCart, cosmetic } = useCart();
+
   // const [products, setProducts] = useState(product);
   const { id } = useParams();
-  const initialProduct = product.find((p) => p.id === parseInt(id));
+  const initialProduct = cosmetic.find((p) => p.id === parseInt(id));
 
   if (!initialProduct) {
     return <div>Product not found!</div>;
   }
-
-  const { addToCart } = useCart();
 
   return (
     <>
