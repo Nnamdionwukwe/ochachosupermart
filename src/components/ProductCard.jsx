@@ -1,10 +1,9 @@
 import { useCart } from "../context/CartContext";
 import { formatNGN } from "../utils/FormartCurrncyNG";
-import { formatCurrency } from "../utils/FormatCurrence";
 import styles from "./ProductCard.module.css";
 import { Link } from "react-router-dom";
 
-const nairaIconUrl = "/naira.png";
+// const nairaIconUrl = "/naira.png";
 
 const ProductCard = ({ product }) => {
   const { addToCart } = useCart();

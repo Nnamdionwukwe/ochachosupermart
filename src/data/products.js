@@ -112,7 +112,7 @@ export const product = [
   {
     id: 1,
     name: "Laptop X1 Carbon",
-    price: 1000,
+    price: 100000,
     imageUrl:
       "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
     description: "Ultra-lightweight and powerful business laptop.",
