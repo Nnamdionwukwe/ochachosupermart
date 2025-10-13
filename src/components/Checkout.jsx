@@ -4,8 +4,6 @@ import styles from "./Checkout.module.css";
 import { Link } from "react-router-dom";
 import { formatNGN } from "../utils/FormartCurrncyNG";
 
-const nairaIconUrl = "/naira.png";
-
 const Checkout = ({ onCheckout }) => {
   const { cartItems } = useCart();
   // State to manage form inputs
@@ -204,12 +202,6 @@ const Checkout = ({ onCheckout }) => {
               <strong>Total:</strong>
 
               <div className={styles.totalAmountContainer}>
-                {/* <img
-                  src={nairaIconUrl}
-                  alt="Naira Symbol"
-                  className={styles.nairaIcon}
-                /> */}
-
                 <span className={styles.totalAmount}>
                   {formatNGN(calculateTotal())}
                 </span>
