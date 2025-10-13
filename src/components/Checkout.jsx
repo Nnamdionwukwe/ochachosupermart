@@ -68,6 +68,7 @@ const Checkout = ({ onCheckout }) => {
                   required
                 />
               </div>
+              {/* Phone Number */}
               <div className={styles.formgroup}>
                 <label htmlFor="number">Phone Number</label>
                 <input
@@ -163,6 +164,7 @@ const Checkout = ({ onCheckout }) => {
                   <div className={styles.formgroup}>
                     <label>Bank Name: Access Bank</label>
                     <label>Account Number: 0123456789</label>
+                    <label>Account Name: Ochacho Pharmacy & Supermarket</label>
                   </div>
                   <p>
                     Please we have to confirm your Transfer before delivery.
@@ -170,7 +172,7 @@ const Checkout = ({ onCheckout }) => {
                     will be communicated to you via the phone number you
                     provided.
                   </p>
-                  {/* Other card details here... */}
+                  {/* Other bank details here... */}
                 </div>
               )}
               <button type="submit" className={styles.placeorderbtn}>
