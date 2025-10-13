@@ -3,8 +3,7 @@ import { useCart } from "../context/CartContext";
 import CartCard from "./CartCard";
 import styles from "./Cart.module.css";
 import { Link } from "react-router-dom";
-
-const nairaIconUrl = "/naira.png";
+import { formatNGN } from "../utils/FormartCurrncyNG";
 
 const Cart = () => {
   const { cartItems, removeFromCart, updateQuantity } = useCart();
@@ -47,13 +46,7 @@ const Cart = () => {
               <div className={styles.cartTotal}>
                 <span>Total:</span>
                 <div className={styles.totalAmountContainer}>
-                  <img
-                    src={nairaIconUrl}
-                    alt="Naira Symbol"
-                    className={styles.nairaIcon}
-                  />
-
-                  <span className={styles.totalAmount}>{total}</span>
+                  <span className={styles.totalAmount}>{formatNGN(total)}</span>
                 </div>
               </div>
 

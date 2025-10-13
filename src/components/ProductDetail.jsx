@@ -2,8 +2,9 @@ import { Link, useParams } from "react-router-dom";
 import { product } from "../data/products";
 import styles from "./ProductDetail.module.css";
 import { useCart } from "../context/CartContext";
+import { formatNGN } from "../utils/FormartCurrncyNG";
 
-const nairaIconUrl = "/naira.png";
+// const nairaIconUrl = "/naira.png";
 
 function ProductDetail() {
   // const [products, setProducts] = useState(product);
@@ -33,13 +34,13 @@ function ProductDetail() {
           <h2 className={styles.producttitle}>{initialProduct.name}</h2>
 
           <div className={styles.priceContainer}>
-            <img
+            {/* <img
               src={nairaIconUrl}
               alt="Naira Symbol"
               className={styles.nairaIcon}
-            />
+            /> */}
             <p className={styles.productprice}>
-              {initialProduct.price.toFixed(2)}
+              {formatNGN(initialProduct.price)}
             </p>
           </div>
 
