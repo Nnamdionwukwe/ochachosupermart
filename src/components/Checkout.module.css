@@ -100,6 +100,10 @@
   margin-bottom: 25px;
 }
 
+.paymentform p {
+  font-size: 13px;
+}
+
 .paymentoptions label {
   cursor: pointer;
   font-weight: normal;

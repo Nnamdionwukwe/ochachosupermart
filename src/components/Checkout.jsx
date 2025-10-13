@@ -10,7 +10,7 @@ const Checkout = ({ onCheckout }) => {
   // State to manage form inputs
   const [formData, setFormData] = useState({
     name: "",
-    email: "",
+    number: "",
     address: "",
     city: "",
     zip: "",
@@ -69,12 +69,12 @@ const Checkout = ({ onCheckout }) => {
                 />
               </div>
               <div className={styles.formgroup}>
-                <label htmlFor="email">Email Address</label>
+                <label htmlFor="number">Phone Number</label>
                 <input
-                  type="email"
-                  id="email"
-                  name="email"
-                  value={formData.email}
+                  type="text"
+                  id="number"
+                  name="number"
+                  value={formData.number}
                   onChange={handleInputChange}
                   required
                 />
@@ -134,15 +134,15 @@ const Checkout = ({ onCheckout }) => {
                   <input
                     type="radio"
                     name="payment"
-                    value="paypal"
-                    checked={paymentMethod === "paypal"}
-                    onChange={() => setPaymentMethod("paypal")}
+                    value="transfer"
+                    checked={paymentMethod === "transfer"}
+                    onChange={() => setPaymentMethod("transfer")}
                   />
-                  PayPal
+                  Bank Transfer
                 </label>
               </div>
               {/* You would integrate a payment gateway like Stripe or PayPal here */}
-              {paymentMethod === "card" && (
+              {paymentMethod === "card" ? (
                 <div className={styles.paymentform}>
                   <div className={styles.formgroup}>
                     <label>Card Number</label>
@@ -152,6 +152,20 @@ const Checkout = ({ onCheckout }) => {
                       required
                     />
                   </div>
+                  {/* Other card details here... */}
+                </div>
+              ) : (
+                <div className={styles.paymentform}>
+                  <div className={styles.formgroup}>
+                    <label>Bank Name: Access Bank</label>
+                    <label>Account Number: 0123456789</label>
+                  </div>
+                  <p>
+                    Please we have to confirm your Transfer before delivery.
+                    Thank you for your understanding. <br /> The delivery fee
+                    will be communicated to you via the phone number you
+                    provided.
+                  </p>
                   {/* Other card details here... */}
                 </div>
               )}
