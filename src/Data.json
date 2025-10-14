@@ -35,14 +35,73 @@
       "name": "VICRYL 2",
       "price": 1250,
       "imageUrl": "https://5.imimg.com/data5/ECOM/Default/2024/1/379286941/WB/HN/HM/132871955/1671540938-ethicon-vicryl-sutures-meddeygo-11zon-500x500.webp",
-      "description": "VICRYL 2."
+      "description": ""
     },
     {
       "id": 6,
       "name": "DRUG ENVELOPE",
-      "price": 1250,
+      "price": 350,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-LUGGkUFWbEv5w_40sshJSZka4xKllEd0Uw&s",
-      "description": "DRUG ENVELOPE."
+      "description": ""
+    },
+    {
+      "id": 7,
+      "name": "COMPLAN MILK ",
+      "price": 12600,
+      "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
+      "description": "NDAC WHITE 400G."
+    },
+    {
+      "id": 8,
+      "name": "KATARTIZO RAW ALMOND NUTS",
+      "price": 4650,
+      "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
+      "description": "SMALL SIZE"
+    },
+    {
+      "id": 9,
+      "name": "KATARTIZO RAW ALMOND NUTS",
+      "price": 4650,
+      "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
+      "description": "SMALL SIZE"
+    },
+    {
+      "id": 10,
+      "name": "KATARTIZO RAW ALMOND NUTS",
+      "price": 4650,
+      "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
+      "description": "SMALL SIZE"
+    },
+    {
+      "id": 11,
+      "name": "KATARTIZO RAW ALMOND NUTS",
+      "price": 4650,
+      "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
+      "description": "SMALL SIZE"
+    },
+    {
+      "id": 12,
+      "name": "KATARTIZO RAW ALMOND NUTS",
+      "price": 4650,
+      "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
+      "description": "SMALL SIZE"
+    }
+  ],
+
+  "toiletries": [
+    {
+      "id": 4,
+      "name": "MAGNETIC SANITARY PANTY LINERS",
+      "price": 3450,
+      "imageUrl": "https://m.media-amazon.com/images/I/51xt1DcaaOL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "name": "Smartphone Galaxy S21",
+      "price": 80000,
+      "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40056471_1-royal-toast-red-wine-non-alcoholic.jpg",
+      "description": "High-end smartphone with excellent camera features."
     }
   ],
 
