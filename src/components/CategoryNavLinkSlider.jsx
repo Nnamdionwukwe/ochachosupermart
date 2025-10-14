@@ -6,7 +6,7 @@ const categories = [
   { name: "All", path: "/products" },
   { name: "Phamarcy", path: "/products/phamarcy" },
   { name: "Apparel", path: "/products/apparel" },
-  { name: "Home", path: "/products/home" },
+  { name: "Men's Wear", path: "/products/MensWear" },
   { name: "Books", path: "/products/books" },
   { name: "Tools", path: "/products/tools" },
   { name: "Outdoor", path: "/products/outdoor" },

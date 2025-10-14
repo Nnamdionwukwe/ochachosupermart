@@ -1,9 +1,7 @@
-import React from "react";
 import ProductCard from "./ProductCard";
 // import { product } from "../data/products";
 import styles from "./ProductList.module.css";
 import { useCart } from "../context/CartContext";
-import PharmacyCard from "./PharmacyCard";
 
 const PharmacyList = () => {
   const { pharmacy } = useCart();
@@ -11,7 +9,7 @@ const PharmacyList = () => {
   return (
     <div className={styles.productgrid}>
       {pharmacy.map((product) => (
-        <PharmacyCard key={product.id} product={product} />
+        <ProductCard key={product.id} product={product} />
       ))}
     </div>
   );

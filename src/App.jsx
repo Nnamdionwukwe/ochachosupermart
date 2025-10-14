@@ -5,11 +5,13 @@ import ProductsPage from "./components/ProductsPage";
 import ApparelPage from "./components/ApparelPage";
 import DefaultPage from "./components/DefaultPage";
 import Cart from "./components/Cart";
-import ProductDetail from "./components/ProductDetail";
+// import ProductDetail from "./components/ProductDetail";
 import Checkout from "./components/Checkout";
 import Contact from "./components/Contact";
 import About from "./components/About";
 import PharmacyPage from "./components/PharmacyPage";
+import ProductMainDetails from "./components/ProductMainDetails";
+import MensWearPage from "./components/MensWearPage";
 
 function App() {
   return (
@@ -21,9 +23,9 @@ function App() {
             <Route index element={<HomePage />} />
             <Route path="/products" element={<ProductsPage />} />
             <Route path="/products/phamarcy" element={<PharmacyPage />} />
-            <Route path="/products/:id" element={<ProductDetail />} />
-            {/* <Route path="/products/electronics" element={<ElectronicsPage />} /> */}
+            <Route path="/products/:id" element={<ProductMainDetails />} />
             <Route path="/products/apparel" element={<ApparelPage />} />
+            <Route path="/products/MensWear" element={<MensWearPage />} />
             <Route path="/cart" element={<Cart />} />
             <Route path="/cart/checkout" element={<Checkout />} />
             <Route path="/About" element={<About />} />

@@ -1,17 +1,12 @@
-import { Link, useParams } from "react-router-dom";
-// import { product } from "../data/products";
+import { Link } from "react-router-dom";
 import styles from "./ProductDetail.module.css";
 import { useCart } from "../context/CartContext";
 import { formatNGN } from "../utils/FormartCurrncyNG";
 
 function ProductDetail() {
-  const { addToCart, cosmetic } = useCart();
+  const { addToCart, selectedID } = useCart();
 
-  // const [products, setProducts] = useState(product);
-  const { id } = useParams();
-  const initialProduct = cosmetic.find((p) => p.id === parseInt(id));
-
-  if (!initialProduct) {
+  if (!selectedID) {
     return <div>Product not found!</div>;
   }
 
@@ -24,27 +19,23 @@ function ProductDetail() {
       <div className={styles.productpage}>
         <div className={styles.mainimage}>
           <div className={styles.thumbnailcontainer}>
-            <img src={initialProduct.imageUrl} />
+            <img src={selectedID.imageUrl} />
           </div>
         </div>
 
         <div className={styles.productdetails}>
-          <h2 className={styles.producttitle}>{initialProduct.name}</h2>
+          <h2 className={styles.producttitle}>{selectedID.name}</h2>
 
           <div className={styles.priceContainer}>
-            <p className={styles.productprice}>
-              {formatNGN(initialProduct.price)}
-            </p>
+            <p className={styles.productprice}>{formatNGN(selectedID.price)}</p>
           </div>
 
-          <p className={styles.productdescription}>
-            {initialProduct.description}
-          </p>
+          <p className={styles.productdescription}>{selectedID.description}</p>
         </div>
 
         <Link
           to="/cart"
-          onClick={() => addToCart(initialProduct)}
+          onClick={() => addToCart(selectedID)}
           className={styles.buttonContainer1}
         >
           <div className={styles.buttonContainer}>

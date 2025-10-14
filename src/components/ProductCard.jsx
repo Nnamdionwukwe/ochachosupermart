@@ -4,7 +4,7 @@ import styles from "./ProductCard.module.css";
 import { Link } from "react-router-dom";
 
 const ProductCard = ({ product }) => {
-  const { addToCart } = useCart();
+  const { addToCart, setSelectedID } = useCart();
 
   const handleAddToCart = () => {
     addToCart(product);
@@ -14,6 +14,7 @@ const ProductCard = ({ product }) => {
     <div className={styles.productCard}>
       <Link to={`/products/${product.id}`}>
         <img
+          onClick={() => setSelectedID(product)}
           src={product.imageUrl}
           alt={product.name}
           className={styles.productImage}

@@ -13,6 +13,41 @@ export const useCart = () => {
 export const CartProvider = ({ children }) => {
   const [cosmetic, setCosmetic] = useState(Data.cosmetics);
   const [pharmacy, setPharmacy] = useState(Data.pharmacy);
+  const [selectedID, setSelectedID] = useState({});
+
+  // const [loading, setLoading] = useState(true);
+
+  // In a real app, this would be an API call
+  // useEffect(() => {
+  //   const fetchProducts = async () => {
+  //     // Mock API data
+  //     const mockProducts = [
+  //       {
+  //         id: 1,
+  //         name: "Laptop",
+  //         description: "A powerful and fast laptop.",
+  //         price: 1200,
+  //       },
+  //       {
+  //         id: 2,
+  //         name: "Smartphone",
+  //         description: "The latest model with an amazing camera.",
+  //         price: 800,
+  //       },
+  //       {
+  //         id: 3,
+  //         name: "Headphones",
+  //         description: "Noise-cancelling, over-ear headphones.",
+  //         price: 150,
+  //       },
+  //     ];
+
+  //     setProducts(mockProducts);
+  //     setLoading(false);
+  //   };
+
+  //   fetchProducts();
+  // }, []);
 
   // Use a lazy state initializer to read from localStorage only once
   const [cartItems, setCartItems] = useState(() => {
@@ -84,6 +119,8 @@ export const CartProvider = ({ children }) => {
     lastAddedItem,
     cosmetic,
     pharmacy,
+    selectedID,
+    setSelectedID,
   };
 
   return <CartContext.Provider value={value}>{children}</CartContext.Provider>;

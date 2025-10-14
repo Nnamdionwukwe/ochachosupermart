@@ -4,3 +4,10 @@
   gap: 24px;
   padding: 24px;
 }
+
+.productinfosection {
+  font-family: "Arial", sans-serif;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
