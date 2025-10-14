@@ -2,10 +2,10 @@
   "pharmacy": [
     {
       "id": 1,
-      "name": "EMZOR PAEDIATRIC",
+      "name": "EMZOR PAEDIATRIC SULPHATE",
       "price": 200,
       "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/11/29-Paediatric-zinc-sulphate-fa-View-01.png",
-      "description": "EMZOR PAEDIATRIC SULPHATE 20MGX 100."
+      "description": "20MGX 100."
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
       "name": "KRISHAT BISACODYL",
       "price": 100,
       "imageUrl": "https://evolutionpharmacyng.com/wp-content/uploads/Tabs-Bisacodyl.jpg",
-      "description": "KRISHAT BISACODYL 5MG."
+      "description": "5MG."
     },
 
     {
@@ -55,53 +55,88 @@
       "id": 8,
       "name": "KATARTIZO RAW ALMOND NUTS",
       "price": 4650,
-      "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL382siRUgsTYZUnJKBZQTDuPELRPKelZ_Ug&s",
       "description": "SMALL SIZE"
     },
     {
       "id": 9,
-      "name": "KATARTIZO RAW ALMOND NUTS",
-      "price": 4650,
-      "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
-      "description": "SMALL SIZE"
+      "name": "ALMOND POWDER MILK",
+      "price": 8150,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxapQ7Yu8A1fLMvq3BJrcFAWBlZnyyAIGtnw&ss",
+      "description": "S"
     },
     {
       "id": 10,
-      "name": "KATARTIZO RAW ALMOND NUTS",
-      "price": 4650,
-      "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
-      "description": "SMALL SIZE"
+      "name": "COARTEM DISPENSABLE",
+      "price": 2350,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Coartem_20_28Artemether-Lumefantrine_29_2080mg-480mg_20Tabs_20x6_d5ef76f4-9c10-48b4-9e9c-5e96ca031062.webp?v=1756312941",
+      "description": ""
     },
     {
       "id": 11,
-      "name": "KATARTIZO RAW ALMOND NUTS",
-      "price": 4650,
-      "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
-      "description": "SMALL SIZE"
+      "name": "AVICEF CEFTRIAXZONE INJECTION ",
+      "price": 2700,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIJil1y6ScljpCFUp6hmTyr_yvoGbnQwKvA&s",
+      "description": "1G"
     },
     {
       "id": 12,
-      "name": "KATARTIZO RAW ALMOND NUTS",
-      "price": 4650,
-      "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
-      "description": "SMALL SIZE"
+      "name": "VITAMIN C + ",
+      "price": 3800,
+      "imageUrl": "https://maydonpharma.com/wp-content/uploads/2024/10/CeCe-1000-2.jpg",
+      "description": "CALCIUM CECE 1000MG "
+    },
+    {
+      "id": 13,
+      "name": "RBCARE RABEPRAZOLE ",
+      "price": 1100,
+      "imageUrl": "https://mybigpharmacy.com/wp-content/uploads/2021/09/buy-RBCARE-20mg-Rabeprazole-20mg-Tablet-for-acid-reflux-in-nigeria-@mybigpharmacy.com_.jpeg-.jpg",
+      "description": "20MG TABLETS"
+    },
+    {
+      "id": 14,
+      "name": "EXURE RABEPRAZOLE",
+      "price": 2400,
+      "imageUrl": "https://admin.generaldrugcentre.com/images/product/4945.jpg",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "name": "I-ZINE EYE DROP",
+      "price": 1750,
+      "imageUrl": "https://ft-pharma.com/wp-content/uploads/2020/09/I-Zine-400x400.jpg",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "name": "KACHAM CAPLETS",
+      "price": 1350,
+      "imageUrl": "https://silverlinepharm.com/wp-content/uploads/2023/02/KACHAM-TABLET-removebg-preview.png.webp",
+      "description": ""
     }
   ],
 
   "toiletries": [
     {
-      "id": 4,
+      "id": 12,
+      "name": "DOVE PAMPERING SHEA BUTTER",
+      "price": 1300,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/08/dove-pampering-bar.webp",
+      "description": "90G"
+    },
+    {
+      "id": 13,
       "name": "MAGNETIC SANITARY PANTY LINERS",
       "price": 3450,
       "imageUrl": "https://m.media-amazon.com/images/I/51xt1DcaaOL._UF1000,1000_QL80_.jpg",
       "description": ""
     },
     {
-      "id": 5,
-      "name": "Smartphone Galaxy S21",
-      "price": 80000,
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40056471_1-royal-toast-red-wine-non-alcoholic.jpg",
-      "description": "High-end smartphone with excellent camera features."
+      "id": 14,
+      "name": "AVEENO LOTION",
+      "price": 2300,
+      "imageUrl": "https://m.media-amazon.com/images/I/41E5nL4kRyL._UF1000,1000_QL80_.jpg",
+      "description": "DAILY MOISTURIZING ."
     }
   ],
 
