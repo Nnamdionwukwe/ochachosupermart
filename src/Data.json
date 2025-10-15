@@ -118,21 +118,21 @@
 
   "toiletries": [
     {
-      "id": 12,
+      "id": 1200,
       "name": "DOVE PAMPERING SHEA BUTTER",
       "price": 1300,
       "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/08/dove-pampering-bar.webp",
       "description": "90G"
     },
     {
-      "id": 13,
+      "id": 1300,
       "name": "MAGNETIC SANITARY PANTY LINERS",
       "price": 3450,
       "imageUrl": "https://m.media-amazon.com/images/I/51xt1DcaaOL._UF1000,1000_QL80_.jpg",
       "description": ""
     },
     {
-      "id": 14,
+      "id": 1400,
       "name": "AVEENO LOTION",
       "price": 2300,
       "imageUrl": "https://m.media-amazon.com/images/I/41E5nL4kRyL._UF1000,1000_QL80_.jpg",
@@ -142,14 +142,14 @@
 
   "cosmetics": [
     {
-      "id": 4,
+      "id": 400,
       "name": "Laptop X1 Carbon",
       "price": 100000,
       "imageUrl": "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
       "description": "Ultra-lightweight and powerful business laptop."
     },
     {
-      "id": 5,
+      "id": 500,
       "name": "Smartphone Galaxy S21",
       "price": 80000,
       "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40056471_1-royal-toast-red-wine-non-alcoholic.jpg",

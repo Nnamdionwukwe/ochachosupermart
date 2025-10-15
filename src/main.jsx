@@ -4,14 +4,20 @@ import "./index.css";
 import App from "./App.jsx";
 import { CartProvider } from "./context/CartContext.jsx";
 import NotificationProvider from "./context/NotificationProvider.jsx";
+import { ProductProvider } from "./context/ProductContext.jsx";
+import { ProductFilterProvider } from "./context/ProductFilterContext.jsx";
 // import { NotificationProvider } from "./context/NotificationProvider.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <CartProvider>
-      <NotificationProvider>
-        <App />
-      </NotificationProvider>
+      <ProductProvider>
+        <ProductFilterProvider>
+          <NotificationProvider>
+            <App />
+          </NotificationProvider>
+        </ProductFilterProvider>
+      </ProductProvider>
     </CartProvider>
   </StrictMode>
 );

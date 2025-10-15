@@ -3,16 +3,27 @@ import ProductCard from "./ProductCard";
 // import { product } from "../data/products";
 import styles from "./ProductList.module.css";
 import { useCart } from "../context/CartContext";
-import PharmacyCard from "./PharmacyCard";
+import { useProductFilter } from "../context/ProductFilterContext";
 
 const ApparelList = () => {
-  const { pharmacy } = useCart();
+  // const { filteredProducts, searchTerm } = useCart();
+  const { filteredPharmacy, searchTerm } = useProductFilter();
 
   return (
     <div className={styles.productgrid}>
-      {pharmacy.map((product) => (
-        <PharmacyCard key={product.id} product={product} />
-      ))}
+      {filteredPharmacy.length > 0 ? (
+        <>
+          {filteredPharmacy.map((product) => (
+            <ProductCard key={product.id} product={product} />
+          ))}
+        </>
+      ) : (
+        <p>No products found for "{searchTerm}".</p>
+      )}
+
+      {/* {pharmacy.map((product) => (
+        <ProductCard key={product.id} product={product} />
+      ))} */}
     </div>
   );
 };

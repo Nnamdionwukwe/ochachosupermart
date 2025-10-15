@@ -3,9 +3,11 @@ import "./Header.css";
 import NavBar from "./NavBar";
 import { useCart } from "../context/CartContext";
 import logo from "../assets/ochacho.svg"; // Path to your image
+import { useProductFilter } from "../context/ProductFilterContext";
 
 const Header = () => {
-  const { cartItems } = useCart();
+  const { cartItems, handleSearchChange } = useCart();
+  const { searchTerm, setSearchTerm } = useProductFilter();
 
   return (
     <header className="header">
@@ -18,7 +20,12 @@ const Header = () => {
       <div className="header-actions">
         <div className="search-bar">
           <i class="bi bi-search-heart"></i>
-          <input type="text" placeholder="Search..." />
+          <input
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            type="text"
+            placeholder="Search..."
+          />
         </div>
 
         <Link to="/cart" className="cart">
@@ -32,6 +39,8 @@ const Header = () => {
           <NavBar />
         </div>
       </div>
+
+      {/* <ProductSearch /> */}
     </header>
   );
 };

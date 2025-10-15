@@ -1,4 +1,4 @@
-import { createContext, useState, useContext, useEffect } from "react";
+import { createContext, useState, useContext, useEffect, useMemo } from "react";
 import Data from "../Data.json";
 
 // Create the context
@@ -11,6 +11,25 @@ export const useCart = () => {
 
 // Create a provider component to wrap your app
 export const CartProvider = ({ children }) => {
+  //FOR THE SEARCH BAR TO SEARCH FOR PRODUCTS
+  const [searchTerm, setSearchTerm] = useState("");
+
+  // Combine the games and movies arrays into a single flat array
+  const allProducts = useMemo(() => {
+    return [...Data.cosmetics, ...Data.pharmacy];
+  }, []); // Empty dependency array means this runs only once
+
+  // Filter products based on the search term
+  const filteredProducts = allProducts.filter(
+    (product) =>
+      product.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      product.description.toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
+  const handleSearchChange = (event) => {
+    setSearchTerm(event.target.value);
+  };
+
   const [cosmetic, setCosmetic] = useState(Data.cosmetics);
   const [pharmacy, setPharmacy] = useState(Data.pharmacy);
   const [selectedID, setSelectedID] = useState({});
@@ -121,6 +140,9 @@ export const CartProvider = ({ children }) => {
     pharmacy,
     selectedID,
     setSelectedID,
+    handleSearchChange,
+    searchTerm,
+    filteredProducts,
   };
 
   return <CartContext.Provider value={value}>{children}</CartContext.Provider>;
