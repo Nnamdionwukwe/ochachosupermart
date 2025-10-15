@@ -1,17 +1,16 @@
-import React from "react";
 import ProductCard from "./ProductCard";
-// import { product } from "../data/products";
 import styles from "./ProductList.module.css";
 import { useProductFilter } from "../context/ProductFilterContext";
 
-const ProductList = () => {
-  const { filteredCosmetics, searchTerm } = useProductFilter();
+const Toiletries = () => {
+  // const { filteredProducts, searchTerm } = useCart();
+  const { filteredToiletries, searchTerm } = useProductFilter();
 
   return (
     <div className={styles.productgrid}>
-      {filteredCosmetics.length > 0 ? (
+      {filteredToiletries.length > 0 ? (
         <>
-          {filteredCosmetics.map((product) => (
+          {filteredToiletries.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
         </>
@@ -22,4 +21,4 @@ const ProductList = () => {
   );
 };
 
-export default ProductList;
+export default Toiletries;

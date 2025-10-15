@@ -1,8 +1,5 @@
-import React from "react";
 import ProductCard from "./ProductCard";
-// import { product } from "../data/products";
 import styles from "./ProductList.module.css";
-import { useCart } from "../context/CartContext";
 import { useProductFilter } from "../context/ProductFilterContext";
 
 const ApparelList = () => {
@@ -20,10 +17,6 @@ const ApparelList = () => {
       ) : (
         <p>No products found for "{searchTerm}".</p>
       )}
-
-      {/* {pharmacy.map((product) => (
-        <ProductCard key={product.id} product={product} />
-      ))} */}
     </div>
   );
 };

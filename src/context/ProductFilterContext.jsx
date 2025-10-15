@@ -5,10 +5,11 @@ const ProductFilterContext = createContext();
 
 // Helper to combine nested data from the JSON file
 const getCombinedProducts = () => {
-  const { cosmetics, pharmacy } = Data;
+  const { cosmetics, pharmacy, toiletries } = Data;
   return [
     ...cosmetics.map((p) => ({ ...p, type: "cosmetics" })),
     ...pharmacy.map((p) => ({ ...p, type: "pharmacy" })),
+    ...toiletries.map((p) => ({ ...p, type: "toiletries" })),
   ];
 };
 
@@ -39,9 +40,19 @@ export const ProductFilterProvider = ({ children }) => {
     return filteredProducts.filter((product) => product.type === "pharmacy");
   }, [filteredProducts]);
 
+  const filteredToiletries = useMemo(() => {
+    return filteredProducts.filter((product) => product.type === "toiletries");
+  }, [filteredProducts]);
+
   return (
     <ProductFilterContext.Provider
-      value={{ searchTerm, setSearchTerm, filteredCosmetics, filteredPharmacy }}
+      value={{
+        searchTerm,
+        setSearchTerm,
+        filteredCosmetics,
+        filteredPharmacy,
+        filteredToiletries,
+      }}
     >
       {children}
     </ProductFilterContext.Provider>

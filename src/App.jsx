@@ -12,6 +12,7 @@ import About from "./components/About";
 import PharmacyPage from "./components/PharmacyPage";
 import ProductMainDetails from "./components/ProductMainDetails";
 import MensWearPage from "./components/MensWearPage";
+import ToiletriesPage from "./components/TioleteriesPage";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
             <Route path="/products/:id" element={<ProductMainDetails />} />
             <Route path="/products/apparel" element={<ApparelPage />} />
             <Route path="/products/MensWear" element={<MensWearPage />} />
+            <Route path="/products/toiletries" element={<ToiletriesPage />} />
             <Route path="/cart" element={<Cart />} />
             <Route path="/cart/checkout" element={<Checkout />} />
             <Route path="/About" element={<About />} />
