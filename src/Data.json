@@ -113,6 +113,76 @@
       "price": 1350,
       "imageUrl": "https://silverlinepharm.com/wp-content/uploads/2023/02/KACHAM-TABLET-removebg-preview.png.webp",
       "description": ""
+    },
+    {
+      "id": 17,
+      "name": "DAIZIX AZITHROMYCIM",
+      "price": 2200,
+      "imageUrl": "hhttps://www.healthizalife.com/wp-content/uploads/2022/04/Azithromycin-250-Tablets.jpg",
+      "description": " 250MG TABLETS"
+    },
+
+    {
+      "id": 18,
+      "name": "ERYMED ERYTHROMYCIN",
+      "price": 1500,
+      "imageUrl": "https://www.247pharmacy.net/Uploads/B5543I9891.jpg",
+      "description": "500MG TABLETS"
+    },
+
+    {
+      "id": 19,
+      "name": "POCCO CLARITHROMYCIN",
+      "price": 4500,
+      "imageUrl": "https://fawnincor.com/wp-content/uploads/2024/11/ALCLAR-500-TABLETS-10X6-ALU-ALU-NEW-3D.jpg",
+      "description": "500MG TABLETS"
+    },
+
+    {
+      "id": 20,
+      "name": "OTRIVIN",
+      "price": 4350,
+      "imageUrl": "https://dev.spirit.com.kw/storage/product/529/276.webp",
+      "description": ""
+    },
+
+    {
+      "id": 21,
+      "name": "OTRIVIN ADULT NASAL DROP ",
+      "price": 4500,
+      "imageUrl": "https://megacare.ng/media/image/GNSTJSI6T1nbmtWnBFQlRas1U5Mw2gi421oJoz5o.png",
+      "description": "15ML"
+    },
+
+    {
+      "id": 22,
+      "name": "KACHAM CAPLETS",
+      "price": 1350,
+      "imageUrl": "https://silverlinepharm.com/wp-content/uploads/2023/02/KACHAM-TABLET-removebg-preview.png.webp",
+      "description": ""
+    },
+
+    {
+      "id": 23,
+      "name": "CALCITONE CALCIUM",
+      "price": 1300,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmUUKbBXJn3leQTZcM54-R9XS8mxGOlPlGA&s",
+      "description": ""
+    },
+
+    {
+      "id": 24,
+      "name": "AUGMENTIN",
+      "price": 14850,
+      "imageUrl": "https://shop.marham.pk/cdn/shop/files/AugmentinTablets625Mg.jpg?v=1721648091",
+      "description": "625MG"
+    },
+    {
+      "id": 25,
+      "name": "KACHAM CAPLETS",
+      "price": 1350,
+      "imageUrl": "https://silverlinepharm.com/wp-content/uploads/2023/02/KACHAM-TABLET-removebg-preview.png.webp",
+      "description": ""
     }
   ],
 
