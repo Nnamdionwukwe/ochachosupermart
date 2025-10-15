@@ -8,6 +8,7 @@ import WhyChooseUs from "./WhyChooseUs";
 import supermarketImage from "../assets/dis3.jpeg"; // Path to your image
 import PharmacyList from "./PharmacyList";
 import CategoryName from "./CategoryName";
+import Toiletries from "./Toiletries";
 
 const benefits = [
   "Fresh, organic produce delivered daily from local farms. ",
@@ -33,6 +34,10 @@ function ProductsPage() {
       <CategoryName>Medications</CategoryName>
 
       <PharmacyList />
+
+      <CategoryName>Toileteries</CategoryName>
+
+      <Toiletries />
 
       <WhyChooseUs
         title="Why Choose Us?"
