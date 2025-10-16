@@ -191,10 +191,6 @@ const Checkout = ({ onCheckout }) => {
                     {item.name} + {item.quantity}
                   </p>
 
-                  {/* <p className={styles.summaryPlus}>+</p>
-
-                    <p>{item.quantity}</p> */}
-
                   <div className={styles.totalAmountContainer}>
                     <p>{formatNGN(item.price * item.quantity)}</p>
                   </div>
