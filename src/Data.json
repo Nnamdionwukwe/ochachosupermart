@@ -731,58 +731,72 @@
     },
     {
       "id": 101,
-      "name": "E45 JUNIOR BODY WAS",
-      "price": 6500,
-      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "name": "BADEE AL OUD BLACK",
+      "price": 36200,
+      "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.64948.jpg",
       "description": ""
     },
     {
       "id": 102,
-      "name": "E45 JUNIOR BODY WAS",
-      "price": 6500,
-      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "name": "BADEE AL OUD PURPLE",
+      "price": 36200,
+      "imageUrl": "https://lamifragrance.com/wp-content/uploads/2025/02/Bade_e-al_oud-Amethyst-by-Lattafa-Perfume-Unisex-72-Essences_2-1.webp",
       "description": ""
     },
     {
       "id": 103,
-      "name": "E45 JUNIOR BODY WAS",
+      "name": "BADEE AL OUD WHITE",
       "price": 6500,
-      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/l/a/lattafa_badee_al_oud_honor_glory_edp_100ml-.jpeg",
       "description": ""
     },
     {
-      "id": 103,
-      "name": "E45 JUNIOR BODY WAS",
-      "price": 6500,
-      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "id": 104,
+      "name": "ETERNAL OUD LATTAFA",
+      "price": 49700,
+      "imageUrl": "https://images-cdn.ubuy.com.sa/66814ed1bf2eeb5b9600112e-lattafa-eternal-oud-eau-de-parfum-spray.jpg",
       "description": ""
     },
     {
       "id": 105,
-      "name": "E45 JUNIOR BODY WAS",
-      "price": 6500,
-      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "name": "RIGGS LORD",
+      "price": 67200,
+      "imageUrl": "https://the-fragrance-shop.imgix.net/products/70156.jpg",
       "description": ""
     },
     {
       "id": 106,
-      "name": "E45 JUNIOR BODY WAS",
-      "price": 6500,
-      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "name": "RIGGS NOBLE",
+      "price": 67200,
+      "imageUrl": "https://fimgs.net/mdimg/perfume/o.101726.jpg",
       "description": ""
     },
     {
       "id": 107,
-      "name": "E45 JUNIOR BODY WAS",
-      "price": 6500,
-      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "name": "RIGGS SCEPTRE",
+      "price": 67200,
+      "imageUrl": "https://fimgs.net/mdimg/perfume/o.101721.jpg",
       "description": ""
     },
     {
       "id": 108,
-      "name": "E45 JUNIOR BODY WAS",
-      "price": 6500,
-      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "name": "RIGGS VALOR",
+      "price": 67200,
+      "imageUrl": "https://the-fragrance-shop.imgix.net/products/70160.jpg",
+      "description": ""
+    },
+    {
+      "id": 109,
+      "name": "RIGGS HONOURR",
+      "price": 67200,
+      "imageUrl": "https://the-fragrance-shop.imgix.net/products/70155.jpg",
+      "description": ""
+    },
+    {
+      "id": 110,
+      "name": "RIGGS NOVUS",
+      "price": 67200,
+      "imageUrl": "https://the-fragrance-shop.imgix.net/products/70158.jpg",
       "description": ""
     }
   ]
