@@ -798,6 +798,146 @@
       "price": 67200,
       "imageUrl": "https://the-fragrance-shop.imgix.net/products/70158.jpg",
       "description": ""
+    },
+    {
+      "id": 111,
+      "name": "SHAHAD LATTAFA",
+      "price": 19600,
+      "imageUrl": "https://lattafa.com/wp-content/uploads/2024/05/Shahd-01.jpg",
+      "description": ""
+    },
+    {
+      "id": 112,
+      "name": "ASAD ZANZIBAR LATTAFA",
+      "price": 30800,
+      "imageUrl": "https://fimgs.net/mdimg/perfume/o.90713.jpg",
+      "description": ""
+    },
+    {
+      "id": 113,
+      "name": "ASAD LATTAFA",
+      "price": 30800,
+      "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.72821.jpg",
+      "description": ""
+    },
+    {
+      "id": 114,
+      "name": "OPULENT RED",
+      "price": 20300,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/l/a/lattafa_opulent_red_edp_100ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 115,
+      "name": "AL NOBLE SAFEER",
+      "price": 27300,
+      "imageUrl": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-41a8d3a/lattafa.com/wp-content/uploads/2024/05/Box.jpg",
+      "description": ""
+    },
+    {
+      "id": 116,
+      "name": "AL NOBLE WAZEER",
+      "price": 27300,
+      "imageUrl": "https://www.anabis.com/images/products/Lattafa-Pride-Al-Noble-Wazeer.png",
+      "description": ""
+    },
+    {
+      "id": 117,
+      "name": "KHAMRAH QAHWA",
+      "price": 44100,
+      "imageUrl": "https://www.parfumarabia.lt/images/uploader/la/lattafa-khamrah-qahwa-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 118,
+      "name": "FAKHAR LATTAFA GOLD",
+      "price": 29750,
+      "imageUrl": "https://m.media-amazon.com/images/I/51lG6x3vtwL._SL1000_.jpg",
+      "description": ""
+    },
+    {
+      "id": 119,
+      "name": "AL DIRGHAM 1OOML",
+      "price": 27750,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/a/l/al_dirgham_special_edition_edp_100ml-1.jpeg",
+      "description": ""
+    },
+    {
+      "id": 120,
+      "name": "FAKHAR AL OUD WHITE",
+      "price": 27750,
+      "imageUrl": "https://fimgs.net/mdimg/perfume/o.104404.jpg",
+      "description": ""
+    },
+    {
+      "id": 121,
+      "name": "FAKHAR AL OUD",
+      "price": 27650,
+      "imageUrl": "https://orientaldream.b-cdn.net/5972-medium_default/ard-al-zaafaran-fakhar-al-oud-edp-100ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 122,
+      "name": "RAYHAAN DAHLIYA",
+      "price": 25350,
+      "imageUrl": "https://m.media-amazon.com/images/I/71dRNpjHrQL.jpg",
+      "description": ""
+    },
+    {
+      "id": 123,
+      "name": "RAYHAAN AYKA",
+      "price": 25350,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/r/a/rayhaan_ayka_floral_collection_for_her_edp_100ml.jpeg",
+      "description": ""
+    },
+    {
+      "id": 124,
+      "name": "YARA 100ML PINK",
+      "price": 28600,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_w4xjHrc4aIsynh-cSIYlML3nElClbg8Ttg&s",
+      "description": ""
+    },
+    {
+      "id": 125,
+      "name": "YARA 100ML WHITE",
+      "price": 28600,
+      "imageUrl": "https://waziri.ng/wp-content/uploads/2024/04/Lattafa-Yara-Moi-Eau-de-Perfumes.jpg",
+      "description": ""
+    },
+    {
+      "id": 126,
+      "name": "THE KINGDOM WHITE",
+      "price": 38350,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVClcyDlP53uVRtBsMhmGoiQuJTpbCNd4uzQ&s",
+      "description": ""
+    },
+    {
+      "id": 127,
+      "name": "THE KINGDOM LATTFAS",
+      "price": 38350,
+      "imageUrl": "https://ferraricentre.com/wp-content/uploads/2025/09/lattfa-the-kingdom-qatar.webp",
+      "description": ""
+    },
+    {
+      "id": 128,
+      "name": "ANDALEEB FLORA",
+      "price": 19500,
+      "imageUrl": "https://fragranceforte.com.ng/wp-content/uploads/2023/09/Screenshot_20230907-090958_Gallery.jpg",
+      "description": ""
+    },
+    {
+      "id": 129,
+      "name": "ANDALEEB ASDAAFS",
+      "price": 19500,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/a/s/asdaaf_ndaleeb_edp_100ml_for_women.jpg",
+      "description": ""
+    },
+    {
+      "id": 130,
+      "name": "WINNERS TROPHY SILVER",
+      "price": 3770,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlrdN3LhXvhTGnjF0-JpS0yjKy58hJ4R9j8PIaAaK_21jfGErMrSTv9AF99tUg3KiZZuU&usqp=CAU",
+      "description": ""
     }
   ]
 }
