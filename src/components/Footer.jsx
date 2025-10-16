@@ -20,7 +20,7 @@ const Footer = () => {
             </li>
           </ul>
         </div>
-        <div className={styles.footersection}>
+        {/* <div className={styles.footersection}>
           <h3>Help</h3>
           <ul className={styles.footernav}>
             <li>
@@ -33,7 +33,7 @@ const Footer = () => {
               <Link to="/returns">Returns</Link>
             </li>
           </ul>
-        </div>
+        </div> */}
         <div className={styles.footersection}>
           <h3>Social</h3>
           <ul className={styles.sociallinks}>
