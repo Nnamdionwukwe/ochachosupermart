@@ -13,6 +13,7 @@ import PharmacyPage from "./components/PharmacyPage";
 import ProductMainDetails from "./components/ProductMainDetails";
 import MensWearPage from "./components/MensWearPage";
 import ToiletriesPage from "./components/TioleteriesPage";
+import CareersPage from "./components/CareersPage";
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
             <Route path="/cart/checkout" element={<Checkout />} />
             <Route path="/About" element={<About />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="careers" element={<CareersPage />} />
             {/* You would add more routes here for each category */}
             <Route path="*" element={<DefaultPage />} />
           </Routes>

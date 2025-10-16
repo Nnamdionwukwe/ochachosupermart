@@ -1,0 +1,51 @@
+.careers-page {
+  font-family: "Arial", sans-serif;
+}
+
+.careers-hero {
+  background-color: #f0f4f8;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.hero-content h1 {
+  font-size: 3.5rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.hero-content p {
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  color: #555;
+}
+
+.open-positions-section,
+.culture-section {
+  padding: 60px 20px;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.positions-container,
+.culture-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.job-listings {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.culture-section {
+  background-color: #f8f9fa;
+  text-align: center;
+}
