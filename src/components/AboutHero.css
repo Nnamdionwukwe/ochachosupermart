@@ -1,0 +1,16 @@
+.about-hero {
+  background-color: #f8f9fa;
+  padding: 80px 20px;
+  text-align: center;
+}
+.hero-content h1 {
+  font-size: 3rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+.hero-content p {
+  font-size: 1.2rem;
+  color: #555;
+  max-width: 800px;
+  margin: 0 auto;
+}

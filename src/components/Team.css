@@ -1,0 +1,33 @@
+.team-section {
+  padding: 60px 20px;
+  background-color: #f8f9fa;
+}
+.team-section h2 {
+  text-align: center;
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 40px;
+}
+.team-members {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+.team-member-card {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-width: 300px;
+}
+.team-member-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 5px;
+}
+.team-title {
+  color: #007bff;
+  font-weight: bold;
+  margin-bottom: 10px;
+}

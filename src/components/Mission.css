@@ -1,0 +1,15 @@
+.mission-section {
+  padding: 60px 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+.mission-content h2 {
+  font-size: 2rem;
+  color: #333;
+}
+.mission-content p {
+  font-size: 1rem;
+  color: #666;
+  max-width: 900px;
+  margin: 0 auto;
+}
