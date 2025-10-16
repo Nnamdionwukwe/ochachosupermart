@@ -14,10 +14,16 @@
   transform: translateY(-5px);
 }
 
+.productImageLink {
+  width: 150px;
+  height: 130px;
+}
+
 .productImage {
   width: 100%;
-  height: auto;
+  height: 100%;
   object-fit: cover;
+  padding-top: 5px;
 }
 
 .productInfo {

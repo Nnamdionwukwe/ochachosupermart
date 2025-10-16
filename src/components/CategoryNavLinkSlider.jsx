@@ -5,6 +5,7 @@ import "./CategoryNavLinkSlider.css";
 const categories = [
   { name: "All", path: "/products" },
   { name: "Phamarcy", path: "/products/phamarcy" },
+  { name: "Cosmetics", path: "/products/cosmetics" },
   { name: "Apparel", path: "/products/apparel" },
   { name: "Men's Wear", path: "/products/MensWear" },
   { name: "Toiletries", path: "/products/toiletries" },

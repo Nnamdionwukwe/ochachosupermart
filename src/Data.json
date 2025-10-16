@@ -640,10 +640,150 @@
     },
     {
       "id": 88,
+      "name": "E45 JUNIOR BODY WASH",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 89,
+      "name": "E45 JUMIOR LOTION",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/517D09bm04L._UF894,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 90,
+      "name": "SMART SECRET SAFEENA",
+      "price": 34200,
+      "imageUrl": "./smart.png",
+      "description": ""
+    },
+    {
+      "id": 91,
+      "name": "SMART SECRET HAMRAH",
+      "price": 34200,
+      "imageUrl": "./smart.png",
+      "description": ""
+    },
+    {
+      "id": 92,
+      "name": "SMART SECRET OUD FOR GOODESS",
+      "price": 34200,
+      "imageUrl": "./smart.png",
+      "description": ""
+    },
+    {
+      "id": 93,
+      "name": "SMART SECRET MAROUF WARDI",
+      "price": 34200,
+      "imageUrl": "https://m.media-amazon.com/images/I/618EwK3-r4L._SL1080_.jpg",
+      "description": ""
+    },
+    {
+      "id": 94,
+      "name": "INTESAAR 100ML",
+      "price": 2100,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/77/2172822/1.jpg?5362",
+      "description": ""
+    },
+    {
+      "id": 95,
+      "name": "AMEEER AL OUDH INTENSE",
+      "price": 25500,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/l/a/lattafa_ameer_al_oudh_intense_oud_edp_100ml_for_men.jpg",
+      "description": ""
+    },
+    {
+      "id": 96,
+      "name": "TERIAQ LATTAFA",
+      "price": 56000,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/l/a/lattafa_teriaq_edp_100ml-1.jpeg",
+      "description": ""
+    },
+    {
+      "id": 97,
+      "name": "LA AFRICAN DRUMMER",
+      "price": 40600,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/66/8921993/1.jpg?6765",
+      "description": ""
+    },
+    {
+      "id": 98,
+      "name": "HAYAATI ALMALEKY",
+      "price": 20500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgkBeO35M8rCvBrxQr8FxiYWmnXbObxYr0g&sg",
+      "description": ""
+    },
+    {
+      "id": 99,
+      "name": "HAYAATI GOLF ELIXIR",
+      "price": 20500,
+      "imageUrl": "https://m.media-amazon.com/images/I/41DSyOArlgL.jpg",
+      "description": ""
+    },
+    {
+      "id": 100,
+      "name": "HAYAATI FLORENCE",
+      "price": 20500,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/09/lattafa-hayaati-florence-edp-100.webp",
+      "description": ""
+    },
+    {
+      "id": 101,
       "name": "E45 JUNIOR BODY WAS",
       "price": 6500,
       "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
-      "description": "High-end smartphone with excellent camera features."
+      "description": ""
+    },
+    {
+      "id": 102,
+      "name": "E45 JUNIOR BODY WAS",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 103,
+      "name": "E45 JUNIOR BODY WAS",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 103,
+      "name": "E45 JUNIOR BODY WAS",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 105,
+      "name": "E45 JUNIOR BODY WAS",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 106,
+      "name": "E45 JUNIOR BODY WAS",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 107,
+      "name": "E45 JUNIOR BODY WAS",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 108,
+      "name": "E45 JUNIOR BODY WAS",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
+      "description": ""
     }
   ]
 }

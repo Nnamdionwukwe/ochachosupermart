@@ -12,7 +12,7 @@ const ProductCard = ({ product }) => {
 
   return (
     <div className={styles.productCard}>
-      <Link to={`/products/${product.id}`}>
+      <Link className={styles.productImageLink} to={`/products/${product.id}`}>
         <img
           onClick={() => setSelectedID(product)}
           src={product.imageUrl}

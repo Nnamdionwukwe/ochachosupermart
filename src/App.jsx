@@ -14,6 +14,7 @@ import ProductMainDetails from "./components/ProductMainDetails";
 import MensWearPage from "./components/MensWearPage";
 import ToiletriesPage from "./components/TioleteriesPage";
 import CareersPage from "./components/CareersPage";
+import CosmeticsPage from "./components/CosmeticsPage";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
             <Route path="/products" element={<ProductsPage />} />
             <Route path="/products/phamarcy" element={<PharmacyPage />} />
             <Route path="/products/:id" element={<ProductMainDetails />} />
+            <Route path="/products/cosmetics" element={<CosmeticsPage />} />
             <Route path="/products/apparel" element={<ApparelPage />} />
             <Route path="/products/MensWear" element={<MensWearPage />} />
             <Route path="/products/toiletries" element={<ToiletriesPage />} />
