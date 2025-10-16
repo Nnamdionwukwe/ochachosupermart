@@ -1,4 +1,3 @@
-import React from "react";
 import JobListing from "../components/JobListing";
 import "./CareersPage.css";
 import BackBtn from "./BackBtn";

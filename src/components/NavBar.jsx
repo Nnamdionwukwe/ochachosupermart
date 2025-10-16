@@ -48,6 +48,11 @@ const Navbar = () => {
               Contact
             </NavLink>
           </li>
+          <li>
+            <NavLink to="/careers" onClick={closeMenu}>
+              Careers
+            </NavLink>
+          </li>
         </ul>
       </div>
     </>
