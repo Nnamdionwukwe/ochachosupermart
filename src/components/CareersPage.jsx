@@ -22,7 +22,7 @@ const jobOpenings = [
   {
     id: 3,
     title: "Marketing Manager",
-    location: "ABuja, NG",
+    location: "Abuja, NG",
     department: "Marketing",
     description: "We are seeking a creative and strategic marketing manager...",
   },
