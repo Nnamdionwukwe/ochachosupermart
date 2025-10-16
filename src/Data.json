@@ -312,86 +312,233 @@
     },
     {
       "id": 44,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
-      "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "name": "Xenobrex celecoxib capsules 200mg",
+      "price": 2200,
+      "imageUrl": "https://silverlinepharm.com/wp-content/uploads/2023/02/XENOBREX-scaled-removebg-preview.png.webp",
       "description": ""
     },
     {
       "id": 45,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
-      "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "name": "Voltfast powder 50mg",
+      "price": 500,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Voltfast_2050Mg_20X30_90c91a5c-6eef-4d1c-ae0f-66da5b6728e7.webp?v=1756312937",
       "description": ""
     },
     {
       "id": 46,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
-      "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "name": "Surgical blade",
+      "price": 500,
+      "imageUrl": "https://smsindus.com/wp-content/uploads/2023/12/Surgical-blades-Paramount.jpg",
       "description": ""
     },
     {
       "id": 47,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
+      "name": "Saridalud 4mg tizanidinle tablets",
       "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqInzPxmUqY3JOuplWTnW9eLvVXtwj9-5z-w&s",
       "description": ""
     },
     {
       "id": 48,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
-      "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "name": "Sardalud 2mg tizanidine tablets",
+      "price": 8400,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/nFQYi9BUQ8uDHQFEcuNmzEYK4UIjxENpAG0lMiTz.jpeg",
       "description": ""
     },
     {
       "id": 49,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
-      "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "name": "Chlorpheniramine injection 10mg",
+      "price": 8850,
+      "imageUrl": "https://www.montagelabs.com/product-images/Chlorpheniramine-Maleate-Injec-1716274222.jpg",
       "description": ""
     },
     {
       "id": 51,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
-      "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "name": "Pinnacles ORS",
+      "price": 500,
+      "imageUrl": "https://247pharmacy.net/Uploads/A9709X2123.jpg",
       "description": ""
     },
     {
       "id": 52,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
-      "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "name": "OMEBET CAPSULE 20MG OMEPRAZOLE",
+      "price": 1000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1GbjybiXQiqrSx8pZiLuX9Uz_t8rIVlH-ww&s",
       "description": ""
     },
     {
       "id": 53,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
-      "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "name": "Metgy metronidazole 400mg",
+      "price": 400,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2022/8/IL/QR/AP/59093246/metgy-400-metronidazole-i-p-tablets.jpg",
       "description": ""
     },
     {
       "id": 54,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
-      "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "name": "Krusher tablets",
+      "price": 1400,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2025/05/Krusher-Tablet-300x300.jpg",
       "description": ""
     },
     {
       "id": 55,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
+      "name": "SAMSU OIL",
       "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "imageUrl": "https://cfimages.gomed.ng/media/filer_public_thumbnails/filer_public/3c/2b/3c2bd55d-4eb1-4627-9199-632fca25008a/tmptmpcsfawcdo__850x850_q85_crop-smart_subsampling-2.webp",
       "description": ""
     },
     {
       "id": 56,
-      "name": "Ibuprofen suspension 100ml syrup (m&b)",
-      "price": 750,
-      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2023/02/Afrab-Ibuprofen-Suspension-100mg-5ml-100ml.jpg",
+      "name": "KRISHAT ORS ORANGE FLAVOUR 20.5MG",
+      "price": 250,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcqevqaLk9SBfHyZUlt5lhqA4AIzqQ_9Vvg&s",
+      "description": ""
+    },
+    {
+      "id": 57,
+      "name": "Diclofenac injection zixa 75mg",
+      "price": 200,
+      "imageUrl": "https://megacare.ng/media/image/2_oLFV6lp.png",
+      "description": ""
+    },
+    {
+      "id": 58,
+      "name": "Kincef ceftriaxone for injection 1mg",
+      "price": 2000,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/08/PhotoRoom-20240907_075637_11.png",
+      "description": ""
+    },
+    {
+      "id": 59,
+      "name": "Sterile water for injection",
+      "price": 150,
+      "imageUrl": "https://www.pfizerhospitalus.com/sites/default/files/child/images/Drug-0409-4887-20-Sterile-Water-for-Injection-USP%5B1%5D.jpg",
+      "description": ""
+    },
+    {
+      "id": 60,
+      "name": "Flucamed 200mg",
+      "price": 5400,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrb-mTmkD7fw6OLp-GjekqKpNzvfs-oS0U3A&s",
+      "description": ""
+    },
+    {
+      "id": 61,
+      "name": "Flucamed 50mg capsule",
+      "price": 2700,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/138457173261891cdd260d5product.webp",
+      "description": ""
+    },
+    {
+      "id": 62,
+      "name": "First aid box meduim size",
+      "price": 26600,
+      "imageUrl": "https://clinicaid.com.ng/wp-content/uploads/2022/02/gCDMkx0y2yVpG0hvF3pQsLsTjk8jnuIy8pwFByJJ.jpeg",
+      "description": ""
+    },
+    {
+      "id": 63,
+      "name": "Famagyl metronidazole tablets 200mg",
+      "price": 150,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/07/PhotoRoom-20240927_103557_9.png",
+      "description": ""
+    },
+    {
+      "id": 64,
+      "name": "Erythrotex 500mg",
+      "price": 2550,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/07/PhotoRoom-20240923_114315_41.png",
+      "description": ""
+    },
+    {
+      "id": 65,
+      "name": "Touch and go",
+      "price": 3800,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYbd6NITg86GZYqz4yExOOi0fZ9NOEtN9gw&s",
+      "description": ""
+    },
+    {
+      "id": 66,
+      "name": "ARCHY ZINC 20MG",
+      "price": 100,
+      "imageUrl": "https://admin.generaldrugcentre.com/images/product/259.",
+      "description": ""
+    },
+    {
+      "id": 67,
+      "name": "Bondomet methyldopa tablets 250mg",
+      "price": 900,
+      "imageUrl": "https://pharmarxng.com/wp-content/uploads/tmptmpbffuel54__700x700_q85_subsampling-2.webp",
+      "description": ""
+    },
+    {
+      "id": 68,
+      "name": "Jucopan hyoscine butyibromide 10mg tablets",
+      "price": 300,
+      "imageUrl": "https://247pharmacy.net/Uploads/H3848Q2817.jpg",
+      "description": ""
+    },
+    {
+      "id": 69,
+      "name": "Permethrin cream 5%",
+      "price": 1900,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvC3nXhMju0W-do1Jv2NAYaC6L2feuRqrvQ&s",
+      "description": ""
+    },
+    {
+      "id": 70,
+      "name": "Enema pump all sizes",
+      "price": 2100,
+      "imageUrl": "https://m.media-amazon.com/images/I/61CDiGja6mL.jpg",
+      "description": ""
+    },
+    {
+      "id": 71,
+      "name": "Paracetamol 500mg tablets crescent pharma",
+      "price": 4200,
+      "imageUrl": "https://www.crescentpharma.com/wp-content/uploads/2016/01/Paracetamol-500mg-Tablets-POM-1.png",
+      "description": ""
+    },
+    {
+      "id": 72,
+      "name": "Fortide inhaler",
+      "price": 10550,
+      "imageUrl": "https://getzpharma.com/wp-content/uploads/2019/11/Fortide-200mcg6mcg_5-scaled.jpg",
+      "description": ""
+    },
+    {
+      "id": 73,
+      "name": "Cardioace vitabiotics",
+      "price": 26050,
+      "imageUrl": "https://www.vitabiotics.com/cdn/shop/files/Cardioace_original_front.png?v=1687855047",
+      "description": ""
+    },
+    {
+      "id": 74,
+      "name": "Surevomin tablets promethazine",
+      "price": 400,
+      "imageUrl": "https://www.pharmacyprime.com/cdn/shop/files/avomine25mg10tablet_grande.png?v=1699972817",
+      "description": ""
+    },
+    {
+      "id": 75,
+      "name": "Dr meyer's Pilex tablets",
+      "price": 1500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9rE4BTScx-Orf3paShAdc8zCnnpFKOpTkeg&s",
+      "description": ""
+    },
+    {
+      "id": 76,
+      "name": "Stugeron Cinnarizine x5 25mg tablet",
+      "price": 900,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw-XsKDItMBc6Upk-iFPfTXNtr4Tjuar-ydw&s",
+      "description": ""
+    },
+    {
+      "id": 77,
+      "name": "RELLXTRA",
+      "price": 300,
+      "imageUrl": "https://medstockonline.com/wp-content/uploads/2022/07/Rellxtra-2.jpg",
       "description": ""
     }
   ],
