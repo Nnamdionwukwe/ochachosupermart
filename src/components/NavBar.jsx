@@ -40,7 +40,7 @@ const Navbar = () => {
           </li>
           <li>
             <NavLink to="/about" onClick={closeMenu}>
-              About
+              About Us
             </NavLink>
           </li>
           <li>

@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import styles from "./ProductDetail.module.css";
 import { useCart } from "../context/CartContext";
 import { formatNGN } from "../utils/FormartCurrncyNG";
+import BackBtn from "./BackBtn";
 
 function ProductDetail() {
   const { addToCart, selectedID } = useCart();
@@ -12,9 +13,7 @@ function ProductDetail() {
 
   return (
     <>
-      <Link to="/products">
-        <button className={styles.backBtn}>&larr;</button>
-      </Link>
+      <BackBtn />
 
       <div className={styles.productpage}>
         <div className={styles.mainimage}>
