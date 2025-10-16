@@ -536,10 +536,73 @@
     },
     {
       "id": 77,
-      "name": "RELLXTRA",
-      "price": 300,
-      "imageUrl": "https://medstockonline.com/wp-content/uploads/2022/07/Rellxtra-3.jpg",
+      "name": "Day by Day vitamin C & glucose",
+      "price": 650,
+      "imageUrl": "https://drugconsultpharm.ng/wp-content/uploads/2022/05/Day-by-day-Vitamin-C-Glocose.jpeg",
       "description": ""
+    },
+    {
+      "id": 78,
+      "name": "Avonum promethazine tablets",
+      "price": 900,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbWP0v4i5QL5V5Z5yEUe5j2JvEMJqtxOLkkw&s",
+      "description": ""
+    },
+    {
+      "id": 79,
+      "name": "Zithromax capsules x 24",
+      "price": 10100,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/UqauJr5y3ZbFY22XXmq00KG12tQKGcG2oGbJ8eaG.jpeg",
+      "description": ""
+    },
+    {
+      "id": 80,
+      "name": "ZITHROMMAX X 6 250MG CAP",
+      "price": 11000,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Zithromax_20Azithromycin_20250mg_20Caps_20x6_9d9bf6ea-f7b0-49be-9593-e04429789771.webp?v=1756577690",
+      "description": ""
+    },
+    {
+      "id": 81,
+      "name": "HYENANG SURGICAL SPIRIT 2LITRES",
+      "price": 6300,
+      "imageUrl": "https://m.media-amazon.com/images/I/51ZiXuxx3oL.jpg",
+      "description": ""
+    },
+    {
+      "id": 82,
+      "name": "PECTOL LOZ",
+      "price": 300,
+      "imageUrl": "https://m.media-amazon.com/images/I/61jPiAUULoL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 83,
+      "name": "SUPER ADVANCE WHEY PROTEIN BODY FORTESS",
+      "price": 92400,
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bft/bft30000/y/24.jpg",
+      "description": ""
+    },
+    {
+      "id": 84,
+      "name": "VITAL OPTIMAL BODY MASS GAIN PRO ENDOWED",
+      "price": 85400,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDhVtyeuhJtlLmhZDoP0tIIsHrSc-Ai1kiXQ&s",
+      "description": ""
+    },
+    {
+      "id": 85,
+      "name": "CURVY WEIGHT GAIN 450G",
+      "price": 18500,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/Z/E/184435_1728825770.jpg",
+      "description": ""
+    },
+    {
+      "id": 86,
+      "name": "FEROGLOBIN CAPSULES",
+      "price": 12850,
+      "imageUrl": "",
+      "description": "https://m.media-amazon.com/images/I/81tQB3cqlgL._UF1000,1000_QL80_.jpg"
     }
   ],
 
