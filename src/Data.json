@@ -601,8 +601,8 @@
       "id": 86,
       "name": "FEROGLOBIN CAPSULES",
       "price": 12850,
-      "imageUrl": "",
-      "description": "https://m.media-amazon.com/images/I/81tQB3cqlgL._UF1000,1000_QL80_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/81tQB3cqlgL._UF1000,1000_QL80_.jpg",
+      "description": ""
     }
   ],
 
