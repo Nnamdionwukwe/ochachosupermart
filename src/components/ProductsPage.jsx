@@ -27,17 +27,14 @@ function ProductsPage() {
 
       <CategoryNavLinkSlider />
 
-      <CategoryName>Toileteries</CategoryName>
-
-      <Toiletries />
+      <CategoryName>Cosmetics</CategoryName>
+      <ProductList />
 
       <CategoryName>Medications</CategoryName>
-
       <PharmacyList />
 
-      <CategoryName>Cosmetics</CategoryName>
-
-      <ProductList />
+      <CategoryName>Toileteries</CategoryName>
+      <Toiletries />
 
       <WhyChooseUs
         title="Why Choose Us?"

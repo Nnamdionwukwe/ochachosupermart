@@ -632,17 +632,17 @@
 
   "cosmetics": [
     {
-      "id": 400,
-      "name": "Laptop X1 Carbon",
-      "price": 100000,
-      "imageUrl": "https://shoprite.ng/wp-content/uploads/2024/03/Chateau-Vertely-Pastoral-Wine-75Cl.jpg",
-      "description": "Ultra-lightweight and powerful business laptop."
+      "id": 87,
+      "name": "VANILLA CRUSH BODY MIST 100ML",
+      "price": 2350,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJeO4ZkMjebXBjPSD0yESvq1IrzaH9SBZe67eI-Xlwe_AHAm2CyO3ViQFg2qOhbcaEoes&usqp=CAU",
+      "description": ""
     },
     {
-      "id": 500,
-      "name": "Smartphone Galaxy S21",
-      "price": 80000,
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40056471_1-royal-toast-red-wine-non-alcoholic.jpg",
+      "id": 88,
+      "name": "E45 JUNIOR BODY WAS",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
       "description": "High-end smartphone with excellent camera features."
     }
   ]
