@@ -133,13 +133,14 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 10px;
-  font-size: 0.95rem;
+  font-size: 0.8rem;
   color: #666;
 }
 
 .summaryitemDiv {
   display: flex;
   justify-content: space-between;
+  font-size: 0.8rem;
 }
 
 .summaryPlus {
