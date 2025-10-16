@@ -5,24 +5,24 @@ import BackBtn from "./BackBtn";
 const jobOpenings = [
   {
     id: 1,
-    title: "Senior Software Engineer",
-    location: "Remote",
-    department: "Engineering",
+    title: "Product Adviser",
+    location: "On-Site, Abuja",
+    department: "Product Manager",
     description:
-      "We are looking for an experienced engineer to join our team...",
+      "We are looking for an experienced product adviser to join our team...",
   },
   {
     id: 2,
-    title: "Product Designer",
-    location: "New York, NY",
-    department: "Design",
+    title: "Customer Review Representative",
+    location: "Abuja, NG",
+    department: "Customer Care",
     description:
-      "As a product designer, you will work closely with our product managers...",
+      "As a product review representative, you will work closely with our customers...",
   },
   {
     id: 3,
     title: "Marketing Manager",
-    location: "London, UK",
+    location: "ABuja, NG",
     department: "Marketing",
     description: "We are seeking a creative and strategic marketing manager...",
   },
