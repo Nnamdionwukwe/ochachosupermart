@@ -137,6 +137,15 @@
   color: #666;
 }
 
+.summaryitemDiv {
+  display: flex;
+  justify-content: space-between;
+}
+
+.summaryPlus {
+  margin: 0px 30px;
+}
+
 .summarytotal {
   display: flex;
   justify-content: space-between;
