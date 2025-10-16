@@ -22,7 +22,7 @@ const ProductCard = ({ product }) => {
       </Link>
       <div className={styles.productInfo}>
         <div className={styles.textContainer}>
-          <h3 className={styles.ProductName}>{product.name}</h3>
+          <h3 className={styles.ProductName}>{product.name.toUpperCase()}</h3>
 
           <div className={styles.priceContainer}>
             <p className={styles.productPrice}>{formatNGN(product.price)}</p>

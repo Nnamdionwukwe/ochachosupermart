@@ -23,7 +23,9 @@ function ProductDetail() {
         </div>
 
         <div className={styles.productdetails}>
-          <h2 className={styles.producttitle}>{selectedID.name}</h2>
+          <h2 className={styles.producttitle}>
+            {selectedID.name.toUpperCase()}
+          </h2>
 
           <div className={styles.priceContainer}>
             <p className={styles.productprice}>{formatNGN(selectedID.price)}</p>

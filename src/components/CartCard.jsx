@@ -8,7 +8,7 @@ function CartCard({ item, removeFromCart, updateQuantity }) {
         <img src={item.imageUrl} alt="Product Name" />
       </div>
       <div className={styles.productDetails}>
-        <h3 className={styles.productTitle}>{item.name}</h3>
+        <h3 className={styles.productTitle}>{item.name.toUpperCase()}</h3>
 
         <div className={styles.priceContainer}>
           <p className={styles.productprice}>{formatNGN(item.price)}</p>

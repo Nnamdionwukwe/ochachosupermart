@@ -188,7 +188,7 @@ const Checkout = ({ onCheckout }) => {
               {cartItems.map((item, index) => (
                 <div key={index} className={styles.summaryitem}>
                   <p>
-                    {item.name} + {item.quantity}
+                    {item.name.toUpperCase()} + {item.quantity}
                   </p>
 
                   <div className={styles.totalAmountContainer}>

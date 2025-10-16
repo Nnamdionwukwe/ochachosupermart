@@ -10,7 +10,7 @@ const NotificationProvider = ({ children }) => {
   useEffect(() => {
     // This effect runs whenever `lastAddedItem` changes
     if (lastAddedItem) {
-      setMessage(`${lastAddedItem.name} ADDED TO CART!`);
+      setMessage(`${lastAddedItem.name.toUpperCase()} ADDED TO CART!`);
       setShowPopup(true);
 
       const timer = setTimeout(() => {

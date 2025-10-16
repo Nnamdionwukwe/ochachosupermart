@@ -2,10 +2,10 @@
   "pharmacy": [
     {
       "id": 1,
-      "name": "EMZOR PAEDIATRIC SULPHATE",
+      "name": "EMZOR PAEDIATRIC SULPHATE 20MGX 100",
       "price": 200,
       "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/11/29-Paediatric-zinc-sulphate-fa-View-01.png",
-      "description": "20MGX 100."
+      "description": ""
     },
     {
       "id": 2,
@@ -16,18 +16,18 @@
     },
     {
       "id": 3,
-      "name": "KRISHAT BISACODYL",
+      "name": "KRISHAT BISACODYL 5MG",
       "price": 100,
       "imageUrl": "https://evolutionpharmacyng.com/wp-content/uploads/Tabs-Bisacodyl.jpg",
-      "description": "5MG."
+      "description": ""
     },
 
     {
       "id": 4,
-      "name": "KAGARY PARACETAMOL",
+      "name": "KAGARY PARACETAMOL X1000 TABLETS",
       "price": 100,
       "imageUrl": "https://www.homewareessentials.co.uk/uploads/Product/xlarge/627451aa8df336fbee52f4c7de3cc116.jpg",
-      "description": "X1000 TABLETS."
+      "description": ""
     },
 
     {
@@ -46,24 +46,24 @@
     },
     {
       "id": 7,
-      "name": "COMPLAN MILK ",
+      "name": "COMPLAN MILK NDAC WHITE 400G",
       "price": 12600,
       "imageUrl": "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
-      "description": "NDAC WHITE 400G."
+      "description": ""
     },
     {
       "id": 8,
-      "name": "KATARTIZO RAW ALMOND NUTS",
+      "name": "KATARTIZO RAW ALMOND NUTS SMALL SIZE",
       "price": 4650,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL382siRUgsTYZUnJKBZQTDuPELRPKelZ_Ug&s",
-      "description": "SMALL SIZE"
+      "description": ""
     },
     {
       "id": 9,
       "name": "ALMOND POWDER MILK",
       "price": 8150,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxapQ7Yu8A1fLMvq3BJrcFAWBlZnyyAIGtnw&ss",
-      "description": "S"
+      "description": ""
     },
     {
       "id": 10,
@@ -74,24 +74,24 @@
     },
     {
       "id": 11,
-      "name": "AVICEF CEFTRIAXZONE INJECTION ",
+      "name": "AVICEF CEFTRIAXZONE INJECTION 1G",
       "price": 2700,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIJil1y6ScljpCFUp6hmTyr_yvoGbnQwKvA&s",
-      "description": "1G"
+      "description": ""
     },
     {
       "id": 12,
-      "name": "VITAMIN C + ",
+      "name": "VITAMIN C + CALCIUM CECE 1000MG ",
       "price": 3800,
       "imageUrl": "https://maydonpharma.com/wp-content/uploads/2024/10/CeCe-1000-2.jpg",
-      "description": "CALCIUM CECE 1000MG "
+      "description": ""
     },
     {
       "id": 13,
-      "name": "RBCARE RABEPRAZOLE ",
+      "name": "RBCARE RABEPRAZOLE 20MG TABLETS",
       "price": 1100,
       "imageUrl": "https://mybigpharmacy.com/wp-content/uploads/2021/09/buy-RBCARE-20mg-Rabeprazole-20mg-Tablet-for-acid-reflux-in-nigeria-@mybigpharmacy.com_.jpeg-.jpg",
-      "description": "20MG TABLETS"
+      "description": ""
     },
     {
       "id": 14,
@@ -116,26 +116,26 @@
     },
     {
       "id": 17,
-      "name": "DAIZIX AZITHROMYCIM",
+      "name": "DAIZIX AZITHROMYCIM 250MG TABLETS",
       "price": 2200,
       "imageUrl": "https://247pharmacy.net/Uploads/V1054P4186.jpg",
-      "description": " 250MG TABLETS"
+      "description": ""
     },
 
     {
       "id": 18,
-      "name": "ERYMED ERYTHROMYCIN",
+      "name": "ERYMED ERYTHROMYCIN 500MG TABLETS",
       "price": 1500,
       "imageUrl": "https://www.247pharmacy.net/Uploads/B5543I9891.jpg",
-      "description": "500MG TABLETS"
+      "description": ""
     },
 
     {
       "id": 19,
-      "name": "POCCO CLARITHROMYCIN",
+      "name": "POCCO CLARITHROMYCIN 500MG TABLETS",
       "price": 4500,
       "imageUrl": "https://fawnincor.com/wp-content/uploads/2024/11/ALCLAR-500-TABLETS-10X6-ALU-ALU-NEW-3D.jpg",
-      "description": "500MG TABLETS"
+      "description": ""
     },
 
     {
@@ -148,18 +148,18 @@
 
     {
       "id": 21,
-      "name": "OTRIVIN ADULT NASAL DROP ",
+      "name": "OTRIVIN ADULT NASAL DROP 15ML",
       "price": 4500,
       "imageUrl": "https://megacare.ng/media/image/GNSTJSI6T1nbmtWnBFQlRas1U5Mw2gi421oJoz5o.png",
-      "description": "15ML"
+      "description": ""
     },
 
     {
       "id": 22,
-      "name": "KEASADOL PLUS",
+      "name": "KEASADOL PLUS M&B TABLET",
       "price": 500,
       "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/09/PhotoRoom-20240820_110312_23.png",
-      "description": "M&B TABLET"
+      "description": ""
     },
 
     {
@@ -172,13 +172,118 @@
 
     {
       "id": 24,
-      "name": "AUGMENTIN",
+      "name": "AUGMENTIN 625MG",
       "price": 14850,
       "imageUrl": "https://shop.marham.pk/cdn/shop/files/AugmentinTablets625Mg.jpg?v=1721648091",
-      "description": "625MG"
+      "description": ""
     },
     {
       "id": 25,
+      "name": "UMBLICARE GEL",
+      "price": 750,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FU8S4aPcr0eAKUto1SbzG7J59vZZWOyriJ_NG7rAQxYdVesmlxrIr08X8aYtnmnCx50&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 26,
+      "name": "CIPROXIN ciprofloxacin 500MG",
+      "price": 8550,
+      "imageUrl": "https://product.dawaai.pk/800/baycip220_1663152569_2.webp",
+      "description": ""
+    },
+    {
+      "id": 27,
+      "name": "TRANEXAMIC ACID 500MG TABLETS",
+      "price": 4900,
+      "imageUrl": "https://cdn-ileapji.nitrocdn.com/yUhkKwgmLwOyIomtDNNZikXRLmTdOQTo/assets/images/optimized/rev-1708ed6/www.fcremedies.com/wp-content/uploads/2022/02/WhatsApp-Image-2024-02-21-at-4.06.28-PM.jpeg",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "name": "CAPOL SALINE NASAL DROPS 10ML",
+      "price": 16800,
+      "imageUrl": "https://www.mccabespharmacy.com/cdn/shop/files/CalpolSalineNasalDrops10ml1.png?v=1704978092",
+      "description": ""
+    },
+    {
+      "id": 29,
+      "name": "BIPFLOR SACHARMTCES (100ML) 100MG",
+      "price": 8400,
+      "imageUrl": "https://megacare.ng/media/image/bioflor-sacc.boulardii-100mg-x1_JniouJz.jpg",
+      "description": ""
+    },
+    {
+      "id": 30,
+      "name": "Tabufen SUSPENSION IBUPROFEN 100ML",
+      "price": 1100,
+      "imageUrl": "https://www.meldinpharma.com/web/image/product.template/6605/image_1024?unique=68205cb",
+      "description": ""
+    },
+    {
+      "id": 31,
+      "name": "Predicure prednisolone 5mg",
+      "price": 200,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/1349/image_1920?unique=1c16d2b",
+      "description": ""
+    },
+    {
+      "id": 32,
+      "name": "UMBLICARE GEL",
+      "price": 750,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FU8S4aPcr0eAKUto1SbzG7J59vZZWOyriJ_NG7rAQxYdVesmlxrIr08X8aYtnmnCx50&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 33,
+      "name": "UMBLICARE GEL",
+      "price": 750,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FU8S4aPcr0eAKUto1SbzG7J59vZZWOyriJ_NG7rAQxYdVesmlxrIr08X8aYtnmnCx50&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 34,
+      "name": "UMBLICARE GEL",
+      "price": 750,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FU8S4aPcr0eAKUto1SbzG7J59vZZWOyriJ_NG7rAQxYdVesmlxrIr08X8aYtnmnCx50&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 35,
+      "name": "UMBLICARE GEL",
+      "price": 750,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FU8S4aPcr0eAKUto1SbzG7J59vZZWOyriJ_NG7rAQxYdVesmlxrIr08X8aYtnmnCx50&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 36,
+      "name": "UMBLICARE GEL",
+      "price": 750,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FU8S4aPcr0eAKUto1SbzG7J59vZZWOyriJ_NG7rAQxYdVesmlxrIr08X8aYtnmnCx50&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 37,
+      "name": "UMBLICARE GEL",
+      "price": 750,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FU8S4aPcr0eAKUto1SbzG7J59vZZWOyriJ_NG7rAQxYdVesmlxrIr08X8aYtnmnCx50&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 38,
+      "name": "UMBLICARE GEL",
+      "price": 750,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FU8S4aPcr0eAKUto1SbzG7J59vZZWOyriJ_NG7rAQxYdVesmlxrIr08X8aYtnmnCx50&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 39,
+      "name": "UMBLICARE GEL",
+      "price": 750,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FU8S4aPcr0eAKUto1SbzG7J59vZZWOyriJ_NG7rAQxYdVesmlxrIr08X8aYtnmnCx50&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 40,
       "name": "UMBLICARE GEL",
       "price": 750,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FU8S4aPcr0eAKUto1SbzG7J59vZZWOyriJ_NG7rAQxYdVesmlxrIr08X8aYtnmnCx50&usqp=CAU",
