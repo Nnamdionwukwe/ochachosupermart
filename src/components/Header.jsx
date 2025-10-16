@@ -6,7 +6,7 @@ import logo from "../assets/ochacho.svg"; // Path to your image
 import { useProductFilter } from "../context/ProductFilterContext";
 
 const Header = () => {
-  const { cartItems, handleSearchChange } = useCart();
+  const { cartItems } = useCart();
   const { searchTerm, setSearchTerm } = useProductFilter();
 
   return (

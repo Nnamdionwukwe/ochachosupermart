@@ -15,9 +15,6 @@
 
 /* ... other Navbar styles ... */
 
-.cart-icon-link {
-}
-
 .cart-badge {
   position: absolute;
   top: 30%;
@@ -26,9 +23,11 @@
   background-color: red; /* Tomato red */
   color: white;
   border-radius: 50%;
-  padding: 2px 6px;
+  padding: 2px 0px;
   font-size: 10px;
   font-weight: bold;
+  width: 19px;
+  /* height: 20px; */
 }
 
 .header-logo a {
