@@ -935,8 +935,163 @@
     {
       "id": 130,
       "name": "WINNERS TROPHY SILVER",
-      "price": 3770,
+      "price": 37700,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlrdN3LhXvhTGnjF0-JpS0yjKy58hJ4R9j8PIaAaK_21jfGErMrSTv9AF99tUg3KiZZuU&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 131,
+      "name": "WINNERS GOLD",
+      "price": 37700,
+      "imageUrl": "https://fimgs.net/mdimg/perfume/o.82621.jpg",
+      "description": ""
+    },
+    {
+      "id": 132,
+      "name": "CELESTE 100ML",
+      "price": 25500,
+      "imageUrl": "https://perfumesforlessng.com/pfl-content/uploads/2025/05/Celeste-Maison-Alhambra-EDP-100ml.png",
+      "description": ""
+    },
+
+    {
+      "id": 133,
+      "name": "AJWAD RED",
+      "price": 27000,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/06/71310uGHIL._SL1080_-1.jpg",
+      "description": ""
+    },
+
+    {
+      "id": 134,
+      "name": "ASOOF BLACK EXTRACT",
+      "price": 29900,
+      "imageUrl": "https://orientaldream.b-cdn.net/2424-large_default/asdaaf-kasoof-black-extract-edp-100ml.jpg.webp",
+      "description": ""
+    },
+
+    {
+      "id": 135,
+      "name": "KASOOF WHITE EXTRACT",
+      "price": 29900,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-uR_odAxUxhW6w3plo80pS_CZGJC94HpT6w&s",
+      "description": ""
+    },
+
+    {
+      "id": 136,
+      "name": "MONSIEUR CANDY ROSE",
+      "price": 13000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/02/8048932/1.jpg?1599",
+      "description": ""
+    },
+
+    {
+      "id": 137,
+      "name": "MONSEIEUR MY CRUSH",
+      "price": 13000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/00/1333004/1.jpg?7882",
+      "description": ""
+    },
+
+    {
+      "id": 138,
+      "name": "INTENSE BOLD 100ML",
+      "price": 48100,
+      "imageUrl": "https://www.almawadagroup.com/app/files/3551440572062.jpg",
+      "description": ""
+    },
+
+    {
+      "id": 139,
+      "name": "RAW HUMAN LATTAFA 100ML",
+      "price": 37700,
+      "imageUrl": "https://m.media-amazon.com/images/I/51daCz8w-kL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+
+    {
+      "id": 140,
+      "name": "KISMET FOR MEN",
+      "price": 32500,
+      "imageUrl": "https://m.media-amazon.com/images/I/41HVmajN-OL._SL1000_.jpg",
+      "description": ""
+    },
+
+    {
+      "id": 141,
+      "name": "KISMET FOR WOMEN",
+      "price": 32500,
+      "imageUrl": "https://lescollectionsprivees.com/wp-content/uploads/2023/07/kismet-for-women.jpg.webp",
+      "description": ""
+    },
+
+    {
+      "id": 142,
+      "name": "DR TEALS MOISTURIZING BATH & BODY OIL",
+      "price": 12350,
+      "imageUrl": "https://perfecttrustbeauty.com/cdn/shop/files/Dr._Teal_s_Glow_amp_Hydrate_Moisturizing_Bath_amp_Body_Oil_260ml.webp?v=1728389368&width=1024",
+      "description": ""
+    },
+
+    {
+      "id": 143,
+      "name": "PRETTY COTTON W00L BALLS",
+      "price": 2400,
+      "imageUrl": "https://skinpopessentiel.com/cdn/shop/files/prettycottonwoolballswhite_jpg.webp?v=1757336000",
+      "description": ""
+    },
+
+    {
+      "id": 144,
+      "name": "CLEANIC COTTON 133PADES",
+      "price": 3500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/58/7677893/1.jpg?8265",
+      "description": ""
+    },
+
+    {
+      "id": 145,
+      "name": "RED BOLD 100M",
+      "price": 48100,
+      "imageUrl": "https://static.jazp.com/uploads_700x600/202107/c2a3e4de6bee3dd03ccd9f7f44ca3bda.jpeg",
+      "description": ""
+    },
+
+    {
+      "id": 146,
+      "name": "SUGAR CHROME 100ML",
+      "price": 17560,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/94/8917814/1.jpg?3424",
+      "description": ""
+    },
+
+    {
+      "id": 147,
+      "name": "SUGAR CANDY 100ML",
+      "price": 17550,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/23/8907814/1.jpg?5961",
+      "description": ""
+    },
+    {
+      "id": 148,
+      "name": "PRIDE POUR HOMME",
+      "price": 37700,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/19/855164/1.jpg?6755",
+      "description": ""
+    },
+    {
+      "id": 149,
+      "name": "PRIDE POUR FEMME",
+      "price": 37700,
+      "imageUrl": "https://munacosmetics.com/image/cache/catalog/FRAGRANCES/Fragrancis/rue-broca-pride-pour-femme-200x200.jpg",
+      "description": ""
+    },
+    {
+      "id": 150,
+      "name": "QAED AL FURSAN",
+      "price": 19500,
+      "imageUrl": "https://www.thescentsstore.com/cdn/shop/files/LattafaQaedalfursanUntamed90ml.png?v=1753702394",
       "description": ""
     }
   ]
