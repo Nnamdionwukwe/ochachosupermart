@@ -187,13 +187,13 @@ const Checkout = ({ onCheckout }) => {
             <div className={styles.summaryitems}>
               {cartItems.map((item, index) => (
                 <div key={index} className={styles.summaryitem}>
-                  <div className={styles.summaryitemDiv}>
-                    <p>{item.name}</p>
+                  <p>
+                    {item.name} + {item.quantity}
+                  </p>
 
-                    <p className={styles.summaryPlus}>+</p>
+                  {/* <p className={styles.summaryPlus}>+</p>
 
-                    <p>{item.quantity}</p>
-                  </div>
+                    <p>{item.quantity}</p> */}
 
                   <div className={styles.totalAmountContainer}>
                     <p>{formatNGN(item.price * item.quantity)}</p>
