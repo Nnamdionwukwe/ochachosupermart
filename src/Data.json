@@ -1096,9 +1096,289 @@
     },
     {
       "id": 151,
-      "name": "QAED AL FURSAN",
+      "name": "QAED AL FURSAN 90ML",
       "price": 19500,
-      "imageUrl": "https://www.thescentsstore.com/cdn/shop/files/LattafaQaedalfursanUntamed90ml.png?v=1753702394",
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/l/a/lattafa_qaed_al_fursan_edp_100ml_perfume.jpg",
+      "description": ""
+    },
+    {
+      "id": 152,
+      "name": "AMEERAT AL ARAB PRIVE ROSE",
+      "price": 19500,
+      "imageUrl": "https://www.anabis.com/images/products/Asdaaf-Ameerat-Al-Arab-Prive-Rose.png",
+      "description": ""
+    },
+    {
+      "id": 153,
+      "name": "AMEERAT AL ARAB 100ML",
+      "price": 19500,
+      "imageUrl": "https://maridadibeautyhub.com/cdn/shop/files/AmeeratAlArab100ml.webp?v=1718975054",
+      "description": ""
+    },
+    {
+      "id": 154,
+      "name": "ISHQ AL SHUYUKH 100ML",
+      "price": 42900,
+      "imageUrl": "https://orientaldream.b-cdn.net/2797-large_default/lattafa-pride-ishq-al-shuyukh-gold-edp-100ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 154,
+      "name": "NEBRAS LATTAFA",
+      "price": 42900,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECTCrwKlKNZZ3ebAUEXfjC6FmmeG_4Xu-hg&s",
+      "description": ""
+    },
+    {
+      "id": 155,
+      "name": "NOW RAVE 100ML",
+      "price": 24700,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/r/a/rave_now_women_edp_100ml-1.jpeg",
+      "description": ""
+    },
+    {
+      "id": 156,
+      "name": "AFFECTION LATTAFA",
+      "price": 42900,
+      "imageUrl": "https://www.thescentsstore.com/cdn/shop/files/LattafaAffection.png?v=1753701244",
+      "description": ""
+    },
+    {
+      "id": 156,
+      "name": "FATIMA ZIMAYA 100ML",
+      "price": 31200,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/08/Important-Announcement-37.webp",
+      "description": ""
+    },
+    {
+      "id": 157,
+      "name": "BLACK BOLD 100ML",
+      "price": 48100,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/29/0523631/1.jpg?1438",
+      "description": ""
+    },
+    {
+      "id": 159,
+      "name": "OUD NOIR KHADLAJ",
+      "price": 25350,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/p/a/paris_corner_khadlaj_oud_noir_edp_100ml.jpeg",
+      "description": ""
+    },
+    {
+      "id": 160,
+      "name": "MAAYIR LATTAFA",
+      "price": 38900,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/l/a/lattafa_maahir_edp_100ml_perfume.jpeg",
+      "description": ""
+    },
+    {
+      "id": 161,
+      "name": "ANGEL COTTON SWABS X400",
+      "price": 1850,
+      "imageUrl": "https://babyshopnigeria.com/wp-content/uploads/2018/10/little-angel-cotton-swabs-x200.jpg",
+      "description": ""
+    },
+    {
+      "id": 162,
+      "name": "ANGEL SWABS X200",
+      "price": 950,
+      "imageUrl": "https://yesmin.ng/wp-content/uploads/2023/12/Angel-Cotton-Buds-x200-Supermart-ng-3179_720x@2x.jpg",
+      "description": ""
+    },
+    {
+      "id": 163,
+      "name": "ANGEL COTTON SWABS X100",
+      "price": 650,
+      "imageUrl": "https://yesmin.ng/wp-content/uploads/2023/12/Angel-Cotton-Buds-x200-Supermart-ng-3179_720x@2x.jpg",
+      "description": ""
+    },
+    {
+      "id": 164,
+      "name": "NIZORAL SHAMPOO",
+      "price": 22400,
+      "imageUrl": "https://m.media-amazon.com/images/I/71UKDMdW3KL._SL1500_.jpg",
+      "description": ""
+    },
+    {
+      "id": 165,
+      "name": "Premier men nourishing cream",
+      "price": 22700,
+      "imageUrl": "https://www.premierdeadsea-europe.com/media/catalog/product/cache/3945a501ec5097e73f6fbc39f112fc00/6/2/6208c3e912ee8_A21e_125ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 166,
+      "name": "Premier face cleaser",
+      "price": 22700,
+      "imageUrl": "https://drdawoodstore.com/wp-content/uploads/2024/11/images-78.jpeg",
+      "description": ""
+    },
+    {
+      "id": 167,
+      "name": "Premier foot cream",
+      "price": 6950,
+      "imageUrl": "https://f.nooncdn.com/p/pzsku/Z9B1196F2D277EDBE5A7BZ/45/_/1711615976/76f01e9d-7b59-48b1-990d-ffdf212d7da3.jpg?width=1200",
+      "description": ""
+    },
+    {
+      "id": 168,
+      "name": "Premier hand cream",
+      "price": 6950,
+      "imageUrl": "https://www.premier-deadsea.com/media/catalog/product/cache/3945a501ec5097e73f6fbc39f112fc00/5/f/5f85231bc58fa_A112__50ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 169,
+      "name": "Premier exfoliating gel",
+      "price": 22700,
+      "imageUrl": "https://www.premier-deadsea.com/media/catalog/product/cache/3945a501ec5097e73f6fbc39f112fc00/6/3/63bd56cb1e4c8_A7__50ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 170,
+      "name": "Premier wrinkle plumper",
+      "price": 60500,
+      "imageUrl": "https://www.premier-deadsea.com/media/catalog/product/cache/3945a501ec5097e73f6fbc39f112fc00/6/0/602bc923841d1_G105e.jpg",
+      "description": ""
+    },
+    {
+      "id": 171,
+      "name": "Premier cellulite cream",
+      "price": 22700,
+      "imageUrl": "https://www.thejerusalemgiftshop.com/media/catalog/product/cache/3aa096ef1b8b1c7e5e5f861c61a1f74c/c/e/cellulite-intensive-control-cream__80854_1.jpg",
+      "description": ""
+    },
+    {
+      "id": 172,
+      "name": "Feyzant foaming cleaser",
+      "price": 20200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJC0adN-U6hw0pRIABUZcC3SyMTZY-jwMn0Q&s",
+      "description": ""
+    },
+    {
+      "id": 173,
+      "name": "purador vitamin e oil",
+      "price": 37800,
+      "imageUrl": "https://purador.com/cdn/shop/files/4oz_New_VitaminE_FrontLabel_no70000.jpg?v=1756247650&width=1445",
+      "description": ""
+    },
+    {
+      "id": 174,
+      "name": "mineral to go day cream",
+      "price": 23200,
+      "imageUrl": "https://www.premier-deadsea.com/media/catalog/product/cache/3945a501ec5097e73f6fbc39f112fc00/6/0/602bcab3dc266_T1__35ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 175,
+      "name": "minerals to go nourishing cream",
+      "price": 23200,
+      "imageUrl": "https://www.premierdeadsea-europe.com/media/catalog/product/cache/434798c19e55664cce6406a074147c1e/6/0/602bcab3dc266_T1__35ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 176,
+      "name": "Dermodality peptide plus moisturizer",
+      "price": 32200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHWUIaRGErCZ_QgiBEfDEzXu-k02qnpXcRA&s",
+      "description": ""
+    },
+    {
+      "id": 177,
+      "name": "Dermodality ageless moisturizer",
+      "price": 32200,
+      "imageUrl": "https://totalbodyandskinrejuvenation.com/cdn/shop/files/ageless-moisturizer_600x600.png?v=1684589973",
+      "description": ""
+    },
+    {
+      "id": 178,
+      "name": "BLEMISH CARE NATURAL FAIRNESS KIDS GLOW LOTION",
+      "price": 11050,
+      "imageUrl": "https://beautiebox.co.uk/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-07-at-9.19.37-AM.jpeg",
+      "description": ""
+    },
+    {
+      "id": 179,
+      "name": "BABY ORGANIC LOTION VITAMIN C & ORANGE",
+      "price": 9250,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/O/A/212028_1723826238.jpg",
+      "description": ""
+    },
+    {
+      "id": 180,
+      "name": "BABY ORGANIC LOTION OAT & SOYA MILK",
+      "price": 9250,
+      "imageUrl": "https://cartnear.s3.us-east-2.amazonaws.com/ng/150ab4e23b5ea9460c1c5986b3dfc43f.jpg",
+      "description": ""
+    },
+    {
+      "id": 181,
+      "name": "BABY ORGANIC LOTION RICE MILK",
+      "price": 9250,
+      "imageUrl": "https://cartnear.s3.us-east-2.amazonaws.com/ng/542b1b0238a045ccae6b20fbd79c80f4.jpg",
+      "description": ""
+    },
+    {
+      "id": 182,
+      "name": "BABY ORGANIC LOTION BANANA MILD",
+      "price": 9250,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbHhX3DFrRusCo7kNRlV4x5DoqJUyj2pYsUrH3YVrgUXvzI4OcdeG8wP1jqqhChC8KSY&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 183,
+      "name": "MOUSUF COLLECTION 3 IN 1",
+      "price": 52000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/44/1757232/1.jpg?7704",
+      "description": ""
+    },
+    {
+      "id": 184,
+      "name": "BOOT BABY GENTLE & MILD OIL 300M",
+      "price": 8450,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60aqyA3mk7oXHy5tFwBLn8dnoI-BefXRBuw&s",
+      "description": ""
+    },
+    {
+      "id": 185,
+      "name": "FAIR CHILD VITAMIN C LOTION",
+      "price": 3900,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/73/8039552/1.jpg?7257",
+      "description": ""
+    },
+    {
+      "id": 186,
+      "name": "BABY SECRET LOTION VITAMIN C",
+      "price": 7800,
+      "imageUrl": "https://i0.wp.com/buybetter.ng/wp-content/uploads/2025/07/Add_a_heading_251-optimized.png",
+      "description": ""
+    },
+    {
+      "id": 187,
+      "name": "BABY DIARY LOTION CHAMOMILE & STRAWBERRY",
+      "price": 7150,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/01/4147814/1.jpg?3132",
+      "description": ""
+    },
+    {
+      "id": 188,
+      "name": "BABY DIARY LOTION APPLE & PEARL",
+      "price": 7150,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/74/3147814/1.jpg?1717",
+      "description": ""
+    },
+    {
+      "id": 189,
+      "name": "DIARY BABY LOTION AMINO ACID",
+      "price": 7150,
+      "imageUrl": "https://munacosmetics.com/image/cache/catalog/Beautiful%20Skin/Baby-Secre-800x800.jpg",
+      "description": ""
+    },
+    {
+      "id": 190,
+      "name": "BABY DIARY BATH 1000ML AMINO ACID",
+      "price": 8450,
+      "imageUrl": "https://cartnear.s3.us-east-2.amazonaws.com/ng/15af293f566d592c2405b7781f683ce1.jpg",
       "description": ""
     }
   ]
