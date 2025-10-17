@@ -1380,6 +1380,153 @@
       "price": 8450,
       "imageUrl": "https://cartnear.s3.us-east-2.amazonaws.com/ng/15af293f566d592c2405b7781f683ce1.jpg",
       "description": ""
+    },
+    {
+      "id": 191,
+      "name": "BABY DIARY BATH HONEY & GOAT MILK",
+      "price": 8450,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/58/3147814/1.jpg?2455",
+      "description": ""
+    },
+    {
+      "id": 192,
+      "name": "BABY DIARY BATH 1000ML VITAMIN C",
+      "price": 8450,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/4147814/1.jpg?3132",
+      "description": ""
+    },
+    {
+      "id": 193,
+      "name": "ADAY KITS TABS",
+      "price": 3000,
+      "imageUrl": "https://vanguardpharmacy.com/wp-content/uploads/2023/11/ADAY-KIT.jpg",
+      "description": ""
+    },
+    {
+      "id": 194,
+      "name": "LANOLINE BABY GLOW MUM & DAD",
+      "price": 4550,
+      "imageUrl": "https://cartnear.s3.us-east-2.amazonaws.com/ng/29468e8bbacb08fc8a5016fedbe55484.jpg",
+      "description": ""
+    },
+    {
+      "id": 195,
+      "name": "LANOLINE BABY GLOW SOAP",
+      "price": 2200,
+      "imageUrl": "https://mainmarketonline.com/wp-content/uploads/2023/06/Baby-Glow-Body-Soap-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 196,
+      "name": "BABY SECRET SOAP VITAMIN C & NIACINAMIDE",
+      "price": 2100,
+      "imageUrl": "https://kyemenbabyonline.com/cdn/shop/files/wash6-Photoroom_530x.png?v=1739534729",
+      "description": ""
+    },
+    {
+      "id": 197,
+      "name": "LANOLINE BABY GLOW SHEA & COCOA WASH",
+      "price": 9450,
+      "imageUrl": "https://i.ebayimg.com/images/g/HIkAAOSwsHtm42HP/s-l1200.jpg",
+      "description": ""
+    },
+    {
+      "id": 198,
+      "name": "ARDEN KIDS & TEENS LOTION 500ML",
+      "price": 8450,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxe9umbeY_KX_FVf_OL--xdyZs_ncbUt-YPw&s",
+      "description": ""
+    },
+    {
+      "id": 199,
+      "name": "BABY SECRET SHOWER GEL VITAMIN C",
+      "price": 11700,
+      "imageUrl": "https://i0.wp.com/buybetter.ng/wp-content/uploads/2025/07/Add_a_heading_261-optimized.png",
+      "description": ""
+    },
+    {
+      "id": 200,
+      "name": "KIDS & TEENS MOISTURIZING BODY MILK 350ML",
+      "price": 3050,
+      "imageUrl": "https://lamifragrance.com/wp-content/uploads/2023/07/kids-teens-body-milk.webp",
+      "description": ""
+    },
+    {
+      "id": 201,
+      "name": "MOTHER DREAM LOTION BODY MILK",
+      "price": 11050,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXLWaDa4e0AlcB2BvdOuS3sxX74s-bIN1U2g&s",
+      "description": ""
+    },
+    {
+      "id": 202,
+      "name": "KIDS & MORE VITAMIN C MIX FRUITS",
+      "price": 3250,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDYcscvPLy5Xf-KxfYJ4aFpQggvJEEVCUsfKzM5CwkWx18Jsk9zouACZNY_MpJMLnqgg&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 203,
+      "name": "LANOLINE BABY GLOW AMINO ACID",
+      "price": 9250,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/74/3665814/1.jpg?3709",
+      "description": ""
+    },
+    {
+      "id": 204,
+      "name": "LANOLINE BABY GLOW LANOLINE & NIACINAMIDE LOTION",
+      "price": 9250,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/65/602729/1.jpg?0104",
+      "description": ""
+    },
+    {
+      "id": 205,
+      "name": "MOTHER DREAM DEEPLY NOURISHING SHOWER GEL",
+      "price": 13000,
+      "imageUrl": "https://www.cocci.com.ng/cdn/shop/products/mot.jpg?v=1630933530",
+      "description": ""
+    },
+    {
+      "id": 206,
+      "name": "UNIQUE KIDS & TEENS LOTION 5OOML",
+      "price": 5200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-88arCVYqu8VMaormuZTF97ztwRp-C34tvQ&s",
+      "description": ""
+    },
+    {
+      "id": 207,
+      "name": "MEDIX 5.5 KIDS SWEET ALMOND TUMERIC GLOW WASH",
+      "price": 5200,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/28/1886814/1.jpg?3200",
+      "description": ""
+    },
+    {
+      "id": 208,
+      "name": "MEDIX 5.5 KIDS NATURAL FAIRNESS WASH",
+      "price": 5200,
+      "imageUrl": "https://amalenaonline.com.gh/wp-content/uploads/2025/07/DSC03544-1.png",
+      "description": ""
+    },
+    {
+      "id": 209,
+      "name": "SEBA MED BUBBLE BATH WITH CAMOMILE",
+      "price": 9100,
+      "imageUrl": "https://kiddiestreat.com/wp-content/uploads/2021/09/Baby-Sebamed-Bubble-Bath.jpg",
+      "description": ""
+    },
+    {
+      "id": 210,
+      "name": "MEDIX 5.5 KIDS SKIN POLISH WASH",
+      "price": 5200,
+      "imageUrl": "https://cartnear.s3.us-east-2.amazonaws.com/ng/d011599da7856360ea1b75be786a744e.jpg",
+      "description": ""
+    },
+    {
+      "id": 211,
+      "name": "MEDIX 5.5 NATURAL FAIRNESS +OLIVE OIL",
+      "price": 5200,
+      "imageUrl": "https://sliquebeautylimited.com/wp-content/uploads/2025/06/MEDIX-5.5-JUNIOR-LOTION-400ML-NATURAL-FAIRNESS-OLIVE-OIL.webp",
+      "description": ""
     }
   ]
 }
