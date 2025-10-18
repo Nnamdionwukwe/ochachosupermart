@@ -3436,9 +3436,296 @@
     },
     {
       "id": 475,
-      "name": "FACEFACT BODY CLEANSER",
+      "name": "FACE FACT BODY CLEANSER",
       "price": 2600,
       "imageUrl": "https://peronabeauty.com/wp-content/uploads/2025/07/facefacts-_320889.jpg",
+      "description": ""
+    },
+    {
+      "id": 478,
+      "name": "APRICOT FACIAL SCRUB",
+      "price": 2600,
+      "imageUrl": "https://riftvalley.ng/wp-content/uploads/2024/01/Beauty-Formula-Apricot-Facial-Scrub-150ml-Price-3200-300x300.jpg",
+      "description": ""
+    },
+    {
+      "id": 479,
+      "name": "VEET MAGIC WHITE MILK LOTION",
+      "price": 13000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/38/9734711/1.jpg?6861",
+      "description": ""
+    },
+    {
+      "id": 480,
+      "name": "IP UP MASSAGE CREAM",
+      "price": 5200,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/31/5016213/1.jpg?2928",
+      "description": ""
+    },
+    {
+      "id": 481,
+      "name": "MEGA GROWTH SHAMPOO ANTI BREAKAGE",
+      "price": 3650,
+      "imageUrl": "https://megagrowth.com/nigeria/images/products/SSHAMP_1_1024x1024.png",
+      "description": ""
+    },
+    {
+      "id": 482,
+      "name": "RETTY COWRY MOIST CREAM",
+      "price": 14300,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/E/B/191182_1740837285.jpg",
+      "description": ""
+    },
+    {
+      "id": 483,
+      "name": "RETINOL FACIAL CREAM",
+      "price": 13000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/93/5929803/1.jpg?9936",
+      "description": ""
+    },
+    {
+      "id": 484,
+      "name": "ANUA DARK SPOT CORRECTOR SERUM",
+      "price": 19500,
+      "imageUrl": "https://cdn11.bigcommerce.com/s-hwo2s3k4l6/images/stencil/1280x1280/products/456/3535/Product_Images__70150.1744368238.png?c=2",
+      "description": ""
+    },
+    {
+      "id": 489,
+      "name": "ANUA FACIAL WASH",
+      "price": 19500,
+      "imageUrl": "https://allure.com.ng/wp-content/uploads/2024/06/Anua-pore-deep-1-800x800.jpg",
+      "description": ""
+    },
+    {
+      "id": 490,
+      "name": "ANUA RICE 70 GLOW TONER",
+      "price": 19500,
+      "imageUrl": "https://i0.wp.com/shopstation.ng/wp-content/uploads/2024/08/img_8311.jpeg?fit=1080%2C1080&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 491,
+      "name": "ANUA PEACH NIACIN SERUM",
+      "price": 19500,
+      "imageUrl": "https://rhemabeautyshop.com/wp-content/uploads/2024/07/JPEG-image-.jpeg",
+      "description": ""
+    },
+    {
+      "id": 492,
+      "name": "ANUA SOOTHING TONER",
+      "price": 19500,
+      "imageUrl": "https://allure.com.ng/wp-content/uploads/2023/10/anua-heartleaf-toner-2-800x800.jpg",
+      "description": ""
+    },
+    {
+      "id": 493,
+      "name": "DOVE BODY SHOWER GEL",
+      "price": 19500,
+      "imageUrl": "https://www.myskincaremall.com/wp-content/uploads/2022/01/dovedeeplynoursihingbodywash-600x652.png",
+      "description": ""
+    },
+    {
+      "id": 494,
+      "name": "SKIN AQUA SPF 50",
+      "price": 15600,
+      "imageUrl": "https://i0.wp.com/buybetter.ng/wp-content/uploads/2023/05/SA-NEW-WEBSITE-optimized.png",
+      "description": ""
+    },
+    {
+      "id": 495,
+      "name": "SNAPCHAT BODY WAQSH GLUTATHIONE",
+      "price": 33800,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWZVb6a5vywnK40tuzFtHBXqEiOXXz79l2w&s",
+      "description": ""
+    },
+    {
+      "id": 496,
+      "name": "SNAPCHAT BODY WASH DIANANT BLEU",
+      "price": 33800,
+      "imageUrl": "https://sbbeauty.com.ng/cdn/shop/files/Screenshot-20240423_220707_Photoroom.jpg?v=1713906906",
+      "description": ""
+    },
+    {
+      "id": 497,
+      "name": "CERAVE MOIST LOTION",
+      "price": 14300,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2022/05/cerave-aily-moisturising-lotion-12oz.jpg",
+      "description": ""
+    },
+    {
+      "id": 498,
+      "name": "CERAVE ITCH RELIEF MOIST LOTION",
+      "price": 14300,
+      "imageUrl": "https://africa.cerave.com/en/-/media/Project/Loreal/BrandSites/CeraVe/Master/US/Product/Moisturizers/Gallery/Itch_Relief_Moisturizing_Lotion_8oz_FRONT_004_v2_CLNT.png",
+      "description": ""
+    },
+    {
+      "id": 499,
+      "name": "CERAVE SA SMOTHING CLEANSER",
+      "price": 14300,
+      "imageUrl": "https://static.beautytocare.com/cdn-cgi/image/f=auto/media/catalog/product/c/e/cerave-sa-smoothing-cleanser-bumpy-skin.jpg",
+      "description": ""
+    },
+    {
+      "id": 500,
+      "name": "CERAVE SA LOTION FOR ROUGH & BUMPY SKIN",
+      "price": 14300,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/30/5302804/1.jpg?0167",
+      "description": ""
+    },
+    {
+      "id": 501,
+      "name": "LA ROCHE POSAY FACIAL WASH",
+      "price": 29900,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2022/03/La-Roche-Posay-Purifying-Foaming-Cleanser-400-ml-13.52-fl-oz.jpg",
+      "description": ""
+    },
+    {
+      "id": 502,
+      "name": "LA ROCHE POSAY FACIAL WASH",
+      "price": 29900,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2022/03/La-Roche-Posay-Purifying-Foaming-Cleanser-400-ml-13.52-fl-oz.jpg",
+      "description": ""
+    },
+    {
+      "id": 503,
+      "name": "LA VROCHE POSAY BODY CREAM",
+      "price": 29900,
+      "imageUrl": "https://www.24eleven.ng/pub/media/catalog/product/cache/1/image/700x700/e9c3970ab036de70892d86c6d221abfe/i/m/img_0824.jpg",
+      "description": ""
+    },
+    {
+      "id": 504,
+      "name": "PANOXYL ACNE FACE WASH",
+      "price": 19500,
+      "imageUrl": "https://rhemabeautyshop.com/wp-content/uploads/2023/04/panoxyl-creamy-wash-new.jpg",
+      "description": ""
+    },
+    {
+      "id": 505,
+      "name": "LA ROCHE POSAY SUNSCREEN SPF 50",
+      "price": 19500,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/03/lrpproductpagesunantheliosuvmune400fluidspspf503337875797597frontpng.webp",
+      "description": ""
+    },
+    {
+      "id": 506,
+      "name": "ACNE PATCH CENTELLA ASIATICA",
+      "price": 600,
+      "imageUrl": "https://beautieslab.co/cdn/shop/files/wonder-releaf-centella-pimple-patch-purito-produit-pur1-beauties-lab-831158.png?v=1743464781",
+      "description": ""
+    },
+    {
+      "id": 507,
+      "name": "THE ORDINARY SERUM",
+      "price": 13000,
+      "imageUrl": "https://i5.walmartimages.com/seo/The-Ordinary-Niacinamide-10-Zinc-1-Serum-1-oz_81dcf5ff-5ba7-4848-861b-5d2b2d598de7.71104854b4cfdafc3c56a544c1ab9ee4.jpeg",
+      "description": ""
+    },
+    {
+      "id": 508,
+      "name": "ASELINE GLUTA-HYA",
+      "price": 10400,
+      "imageUrl": "https://assets.unileversolutions.com/v1/101137931.png",
+      "description": ""
+    },
+    {
+      "id": 509,
+      "name": "NEUTROGENA RAPID CLEAR",
+      "price": 26000,
+      "imageUrl": "https://i0.wp.com/shopstation.ng/wp-content/uploads/2023/05/6806068_nocolor_0_011c7315-b8db-4249-925e-7ae91667b16e_800x.webp?fit=800%2C962&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 510,
+      "name": "NEUTROGENA ACNE STRESS CONTROL",
+      "price": 26000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/6834104/1.jpg?6606",
+      "description": ""
+    },
+    {
+      "id": 511,
+      "name": "KIRKLAND FLUSHABLE WIPES",
+      "price": 5200,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/47/1307093/1.jpg?2774",
+      "description": ""
+    },
+    {
+      "id": 512,
+      "name": "FINAL GLOW HALF CAST LOTION WITH VITAMIN C",
+      "price": 19500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/09/9507814/1.jpg?7451",
+      "description": ""
+    },
+    {
+      "id": 513,
+      "name": "FINAL GLOW HALF CAST LOTION WITH GLUTATHIONE",
+      "price": 19500,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/H/G/191182_1721220499.jpg",
+      "description": ""
+    },
+    {
+      "id": 514,
+      "name": "FINAL GLOW HALF CAST LOTION WITH KOJIC",
+      "price": 19500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/0517814/1.jpg?2678",
+      "description": ""
+    },
+    {
+      "id": 515,
+      "name": "POCKET BOMB VANILLE",
+      "price": 1500,
+      "imageUrl": "https://tsafragrances.com/wp-content/uploads/2025/02/40815cba-feba-4a1b-ba2a-d8ea19f15125.jpeg",
+      "description": ""
+    },
+    {
+      "id": 516,
+      "name": "POCKET BOMB 212",
+      "price": 1500,
+      "imageUrl": "https://creams.ng/wp-content/uploads/2025/04/pocket-body-spray.jpeg",
+      "description": ""
+    },
+    {
+      "id": 517,
+      "name": "POCKET BOMB BABYCAT",
+      "price": 1500,
+      "imageUrl": "https://creams.ng/wp-content/uploads/2025/04/pocket-body-spray.jpeg",
+      "description": ""
+    },
+    {
+      "id": 518,
+      "name": "POCKET BOMB QISSA PINK",
+      "price": 1500,
+      "imageUrl": "https://creams.ng/wp-content/uploads/2025/04/pocket-body-spray.jpeg",
+      "description": ""
+    },
+    {
+      "id": 519,
+      "name": "POCKET BOMB AMOUAGE GUIDANCE",
+      "price": 1500,
+      "imageUrl": "https://tsafragrances.com/wp-content/uploads/2025/02/bb560652-5cf8-4c32-bfd9-42ace4aea2d2-400x400.jpeg",
+      "description": ""
+    },
+    {
+      "id": 520,
+      "name": "POCKET BOMB INITIO",
+      "price": 1500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-mbkeNlgmGP22XMdSvV1w2GGeSXFCkd8nqw&s",
+      "description": ""
+    },
+    {
+      "id": 521,
+      "name": "POCKECT BOMB ASAD",
+      "price": 1500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOlq95QKgGyI_8MAh9Jy4JXdhuLgZaY_VpCQ&s",
+      "description": ""
+    },
+    {
+      "id": 522,
+      "name": "POCKECT BOMB APPLE GREEN",
+      "price": 1500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGcJknadezYi7RGOZKjYJk-CpZSGDxj0c3g&s",
       "description": ""
     }
   ]
