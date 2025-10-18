@@ -4,17 +4,20 @@ import "./CategoryNavLinkSlider.css";
 
 const categories = [
   { name: "All", path: "/products" },
-  { name: "Phamarcy", path: "/products/phamarcy" },
   { name: "Cosmetics", path: "/products/cosmetics" },
-  { name: "Apparel", path: "/products/apparel" },
-  { name: "Men's Wear", path: "/products/MensWear" },
+  { name: "Phamarcy", path: "/products/phamarcy" },
+  { name: "Beverages", path: "/products/beverages" },
+  { name: "Cereals", path: "/products/cereals" },
   { name: "Toiletries", path: "/products/toiletries" },
-  { name: "Books", path: "/products/books" },
-  { name: "Tools", path: "/products/tools" },
-  { name: "Outdoor", path: "/products/outdoor" },
-  { name: "Gaming", path: "/products/gaming" },
-  { name: "Toys", path: "/products/toys" },
-  { name: "Music", path: "/products/music" },
+  { name: "Kitchen Utensis", path: "/products/kitchenutensis" },
+  { name: "Food/Condiments", path: "/products/foodcondiments" },
+  { name: "Chocolate", path: "/products/Chocolate" },
+  { name: "Cigars", path: "/products/cigar" },
+  { name: "Frozen Food", path: "/products/frozenfood" },
+  { name: "Wines And Spirits", path: "/products/winesspritts" },
+  { name: "Soft Drinks", path: "/products/softdrinks" },
+  { name: "Toys And Games", path: "/products/toysgames" },
+  { name: "Stationaries", path: "/products/stationaries" },
 ];
 
 const CategoryNavLinkSlider = () => {

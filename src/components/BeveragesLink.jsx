@@ -2,8 +2,7 @@ import ProductCard from "./ProductCard";
 import styles from "./ProductList.module.css";
 import { useProductFilter } from "../context/ProductFilterContext";
 
-const ApparelList = () => {
-  // const { filteredProducts, searchTerm } = useCart();
+const BeveragesList = () => {
   const { filteredPharmacy, searchTerm } = useProductFilter();
 
   return (
@@ -21,4 +20,4 @@ const ApparelList = () => {
   );
 };
 
-export default ApparelList;
+export default BeveragesList;
