@@ -2173,10 +2173,220 @@
       "description": ""
     },
     {
-      "id": 315,
-      "name": "IRISH GOLD MAXI-TONE BODY LOTION",
+      "id": 316,
+      "name": "IRISH GOLD CAROTENE EXTRACT 300ML",
       "price": 3150,
-      "imageUrl": "https://www.imoayi.com/storage/images-1/olay/irish-gold-complexion-maxi-tone-569x569.png",
+      "imageUrl": "https://imoayi.com/storage/images-1/olay/irish-gold-with-carotene-extract-toning-formula-569x569.png",
+      "description": ""
+    },
+    {
+      "id": 317,
+      "name": "VASELINE UV EXTRA BRIGTHENING GLUTA CERAMIDE",
+      "price": 22100,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/09/7716814/1.jpg?6825",
+      "description": ""
+    },
+    {
+      "id": 318,
+      "name": "VASELINE COCOA RADIANT",
+      "price": 22100,
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsl/vsl28730/y/8.jpg",
+      "description": ""
+    },
+    {
+      "id": 319,
+      "name": "VASELINE GLUTA-HYA LOTION PRO-AGE RESTORE",
+      "price": 5200,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2023/12/IMG-2320-j_892069.jpg",
+      "description": ""
+    },
+    {
+      "id": 320,
+      "name": "VASELINE GLUTA-HYA LOTION",
+      "price": 5200,
+      "imageUrl": "https://i0.wp.com/buybetter.ng/wp-content/uploads/2023/08/4167669000000137136-optimized.jpg",
+      "description": ""
+    },
+    {
+      "id": 321,
+      "name": "VASELINE GLUTA-HYA OVERNIGHT RADIANCE REPIAR",
+      "price": 12500,
+      "imageUrl": "https://assets.unileversolutions.com/v1/88427901.png",
+      "description": ""
+    },
+    {
+      "id": 322,
+      "name": "VASELINE GLUTA-HYA PRO-AGE RESTORE",
+      "price": 12500,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2023/12/IMG-2320-j_892069.jpg",
+      "description": ""
+    },
+    {
+      "id": 323,
+      "name": "VASELINE GLUTA-HYA DEWY RIADIANCE",
+      "price": 12500,
+      "imageUrl": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/ph/16baaf0e-3b3b-463c-bc4a-c4bf6447b6ed.jpg?height=480",
+      "description": ""
+    },
+    {
+      "id": 324,
+      "name": "DISAAR PAPAYA OIL",
+      "price": 1550,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/N/A/159996_1714063731.jpg",
+      "description": ""
+    },
+    {
+      "id": 323,
+      "name": "DISAAR TUMERIC OIL",
+      "price": 13000,
+      "imageUrl": "https://www.makro.co.za/asset/rukmini/fccp/850/1000/ng-fkpublic-ui-user-fbbe/bath-essential-oil/2/a/j/100-turmeric-oil-pack-2-disaar-original-imah9ymmdtmfk9ux.jpeg?q=20",
+      "description": ""
+    },
+    {
+      "id": 324,
+      "name": "VASELINE VITAMIN B3 200ML",
+      "price": 13000,
+      "imageUrl": "https://lh3.googleusercontent.com/proxy/m0q-yT1MCMf6OFGDCoKCK-RHX7Jiicx-Pvk8LE-p7oc2KWMUe-e4FegicmHFuP_LQ-azLniD9h3W6qkI4Wmg4zIIzLeCNbRKoFYMlOHXc0jDQVoZaVaMANGuUMMx63rU23R2f1vbDi9S8QfRWdcr-zTcg-qRNSKYyYjUHdDOAOZ7JWKh_V0",
+      "description": ""
+    },
+    {
+      "id": 324,
+      "name": "VASELINE COCOA RADIANT 200ML",
+      "price": 13000,
+      "imageUrl": "https://assets.unileversolutions.com/v1/109657579.png",
+      "description": ""
+    },
+    {
+      "id": 325,
+      "name": "VASELINE ADVANCED REPAIR 200ML",
+      "price": 13000,
+      "imageUrl": "https://assets.unileversolutions.com/v1/1702331.png",
+      "description": ""
+    },
+    {
+      "id": 326,
+      "name": "VASELIN COCOA OIL 200ML",
+      "price": 13000,
+      "imageUrl": "https://i0.wp.com/shopstation.ng/wp-content/uploads/2023/05/71pmniQ2-ML.jpg?fit=2560%2C2560&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 327,
+      "name": "NIVEA LOTION EXTRA WHITENING CELL REPAIR",
+      "price": 25000,
+      "imageUrl": "https://m.media-amazon.com/images/S/aplus-media/sota/1240c434-7328-4bbe-86f0-45f6424aff9d.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "description": ""
+    },
+    {
+      "id": 328,
+      "name": "NIVEA Q10 PLUS VITAMIN C",
+      "price": 25000,
+      "imageUrl": "https://cdn.salla.sa/DGdDlG/1177b3e4-ad31-4ed7-9782-4bfc2e3019cc-1000x1000-7toMdm5nEX8h0BO58ryxzmW7jfrQ960nfnGgImEe.jpg",
+      "description": ""
+    },
+    {
+      "id": 329,
+      "name": "NIVEA EXTRA BRIGHT FIRM & SMOOTH",
+      "price": 25000,
+      "imageUrl": "https://img.nivea.com/-/media/miscellaneous/media-center-items/2/c/a/9cc584f60d0843eba3185fc11a325c45-screen.jpg",
+      "description": ""
+    },
+    {
+      "id": 330,
+      "name": "NIVEA EXTRA BRIGHT INSTA GLOW",
+      "price": 25000,
+      "imageUrl": "https://shopmamatega.com/cdn/shop/products/8999777008543_1080x.png?v=1702344913",
+      "description": ""
+    },
+    {
+      "id": 331,
+      "name": "NIVEA EXTRA REPAIR & PROTECT",
+      "price": 25000,
+      "imageUrl": "https://creams.ng/wp-content/uploads/2025/07/niveaaaa.jpg",
+      "description": ""
+    },
+    {
+      "id": 332,
+      "name": "DR TEAL`S SHEA SUGAR SCRUB",
+      "price": 14200,
+      "imageUrl": "https://m.media-amazon.com/images/I/61ZflVRCVdL._SL1000_.jpg",
+      "description": ""
+    },
+    {
+      "id": 334,
+      "name": "VASELINE EVEN TONE 725ML",
+      "price": 6500,
+      "imageUrl": "https://cdn.salla.sa/nGgdb/6d559150-3e40-40f9-937f-1ee9e92d0b2e-1000x1000-tYGlFtNf1Syi8gIYmr3SI7W5sDCsV6jHzOV5xsNC.jpg",
+      "description": ""
+    },
+    {
+      "id": 335,
+      "name": "KOJIC SEN SKIN LIGHTENING BODY LOTION",
+      "price": 13000,
+      "imageUrl": "https://mainmarketonline.com/wp-content/uploads/2023/05/Picsart_23-05-27_15-17-48-789-scaled.jpg",
+      "description": ""
+    },
+    {
+      "id": 336,
+      "name": "VASELINE DRY SKIN REPAIR",
+      "price": 22100,
+      "imageUrl": "https://assets.unileversolutions.com/v1/97206614.png",
+      "description": ""
+    },
+    {
+      "id": 337,
+      "name": "VASELINE DAILY BRIGTHENING 600ML",
+      "price": 22000,
+      "imageUrl": "https://allure.com.ng/wp-content/uploads/2025/02/vaseline-lotion.jpg",
+      "description": ""
+    },
+    {
+      "id": 338,
+      "name": "CAREX ANTIBACTERIAL SOAP 110G",
+      "price": 600,
+      "imageUrl": "https://chamuze.com/wp-content/uploads/2024/03/6-1000x1000.png",
+      "description": ""
+    },
+    {
+      "id": 339,
+      "name": "GUANJING PEELING FOOT MASK ROSE & HYALURONIC ACIS",
+      "price": 2000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/74/3823773/1.jpg?0532",
+      "description": ""
+    },
+    {
+      "id": 340,
+      "name": "GUANJING PEELING FOOT MASK LEVENDER & COLLAGEN",
+      "price": 2000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/5015703/1.jpg?6904",
+      "description": ""
+    },
+    {
+      "id": 341,
+      "name": "JOHNSON BABY LOTION 500ML",
+      "price": 8150,
+      "imageUrl": "https://pleasantplacesbabylines.com/storage/2021/10/IMG-20211014-WA0010.jpg",
+      "description": ""
+    },
+    {
+      "id": 342,
+      "name": "JOHNSON BABY LOTION 300ML",
+      "price": 6000,
+      "imageUrl": "https://m.media-amazon.com/images/I/61kZZ3J-C4L._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 343,
+      "name": "JOHNSON BABY BATH 300ML",
+      "price": 3800,
+      "imageUrl": "https://www.travelpharm.com/uploads/images/products/large/16814692051613135236-07715200.jpg",
+      "description": ""
+    },
+    {
+      "id": 345,
+      "name": "JOHNSON BABY SHAMPOO 300ML",
+      "price": 3200,
+      "imageUrl": "https://m.media-amazon.com/images/I/612OVk+I0wL._UF1000,1000_QL80_.jpg",
       "description": ""
     }
   ]
