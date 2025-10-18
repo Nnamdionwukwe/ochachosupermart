@@ -2094,6 +2094,90 @@
       "price": 1400,
       "imageUrl": "https://www.cussonsbaby.com.ng/wp-content/uploads/2020/05/PZC-BABY_MG_JELLY-min.png",
       "description": ""
+    },
+    {
+      "id": 305,
+      "name": "STYLIN DREDZ MOULDIN GEL WAX",
+      "price": 5300,
+      "imageUrl": "https://cdn.myshoptet.com/usr/www.kanekalon-store.cz/user/shop/big/12100-1_medias-2.jpg?64413118",
+      "description": ""
+    },
+    {
+      "id": 306,
+      "name": "KOJIE SAN SKIN LIGHTENING SOAP",
+      "price": 6500,
+      "imageUrl": "https://lamifragrance.com/wp-content/uploads/2022/06/kojie-san-soap.webp",
+      "description": ""
+    },
+    {
+      "id": 307,
+      "name": "WHITE SECRET LIGHTENING OIL",
+      "price": 1200,
+      "imageUrl": "https://i0.wp.com/serinacosmetics.com/wp-content/uploads/2024/03/White-Secret-Lightening-Oil-60ml_prev_ui.jpg?fit=500%2C500&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 308,
+      "name": "FRUISER DOUBLE MOISTURISING SHOWER",
+      "price": 9850,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/53/2350852/1.jpg?9456",
+      "description": ""
+    },
+    {
+      "id": 309,
+      "name": "FRUISER DOUBLE MOISTURISING SHOWER",
+      "price": 9100,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/03/5845752/1.jpg?6604",
+      "description": ""
+    },
+    {
+      "id": 310,
+      "name": "FRUISER DOUBLE MOISTURISING SHOWER",
+      "price": 9850,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/products/spmzz1084.jpg?v=1688288985&width=1214",
+      "description": "GREEN"
+    },
+    {
+      "id": 311,
+      "name": "SERSANLOVE CLEANING MOUSE",
+      "price": 7800,
+      "imageUrl": "https://media.enomy.com/item_images/1734125306625_f021116c-0ffe-4ff6-a7e3-60c66f954b87.jpeg",
+      "description": ""
+    },
+    {
+      "id": 312,
+      "name": "SERSANLOVE CLEANING MOUSSE PURE VITAMIN C10",
+      "price": 7800,
+      "imageUrl": "https://sc04.alicdn.com/kf/Hc5798950f1ff4afc8c53f9fa3dec4b91Z.jpg",
+      "description": ""
+    },
+    {
+      "id": 313,
+      "name": "SERSANLOVE CLEANSING MOUSSE RETINOL",
+      "price": 7800,
+      "imageUrl": "https://s.alicdn.com/@sc04/kf/Hcf1f84d9a7404827a73af9eda2e9eadau.jpg",
+      "description": ""
+    },
+    {
+      "id": 314,
+      "name": "IRISH GOLD FADE MILK BODY LOTION",
+      "price": 3150,
+      "imageUrl": "https://www.visibleimagecosmetics.com/wp-content/uploads/2022/07/Irish-Gold-Fade-Body-Milk.png",
+      "description": ""
+    },
+    {
+      "id": 315,
+      "name": "IRISH GOLD MAXI-TONE BODY LOTION",
+      "price": 3150,
+      "imageUrl": "https://www.imoayi.com/storage/images-1/olay/irish-gold-complexion-maxi-tone-569x569.png",
+      "description": ""
+    },
+    {
+      "id": 315,
+      "name": "IRISH GOLD MAXI-TONE BODY LOTION",
+      "price": 3150,
+      "imageUrl": "https://www.imoayi.com/storage/images-1/olay/irish-gold-complexion-maxi-tone-569x569.png",
+      "description": ""
     }
   ]
 }
