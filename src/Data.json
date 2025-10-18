@@ -1814,6 +1814,286 @@
       "price": 2000,
       "imageUrl": "https://www.supermart.ng/cdn/shop/files/sptotp1279_gervene-bouquet-powder-illusion.jpg?v=1689098324",
       "description": ""
+    },
+    {
+      "id": 254,
+      "name": "EUCERIN EVEN PIGMENT PERFECTOR DAY CREAM",
+      "price": 40350,
+      "imageUrl": "https://i0.wp.com/buybetter.ng/wp-content/uploads/2025/05/ln-ol-fdavf-2-optimized.webp",
+      "description": ""
+    },
+    {
+      "id": 255,
+      "name": "THE ORDINARY GLYCOLI ACID TONER",
+      "price": 24500,
+      "imageUrl": "https://thebeautyprismng.com/wp-content/uploads/2022/11/Glycolic-Acid-7_-Toning-Solution.jpg",
+      "description": ""
+    },
+    {
+      "id": 256,
+      "name": "5.5 MEDIX COLLAGEN",
+      "price": 21600,
+      "imageUrl": "https://www.csigrocery.com/wp-content/uploads/2025/06/Medix-5.5-1.png",
+      "description": ""
+    },
+    {
+      "id": 257,
+      "name": "VITA B3 MIST TONER",
+      "price": 18500,
+      "imageUrl": "https://perfecttrustbeauty.com/cdn/shop/files/tiam_vita_b3_mist_toner_01_procosmetics_by-1-e1730446301387.jpg?v=1732020172&width=1024",
+      "description": ""
+    },
+    {
+      "id": 258,
+      "name": "ESTELIN SUNSCREEN SPF 50GM",
+      "price": 5400,
+      "imageUrl": "https://i0.wp.com/buybetter.ng/wp-content/uploads/2024/08/ajta3j9r-optimized.png",
+      "description": ""
+    },
+    {
+      "id": 259,
+      "name": "AQUA SUNSCREN SPF50",
+      "price": 18200,
+      "imageUrl": "https://allure.com.ng/wp-content/uploads/2023/07/skin.jpg",
+      "description": ""
+    },
+    {
+      "id": 260,
+      "name": "ALCOHOL DISINFECTING WIPES",
+      "price": 750,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/aspar2160.jpg?v=1689118577",
+      "description": ""
+    },
+    {
+      "id": 261,
+      "name": "SALICYLIC ACID INTENSE SERUM 30ML",
+      "price": 10800,
+      "imageUrl": "https://peronabeauty.com/wp-content/uploads/2024/02/Creightons-Salicylic-Acid-Intense-Serum-30ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 262,
+      "name": "VEET HAIR REMOVAL CREAM 100ML",
+      "price": 6900,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/OkeA3333_grande.jpg?v=1689141720",
+      "description": ""
+    },
+    {
+      "id": 263,
+      "name": "FEMFRESH INTIMATE SKIN CARE 250ML",
+      "price": 7700,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2023/02/hhZHbgxqFr20220901163228_515-1-1.png",
+      "description": ""
+    },
+    {
+      "id": 264,
+      "name": "CETAPHIL BABY GENTLE WASH",
+      "price": 24500,
+      "imageUrl": "https://shopmamatega.com/cdn/shop/products/1315_1080x.png?v=1702111519",
+      "description": ""
+    },
+    {
+      "id": 265,
+      "name": "ZAPZYT ACNE WASH CLEANSER 177G",
+      "price": 15400,
+      "imageUrl": "https://i0.wp.com/shopstation.ng/wp-content/uploads/2023/05/zapzyt-wash-new.jpg?fit=700%2C700&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 266,
+      "name": "NIVEA MEN DEEP IMPACT 400ML",
+      "price": 6000,
+      "imageUrl": "https://img.nivea.com/-/media/miscellaneous/media-center-items/6/8/8/228068-2.jpg",
+      "description": ""
+    },
+    {
+      "id": 267,
+      "name": "NIVEA RADIANT & BEAUTY ADVANCED CARE 400ML",
+      "price": 5000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/20/1433401/6.jpg?8333",
+      "description": ""
+    },
+    {
+      "id": 267,
+      "name": "ACTIVE CAVIAR DRIP FACE CREAM 50G",
+      "price": 7000,
+      "imageUrl": "https://mainmarketonline.com/wp-content/uploads/2024/05/img_0061.jpeg",
+      "description": ""
+    },
+    {
+      "id": 268,
+      "name": "ANEEZA GOLD 20G",
+      "price": 3800,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLarq8wV4U7_4l8u-Fi8NqsPfJavdE9UIaYJEuHxx9qiuww6x5qbW-GIA28oFR7vBKHbU&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 269,
+      "name": "THE QUEEN PERFUME 100ML",
+      "price": 15000,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/m/o/montwood_paris_the_queen_edp_100ml.jpg-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 270,
+      "name": "CAPRICE AL NASHAMA PERFUM 100ML",
+      "price": 297400,
+      "imageUrl": "https://lh3.googleusercontent.com/proxy/ARIYHlWzMqX6tIYbrocc9Mk_kLy8WZLOToXqgqns1SVizYNgoneuMjWIT3KkvalvIuh_Z2iRuJECEraS2OXDRNfDeCVv0LydSAuHzKUXQ9g1bGu1GwFpgT4v_RmkuTqF_w",
+      "description": ""
+    },
+    {
+      "id": 271,
+      "name": "ST.IVES SOFTENING BODY LOTION COCOUNT & ORCHHID",
+      "price": 10800,
+      "imageUrl": "https://m.media-amazon.com/images/I/51VIHgzr34L._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 272,
+      "name": "JERGENS SOOTHING ALOE RELIEF 295ML",
+      "price": 2300,
+      "imageUrl": "https://m.media-amazon.com/images/I/61tEu9hn7ZL._UF894,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 273,
+      "name": "EUCERIN EXTREMELY DRY 500ML",
+      "price": 27900,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/04/616cQussrFL._SL1500.webp",
+      "description": "COMPROMISED SKIN ORIGINAL HEALING LOTION"
+    },
+    {
+      "id": 274,
+      "name": "EUCERIN DRY CALMING ITCH 500ML",
+      "price": 27900,
+      "imageUrl": "https://m.media-amazon.com/images/I/51mintR77pL._UF1000,1000_QL80_.jpg",
+      "description": "SOOTHING LOTION"
+    },
+    {
+      "id": 275,
+      "name": "SILKEN INDIAN HEMP 250ML",
+      "price": 4700,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/07/2008752/1.jpg?2392",
+      "description": ""
+    },
+    {
+      "id": 278,
+      "name": "LUSH HAIR EXTRA LIGHT SOFT 230g",
+      "price": 4000,
+      "imageUrl": "https://i0.wp.com/nigeria.lushhairafrica.com/wp-content/uploads/2025/04/51-54.jpg?fit=600%2C778&ssl=1",
+      "description": "SHINY WOW BRAIDS"
+    },
+    {
+      "id": 279,
+      "name": "SHINE `n JAM 113.5G",
+      "price": 6400,
+      "imageUrl": "https://girlyessentials.com.ng/wp-content/uploads/2023/01/shinenjam.jpg",
+      "description": ""
+    },
+    {
+      "id": 280,
+      "name": "MEGA GROWTH DAILY LEAVE-IN 43G",
+      "price": 300,
+      "imageUrl": "https://static.wixstatic.com/media/67a3b0_f34b0b5ec9374887aaa1fa1b1ead364a~mv2.png/v1/fill/w_336,h_504,al_c,lg_1,q_85,enc_avif,quality_auto/67a3b0_f34b0b5ec9374887aaa1fa1b1ead364a~mv2.png",
+      "description": "STRENGTHENER"
+    },
+    {
+      "id": 281,
+      "name": "NIVEA MEN BLACK & WHITE INVISIBLE 200ML",
+      "price": 5150,
+      "imageUrl": "https://img.nivea.com/-/media/miscellaneous/media-center-items/a/f/9/e3b13944d4694c0d8975a2d26b4af417-web_1010x1180_transparent_png.png",
+      "description": "ORIGINAL"
+    },
+    {
+      "id": 282,
+      "name": "NIVEA BLACK &WHITE INVISIBLE CLEAR 200ML",
+      "price": 5150,
+      "imageUrl": "https://girlyessentials.com.ng/wp-content/uploads/2024/04/niveablackandwhiteantiperspirant.webp",
+      "description": ""
+    },
+    {
+      "id": 283,
+      "name": "NIVEA DRY IMPACT 200ML",
+      "price": 5150,
+      "imageUrl": "https://img.nivea.com/-/media/miscellaneous/media-center-items/9/8/4/3391c16c8fdd4c5e82abcfaa7c0157c8-original.png",
+      "description": ""
+    },
+    {
+      "id": 284,
+      "name": "NIVEA MEN FRESH ACTIVE 200ML",
+      "price": 5150,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/sprnw1031.jpg?v=1688761780",
+      "description": ""
+    },
+    {
+      "id": 285,
+      "name": "NIVEA PEARL & BEAUTY 200ML",
+      "price": 5150,
+      "imageUrl": "https://img.nivea.com/-/media/miscellaneous/media-center-items/1/2/c/a4ed027f9dd64e33b6d3f27fe2972541-web_1010x1180_transparent_png.png",
+      "description": ""
+    },
+    {
+      "id": 286,
+      "name": "NIVEA MEN BLACK & WHITE 50ML",
+      "price": 2000,
+      "imageUrl": "https://img.nivea.com/-/media/miscellaneous/media-center-items/e/c/4/104166-web_1010x1180_transparent_png.png",
+      "description": ""
+    },
+    {
+      "id": 287,
+      "name": "NIVEA EXPREESS 5IN1 400ML",
+      "price": 4650,
+      "imageUrl": "https://static.beautytocare.com/cdn-cgi/image/width=1600,height=1600,f=auto/media/catalog/product//n/i/nivea-express-hydration-body-lotion-400ml_1.jpg",
+      "description": ""
+    },
+    {
+      "id": 289,
+      "name": "MEN ACTIVE 4,8G",
+      "price": 3100,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2020/09/Nivea-Active-For-Men-Lip-Balm-4.8g.jpg",
+      "description": ""
+    },
+    {
+      "id": 290,
+      "name": "NIVEA STRAWBERRY SHINE 4,8G",
+      "price": 3200,
+      "imageUrl": "https://img.nivea.com/-/media/miscellaneous/media-center-items/c/c/a/340726-screen.jpg",
+      "description": ""
+    },
+    {
+      "id": 300,
+      "name": "NIVEA MEN SENSITIVE SHAVING FOAM",
+      "price": 7120,
+      "imageUrl": "https://img.nivea.com/-/media/miscellaneous/media-center-items/4/0/e/364735-screen.jpg",
+      "description": ""
+    },
+    {
+      "id": 301,
+      "name": "NIVEA MEN DEEP COMFORT 100ML",
+      "price": 3820,
+      "imageUrl": "https://static.beautytocare.com/media/catalog/product/n/i/nivea-men-deep-comfort-after-shave-lotion-100ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 302,
+      "name": "NIVEA MEN 500ML",
+      "price": 6200,
+      "imageUrl": "https://img.nivea.com/-/media/miscellaneous/media-center-items/3/6/0/ca31652c44b94f57a64b9b47751d3455-screen.jpg",
+      "description": ""
+    },
+    {
+      "id": 303,
+      "name": "CUSSON BABYOIL MILD & GENTLE 200ML",
+      "price": 1850,
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 304,
+      "name": "CUSSONS BABY JELLY MILD & GENTLE 200ML",
+      "price": 1400,
+      "imageUrl": "https://www.cussonsbaby.com.ng/wp-content/uploads/2020/05/PZC-BABY_MG_JELLY-min.png",
+      "description": ""
     }
   ]
 }
