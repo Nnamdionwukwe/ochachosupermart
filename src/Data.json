@@ -632,45 +632,10 @@
 
   "cosmetics": [
     {
-      "id": 87,
-      "name": "VANILLA CRUSH BODY MIST 100ML",
-      "price": 2350,
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJeO4ZkMjebXBjPSD0yESvq1IrzaH9SBZe67eI-Xlwe_AHAm2CyO3ViQFg2qOhbcaEoes&usqp=CAU",
-      "description": ""
-    },
-    {
       "id": 88,
       "name": "E45 JUNIOR BODY WASH",
       "price": 6500,
       "imageUrl": "https://m.media-amazon.com/images/I/51+dWtfZyTL._UF1000,1000_QL80_.jpg",
-      "description": ""
-    },
-    {
-      "id": 89,
-      "name": "E45 JUMIOR LOTION",
-      "price": 6500,
-      "imageUrl": "https://m.media-amazon.com/images/I/517D09bm04L._UF894,1000_QL80_.jpg",
-      "description": ""
-    },
-    {
-      "id": 90,
-      "name": "SMART SECRET SAFEENA",
-      "price": 34200,
-      "imageUrl": "./smart.png",
-      "description": ""
-    },
-    {
-      "id": 91,
-      "name": "SMART SECRET HAMRAH",
-      "price": 34200,
-      "imageUrl": "./smart.png",
-      "description": ""
-    },
-    {
-      "id": 92,
-      "name": "SMART SECRET OUD FOR GOODESS",
-      "price": 34200,
-      "imageUrl": "./smart.png",
       "description": ""
     },
     {
@@ -1711,6 +1676,27 @@
       "description": ""
     },
     {
+      "id": 90,
+      "name": "SMART SECRET SAFEENA",
+      "price": 34200,
+      "imageUrl": "./smart.png",
+      "description": ""
+    },
+    {
+      "id": 91,
+      "name": "SMART SECRET HAMRAH",
+      "price": 34200,
+      "imageUrl": "./smart.png",
+      "description": ""
+    },
+    {
+      "id": 92,
+      "name": "SMART SECRET OUD FOR GOODESS",
+      "price": 34200,
+      "imageUrl": "./smart.png",
+      "description": ""
+    },
+    {
       "id": 239,
       "name": "ACNE PATCH DAY & NIGHT SADOER",
       "price": 500,
@@ -1984,6 +1970,13 @@
       "description": "SHINY WOW BRAIDS"
     },
     {
+      "id": 87,
+      "name": "VANILLA CRUSH BODY MIST 100ML",
+      "price": 2350,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJeO4ZkMjebXBjPSD0yESvq1IrzaH9SBZe67eI-Xlwe_AHAm2CyO3ViQFg2qOhbcaEoes&usqp=CAU",
+      "description": ""
+    },
+    {
       "id": 279,
       "name": "SHINE `n JAM 113.5G",
       "price": 6400,
@@ -2100,6 +2093,13 @@
       "name": "STYLIN DREDZ MOULDIN GEL WAX",
       "price": 5300,
       "imageUrl": "https://cdn.myshoptet.com/usr/www.kanekalon-store.cz/user/shop/big/12100-1_medias-2.jpg?64413118",
+      "description": ""
+    },
+    {
+      "id": 89,
+      "name": "E45 JUMIOR LOTION",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/517D09bm04L._UF894,1000_QL80_.jpg",
       "description": ""
     },
     {
