@@ -2383,10 +2383,220 @@
       "description": ""
     },
     {
-      "id": 345,
+      "id": 344,
       "name": "JOHNSON BABY SHAMPOO 300ML",
-      "price": 3200,
+      "price": 32200,
       "imageUrl": "https://m.media-amazon.com/images/I/612OVk+I0wL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 345,
+      "name": "JOHNSON BABY POWDER 500G",
+      "price": 4450,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spbppw2720_johnson_s-baby-powder-500g.jpg?v=1689007389",
+      "description": ""
+    },
+    {
+      "id": 346,
+      "name": "JOHNSON BABY POWDER 200G",
+      "price": 6650,
+      "imageUrl": "https://mamacare.ng/wp-content/uploads/2023/09/JOHNSONS-POWDER-200G.jpeg",
+      "description": ""
+    },
+    {
+      "id": 347,
+      "name": "BOOTS TRADITIONAL SKIN CARE 200ML",
+      "price": 11000,
+      "imageUrl": "https://www.imoayi.com/storage/product-categories/10130117.jpeg",
+      "description": "GLYCERIN AND ROSEWATER"
+    },
+    {
+      "id": 348,
+      "name": "PALMER'S SKIN SUCCESS WITH VIT E 250ML",
+      "price": 19200,
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pal/pal07706/y/41.jpg",
+      "description": ""
+    },
+    {
+      "id": 349,
+      "name": "EUCERIN UREAPEAIR PLUS 5% UREA BODY CREAM",
+      "price": 39200,
+      "imageUrl": "https://nectarbeautyhub.com/cdn/shop/files/eucerin-urea-repair-plus-5-urea-body-cream-for-dry-rough-skin-450ml-785632.jpg?v=1729653307",
+      "description": ""
+    },
+    {
+      "id": 350,
+      "name": "COSRX SALICYLIC ACID CLEANSER 150ML",
+      "price": 13000,
+      "imageUrl": "https://buybetter.ng/wp-content/uploads/2023/08/4167669000000143025-optimized.jpg",
+      "description": ""
+    },
+    {
+      "id": 351,
+      "name": "PRIME LIP POMADE CHAPTER",
+      "price": 600,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/9611443/1.jpg?4351",
+      "description": ""
+    },
+    {
+      "id": 352,
+      "name": "EUCERIN DERMO PURIFYER OIL CONTROL GEL 200ML",
+      "price": 19200,
+      "imageUrl": "https://dodptt9f4zk9h.cloudfront.net/stores/136706/products/ef93465ce4f1e73e591764d95569a5f1b47572bd.jpeg",
+      "description": ""
+    },
+    {
+      "id": 353,
+      "name": "DERMO PURIFYER OIL CONTROL TONER",
+      "price": 29120,
+      "imageUrl": "https://images-us.eucerin.com/~/media/eucerin%20relaunch%20media/media-center-items/e/3/e/017957784e29454189fa0809a26561b9-screen.jpg",
+      "description": ""
+    },
+    {
+      "id": 354,
+      "name": "BABY SEBA MED PH 5.5 CREAM EXTRA SOFT 200ML",
+      "price": 13900,
+      "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8bc16b79-f92c-42d1-8c38-1b0c7a9660a5.__CR0,0,650,350_PT0_SX650_V1___.png",
+      "description": ""
+    },
+    {
+      "id": 355,
+      "name": "CERAVE RENEWING SA CLEANSER 237ML",
+      "price": 24950,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/13/9242283/1.jpg?4313",
+      "description": ""
+    },
+    {
+      "id": 356,
+      "name": "CERAVE HYDRATING CLEANSER",
+      "price": 18500,
+      "imageUrl": "https://static.beautytocare.com/cdn-cgi/image/f=auto/media/catalog/product//c/e/cerave-hydrating-cleanser-normal-to-dry-skin-236ml_1_1.jpg",
+      "description": ""
+    },
+    {
+      "id": 357,
+      "name": "CERAVE PSORIASIS 237ML",
+      "price": 25200,
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products/psoriasis-cleanser/psoriasis-cleanser_front.jpg?rev=b89b401ba72b442d99a01a0bf0bbdccf",
+      "description": ""
+    },
+    {
+      "id": 358,
+      "name": "EQUITY DEODORANT BODY SPRAY 75ML",
+      "price": 1300,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/92/4301992/1.jpg?8763",
+      "description": ""
+    },
+    {
+      "id": 359,
+      "name": "KISS CHERIE PERFUMED DEODRANT 75ML",
+      "price": 1300,
+      "imageUrl": "https://www.padekhealthng.com/wp-content/uploads/2023/01/Kiss-Cherie-Perfume-Roll-On-50ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 360,
+      "name": "COOLBREEZE BODY SPRAY 75M",
+      "price": 1300,
+      "imageUrl": "https://shopmamatega.com/cdn/shop/products/TEGA454702_1080x.png?v=1702345647",
+      "description": ""
+    },
+    {
+      "id": 361,
+      "name": "OLITE PERFUME MASTERMIND BODY SPRAY 100ML",
+      "price": 1100,
+      "imageUrl": "https://m.media-amazon.com/images/I/41hV62EJmoL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
+      "description": ""
+    },
+    {
+      "id": 362,
+      "name": "ELITE PERFUME DEODORANT BODY SPRAY 100ML",
+      "price": 1100,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/11/388248/1.jpg?0147",
+      "description": ""
+    },
+    {
+      "id": 363,
+      "name": "PETALS STYLING GEL 225G",
+      "price": 600,
+      "imageUrl": "https://shoponclick.ng/storage/2023/10/Petals-Styling-Gel-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 364,
+      "name": "PETALS STYLING GEL 100G",
+      "price": 400,
+      "imageUrl": "https://shoponclick.ng/storage/2023/10/Petals-Styling-Gel-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 365,
+      "name": "CARE WHITE WITH CARROT OIL 500ML",
+      "price": 5600,
+      "imageUrl": "https://cdn.salla.sa/DGdDlG/79931eda-a906-42cd-b2f4-8dab7af4510b-1000x1000-V4i2jMhKSZKHpjQFlQkwQLqGkpkcmZIv4E7CWxFS.jpg",
+      "description": ""
+    },
+    {
+      "id": 366,
+      "name": "IDOLE SKIN LIGHTENING SHOWER CREAM 1000ML",
+      "price": 2000,
+      "imageUrl": "https://mainmarketonline.com/wp-content/uploads/2021/03/1-30.jpg",
+      "description": ""
+    },
+    {
+      "id": 367,
+      "name": "CARE WHITE SPF 50 VITAMIN C",
+      "price": 3500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/62/1076912/1.jpg?1177",
+      "description": ""
+    },
+    {
+      "id": 368,
+      "name": "HOLLYWOOD CURL SOLUTION KITS",
+      "price": 15500,
+      "imageUrl": "https://pictures-nigeria.jijistatic.net/72422037_NjIwLTQxMy0xOTIwOWI1MWNi.webp",
+      "description": ""
+    },
+    {
+      "id": 369,
+      "name": "WOMEN TEXTURE MY WAY",
+      "price": 13000,
+      "imageUrl": "https://www.shopsouthafrica.com.au/cdn/shop/files/Texture-my-way-Texturising-_-Softening-System-Women_1024x1024.png?v=1720598192",
+      "description": ""
+    },
+    {
+      "id": 370,
+      "name": "MAMIYA HAIR RELAXER KITS",
+      "price": 1400,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2fUAxeEwQEwQL8hDwltbZ7BK3ttcPUIiDg&s",
+      "description": ""
+    },
+    {
+      "id": 371,
+      "name": "VITAL OILIVE OIL RELAXER",
+      "price": 13400,
+      "imageUrl": "https://beta.ebeosi.com.ng/public/uploads/products/photos/ocEsBkxLCbbuwsTxu3HitJbguAFi0Alke0x3vdTp.jpeg",
+      "description": ""
+    },
+    {
+      "id": 372,
+      "name": "DARK AND LOVELY RELAXER KITS",
+      "price": 6000,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/09/13.webp?fit=1448%2C1448&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 373,
+      "name": "OLIVE OIL RELAXER ORS",
+      "price": 8450,
+      "imageUrl": "https://m.media-amazon.com/images/I/815bKI1VkSL._SL1500_.jpg",
+      "description": ""
+    },
+    {
+      "id": 374,
+      "name": "MEN'S TEXTURE MY WAY",
+      "price": 12350,
+      "imageUrl": "https://munacosmetics.com/image/cache/catalog/HairScience/mens-texture-my-way-texturizer-800x800.png",
       "description": ""
     }
   ]
