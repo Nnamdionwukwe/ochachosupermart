@@ -5694,6 +5694,349 @@
       "price": 13750,
       "imageUrl": "https://allschoolabs.com/wp-content/uploads/2025/05/trosyd-20g-cream.jpg",
       "description": ""
+    },
+    {
+      "id": 813,
+      "name": "BIOQUA CUCUMBER MASK",
+      "price": 500,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/02/64823_1682876535.webp",
+      "description": ""
+    },
+    {
+      "id": 814,
+      "name": "BIOAQUA MASK",
+      "price": 500,
+      "imageUrl": "https://m.media-amazon.com/images/I/61eDAKOhSxL._SL1500_.jpg",
+      "description": ""
+    },
+    {
+      "id": 815,
+      "name": "MAAHIR LAGACY",
+      "price": 38900,
+      "imageUrl": "https://fimgs.net/mdimg/perfume/o.82727.jpg",
+      "description": ""
+    },
+    {
+      "id": 816,
+      "name": "OUD MOOD LATTAFA 100ML",
+      "price": 22600,
+      "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.46814.jpg",
+      "description": ""
+    },
+    {
+      "id": 817,
+      "name": "MAYAR LATTAFA NATURAL INTENSE 100ML",
+      "price": 28600,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/09/lattafa-mayar-natural-intense-100ml.webp",
+      "description": ""
+    },
+    {
+      "id": 818,
+      "name": "AVEENO LOTION 227G",
+      "price": 7800,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/11/36.webp",
+      "description": ""
+    },
+    {
+      "id": 819,
+      "name": "DR RASHEL BODY WASH",
+      "price": 7800,
+      "imageUrl": "https://lh3.googleusercontent.com/proxy/Scs90PNEopmKUuy6RZ8KXnHz52IRFY4rqbtkq22-Xqorb-8ALCM5GpdoOCs0Wbvd7EFg6d_9_o4T3tzarRyAxZqsX-dr7vmb25I2Y1qpRbsp33Srd0OhIYK07qyxjuSUTpvoCZ4_Z8pADj2cwwelfEtsWGZxdMFSnOluZFX770E43PI-wpka84zrPw",
+      "description": ""
+    },
+    {
+      "id": 820,
+      "name": "DISAAR SUNSCREEN SPF 50",
+      "price": 4450,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmex2494.jpg?v=1689068542",
+      "description": ""
+    },
+    {
+      "id": 821,
+      "name": "DR RASHEL FACE WASH ALOE VERA",
+      "price": 4450,
+      "imageUrl": "https://munacosmetics.com/image/cache/catalog/ArchitectDeMuna/SkinScience/dr-rashel-aloe-vera-face-wash-800x800.jpg",
+      "description": ""
+    },
+    {
+      "id": 822,
+      "name": "DR RASHEL FACE WASH PURIFYING",
+      "price": 4450,
+      "imageUrl": "https://i0.wp.com/buybetter.ng/wp-content/uploads/2024/11/black-charcoal-optimized.webp",
+      "description": ""
+    },
+    {
+      "id": 823,
+      "name": "DR RASHEL FACE WASH WHITENING & FAIRNESS",
+      "price": 4450,
+      "imageUrl": "https://munacosmetics.com/image/cache/catalog/ArchitectDeMuna/MyElizabeth/dr-rashel-niacinamide-whitening-face-wash-800x800.jpg",
+      "description": ""
+    },
+    {
+      "id": 824,
+      "name": "DR RASHEL FACE WASH RENEWAL",
+      "price": 4420,
+      "imageUrl": "https://lk-live-21.slatic.net/kf/S94cd8cc85a014966a588b07916f0bf7e0.jpg",
+      "description": ""
+    },
+    {
+      "id": 825,
+      "name": "FACEFACT VITAMIN FACIAL SERUM",
+      "price": 5850,
+      "imageUrl": "https://nectarbeautyhub.com/cdn/shop/products/face-facts-vitamin-c-brightening-facial-serum-872756.jpg?v=1709851604",
+      "description": ""
+    },
+    {
+      "id": 826,
+      "name": "DR TEALS BODY WASH VITAMINE D",
+      "price": 12350,
+      "imageUrl": "https://perfecttrustbeauty.com/cdn/shop/files/DR-TEALS-BODY-WASH-BLACK-ELDERBERRY-WITH-VITAMIN-D-amp-ESSENTIAL-OIL-240z-Perfect-Trust-Beauty-8041.jpg?v=1723899344&width=1024",
+      "description": ""
+    },
+    {
+      "id": 827,
+      "name": "DR TEALS BODY WASH LAVENDER & CHAMOMILE",
+      "price": 12350,
+      "imageUrl": "https://ibadan.peronabeauty.com/wp-content/uploads/2024/02/IMG-8533-j_347163.jpg",
+      "description": ""
+    },
+    {
+      "id": 828,
+      "name": "DR TEALS BODY WASH GINGER & CLAY",
+      "price": 12350,
+      "imageUrl": "https://cdn.mafrservices.com/sys-master-root/hd5/hf2/14354641584158/1715103_main.jpg?im=Resize=400",
+      "description": ""
+    },
+    {
+      "id": 829,
+      "name": "SPA LIGHTHENING SALT SCRUB",
+      "price": 7200,
+      "imageUrl": "https://www.fougeesbeauty.com/wp-content/uploads/2022/08/1661195603787.png",
+      "description": ""
+    },
+    {
+      "id": 830,
+      "name": "SPA SALT SCRUB",
+      "price": 7200,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/10/Daynee-Weight-Gain-Gummies-1.webp",
+      "description": ""
+    },
+    {
+      "id": 831,
+      "name": "DR TEALS MOISTURIZING BATH & OIL LEMON BALM",
+      "price": 12350,
+      "imageUrl": "https://i5.walmartimages.com/asr/5378bc96-20ae-461a-a506-dbd156bed64a.f85e3a192197aafe6fc64ddf2d6ef147.jpeg",
+      "description": ""
+    },
+    {
+      "id": 832,
+      "name": "E45 FACE & BODY SCRUB",
+      "price": 7550,
+      "imageUrl": "https://lh3.googleusercontent.com/proxy/6XxlPX2eQIn-X4hmPohVVKt1S-5l0jLlKWQR8Wkbib67afcC3Aa_SE8Tl8lGVFtAaBuSjvshl_CcKJE52agXsLE_PXVUAB5UN3XAQJHgiWpOc7FZBwGN1Jz_6tjk7XwctuZgjp-ztjRaOQWNf1lHv1xvq98UWqFFPaWybgQpM31D",
+      "description": ""
+    },
+    {
+      "id": 833,
+      "name": "DR RASHEL SPF 75",
+      "price": 3900,
+      "imageUrl": "https://shopmamatega.com/cdn/shop/products/6971764151250_bb7314eb-9765-47c7-be24-19b97af439d2_1200x1200.png?v=1702330608",
+      "description": ""
+    },
+    {
+      "id": 834,
+      "name": "VEETGOLD CUCUMBER CLEANSER",
+      "price": 4330,
+      "imageUrl": "https://munacosmetics.com/image/cache/catalog/SKINCARE/CLEANSERS-TONERS/Veet-gold-cucumber-facial-toner-800x800.jpg",
+      "description": ""
+    },
+    {
+      "id": 835,
+      "name": "VEET LEMON & HONEY",
+      "price": 4550,
+      "imageUrl": "https://munacosmetics.com/image/cache/catalog/SKINCARE/CLEANSERS-TONERS/veet-gold-lemon-facial-cleanser-toner-600x315.jpg",
+      "description": ""
+    },
+    {
+      "id": 836,
+      "name": "HIT THE SPOT BLACK HEAD CLEASER",
+      "price": 5550,
+      "imageUrl": "https://nectarbeautyhub.com/cdn/shop/files/hit-the-spot-blackhead-cleanser-200ml-clear-refine-pores-859934.png?v=1748316832",
+      "description": ""
+    },
+    {
+      "id": 840,
+      "name": "DR TEALS BODY SCRUB ENERGY",
+      "price": 15600,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/59/5774523/1.jpg?5602",
+      "description": ""
+    },
+    {
+      "id": 841,
+      "name": "DR TEALS BODY SCRUB STRESS RELIEF",
+      "price": 15600,
+      "imageUrl": "https://i5.walmartimages.com/asr/85bc3cfc-eab9-4686-acd2-1d9f0e068199.5a8bbde1658f1bfed6f40823541800f0.jpeg?odnHeight=264&odnWidth=264&odnBg=FFFFFF",
+      "description": ""
+    },
+    {
+      "id": 842,
+      "name": "DR TEALS BODY SCRUB EXFLOLIATING & RENEW",
+      "price": 15600,
+      "imageUrl": "https://thebeautyprismng.com/wp-content/uploads/2022/11/pink.jpg",
+      "description": ""
+    },
+    {
+      "id": 843,
+      "name": "DR TEALS SALT SCRUB GLOW&RADIANCE",
+      "price": 15600,
+      "imageUrl": "https://www.beautica-cosmetics.com/6065-medium_default/dr-teal-s-glow-and-radiance-pure-epsom-salt-scrub-with-vitamin-c-454g.jpg",
+      "description": ""
+    },
+    {
+      "id": 844,
+      "name": "DR TEALS QSUGAR SCRUB LEMON BALM",
+      "price": 15600,
+      "imageUrl": "https://i5.walmartimages.com/dfw/6e29e393-7de4/k2-_9c196fb6-8bac-4832-92b9-bf6f764ae040.v1.jpg",
+      "description": ""
+    },
+    {
+      "id": 845,
+      "name": "DR TEALS SHEA SUGAR SCRUB BLACK ELDERBERRY",
+      "price": 15600,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2023/02/black-elderberry-scrub.jpg",
+      "description": ""
+    },
+    {
+      "id": 846,
+      "name": "VEENO BABY LOTION OATMEAL",
+      "price": 28500,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2022/03/aVEENO-Baby-Daily-Moisture-Lotion-Natural-Oatmeal-18-FL-OZ-532-mL.jpeg",
+      "description": ""
+    },
+    {
+      "id": 847,
+      "name": "GAVIA COUTURE",
+      "price": 2750,
+      "imageUrl": "https://www.gavialux.com/wp-content/uploads/2021/02/COUTURE-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 848,
+      "name": "GAVIA SECRET",
+      "price": 2750,
+      "imageUrl": "https://www.gavialux.com/wp-content/uploads/2021/02/secret-front.jpg",
+      "description": ""
+    },
+    {
+      "id": 849,
+      "name": "GAVIA LEATHER OUD",
+      "price": 2750,
+      "imageUrl": "https://www.gavialux.com/wp-content/uploads/2023/11/LEATHER-OUD-1520x1520.jpg",
+      "description": ""
+    },
+    {
+      "id": 850,
+      "name": "GAVIA PRESIDENT",
+      "price": 2750,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/28/6054092/1.jpg?3444",
+      "description": ""
+    },
+    {
+      "id": 851,
+      "name": "GAVIA OUD ORIETAL",
+      "price": 2750,
+      "imageUrl": "https://www.gavialux.com/wp-content/uploads/2021/02/OUD-ORIENTAL.jpg",
+      "description": ""
+    },
+    {
+      "id": 852,
+      "name": "GAVIA OBSESSION",
+      "price": 2750,
+      "imageUrl": "https://www.gavialux.com/wp-content/uploads/2023/11/OBSESSION-1520x1520.jpg",
+      "description": ""
+    },
+    {
+      "id": 853,
+      "name": "GAVIA ADDICT",
+      "price": 2750,
+      "imageUrl": "https://www.gavialux.com/wp-content/uploads/2021/02/addict-front.jpg",
+      "description": ""
+    },
+    {
+      "id": 854,
+      "name": "GAVIA DESIRE",
+      "price": 55000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/8054092/1.jpg?3750",
+      "description": ""
+    },
+    {
+      "id": 855,
+      "name": "RIGGS POWDER",
+      "price": 6500,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2023/09/1__3_-removebg-preview.png",
+      "description": ""
+    },
+    {
+      "id": 856,
+      "name": "RIGGS TERRA",
+      "price": 6500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/5084204/1.jpg?1848",
+      "description": ""
+    },
+    {
+      "id": 857,
+      "name": "RIGGS EMBER",
+      "price": 6500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/6084204/1.jpg?2091",
+      "description": ""
+    },
+    {
+      "id": 858,
+      "name": "RIGGS DUD",
+      "price": 6500,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/04/RIGGS20DUD20PERFUMD20250ML.jpg",
+      "description": ""
+    },
+    {
+      "id": 859,
+      "name": "RIGGS WOODS",
+      "price": 6500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/6084204/1.jpg?2027",
+      "description": ""
+    },
+    {
+      "id": 860,
+      "name": "RIGGS ARMOUR",
+      "price": 6500,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/r/i/riggs_london_armour_deodorant_body_spray_250ml.jpeg",
+      "description": ""
+    },
+    {
+      "id": 861,
+      "name": "RIGGS AZURE",
+      "price": 6500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/96/7084204/1.jpg?2510",
+      "description": ""
+    },
+    {
+      "id": 862,
+      "name": "RIGGS THE ONE",
+      "price": 6500,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/r/i/riggs_london_the_one_deodorant_body_spray_250ml.jpeg",
+      "description": ""
+    },
+    {
+      "id": 863,
+      "name": "RIGGS RIDER",
+      "price": 6500,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/r/i/riggs_london_rider_deodorant_body_spray_250ml.jpeg",
+      "description": ""
+    },
+    {
+      "id": 864,
+      "name": "RIGGS LONDON GEAR",
+      "price": 6500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/92/9174204/1.jpg?9115",
+      "description": ""
     }
   ]
 }
