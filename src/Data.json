@@ -1562,6 +1562,699 @@
       "price": 12850,
       "imageUrl": "https://m.media-amazon.com/images/I/81tQB3cqlgL._UF1000,1000_QL80_.jpg",
       "description": ""
+    },
+    {
+      "id": 987,
+      "name": "AQUAMAL QS ARTEMETHER AND LUMEFANTRINE TABLETS",
+      "price": 1000,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2025/02/Aquamal-removebg-preview.png.webp",
+      "description": ""
+    },
+    {
+      "id": 988,
+      "name": "ADULT ACT CLARTEM-QS. 6TABS 80/480",
+      "price": 1350,
+      "imageUrl": "https://megacare.ng/media/image/ACT_CLARTEM-QS_700x700_tWjZB2x.webp",
+      "description": ""
+    },
+    {
+      "id": 989,
+      "name": "FLEMING 1000MG FILM-COATED TABLET",
+      "price": 10500,
+      "imageUrl": "https://medecify.com/storage/2025/03/DD-CC-F-F-DD-F-3000x3218.jpeg",
+      "description": ""
+    },
+    {
+      "id": 990,
+      "name": "CLARTEM SUSPENSION POWDER FOR ORAL SUSP.60ML",
+      "price": 1500,
+      "imageUrl": "https://www.247pharmacy.net/Uploads/S6227K3151.jpg",
+      "description": ""
+    },
+    {
+      "id": 991,
+      "name": "SECWID SECNIDAZOLE 500MG TABS .4TABS",
+      "price": 960,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/295/image_1024?unique=01bbd64",
+      "description": ""
+    },
+    {
+      "id": 992,
+      "name": "PULMOCEF POWER FOR ORAL SUSPENSION 125MG/5ML 100ML",
+      "price": 5000,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/07/PhotoRoom-20240712_101513_6.png",
+      "description": ""
+    },
+    {
+      "id": 993,
+      "name": "CENOX CIPROFLOXACIN TAB USP 500M",
+      "price": 1150,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizdeUotT65E_LENcs1Bta0SCvHXnyrS9unA&s",
+      "description": ""
+    },
+    {
+      "id": 994,
+      "name": "FORSTE 500 AZITHROMYCIN TABLET B.P. 500MG",
+      "price": 4000,
+      "imageUrl": "https://medecify.com/storage/2024/12/B-B-CD-A-C-E-DBC-3000x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 995,
+      "name": "LIQUID ANTISEPTIC NCP 200ML",
+      "price": 1950,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/NCP_20Liquid_20Antiseptic_20100ml_grande.webp?v=1758542860",
+      "description": ""
+    },
+    {
+      "id": 996,
+      "name": "JAWAMOX AMOXYCILLIN DRY SYRUP 125MG/5ML",
+      "price": 2100,
+      "imageUrl": "https://medecify.com/storage/2024/07/a-d-d-f-bd-f-2711x3000.png",
+      "description": ""
+    },
+    {
+      "id": 997,
+      "name": "MGYL SYRUP 200MG/5ML 60ML",
+      "price": 1000,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/medv258.jpg?v=1693852370",
+      "description": ""
+    },
+    {
+      "id": 998,
+      "name": "LOXAGYL 200 METRONIDAZOLE BP 200MG",
+      "price": 2000,
+      "imageUrl": "https://medecify.com/storage/2025/07/IMG-161-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 999,
+      "name": "EMZOCLOX NEONATAL ORAL DROPS(AMPICILLIN/CLOXACILLIN) 12ML",
+      "price": 1750,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/03/EMZOCLOX-NEONATAL-ORAL-DROPS.png",
+      "description": ""
+    },
+    {
+      "id": 1000,
+      "name": "EMVIT-C VITAMIN C 100MG WHITE",
+      "price": 1200,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/04/EmVitC-1000-500x500.png",
+      "description": ""
+    },
+    {
+      "id": 1001,
+      "name": "WAIPA ACT TABLETS",
+      "price": 2000,
+      "imageUrl": "https://medecify.com/storage/2025/07/Waipa.jpg",
+      "description": ""
+    },
+    {
+      "id": 1002,
+      "name": "MEPIRYL GLIMEPIRIDE 2MG TABLET",
+      "price": 250,
+      "imageUrl": "https://medecify.com/storage/2024/07/IMG-303-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1003,
+      "name": "LONART-DS ARTEMETHER 80MG + LUMEFANTRINE 480MG TABLETS",
+      "price": 3250,
+      "imageUrl": "https://rxalldelivered.com/image/product/1060/MEDIUM/0/2514?t=1605096414",
+      "description": ""
+    },
+    {
+      "id": 1004,
+      "name": "AMOKSIKLAV 1000MG TABLETS SANDOZ",
+      "price": 11100,
+      "imageUrl": "https://www.meldinpharma.com/web/image/product.template/3727/image_1024?unique=d54b3fa",
+      "description": ""
+    },
+    {
+      "id": 1005,
+      "name": "AMOKSIKLAV AMOXICILIN 250MG ORAL SUSPENSION 312.5MG/5ML 100ML",
+      "price": 10000,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2020/11/Amoksiklav-Oral-Suspension-100ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 1006,
+      "name": "AMOKSIKLAV 2X 457MG/5ML ORAL SUSPENSION 70ML",
+      "price": 10100,
+      "imageUrl": "https://protrustpharmacyltd.com/wp-content/uploads/2024/07/012-18.jpg",
+      "description": ""
+    },
+    {
+      "id": 1007,
+      "name": "THROTAL MARQUE DE ERTYTHROMYCINE 100ML",
+      "price": 1200,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls1741_b175eca8-0fb4-4708-b97d-7bff4ce158be.jpg?v=1712666378",
+      "description": ""
+    },
+    {
+      "id": 1008,
+      "name": "RANFERON -12 TONIC (200ML)",
+      "price": 1500,
+      "imageUrl": "https://drugstoreng.ams3.cdn.digitaloceanspaces.com/prod/drugstore-nigeria-online-pharmacy/products/Sa6HM0Bc7YloOG1EODKqTabVTVbj9pRLOQQC6n7H.jpg",
+      "description": ""
+    },
+    {
+      "id": 1009,
+      "name": "XYZAL LEV DIHYDRO 5MG",
+      "price": 3850,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2017/09/Xyzal-Tablets-Levocetirizine-5mg-Tablets-10-Tablets-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1010,
+      "name": "CLARITYNE LORATADINE 10MG",
+      "price": 14550,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC18dz8Z8L19TsCPPe36HhLiD0qGgcSQ_DlA&s",
+      "description": ""
+    },
+    {
+      "id": 1011,
+      "name": "CAL-D3 CALCIUM W/VIT D3",
+      "price": 650,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls3353_e98aba54-473b-4e4a-b1da-13b2bbd4148d.jpg?v=1712665714",
+      "description": ""
+    },
+    {
+      "id": 1012,
+      "name": "GLUCOSE D",
+      "price": 3200,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/01HNANWCANYH3W00THYF3GFQZK.webp",
+      "description": ""
+    },
+    {
+      "id": 1013,
+      "name": "MENTHODEX COUGH MIXTURE 100ML",
+      "price": 3950,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Menthodex_20Cough_20Mixture_20100ml.webp?v=1754944060",
+      "description": ""
+    },
+    {
+      "id": 1014,
+      "name": "NON-DROWSY LORATYN-10 (HOVID)",
+      "price": 9500,
+      "imageUrl": "https://silverlinepharm.com/wp-content/uploads/2023/02/loratyn-_loratadine-10mg_-blisters-1_hmp0rf-removebg-preview.png.webp",
+      "description": ""
+    },
+    {
+      "id": 1015,
+      "name": "MODURECTIC SEARLE 50MG",
+      "price": 6110,
+      "imageUrl": "https://searlecompany.com/wp-content/uploads/2022/05/Moduretic.jpg",
+      "description": ""
+    },
+    {
+      "id": 1016,
+      "name": "NEURACALM 150 WEST-COAST",
+      "price": 15000,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2019/03/Neuracalm-150mg-Capsules-30-Capsules-2.jpg",
+      "description": ""
+    },
+    {
+      "id": 1017,
+      "name": "ASTIN-20",
+      "price": 5350,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6R0xY9EHRjy7hd1Gr7l5hhGspyQwsXGIvOw&s",
+      "description": ""
+    },
+    {
+      "id": 1018,
+      "name": "BRAGG APPLE CIDAR VINEGAR[BIG SIZE] 946ML",
+      "price": 20600,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbkghTbZFYmMyT6-6yyH97Tb7SzVQZ7GASYw&s",
+      "description": ""
+    },
+    {
+      "id": 1019,
+      "name": "SPIRONOLACTONE 100MG CHEZ RESOURCE",
+      "price": 4200,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/09/PhotoRoom-20240809_120753_10.png",
+      "description": ""
+    },
+    {
+      "id": 1020,
+      "name": "SPIRONOLACTONE 25MG TABLETS ORA TEVAL USE 25MG",
+      "price": 8000,
+      "imageUrl": "https://medecify.com/storage/2024/10/C-F-D-A-FE-E-B-AEA-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1021,
+      "name": "SUPER APETI PLUS SYRUP 200ML",
+      "price": 2250,
+      "imageUrl": "https://shalina.com/wp-content/uploads/2023/08/Super-Apeti-Plus-Syrup-900x600-2-1-1.png",
+      "description": ""
+    },
+    {
+      "id": 1022,
+      "name": "GREENZORAL KETOCONAZOLE TABLETS USP 200MG",
+      "price": 700,
+      "imageUrl": "https://airmedng.com/wp-content/uploads/2024/12/GREENZORAL-KETOCONAZOLE-200MG-TABLETS-X10.png",
+      "description": ""
+    },
+    {
+      "id": 1023,
+      "name": "LISINOPRIL 10MG",
+      "price": 2600,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/01J308R9EB3XWMKXW9PQWTNN9P.jpg",
+      "description": ""
+    },
+    {
+      "id": 1024,
+      "name": "LISINOPRIL 5MG TABLET POCCO",
+      "price": 1100,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2017/09/Lisinopril-5mg-Tablets-28-Tablets-600x600.jpg",
+      "description": ""
+    },
+    {
+      "id": 1025,
+      "name": "CLARION MAX OMEGA FISH CAPS",
+      "price": 1400,
+      "imageUrl": "https://silverlinepharm.com/wp-content/uploads/2023/02/Max-Omega-removebg-preview.png.webp",
+      "description": ""
+    },
+    {
+      "id": 1026,
+      "name": "MATRILIX SR INDAPAMIDE 1.5MG",
+      "price": 12000,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/rbosf8oywcxylo2qhodg_bfadeb20-3005-4116-8fbe-b8632def2333.webp?v=1757093130",
+      "description": ""
+    },
+    {
+      "id": 1027,
+      "name": "CHEMIRON BLOOD CAPSULES",
+      "price": 1005,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/01HFEDJMWJRF0JJDSC69DED5V5.jpg",
+      "description": ""
+    },
+    {
+      "id": 1028,
+      "name": "CHEMIRON BLOOD TONIC 100ML +IRON",
+      "price": 1000,
+      "imageUrl": "https://medecify.com/storage/2024/09/B-AF-BD-E-C-D-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1029,
+      "name": "ABLEPT-300 GAB CAP USP 300MG",
+      "price": 10400,
+      "imageUrl": "https://cfimages.gomed.ng/media/filer_public_thumbnails/filer_public/80/5b/805b0fc9-72cb-4c90-aea0-c1e312fbcd6d/filer_public8bdc8bdce70e-bbdf-4395-9287-264c25dd7864tmptmprkgrsmbe.webp__850x850_q85_crop-smart_subsampling-2.webp",
+      "description": ""
+    },
+    {
+      "id": 1030,
+      "name": "BUNTO BLOOD TONIC 100ML",
+      "price": 660,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Bunto_20Blood_20Tonic_20300ml_f2980247-122d-4212-a173-ebd5fc01d2c8_grande.webp?v=1754944667",
+      "description": ""
+    },
+    {
+      "id": 1031,
+      "name": "EMZOR PARANIGHT 500MG",
+      "price": 700,
+      "imageUrl": "https://megacare.ng/media/image/1_G8zZnCs.png",
+      "description": ""
+    },
+    {
+      "id": 1032,
+      "name": "GOYA OIL S/S 88.7ML",
+      "price": 1100,
+      "imageUrl": "https://addide.com/cdn/shop/files/Goya1.jpg?v=1708075507",
+      "description": ""
+    },
+    {
+      "id": 1033,
+      "name": "BUSCOPAN 10MG",
+      "price": 17000,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Buscopan_20Ibs_20Relief_2010Mg_20X20_f7691139-736f-4f1d-bd77-7dc3c89cb9cd.webp?v=1757093256",
+      "description": ""
+    },
+    {
+      "id": 1034,
+      "name": "CASTOR OIL",
+      "price": 4120,
+      "imageUrl": "https://i5.walmartimages.com/seo/Spring-Valley-Cold-Pressed-Castor-Oil-Unrefined-Hexane-Free-Organic-for-Hair-Skin-8-fl-oz_335bd016-fcaf-4aeb-a01b-0bd22fce882c.c274a54aaf108cc43ff6208f9a7567ef.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "description": ""
+    },
+    {
+      "id": 1035,
+      "name": "CASCOL ANTACID SUSPENSION 150ML",
+      "price": 2350,
+      "imageUrl": "https://i0.wp.com/medvacc.com/wp-content/uploads/2021/03/gascol-suspension-150ml.jpg?fit=800%2C800&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 1036,
+      "name": "GRIPE WATER",
+      "price": 2670,
+      "imageUrl": "https://aligspharmacy.com/wp-content/uploads/2021/02/Gripe-water-100ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 1037,
+      "name": "EMTRISIL SUSPENSION 200ML",
+      "price": 1750,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/485/image_1024?unique=802a0d4",
+      "description": ""
+    },
+    {
+      "id": 1038,
+      "name": "GOKO CLEANSER HERBAL MIXTURE",
+      "price": 770,
+      "imageUrl": "https://i.ebayimg.com/images/g/zVgAAOSw36Zgsajh/s-l1200.jpg",
+      "description": ""
+    },
+    {
+      "id": 1039,
+      "name": "ANTI-POISON ACTIVATED CHARCOAL POWDER 50G",
+      "price": 1850,
+      "imageUrl": "https://medecify.com/storage/2024/08/Activated-Charcoal-.jpg",
+      "description": ""
+    },
+    {
+      "id": 1040,
+      "name": "FLORA NORM",
+      "price": 13820,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/923/image_1024?unique=802a0d4",
+      "description": ""
+    },
+    {
+      "id": 1041,
+      "name": "GOYA OIL 250MM",
+      "price": 1400,
+      "imageUrl": "https://foodieng.com/wp-content/uploads/2022/09/GOYA-EXTRA-VIRGIN-OLIVE-OIL-–-250ml-1100.jpg",
+      "description": ""
+    },
+    {
+      "id": 1042,
+      "name": "BEECHAMS ALL IN ONE SYRUP 160ML",
+      "price": 18200,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Beechams_20All_20in_20One_20Syrup_20160ml_fbfc1c58-e178-4215-af20-b7d70c1943fb.webp?v=1756814761",
+      "description": ""
+    },
+    {
+      "id": 1043,
+      "name": "BENYLIN MUCUS COUGH MAX MENTHOL SYRUB150ML",
+      "price": 21000,
+      "imageUrl": "https://images.ctfassets.net/hziwb47cmkp3/LAzFEE3WJFGinOYo4KoVT/8ef4bb9286c42a4531882203a516cda3/BEN_3574661375373_EMEA_Mucus_Cough_Max_Menthol_Oral_Solution_150ml_994467145_005_0-en-gb",
+      "description": ""
+    },
+    {
+      "id": 1044,
+      "name": "MEDIMEC ADHESIVE STRIP PLASTER",
+      "price": 50,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/09/PhotoRoom-20240826_124437_20-1.png",
+      "description": ""
+    },
+    {
+      "id": 1045,
+      "name": "WELLMAN VITAMIN DRINK 250ML",
+      "price": 2950,
+      "imageUrl": "https://www.vitabiotics.com/cdn/shop/products/preview-gallery-Wellman_Vitamin-Drink__Front__CAWEL250K3WL2E.png?v=1579271926",
+      "description": ""
+    },
+    {
+      "id": 1046,
+      "name": "DR MEYERS B-COMPLEX HIGH POTENCY 100TAB",
+      "price": 950,
+      "imageUrl": "https://silverlinepharm.com/wp-content/uploads/2023/01/IMG_5793-removebg-preview.png",
+      "description": ""
+    },
+    {
+      "id": 1047,
+      "name": "COFTA SYRUP 100ML",
+      "price": 1300,
+      "imageUrl": "https://medvacc.com/wp-content/uploads/2021/02/cofta-cough-syrup-100ml-1-700x700.jpg",
+      "description": ""
+    },
+    {
+      "id": 1048,
+      "name": "POCCOZITH 250MG",
+      "price": 1650,
+      "imageUrl": "https://247pharmacy.net/Uploads/L7989C7594.jpg",
+      "description": ""
+    },
+    {
+      "id": 1049,
+      "name": "FAT CUT TAB GARCINIA CAMBOGIA",
+      "price": 15200,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2022/7/PD/WP/DU/154258082/garcinia-cambogia-500x500.jpg",
+      "description": ""
+    },
+    {
+      "id": 1050,
+      "name": "FERTILAID FOR WOMEN",
+      "price": 70000,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2022/03/FertilAid-for-Women-90-Capsules.jpg",
+      "description": ""
+    },
+    {
+      "id": 1051,
+      "name": "P-ALAXIN 320MG",
+      "price": 1900,
+      "imageUrl": "https://skystore.com.ng/wp-content/uploads/2024/05/download-94.jfif",
+      "description": ""
+    },
+    {
+      "id": 1052,
+      "name": "HERB TEA 25G",
+      "price": 750,
+      "imageUrl": "https://drugstoreng.ams3.cdn.digitaloceanspaces.com/prod/rommar-pharmacy/products/dg4ZxxZLIPxBk2t7z5Tpj4Qbpd9ZX34egQY2C33L.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1053,
+      "name": "OMEGA-3 FISH OIL 1000MG SUPPORTS",
+      "price": 10500,
+      "imageUrl": "https://earthscreationshop.com/cdn/shop/files/Omega-0215_1080x.jpg?v=1710966220",
+      "description": ""
+    },
+    {
+      "id": 1054,
+      "name": "PROBIOTICS GUMMIES",
+      "price": 13500,
+      "imageUrl": "https://images.media.gianteagle.com/00031604030261-862348d4-5092-4c5c-9278-2998780768d4.jpg?auto=format%2Ccompress&fill=solid&fit=fill&h=600&q=92&w=600",
+      "description": ""
+    },
+    {
+      "id": 1055,
+      "name": "TYNOR FUNCTIONAL KNEE SUPPORT",
+      "price": 41500,
+      "imageUrl": "https://regino.com.ng/wp-content/uploads/2022/07/1226ODH6U-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1056,
+      "name": "CHRISCAM GLUTATHIONE WHITENING GUMMIES X60",
+      "price": 13500,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/05/3-14.webp",
+      "description": ""
+    },
+    {
+      "id": 1057,
+      "name": "TYNOR CURE POUNCH ARM SLING",
+      "price": 10250,
+      "imageUrl": "https://www.tynorstore.com/media/catalog/product/cache/eb35f3b120b9d23372bbf23575518da6/c/_/c_21-a1872a99.webp",
+      "description": ""
+    },
+    {
+      "id": 1058,
+      "name": "TYNOR KNEE WRAP HINGED",
+      "price": 42000,
+      "imageUrl": "https://5.imimg.com/data5/ECOM/Default/2023/6/315952784/AK/NT/BZ/20838428/1664524982437-sku-0305-0-500x500.jpg",
+      "description": ""
+    },
+    {
+      "id": 1059,
+      "name": "EFAMOL EVENING PRIMROSE OIL 500MG",
+      "price": 32900,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg05_I1SvlG3nAn2y5np_xPvKNqiGqwwX5GLM79soLHl9-eBi-pTBWmOvng1dUH46ussY&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 1060,
+      "name": "FLAT TUMMY TEA 28 TEA BAG",
+      "price": 7450,
+      "imageUrl": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/03/325071/2.jpg",
+      "description": ""
+    },
+    {
+      "id": 1061,
+      "name": "GLUTA GLOW SPARKLE 300G",
+      "price": 23100,
+      "imageUrl": "https://ginaxstore.com/cdn/shop/files/rn-image_picker_lib_temp_398b7cb9-9304-4841-9636-cfcdb0b764eb.png?v=1741285663",
+      "description": ""
+    },
+    {
+      "id": 1062,
+      "name": "RELOAD 4 KIDZ",
+      "price": 22400,
+      "imageUrl": "https://precious-pharmacy.com/cdn/shop/products/Reload_Kidz-Liquid_SideView_small-1024x1024.jpg?v=1597155147",
+      "description": ""
+    },
+    {
+      "id": 1063,
+      "name": "SKIN BY ZARON VITAMIN C BODY WASH",
+      "price": 14700,
+      "imageUrl": "https://i0.wp.com/buybetter.ng/wp-content/uploads/2024/08/k98a32mb-optimized.png",
+      "description": ""
+    },
+    {
+      "id": 1064,
+      "name": "NATURE CURE WHITENING GUMMIES X30",
+      "price": 9550,
+      "imageUrl": "https://pictures-nigeria.jijistatic.net/133337833_NjIwLTYyMC1hYjVkNTQ2MTllLTE.webp",
+      "description": ""
+    },
+    {
+      "id": 1065,
+      "name": "NEUROZAN PLUS OMEGA-3",
+      "price": 47600,
+      "imageUrl": "https://m.media-amazon.com/images/I/51xwHRerqLL._SS400_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1066,
+      "name": "WELLKID IMMUNE CHEWABLE",
+      "price": 24500,
+      "imageUrl": "https://healthace.ng/wp-content/uploads/2024/05/Wellkid_Immune_Chewable_Front_CTWKD030T13WL2E_Resized.png",
+      "description": ""
+    },
+    {
+      "id": 1067,
+      "name": "WELLWOMAN ORIGINAL",
+      "price": 16660,
+      "imageUrl": "https://www.vitabiotics.com/cdn/shop/products/wellwoman-originalusethisfront.png?v=1587029033",
+      "description": ""
+    },
+    {
+      "id": 1068,
+      "name": "WELLMAN 50+",
+      "price": 17800,
+      "imageUrl": "https://www.vitabiotics.com/cdn/shop/products/Wellman_50_Front__CTWEL030T17WL5E.png?v=1584523671",
+      "description": ""
+    },
+    {
+      "id": 1069,
+      "name": "DIVANOL-F",
+      "price": 450,
+      "imageUrl": "https://medstockonline.com/wp-content/uploads/2022/09/Divasoral-scaled-100x100.jpg",
+      "description": ""
+    },
+    {
+      "id": 1070,
+      "name": "FERTI WOMAN ADVANCE SACHET",
+      "price": 73950,
+      "imageUrl": "https://amelapharmacy.com/cdn/shop/files/ProvALine-FertiWOMAN-Advance-Sachet.png?v=1755340821",
+      "description": ""
+    },
+    {
+      "id": 1071,
+      "name": "COUNT BOOST FOR MEN",
+      "price": 53200,
+      "imageUrl": "https://m.media-amazon.com/images/I/61UpjMifXbL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1072,
+      "name": "COATAL -FORTE 80/480 ACT",
+      "price": 1350,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGshLMsFLdapK5x7-GxaVU98fM5uapsYqt_g&s",
+      "description": ""
+    },
+    {
+      "id": 1073,
+      "name": "HOT WATER BOTTLE 2000ML",
+      "price": 2650,
+      "imageUrl": "https://recombigen.com/wp-content/uploads/2020/03/Untitled-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1074,
+      "name": "ULTIMATE MACA GUMMIES 7500MG",
+      "price": 38500,
+      "imageUrl": "https://hollyswellness.com/wp-content/uploads/2023/07/images.jpeg-136-300x300.jpg",
+      "description": ""
+    },
+    {
+      "id": 1075,
+      "name": "OMEGA -3 FISH OIL CAP 100MG",
+      "price": 12000,
+      "imageUrl": "https://www.xtr.gr/images/thumbnails/277/225/detailed/862/01-120-128-Now-Foods-Red-Omega-90s.-gels-web.jpg.jpg",
+      "description": ""
+    },
+    {
+      "id": 1076,
+      "name": "SALICYLIC ACID INTENSE SERUM 30ML",
+      "price": 10800,
+      "imageUrl": "https://peronabeauty.com/wp-content/uploads/2024/02/Creightons-Salicylic-Acid-Intense-Serum-30ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 1077,
+      "name": "DR. MEYER BECOMBION 300L SYRUP",
+      "price": 1650,
+      "imageUrl": "https://silverlinepharm.com/wp-content/uploads/2023/02/IMG_5654-removebg-preview.png.webp",
+      "description": ""
+    },
+    {
+      "id": 1078,
+      "name": "GETZOME INSTA 40MG",
+      "price": 6750,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2021/10/Getzome-Insta-40mg-Powder-Omeprazole-40mg-powder-10-Sachets-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1079,
+      "name": "PROCOLD",
+      "price": 500,
+      "imageUrl": "https://247pharmacy.net/Uploads/B3563D1653.jpg",
+      "description": ""
+    },
+    {
+      "id": 1080,
+      "name": "BENYLIN CHESTY COUGHS 300ML",
+      "price": 35000,
+      "imageUrl": "https://allcures.com/images/benylin-chesty-coughs-original-300ml-p167-8002_image.jpg",
+      "description": ""
+    },
+    {
+      "id": 1081,
+      "name": "DEN-V GLOVES",
+      "price": 400,
+      "imageUrl": "https://admin.generaldrugcentre.com/images/product/10224.JPG",
+      "description": ""
+    },
+    {
+      "id": 1082,
+      "name": "STREPSILS INTENSIVE LOZENGES",
+      "price": 7300,
+      "imageUrl": "https://media-services.digital-rb.com/s3/live-productcatalogue/sys-master/images/hd0/hbc/8873604448286/RB_Strepsils_Intensive_Honey&Lemon_16pk.jpg?width=1600&height=1600",
+      "description": ""
+    },
+    {
+      "id": 1083,
+      "name": "SURGICAL GLOVE",
+      "price": 400,
+      "imageUrl": "https://greensafetyltdservices.com.ng/wp-content/uploads/2020/11/SURGICAL-HAND-GLOVES—7.5-PACK-OF-50-PAIR.jpg",
+      "description": ""
+    },
+    {
+      "id": 1084,
+      "name": "FLAT TUMMY TEA WITH MORINGA",
+      "price": 7500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/1947814/1.jpg?1608",
+      "description": ""
+    },
+    {
+      "id": 1085,
+      "name": "DENTAL FLOSS 50 SACHETS",
+      "price": 850,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/08/PhotoRoom-20240819_152044_1.png",
+      "description": ""
     }
   ],
 
