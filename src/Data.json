@@ -2255,6 +2255,888 @@
       "price": 850,
       "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/08/PhotoRoom-20240819_152044_1.png",
       "description": ""
+    },
+    {
+      "id": 1086,
+      "name": "GYNOTAB VAG CLOTRIMAZOLE VAGINAL INSERT 200MG",
+      "price": 950,
+      "imageUrl": "https://cpimg.tistatic.com/05973353/b/4/Broadspectrum-Multipurpose-Vaginal-Tablets.jpg",
+      "description": ""
+    },
+    {
+      "id": 1087,
+      "name": "FAMILY DENTAL FLOSS BOX X50",
+      "price": 850,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmt077.jpg?v=1689084341",
+      "description": ""
+    },
+    {
+      "id": 1088,
+      "name": "SOFTCARE BABY WIPES",
+      "price": 1500,
+      "imageUrl": "https://i0.wp.com/beccaville.com/wp-content/uploads/2024/10/C0AB0416-14D7-432E-8550-29E081435825.jpeg?fit=1988%2C1664&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 1089,
+      "name": "CANTAB-V CLOTRIMAZOLE 100MG",
+      "price": 950,
+      "imageUrl": "https://cpimg.tistatic.com/05776895/b/4/100-mg-Clotrimazole-Vaginal-Tablets-USP.jpg",
+      "description": ""
+    },
+    {
+      "id": 1090,
+      "name": "SUDOCREAM 125G",
+      "price": 8150,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Sudocrem_20Antiseptic_20Healing_20Cream_20125g_e33d048b-9e3c-493e-8c4b-980e8b4e71de.webp?v=1757093234",
+      "description": ""
+    },
+    {
+      "id": 1091,
+      "name": "OPTREX MULTI ACTION EYE WASH",
+      "price": 13100,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjGUTm2o4vMRuBxlpK6O9JJFq00Uxt72NEyg&s",
+      "description": ""
+    },
+    {
+      "id": 1092,
+      "name": "NATURES FIELD EYE CAP TM",
+      "price": 3000,
+      "imageUrl": "https://naturesfieldng.com/wp-content/uploads/2024/03/NaturesField-EyeCap-by-60_1.webp",
+      "description": ""
+    },
+    {
+      "id": 1093,
+      "name": "KATARTIZO RAW ALMOND NUTS BIG SIZE",
+      "price": 8400,
+      "imageUrl": "https://nuts.com/images/rackcdn/ed910ae2d60f0d25bcb8-80550f96b5feb12604f4f720bfefb46d.ssl.cf1.rackcdn.com/3004-Raw-Almonds-Ove-tmRP3a0B-large.jpg",
+      "description": ""
+    },
+    {
+      "id": 1094,
+      "name": "TAMPAX PADS",
+      "price": 8300,
+      "imageUrl": "https://shoponclick.ng/storage/2023/04/20230415_091205_0000.png",
+      "description": ""
+    },
+    {
+      "id": 1095,
+      "name": "ULCEGEL SUSPENSION 200ML",
+      "price": 2200,
+      "imageUrl": "https://aquatixpharma.com/wp-content/uploads/2023/05/ulcegel-suspension.jpg",
+      "description": ""
+    },
+    {
+      "id": 1096,
+      "name": "BIOTIN & COLLAGEN",
+      "price": 26200,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/nywbZ8OW23pEOayM0KVoq2SiUUdteB-metaV2hhdHNBcHAgSW1hZ2UgMjAyMy0wOS0yMiBhdCAxMi4xNy4wNiAoMSkuanBlZw==-.jpg",
+      "description": ""
+    },
+    {
+      "id": 1097,
+      "name": "PRIMPEX DS X10 CAP",
+      "price": 800,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Primpex-DS-960mg.jpg?v=1756577710",
+      "description": ""
+    },
+    {
+      "id": 1098,
+      "name": "RUZU HERBAL BITTERS 500ML",
+      "price": 9000,
+      "imageUrl": "https://precious-pharmacy.com/cdn/shop/products/Artboard43_d1ab33a8-82ee-4f78-9dda-8a87ab913983.png?v=1597180720",
+      "description": ""
+    },
+    {
+      "id": 1099,
+      "name": "PRIMPEX DS 960MG",
+      "price": 700,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Primpex-DS-960mg.jpg?v=1756577710",
+      "description": ""
+    },
+    {
+      "id": 1100,
+      "name": "XONADINE-120 FEXOFENADINE 120MG",
+      "price": 2100,
+      "imageUrl": "https://mybigpharmacy.com/wp-content/uploads/2019/08/81PcuSAeYbAl1JbmfuS5X1Kck5HLya78OjC2EWNr.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1101,
+      "name": "XONADINE-180 FEXOFENADINE TAB",
+      "price": 3450,
+      "imageUrl": "https://mybigpharmacy.com/wp-content/uploads/2019/08/81PcuSAeYbAl1JbmfuS5X1Kck5HLya78OjC2EWNr.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1102,
+      "name": "SEPTRIN D.S",
+      "price": 500,
+      "imageUrl": "https://tdawi.com/media/webp_image/catalog/product/cache/c02fd180406f0a5f799ad7095a14ddcd/s/e/septrin_ds_800_mg_1__mruohz5jhteiaodu.webp",
+      "description": ""
+    },
+    {
+      "id": 1103,
+      "name": "NOWW NOWW BAUME 25G",
+      "price": 1400,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/06/PhotoRoom-20240430_151326_15.png",
+      "description": ""
+    },
+    {
+      "id": 1104,
+      "name": "REALS NIGHT AID TAB",
+      "price": 850,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Reals_20Night_20Aid_2050mg_20x30_1149cf66-baab-462e-9cb4-7b3b36b5100d.webp?v=1751069324",
+      "description": ""
+    },
+    {
+      "id": 1105,
+      "name": "NOSPAMIN DROPS 2MG/ML",
+      "price": 900,
+      "imageUrl": "https://medecify.com/storage/2025/05/C-A-A-FD-B-C-D-ABC-B-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1106,
+      "name": "NATURAL MORINGA SEEDS",
+      "price": 1200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6OWvzJMO4AovrdQIUjx-kqXBIKdnF2E6DGg&s",
+      "description": ""
+    },
+    {
+      "id": 1107,
+      "name": "HAIR SKIN & NAILS GUMMIES",
+      "price": 24650,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/56/2357711/1.jpg?7761",
+      "description": ""
+    },
+    {
+      "id": 1108,
+      "name": "METRONE I.V INFUSION 100ML",
+      "price": 600,
+      "imageUrl": "https://fidson.com/wp-content/uploads/2022/09/Metrone-IV-768x768.png",
+      "description": ""
+    },
+    {
+      "id": 1109,
+      "name": "SOYA PLUS 400G",
+      "price": 2600,
+      "imageUrl": "https://www.soyaplus.ng/wp-content/uploads/2023/07/photo1690388520.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1110,
+      "name": "MYCOTEN VAGINAL CREAM 35G",
+      "price": 2250,
+      "imageUrl": "https://www.drugfieldpharma.com/wp-content/uploads/2021/04/MYCOTEN-PLUS.png",
+      "description": ""
+    },
+    {
+      "id": 1111,
+      "name": "FLOWEL TAMSULOSIN HYDROCHLORIDE CAPSULES USP",
+      "price": 5200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFR1c52gC3HkGg6zvwMdXuMOnY1P4ifm8jrA&s",
+      "description": ""
+    },
+    {
+      "id": 1112,
+      "name": "MOIST JELLY BRAND/MARQUE",
+      "price": 6440,
+      "imageUrl": "https://chemartpharmacy.com/wp-content/uploads/2025/05/Moist_20Personal_20Lubricant_2085g.webp",
+      "description": ""
+    },
+    {
+      "id": 1113,
+      "name": "PURITANS PRIDE VITAMIN D3 125MCG",
+      "price": 16100,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/2665814/1.jpg?8303",
+      "description": ""
+    },
+    {
+      "id": 1114,
+      "name": "BEECHAMS COLD & FLU",
+      "price": 12600,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/medp1591_beechams_cold___flu_hot_lemon___honey_paracetamol_5_sachets_169x184_7ec17ff1-adc6-4952-9c4e-944d998bf930.jpg?v=1688757667",
+      "description": ""
+    },
+    {
+      "id": 1115,
+      "name": "DUREX PERFOMA CONDOM",
+      "price": 6000,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Durex_20Performa_20Condoms_20x3_4c3ec27c-3535-4c0e-a6b0-3e2fe9b747d6.webp?v=1759972116",
+      "description": ""
+    },
+    {
+      "id": 1116,
+      "name": "DRUGENT GENTAMICINE 3MG/M1",
+      "price": 900,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/10/PhotoRoom-20240830_123759_48.png",
+      "description": ""
+    },
+    {
+      "id": 1117,
+      "name": "RE-VIVE CAPSULE 400MG",
+      "price": 142000,
+      "imageUrl": "https://medecify.com/storage/2023/01/re-vive-capsule.webp",
+      "description": ""
+    },
+    {
+      "id": 1118,
+      "name": "CEDRUMOL EAR DROPS 1OML",
+      "price": 13915,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Cerumol_20Ear_20Drops_2010ml.webp?v=1751227339",
+      "description": ""
+    },
+    {
+      "id": 1119,
+      "name": "VISINE RED EYE HYDRATING COMFORT 8ML",
+      "price": 9100,
+      "imageUrl": "https://images.ctfassets.net/k8ix1sm1b48c/11AoY3Go5QiJUbdglQzISy/146c67e2d962711560292c3ea2d1a532/VIS_312547493802_RedEyeComfort_Drops_0.5oz_1ct_00000_Original-file.webp",
+      "description": ""
+    },
+    {
+      "id": 1120,
+      "name": "POSTPILL 1TAB 1.5MG",
+      "price": 2500,
+      "imageUrl": "https://dodptt9f4zk9h.cloudfront.net/stores/171643/products/6197919493c9a4b406fa5ccf8f4434e1c4390fd7.png",
+      "description": ""
+    },
+    {
+      "id": 1121,
+      "name": "DR. GREG'S S. TYPHOID TEST KIT",
+      "price": 4200,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/drfs245_dr_greg-s_typhoid_test_kit.jpg?v=1688832409",
+      "description": ""
+    },
+    {
+      "id": 1122,
+      "name": "ERYTHROMYCIN ETHYL SUCCINATE 125MG/5ML",
+      "price": 915,
+      "imageUrl": "https://drugstoc.odoo.com/web/image/product.template/12679/image_1024?unique=166e639",
+      "description": ""
+    },
+    {
+      "id": 1123,
+      "name": "EMVIT-C 100MG",
+      "price": 1179,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/629/image_1024?unique=01bbd64",
+      "description": ""
+    },
+    {
+      "id": 1124,
+      "name": "NIXODERM FOR SKIN PROBLEMS 15G",
+      "price": 1700,
+      "imageUrl": "https://m.media-amazon.com/images/I/71M8N+Ro-oL._AC_UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1125,
+      "name": "EMZORON TONIC 200ML",
+      "price": 1750,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Emzoron-Tonic.png?v=1751070144",
+      "description": ""
+    },
+    {
+      "id": 1126,
+      "name": "BEBE TRIBOTAN CREAM 20G",
+      "price": 1900,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Tribotan_20Baby_2020g.webp?v=1754944659",
+      "description": ""
+    },
+    {
+      "id": 1127,
+      "name": "TRIBOTAN CREAM 20G",
+      "price": 1600,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Tribotan_20Baby_2020g.webp?v=1754944659",
+      "description": ""
+    },
+    {
+      "id": 1128,
+      "name": "SULPHUR SKIN OINTMENT (25G)",
+      "price": 850,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/05/PhotoRoom-20240509_140516_8.png",
+      "description": ""
+    },
+    {
+      "id": 1129,
+      "name": "MOKO CALAMINE LOTION B.P 100ML",
+      "price": 700,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/87/1736473/1.jpg?2786",
+      "description": ""
+    },
+    {
+      "id": 1130,
+      "name": "B-COMPLEX SYRUP 100ML (FIDSON)",
+      "price": 750,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/02/2022-06-01-6297c89b2a082.jpg",
+      "description": ""
+    },
+    {
+      "id": 1131,
+      "name": "NEUROGESIC EXTRA (35G)",
+      "price": 1700,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/medp2763_neurogesic_extra_ointment_methyl_salicylate_35_g.jpg?v=1688995210",
+      "description": ""
+    },
+    {
+      "id": 1132,
+      "name": "TYDISIL CREAM TERBINAFINE HYDROCHLORIDE 1%",
+      "price": 1800,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products_alt_img/111588023261c30d2ed1e05product_alt.webp",
+      "description": ""
+    },
+    {
+      "id": 1133,
+      "name": "WHITEFIELD'S OINTMENT (20G)",
+      "price": 850,
+      "imageUrl": "https://medecify.com/storage/2024/09/B-E-DDDE-B-E-AECF-C-C-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1134,
+      "name": "LEVER 120MG ARTESUNATE INJECTION",
+      "price": 3500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOCrqZX1a1T575pZPPdZHHuaszdIuCLXRidg&s",
+      "description": ""
+    },
+    {
+      "id": 1135,
+      "name": "MOKO ISOPROPYL ALCOHOL (200ML)",
+      "price": 1750,
+      "imageUrl": "https://nettpharmacy.com/cdn/shop/files/Products02_0045_MIN_1034.jpg?v=1734975847",
+      "description": ""
+    },
+    {
+      "id": 1136,
+      "name": "WELLROZE MULTIVITE CAPS",
+      "price": 5320,
+      "imageUrl": "https://famedixpharmacy.com/cdn/shop/files/1.jpg?v=1725355247",
+      "description": ""
+    },
+    {
+      "id": 1137,
+      "name": "HYDROCORTISONE SODIUM INJECTION (100MG)",
+      "price": 700,
+      "imageUrl": "https://medfy.in/wp-content/uploads/2025/01/79.png",
+      "description": ""
+    },
+    {
+      "id": 1138,
+      "name": "LYNTRIAXONE 1G",
+      "price": 2380,
+      "imageUrl": "https://www.lynedge.com/wp-content/uploads/2019/11/Lyntriaxone-green.jpg",
+      "description": ""
+    },
+    {
+      "id": 1139,
+      "name": "EXAMINATION GLOVES (MEDIUM)",
+      "price": 6800,
+      "imageUrl": "https://i5.walmartimages.com/seo/MedPride-Powder-Free-Nitrile-Exam-Gloves-Medium-Box-100_11174ac2-9cda-4b89-bd6f-c50990291cf7.5ab3568a8d47e156fcd06c8af9f0e937.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "description": ""
+    },
+    {
+      "id": 1140,
+      "name": "MOKO ISOPROPYL ALCOHOL (100ML)",
+      "price": 950,
+      "imageUrl": "https://nettpharmacy.com/cdn/shop/files/Products02_0045_MIN_1034.jpg?v=1734975847",
+      "description": ""
+    },
+    {
+      "id": 1141,
+      "name": "OMEPRAZOLE INJECTION 40MG",
+      "price": 1000,
+      "imageUrl": "https://ryvispharma.com/wp-content/uploads/2020/12/566-4.jpg",
+      "description": ""
+    },
+    {
+      "id": 1142,
+      "name": "AGARYPLAST ZINC OXIDE ADHESIVE PLASTER",
+      "price": 3200,
+      "imageUrl": "https://betapharm.ng/wp-content/uploads/2024/12/1000377661-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1143,
+      "name": "FEROBIN PLUS 200ML FIDSON",
+      "price": 3500,
+      "imageUrl": "https://oneshopsupplements.com/wp-content/uploads/2024/10/56-1.png",
+      "description": ""
+    },
+    {
+      "id": 1144,
+      "name": "PENGESIC CAPSULE TRAMADOL HCI 50MG",
+      "price": 23100,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2017/09/Pengesic-Capsules-Tramadol-50mg-10-Capsules-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1145,
+      "name": "MISO-FEM (MISOPROSTOL 200MG)",
+      "price": 1100,
+      "imageUrl": "https://dktwomancare.org/wp-content/uploads/2024/02/Contraception-Your-Story-866-x-866-px.png",
+      "description": ""
+    },
+    {
+      "id": 1146,
+      "name": "G-PENT PENTAZOCIN INJECTION BP 30MG",
+      "price": 11400,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/10/PhotoRoom-20240916_104925_47.png",
+      "description": ""
+    },
+    {
+      "id": 1147,
+      "name": "CYPRODINE SYRUP 200ML",
+      "price": 14700,
+      "imageUrl": "https://danbucketecommerce.s3.amazonaws.com/images-1718279569934-.jpg",
+      "description": ""
+    },
+    {
+      "id": 1148,
+      "name": "DANACID COMPOUND MAGNESIUM TABLETS",
+      "price": 2200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yRnDKXkeMMZr9L1yYox0kaNWDxpzxUhzeQ&s",
+      "description": ""
+    },
+    {
+      "id": 1149,
+      "name": "KRISHAT PARACETAMOL INJECTION 300MG/2ML",
+      "price": 1100,
+      "imageUrl": "https://image.made-in-china.com/2f0j00rvahfMSnJHUY/Antipyretic-Analgesics-Paracetamol-Injection-300mg-2ml-Western-Medicine-with-GMP.webp",
+      "description": ""
+    },
+    {
+      "id": 1150,
+      "name": "MEPRASIL-20 OMEPRAZOLE CAPSULES USP 20MG",
+      "price": 1600,
+      "imageUrl": "https://medecify.com/storage/2025/04/A-F-CB-EF-DDA-D-C-D-FB-E-C-3000x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1151,
+      "name": "GAVISCON DOUBLE ACTION LIQUID",
+      "price": 11300,
+      "imageUrl": "https://www.gaviscon.co.uk/static/03cd02f8686638150fdeca71d9634c94/53f65/Gaviscon_Double_Action_Mint_250ML_-_Standard.png",
+      "description": ""
+    },
+    {
+      "id": 1152,
+      "name": "ULGICID SUSPENSION 200ML",
+      "price": 5000,
+      "imageUrl": "https://medecify.com/storage/2024/11/A-C-DD-AFD-AF-D-F-E-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1153,
+      "name": "ACCU-CHEK 50 TEST STRIPS",
+      "price": 19100,
+      "imageUrl": "https://cleaneat.ng/wp-content/uploads/2020/09/Accu-chek-50-Accu-Check-Test-Strips.jpg",
+      "description": ""
+    },
+    {
+      "id": 1154,
+      "name": "ACCU-CHEK ACTIVE",
+      "price": 30000,
+      "imageUrl": "https://www.accu-chek.in/sites/g/files/iut376/f/styles/image_300x400/public/accu-check_active.png?itok=P8uB6Icm",
+      "description": ""
+    },
+    {
+      "id": 1155,
+      "name": "EMZOR PARACETAMOL (500MG)",
+      "price": 2350,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/11/08-Paracetamol-96-WorldCup-Pack-View-01-844x1024.png",
+      "description": ""
+    },
+    {
+      "id": 1156,
+      "name": "M&B PARACETAMOL",
+      "price": 2600,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/20375551015f33b98c77a82product.jpg",
+      "description": ""
+    },
+    {
+      "id": 1157,
+      "name": "GESTID SUSPENSION 200ML B/S",
+      "price": 3000,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Gestid_20200ml_20Suspension.webp?v=1751227459",
+      "description": ""
+    },
+    {
+      "id": 1158,
+      "name": "SUGER FREE NUGEL ANTACID SUSPENSION 200ML",
+      "price": 4150,
+      "imageUrl": "https://pharma-xonline.com/wp-content/uploads/2022/07/d9bb13b3-6f26-49c9-b601-59c4c8cdc00d_500x500.png",
+      "description": ""
+    },
+    {
+      "id": 1159,
+      "name": "NUGEL-O ANAESTHETIC ANTACID SUSPENSION (200ML)",
+      "price": 4400,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls1501_0bc45cbf-e624-45d2-bdfc-823dab57bbba.jpg?v=1712667101",
+      "description": ""
+    },
+    {
+      "id": 1160,
+      "name": "HIGH STRENGTH 1000MG VITAMIN C",
+      "price": 5700,
+      "imageUrl": "https://naturesfieldng.com/wp-content/uploads/2024/03/Vitamin-C-1000mg-Mega-C-1.webp",
+      "description": ""
+    },
+    {
+      "id": 1161,
+      "name": "NUTRI-C INSTANT ORANGE FLAVORED DRINK",
+      "price": 2200,
+      "imageUrl": "https://omitosh.com/images/nutric/Nutri-c-img.png",
+      "description": ""
+    },
+    {
+      "id": 1162,
+      "name": "CALGOVIT FOOD SUPPLEMENT VITAMIN C 1000MG",
+      "price": 5200,
+      "imageUrl": "https://www.oaklifevitamins.com/cdn/shop/products/20.vitC.orange.front-Copy_900x.jpg?v=1684760696",
+      "description": ""
+    },
+    {
+      "id": 1163,
+      "name": "NDUSCO ABSORBENT COTTON WOOL (400GM)",
+      "price": 850,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/02/2-568x568-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1164,
+      "name": "WOODWARD'S GRIPE WATER 148ML",
+      "price": 2550,
+      "imageUrl": "https://m2.alhabibpharmacy.net/media/catalog/product/6/3/6390030002.png",
+      "description": ""
+    },
+    {
+      "id": 1165,
+      "name": "MOXIE",
+      "price": 2500,
+      "imageUrl": "https://m.media-amazon.com/images/I/41eNjLBCELL._SS400_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1166,
+      "name": "NDUSCO ABDSORBENT COTTON WOOL 500G",
+      "price": 2500,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/02/2-568x568-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1167,
+      "name": "NDUSCO ABSORBENT COTTON WOOL 300GM",
+      "price": 500,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/02/2-568x568-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1168,
+      "name": "NDUSCO ABSORBENT COTTON WOOL 100G",
+      "price": 250,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/02/2-568x568-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1169,
+      "name": "NIFECARD XL30MG TABLETS",
+      "price": 9200,
+      "imageUrl": "https://kanozon.com/cdn/shop/products/1200031324.jpg?v=1592487104",
+      "description": ""
+    },
+    {
+      "id": 1170,
+      "name": "MELATONIN 5MG",
+      "price": 11200,
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03554/l/10.jpg",
+      "description": ""
+    },
+    {
+      "id": 1171,
+      "name": "CLONEX -A TRIPLE ACTION SKIN CREAM 30G",
+      "price": 750,
+      "imageUrl": "https://maydonpharma.com/wp-content/uploads/2024/06/3-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1172,
+      "name": "ABF-3 CREAM 20G",
+      "price": 700,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/896088081616d813636c39product.webp",
+      "description": ""
+    },
+    {
+      "id": 1173,
+      "name": "ADVANCED DABUR ODOMOS B/S",
+      "price": 700,
+      "imageUrl": "https://carefortepharm.com/wp-content/uploads/2021/08/Odomos-mrc-25g.jpg",
+      "description": ""
+    },
+    {
+      "id": 1174,
+      "name": "CORTISONE CREAM 1%",
+      "price": 2400,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/dwfH8IN4xTNNG6QcK82EnfExFdI1nyAm5dMlALjQ_d98b27b8-a3f9-41eb-bfe3-01ef42607843.jpg?v=1757093174",
+      "description": ""
+    },
+    {
+      "id": 1175,
+      "name": "EPIDERM CREAM TRIPLE ACTION SKIN CREAM",
+      "price": 1000,
+      "imageUrl": "https://betocosmetics.com/cdn/shop/products/Others-Epiderm-tripple-action-Cream-Skin-Treatment-30gr-i1z_grande.jpg?v=1629106491",
+      "description": ""
+    },
+    {
+      "id": 1176,
+      "name": "NIZORAL Cream(ketoconazole 15g)",
+      "price": 6700,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRbInfbDUMl4QyYe-dcX0ICdB1bmYEeVnXA&s",
+      "description": ""
+    },
+    {
+      "id": 1177,
+      "name": "ANUSOL CREAM",
+      "price": 13750,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/56/9056114/1.jpg?7502",
+      "description": ""
+    },
+    {
+      "id": 1178,
+      "name": "MYCOTEN VAGINAL TAB 100MG CLOTRIMAZOLE 1%",
+      "price": 2220,
+      "imageUrl": "https://airmedng.com/wp-content/uploads/2024/02/Mycoten-Vaginal-Tablets-Clotrimazole-100mg-6-Pessaries.jpg",
+      "description": ""
+    },
+    {
+      "id": 1179,
+      "name": "MYCOTEN VAGINAL CREAM 35g",
+      "price": 2250,
+      "imageUrl": "https://www.drugfieldpharma.com/wp-content/uploads/2021/04/MYCOTEN-PLUS.png",
+      "description": ""
+    },
+    {
+      "id": 1180,
+      "name": "MYCOTEN-PLUS VIGINAL TABLETS",
+      "price": 2600,
+      "imageUrl": "https://medecify.com/storage/2024/11/D-E-EC-FBF-AA-CE-C-3000x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1181,
+      "name": "MYCOTEN-PLUS CREAM",
+      "price": 2350,
+      "imageUrl": "https://www.ikonlinestore.com/wp-content/uploads/2023/06/mycoten-plus.png",
+      "description": ""
+    },
+    {
+      "id": 1182,
+      "name": "AGARYJECT [SYRINGE] 5ML",
+      "price": 6850,
+      "imageUrl": "https://admin.generaldrugcentre.com/images/product/6949.jpg",
+      "description": ""
+    },
+    {
+      "id": 1183,
+      "name": "AGARYJECT SYRINGES (2ML)",
+      "price": 6250,
+      "imageUrl": "https://admin.generaldrugcentre.com/images/product/6949.jpg",
+      "description": ""
+    },
+    {
+      "id": 1184,
+      "name": "AGARYJECT SYRINGES (10ML)",
+      "price": 10200,
+      "imageUrl": "https://admin.generaldrugcentre.com/images/product/6949.jpg",
+      "description": ""
+    },
+    {
+      "id": 1185,
+      "name": "CEFIX CEFIXIME 400MG",
+      "price": 7000,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/12/PhotoRoom-20240926_105319_19.png",
+      "description": ""
+    },
+    {
+      "id": 1186,
+      "name": "OCEFIX CEFIXIME 100MG/5ML",
+      "price": 4200,
+      "imageUrl": "https://medecify.com/storage/2024/07/edbd-ea-dc-d-d-a-fe-a-d-e-d-2787x3000.png",
+      "description": ""
+    },
+    {
+      "id": 1187,
+      "name": "TUCLOX AMPICILLIN 250MG",
+      "price": 1350,
+      "imageUrl": "https://rxalldelivered.com/image/product/5121/MEDIUM/0/7069?t=1607080186",
+      "description": ""
+    },
+    {
+      "id": 1188,
+      "name": "CILLINOX AMPICILLIN/CLOXACILLIN USP 250MG/5ML",
+      "price": 2300,
+      "imageUrl": "https://drugstoc.odoo.com/web/image/product.template/16402/image_1920?unique=4cd678b",
+      "description": ""
+    },
+    {
+      "id": 1189,
+      "name": "EMGYI METRONIDAZOLE BP 400MG",
+      "price": 300,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Emgyl_20Metronidazole_20400mg_20x100_766acfb0-2779-4c12-8b15-91bb19c1583b.webp?v=1757093263",
+      "description": ""
+    },
+    {
+      "id": 1190,
+      "name": "EMGYL METRONIDAZOLE BP 200MG",
+      "price": 1850,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/04/Emgyl-200mg-10x10.png",
+      "description": ""
+    },
+    {
+      "id": 1191,
+      "name": "EMGYI BRAND PAEDIATRIC METRONIDAZOLE SUSPENSION B.P 200MG/5ML 60ML",
+      "price": 950,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls1690_bcb7cc6c-2139-498f-b48a-486a159143dc.jpg?v=1712666334",
+      "description": ""
+    },
+    {
+      "id": 1192,
+      "name": "EMZOCLOX AMPICILLINE 250MG + CLOXACILLINE 250MG",
+      "price": 15020,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/03/EMZOCLOX-BROAD-SPECTRUM.png",
+      "description": ""
+    },
+    {
+      "id": 1193,
+      "name": "EMZOCLOX BROAD SPECTRUM ANTIBIOTIC SUSPENSION",
+      "price": 2200,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2020/11/Emzor-Emzoclox-100ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 1194,
+      "name": "EMZOR PARACETAMOL TABLETS 500MG",
+      "price": 2310,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/11/08-Paracetamol-96-WorldCup-Pack-View-01-844x1024.png",
+      "description": ""
+    },
+    {
+      "id": 1195,
+      "name": "METRONIDAZOLE B.P. PAEDIATRIC SUSPENSION MG/ML ML",
+      "price": 750,
+      "imageUrl": "https://5.imimg.com/data5/KO/PI/MY-5449970/metronidazole.jpg",
+      "description": ""
+    },
+    {
+      "id": 1196,
+      "name": "EMZOCLOX NEONATAL ORAL DROPS",
+      "price": 1750,
+      "imageUrl": "EMZOCLOX NEONATAL ORAL DROPS",
+      "description": ""
+    },
+    {
+      "id": 1197,
+      "name": "M&B PARACETAMOL 500MG",
+      "price": 2600,
+      "imageUrl": "https://medecify.com/storage/2025/07/IMG-200-2908x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1198,
+      "name": "PANADOL TAB REGULAR",
+      "price": 500,
+      "imageUrl": "https://medecify.com/storage/2022/11/panadol-regular-tablet-blister-x10-2_hjpriu_600x.webp",
+      "description": ""
+    },
+    {
+      "id": 1199,
+      "name": "MIXAGRIP TABLET",
+      "price": 12500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjGy3Adj1jy07IbzglqqtzrZ8yxbUf24JGoQ&s",
+      "description": ""
+    },
+    {
+      "id": 1200,
+      "name": "SILVER BIRD EUCALYPTUS OIL B.P 28ML",
+      "price": 6372,
+      "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/22962135/1482168462.jpg",
+      "description": ""
+    },
+    {
+      "id": 1201,
+      "name": "FIRE XTRA(CONDOM)",
+      "price": 9100,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Fire_20Xtra_20Condom_20x3_24cf186f-630b-42f8-af1c-f673a6830264.webp?v=1754944282",
+      "description": ""
+    },
+    {
+      "id": 1202,
+      "name": "SHALTOUX LOZENGES",
+      "price": 122080,
+      "imageUrl": "https://shalina.com/wp-content/uploads/2023/08/Shaltoux-Lozenges.png",
+      "description": ""
+    },
+    {
+      "id": 1203,
+      "name": "FIRE XTACY (CONDOM)",
+      "price": 9100,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Fire_20Xtacy_20Condoms_20X3_26726d12-3a5f-4380-9d79-1b709038e044.webp?v=1754944280",
+      "description": ""
+    },
+    {
+      "id": 1204,
+      "name": "M&B PARACETAMOL SYRUP 60ML",
+      "price": 863,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/OkeA4532.jpg?v=1691156880",
+      "description": ""
+    },
+    {
+      "id": 1205,
+      "name": "KLINFAST CLINDAMYCIN & CLOTRIMAZOLE VAGINAL SUPPOSITORIES",
+      "price": 3200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlhkak9Cuor2l28abdu-KVFZ2rD_UElB5O-w&s",
+      "description": ""
+    },
+    {
+      "id": 1206,
+      "name": "FIRE XOLICA (CONDOM)",
+      "price": 9100,
+      "imageUrl": "https://ehealthpluspharma.com/wp-content/uploads/2024/05/Fire-xotica.webp",
+      "description": ""
+    },
+    {
+      "id": 1207,
+      "name": "MZOR PARACETAMOL SYRUB 125MG/5ML",
+      "price": 863,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/11/11-Para-Syrup-View-01.png",
+      "description": ""
+    },
+    {
+      "id": 1208,
+      "name": "DRUJELA MOUTH GEL",
+      "price": 850,
+      "imageUrl": "https://victorydrugspharmacy.com/wp-content/uploads/2025/03/Drujela-Mouth-Gel.jpg",
+      "description": ""
+    },
+    {
+      "id": 1209,
+      "name": "FABETA A-B ARTEETHER INJECTION 150MG/2ML",
+      "price": 2772,
+      "imageUrl": "https://www.ikonlinestore.com/wp-content/uploads/2023/10/ik_online_store_-_2023-10-02T175143.765-removebg-preview.png",
+      "description": ""
+    },
+    {
+      "id": 1210,
+      "name": "TARIVID 200MG",
+      "price": 11663,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX8upGAVbGvlFnNWN2NE-dZEYJe4oWKH7RqA&s",
+      "description": ""
+    },
+    {
+      "id": 1211,
+      "name": "EMCAP PARACETAMOL CAPLETS (500MG)",
+      "price": 2100,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls1118_84524bbd-344f-4a41-995e-81b8dce3d698.jpg?v=1712665467",
+      "description": ""
     }
   ],
 
