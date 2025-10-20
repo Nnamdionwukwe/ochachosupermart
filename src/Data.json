@@ -3137,6 +3137,538 @@
       "price": 2100,
       "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls1118_84524bbd-344f-4a41-995e-81b8dce3d698.jpg?v=1712665467",
       "description": ""
+    },
+    {
+      "id": 1212,
+      "name": "EMCAP EXTRA PARACETAMOL BP 500MG CAFFEINE BP 30MG",
+      "price": 3000,
+      "imageUrl": "https://victorydrugspharmacy.com/wp-content/uploads/2025/03/Emcap-Extra-Paracetamol-Caplets.jpg",
+      "description": ""
+    },
+    {
+      "id": 1213,
+      "name": "FIDSON MULTIVITAMIN SYRUP 100ML",
+      "price": 800,
+      "imageUrl": "https://fidson.com/wp-content/uploads/2022/09/Multivitamin.jpg",
+      "description": ""
+    },
+    {
+      "id": 1214,
+      "name": "ZAPZYT ACNE TREATMENT GEL",
+      "price": 14300,
+      "imageUrl": "https://zapzyt.com/wp-content/uploads/2016/08/zapzyt-acne-treatment-gel.png",
+      "description": ""
+    },
+    {
+      "id": 1215,
+      "name": "GALVUS MET FORIEGN 50MG/1000MG",
+      "price": 10500,
+      "imageUrl": "https://medecify.com/storage/2024/12/ABEB-B-BF-D-A-FEB-BC.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1216,
+      "name": "PODOPHYLLIN CREAM 20GM",
+      "price": 3650,
+      "imageUrl": "https://silverlinepharm.com/wp-content/uploads/2023/02/IMG_5768__1_-removebg-preview.png",
+      "description": ""
+    },
+    {
+      "id": 1217,
+      "name": "PISCOF EXPECTORANT 100ML",
+      "price": 650,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2020/11/Piscof-Expectorant-100ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 1218,
+      "name": "CHUPET AMINOPHYLLINE INJECTION 250MG/10ML",
+      "price": 200,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/07/PhotoRoom-20240918_130328_39.png",
+      "description": ""
+    },
+    {
+      "id": 1219,
+      "name": "OD LIVER OIL CAPSULES 1000MG",
+      "price": 700,
+      "imageUrl": "https://m.media-amazon.com/images/I/7109s11DFVL.jpg",
+      "description": ""
+    },
+    {
+      "id": 1220,
+      "name": "CAFERGOT 1MG / 100MG TABLET",
+      "price": 7000,
+      "imageUrl": "https://medecify.com/storage/2024/09/BE-B-DB-C-DF-FDCA-3000x3422.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1221,
+      "name": "LOSARTAN POTASSIUM 100MG X 28 TABS",
+      "price": 4650,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/01J00RX1X0WG910555P0DM5QVR.jpg",
+      "description": ""
+    },
+    {
+      "id": 1222,
+      "name": "SAMIRA DRAGON POWDER TEA",
+      "price": 3800,
+      "imageUrl": "https://cartnear.s3.us-east-2.amazonaws.com/ng/6bfa52d4fc293d15773f6c77594b2f7f.jpg",
+      "description": ""
+    },
+    {
+      "id": 1223,
+      "name": "SAMIRA ANTI TYPHIOD HERBAL TEA",
+      "price": 3800,
+      "imageUrl": "https://staging.mofemart.com/uploads/all/PbkEQ7xTGVeiqW63AWqwcRcB0qHBX5EiLKNQJ0ej.webp",
+      "description": ""
+    },
+    {
+      "id": 1224,
+      "name": "SAMIRA QUICK SLIMMING TEA",
+      "price": 3800,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/97/0361302/1.jpg?1448",
+      "description": ""
+    },
+    {
+      "id": 1225,
+      "name": "SAMIRA PROSTATE BALANCE",
+      "price": 3800,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/M/G/239521_1739739610.jpg",
+      "description": ""
+    },
+    {
+      "id": 1226,
+      "name": "SAMIRA KIDNEY FLUSH",
+      "price": 3800,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/Z/Y/239521_1739749291.jpg",
+      "description": ""
+    },
+    {
+      "id": 1227,
+      "name": "SAMIRA ANTI MALARIA HERBAL TEA",
+      "price": 3800,
+      "imageUrl": "https://renosuperstores.com.ng/wp-content/uploads/2025/01/IMG_20250114_150302@1322332837-Photoroom.jpg",
+      "description": ""
+    },
+    {
+      "id": 1228,
+      "name": "SAMIRA CHOLESTROL CARE TEA",
+      "price": 3800,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/W/Z/239521_1739749584.jpg",
+      "description": ""
+    },
+    {
+      "id": 1229,
+      "name": "SAMIRA FERTILITY BOOSTER TEA",
+      "price": 3800,
+      "imageUrl": "https://cartnear.s3.us-east-2.amazonaws.com/ng/14583ce1fc0dea07ff267993a13308a2.jpg",
+      "description": ""
+    },
+    {
+      "id": 1230,
+      "name": "LOOY GINGER INSTANT DRINK WITH GINSENG",
+      "price": 3900,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/0417322/1.jpg?9723",
+      "description": ""
+    },
+    {
+      "id": 1231,
+      "name": "SAMIRA GREEN TEA",
+      "price": 3800,
+      "imageUrl": "https://mainmarketonline.com/wp-content/uploads/2023/05/img_0067.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1232,
+      "name": "ARTESUN 120MG",
+      "price": 6000,
+      "imageUrl": "https://admin.generaldrugcentre.com/images/product/4489.jpg",
+      "description": ""
+    },
+    {
+      "id": 1233,
+      "name": "LOXAGYL 400 METRONIDAZOLE B.P. 400MG 10 X10 TABS",
+      "price": 250,
+      "imageUrl": "https://medecify.com/storage/2024/07/IMG-468-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1234,
+      "name": "PREGMOM PLUS",
+      "price": 9940,
+      "imageUrl": "https://www.daravit.com/wp-content/uploads/2022/12/IMG-20221017-WA0007-877x1024.jpg",
+      "description": ""
+    },
+    {
+      "id": 1235,
+      "name": "ITACARE ITTACONAZOLE CAPS 100MM 3X10 CAPS",
+      "price": 1100,
+      "imageUrl": "https://medecify.com/storage/2024/07/IMG-59-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1236,
+      "name": "AVENTRA INN BY FIDSON FLUCOSTAT I.V 200MG/100ML",
+      "price": 1000,
+      "imageUrl": "https://www.mediziabiotech.com/uploads/0000/1/2024/01/18/flucostin.jpg",
+      "description": ""
+    },
+    {
+      "id": 1237,
+      "name": "AMATEM SOFTGEL 20/120 X18",
+      "price": 2240,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6FYL9zkGNCRLeCePwl6b7L3boXUm4XBIaYA&s",
+      "description": ""
+    },
+    {
+      "id": 1238,
+      "name": "ACNEAWAY CREAM",
+      "price": 900,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVuMcoJKsuR0yzhn1pCUr92PRC1A6bAuDuCA&s",
+      "description": ""
+    },
+    {
+      "id": 1239,
+      "name": "0MEGA H6",
+      "price": 6300,
+      "imageUrl": "https://skystore.com.ng/wp-content/uploads/2024/05/image_1920-transformed.png",
+      "description": ""
+    },
+    {
+      "id": 1240,
+      "name": "AMATEM SOFTGEL FORTE",
+      "price": 3100,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2017/09/Amatem-Forte-Soft-Gel-80-480mg-6-Soft-Gel-Capsules.jpg",
+      "description": ""
+    },
+    {
+      "id": 1241,
+      "name": "IBASUNATE SOFTGEL 40/320",
+      "price": 2450,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdP3JXVwN5xNyRyHjGD2drzZIBPrn-rMN5fQ&s",
+      "description": ""
+    },
+    {
+      "id": 1242,
+      "name": "GREENTOL LOZENGES",
+      "price": 150,
+      "imageUrl": "https://onlinefamilypharmacy.com/images/item/796339.jpg",
+      "description": ""
+    },
+    {
+      "id": 1243,
+      "name": "METROTAB 400 (10 X 10) BLISTERS TABS",
+      "price": 200,
+      "imageUrl": "https://rxalldelivered.com/image/product/1132/MEDIUM/0/2122?t=1601646180",
+      "description": ""
+    },
+    {
+      "id": 1244,
+      "name": "PENICILLIN OINTMENT",
+      "price": 850,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/d7XVnRLUHmaxB281CiJPSF5Pz6jdjfjsnNcEnG85.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1245,
+      "name": "PIRITON EXP FOR CHILDREN",
+      "price": 1100,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/medp8590.jpg?v=1689171322",
+      "description": ""
+    },
+    {
+      "id": 1246,
+      "name": "CENTRUM SILVER WOMEN 50+(100 TABS)",
+      "price": 50400,
+      "imageUrl": "https://i0.wp.com/www.pharmgatepharmacy.com/wp-content/uploads/2025/07/img_0787.png?fit=438%2C570&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 1247,
+      "name": "PANFOR SR 500",
+      "price": 1150,
+      "imageUrl": "https://amorvard.com/wp-content/uploads/2025/02/Panfor-SR-500.jpg",
+      "description": ""
+    },
+    {
+      "id": 1248,
+      "name": "KOMIX COUGH SYRUB",
+      "price": 250,
+      "imageUrl": "https://admin.generaldrugcentre.com/images/product/1859.",
+      "description": ""
+    },
+    {
+      "id": 1249,
+      "name": "CENTRUM SILVER MEN 50+(100 TABS)",
+      "price": 50400,
+      "imageUrl": "https://m.media-amazon.com/images/I/71mz+N--C6L.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1250,
+      "name": "UNICURE METOCLOPRAMIDE HYDROCHLORIDE INJECTION B.P 10MG",
+      "price": 200,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/4/301094193/DL/GH/DO/14297314/metoclopramide-injection-bp-10-mg-2-ml.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1251,
+      "name": "CURA PHARM VOLDNAC 50(10 SUPPOSITORIES)",
+      "price": 2750,
+      "imageUrl": "https://www.binsina.ae/media/catalog/product/4/2/4265_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600",
+      "description": ""
+    },
+    {
+      "id": 1252,
+      "name": "NATURE'S FIELD CHOLES DEFENCE(60TABS)",
+      "price": 26600,
+      "imageUrl": "https://naturesfieldng.com/wp-content/uploads/2024/03/CholesDefence-Cholesterol-Defence-1-300x300.webp",
+      "description": ""
+    },
+    {
+      "id": 1253,
+      "name": "100ML SYRUP TUSSYLIN COUGH SYRUP (ADULT)",
+      "price": 900,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/04/TUSSYLIN20COUGH20SYRUP20ADULT20100ML.jpg",
+      "description": ""
+    },
+    {
+      "id": 1254,
+      "name": "YTACAN CLOTRIMAZOLE CREAM USP 30GM",
+      "price": 700,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/7051955305f3510b91d9e5product.jpg",
+      "description": ""
+    },
+    {
+      "id": 1255,
+      "name": "100ML SIROP TUSSYLIN COUGH SYRUP FOR CHILDREN",
+      "price": 850,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/02/2022-09-06-631731e53d8fd-scaled.jpg",
+      "description": ""
+    },
+    {
+      "id": 1256,
+      "name": "COLLAGEN WITH BURN (30 SERVINGS)",
+      "price": 23100,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Q_OT-0_PzWXIBvgkzvNEJwfCpDzPZhpBiPfmjN6kgFPyJHO62FOb_oOvmlok8z04tdQ&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 1257,
+      "name": "K Y JELLY LUBERICANT 50G NET",
+      "price": 2500,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/01J4RMQPPWVGPTQ2GXRB94G84V.jpg",
+      "description": ""
+    },
+    {
+      "id": 1258,
+      "name": "SKG TRICUTEN ACTION CREAM 20G CREAM",
+      "price": 1000,
+      "imageUrl": "https://rommarpharmacy.com/wp-content/uploads/2021/03/tricuten.jpg",
+      "description": ""
+    },
+    {
+      "id": 1259,
+      "name": "RUZU HERBAL TEA 20 INDIVIDUAL TEA BAGS.40G",
+      "price": 7600,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/S/A/118086_1564187027.jpg",
+      "description": ""
+    },
+    {
+      "id": 1260,
+      "name": "WOODS' PEPPERMINT ANTITUSSIVE SYRUP 100ML",
+      "price": 5400,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJaxh3EYm0KbT1_1x2dRPAr-GNaCFB4FbXg&s",
+      "description": ""
+    },
+    {
+      "id": 1261,
+      "name": "PB GLOBAL STERILE ANTIBIOTIC TULLE(10 DRESSING) 10CM X 10CM",
+      "price": 300,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/05/PhotoRoom-20240522_120544_22.png",
+      "description": ""
+    },
+    {
+      "id": 1262,
+      "name": "STREPSILS SOOTHING HONEY & LEMON",
+      "price": 5850,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/20312226235e3825007e0abproduct.jpg",
+      "description": ""
+    },
+    {
+      "id": 1263,
+      "name": "GOLD STANDARD WHEY",
+      "price": 114100,
+      "imageUrl": "https://hollyswellness.com/wp-content/uploads/2018/07/20250611_222801_0000.png",
+      "description": ""
+    },
+    {
+      "id": 1264,
+      "name": "VITAMIN E 1000IU",
+      "price": 2400,
+      "imageUrl": "https://naturesfieldng.com/wp-content/uploads/2024/03/Natures-Field-Vitamin-E-1000iu_2.webp",
+      "description": ""
+    },
+    {
+      "id": 1265,
+      "name": "LEYJAY HYDROGEN PEROXIDE SOLUTION B.P 100ML",
+      "price": 500,
+      "imageUrl": "https://img.lazcdn.com/g/p/e4857e45da9efc15719d06c4e73ecf6e.jpg_720x720q80.jpg",
+      "description": ""
+    },
+    {
+      "id": 1266,
+      "name": "CYPRI GOLD SYRUP 100M",
+      "price": 850,
+      "imageUrl": "https://medecify.com/storage/2024/11/CAB-F-CE-B-AE-CD-D-D-3000x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1267,
+      "name": "FUTUREBIOTICS ADVANCED WOMEN'S FORMULAR. THE 30 DAY BEAUTY SECRET",
+      "price": 53900,
+      "imageUrl": "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/33516295_fpx.tif",
+      "description": ""
+    },
+    {
+      "id": 1268,
+      "name": "ABIDEC DROP 25ML",
+      "price": 4000,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/medv356_grande.jpg?v=1691156239",
+      "description": ""
+    },
+    {
+      "id": 1269,
+      "name": "ABONIKI BALM 25G",
+      "price": 900,
+      "imageUrl": "https://m.media-amazon.com/images/I/61xvRLliTsL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1270,
+      "name": "ANTALLERGE ANTAZOLINE HCI 0.05%W/V",
+      "price": 2000,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/DGF_20Antallerge_200.09_e6489fc9-2d65-440f-a4b6-8f8027e4170f_grande.webp?v=1757093278",
+      "description": ""
+    },
+    {
+      "id": 1271,
+      "name": "CEFLONAC-SP ACECLOFENAC PARACETAMOL",
+      "price": 1000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWl3XbDQGFx9sx8tAmUb8Dh--ciFDKcY2ASg&s",
+      "description": "SERRATIOPEPTIDASE10 TABLETS"
+    },
+    {
+      "id": 1272,
+      "name": "CHEMIRON BLOOD TONIC IRON+ VITAMIN B12",
+      "price": 5000,
+      "imageUrl": "https://medecify.com/storage/2024/10/F-C-E-FF-B-C-A-A.jpeg",
+      "description": "FOLIC ACID REDUCES 1000ML"
+    },
+    {
+      "id": 1273,
+      "name": "CINVISCON ANTACID SUSPENSION 200ML",
+      "price": 5250,
+      "imageUrl": "https://medecify.com/storage/2023/08/Gaviscon-Peppermint-Suspension-ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 1274,
+      "name": "CLIPROFLOXACIN TABLETS/COMPRIMES USP 500MG",
+      "price": 1200,
+      "imageUrl": "https://cpimg.tistatic.com/09268804/b/4/Ciprofloxacin-Tablets.jpg",
+      "description": ""
+    },
+    {
+      "id": 1275,
+      "name": "EMBA COLICARE 1.5ML X 10 AMPULES",
+      "price": 500,
+      "imageUrl": "https://betapharm.ng/wp-content/uploads/2024/11/20241114_180333-scaled.jpg",
+      "description": ""
+    },
+    {
+      "id": 1276,
+      "name": "EPIC HEIGHT CREPE BANDAGE 4 X 4.5 METER",
+      "price": 500,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/04/EPIC20HEIGHT20CREPE20BANDAGE20620X204.5M.jpg",
+      "description": ""
+    },
+    {
+      "id": 1278,
+      "name": "CREPE BANDAGE 15CM X 4.5M 6 X 5YDS",
+      "price": 1000,
+      "imageUrl": "https://atlantichealthgd.com/wp-content/uploads/Crepe-Bandage.jpg",
+      "description": ""
+    },
+    {
+      "id": 1279,
+      "name": "DARAVIT FORTE X 50",
+      "price": 1100,
+      "imageUrl": "https://www.daravit.com/wp-content/uploads/2021/12/Daravit_Forte-1-removebg-preview.png",
+      "description": ""
+    },
+    {
+      "id": 1280,
+      "name": "DE-DEON'S SYRUP OF HAEMOGLOBIN VIT B12 .280ML",
+      "price": 5500,
+      "imageUrl": "https://megacare.ng/media/image/1_xLGrPWc.png",
+      "description": ""
+    },
+    {
+      "id": 1281,
+      "name": "50% DEXTROSE AND SALINE INFUSION B.P AVENTRA",
+      "price": 1000,
+      "imageUrl": "https://cfimages.gomed.ng/media/filer_public_thumbnails/filer_public/d9/b3/d9b3348e-2aff-4a03-a940-cd71f4f69627/filer_public94f094f0b8f7-44a8-44b0-b3f3-8c4b78db6251tmptmpxsaxagqz.webp__850x850_q85_crop-smart_subsampling-2.webp",
+      "description": ""
+    },
+    {
+      "id": 1282,
+      "name": "DRUG FIELD DICLOFENAC GEL 20G",
+      "price": 1100,
+      "imageUrl": "https://medecify.com/storage/2023/12/B-D-FD-F-D-C-A-F-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1283,
+      "name": "DIASTOP SUSPENSION 100ML KAOLIN LEGER B.P 200MG/ML",
+      "price": 1000,
+      "imageUrl": "https://megacare.ng/media/image/2_M61Q6oy.png",
+      "description": ""
+    },
+    {
+      "id": 1284,
+      "name": "EPIC HEIGHT DISPOSABLE GLOVES 100PCS",
+      "price": 500,
+      "imageUrl": "https://shopmamatega.com/cdn/shop/products/5555777900015_e8cd5063-ab52-400d-8471-f582c6c316a1_1080x.png?v=1702122069",
+      "description": ""
+    },
+    {
+      "id": 1285,
+      "name": "DIGITAL THERMOMETER U-LIFESOURCE",
+      "price": 2100,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/10/PhotoRoom-20240829_132550_33.png",
+      "description": ""
+    },
+    {
+      "id": 1286,
+      "name": "DOLO META B 10 X10 FILM COATED TABS.",
+      "price": 600,
+      "imageUrl": "https://fromatoz.com.ng/wp-content/uploads/2024/11/WhatsApp-Image-2024-10-22-at-11.02.45-AM-1.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1287,
+      "name": "EMZOR EMCAP EXTRA 500MG DE PARACETAMOL BP",
+      "price": 350,
+      "imageUrl": "https://247pharmacy.net/Uploads/K4308N2822.jpg",
+      "description": "30MG DE CAFFEINE"
+    },
+    {
+      "id": 1288,
+      "name": "EMBASSY INHALER (BLISTER OF 06 INHALER)",
+      "price": 650,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/02/2022-07-07-62c6db9cd645f.jpg",
+      "description": ""
     }
   ],
 
