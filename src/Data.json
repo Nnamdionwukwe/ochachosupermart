@@ -3669,6 +3669,517 @@
       "price": 650,
       "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/02/2022-07-07-62c6db9cd645f.jpg",
       "description": ""
+    },
+    {
+      "id": 1289,
+      "name": "EMZOLYN 4-WAY SYRUP 100ML",
+      "price": 1200,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2023/02/Emzolyn-4-way-1.png",
+      "description": ""
+    },
+    {
+      "id": 1290,
+      "name": "EMZOR CLOROQUINE COMPRIMES",
+      "price": 300,
+      "imageUrl": "https://www.padekhealthng.com/wp-content/uploads/2023/01/Emzor-Chloroquine-Syrup-60ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 1291,
+      "name": "EMZOR PAEDIATRIC ZINC SULPHATE 1X 10 TABS",
+      "price": 250,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/03/ZINC-PAEDIATRIC-SULPHATE-1x10.png",
+      "description": ""
+    },
+    {
+      "id": 1292,
+      "name": "ESOFAG-KIT",
+      "price": 16000,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/425/image_1024?unique=ea09a33",
+      "description": ""
+    },
+    {
+      "id": 1293,
+      "name": "EVENING PRIMROSE OIL SOFTGEL CAPS 1000MG",
+      "price": 2100,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXL86M7a6rUsu8N3jNjhNfT-9rUSpQcACH7Q&s",
+      "description": ""
+    },
+    {
+      "id": 1294,
+      "name": "EPIC HEIGHT DISPOSABLE NEEDLE",
+      "price": 50,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2025/1/480649286/ZD/IE/WO/2564604/disposable-syringe-needle.png",
+      "description": ""
+    },
+    {
+      "id": 1295,
+      "name": "UCH-MED FACE MASK SURGICAL DISPOSABLE 50 PIECES",
+      "price": 100,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61yMKe%2Br-SL._SS400_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1295,
+      "name": "FESULF 100 COMPRIMES",
+      "price": 650,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/10/PhotoRoom-20240916_104921_5.png",
+      "description": ""
+    },
+    {
+      "id": 1296,
+      "name": "FIMIN SYRUP PARACETAMOL 120MG/5ML 100ML",
+      "price": 1500,
+      "imageUrl": "https://medecify.com/storage/2024/09/A-EB-B-E-D-DE-BF-C-E-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1297,
+      "name": "FUNBACT-A TRIPLE ACTION CREAM 30GM",
+      "price": 1100,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/pvoDczZm5CpiaM6C486KcqO4XGVEAMtNulMygCQi.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1298,
+      "name": "GBOMORO SYRUP 100ML",
+      "price": 2500,
+      "imageUrl": "https://chemartpharmacy.com/wp-content/uploads/2025/05/e-f-aa-e-a-c-2856x3000-1-scaled.png",
+      "description": ""
+    },
+    {
+      "id": 1299,
+      "name": "GIVING SET(VENCHURA INFUSION SET MODEL NO QK-1",
+      "price": 250,
+      "imageUrl": "https://medvacc.com/wp-content/uploads/2021/03/ETMS0084-INFUSION-GIVING-SET.jpg",
+      "description": ""
+    },
+    {
+      "id": 1300,
+      "name": "GLUCOPHAGE 500MG FILM-COATED TABLET)",
+      "price": 3000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/99/9095814/1.jpg?0115",
+      "description": "COMPRIME.30 (2X15"
+    },
+    {
+      "id": 1301,
+      "name": "RICE KRISPIES 450G",
+      "price": 3520,
+      "imageUrl": "https://shoponclick.ng/storage/2021/11/Kelloggs-rice-krispies-cereal-400G.png",
+      "description": ""
+    },
+    {
+      "id": 1302,
+      "name": "MOKO GLYCERIN BORAX .THE GARGLE AND MOUTHWASH",
+      "price": 1000,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/63656965e42869cbe98eproduct.png",
+      "description": ""
+    },
+    {
+      "id": 1303,
+      "name": "GO FOR GOLD APETI SYRUP",
+      "price": 2500,
+      "imageUrl": "https://medecify.com/storage/2024/10/AD-D-E-D-AB-FAAD-E-CBB-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1304,
+      "name": "HYDRAC P 10 TABS",
+      "price": 2500,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/625/image_1920?unique=a4c6b5c",
+      "description": ""
+    },
+    {
+      "id": 1305,
+      "name": "JALIN HERBAL MANNEX LIQUID 125ML",
+      "price": 2000,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/21/6538014/1.jpg?8095",
+      "description": ""
+    },
+    {
+      "id": 1306,
+      "name": "JAMYCA-F CHOCOLATE DRINK FOR WOMEN 10G PER SACHET",
+      "price": 1200,
+      "imageUrl": "https://healthychildng.com/wip/wp-content/uploads/2021/11/Jamyca-f.jpg",
+      "description": ""
+    },
+    {
+      "id": 1307,
+      "name": "KRISCET-400 CIMETIDINE CAPLETS BP 400MG",
+      "price": 1100,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUijgU11MYh1CePKj57mVllkQKxxA_ydCzLA&s",
+      "description": ""
+    },
+    {
+      "id": 1308,
+      "name": "COCO POPS 900G",
+      "price": 7150,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/V/T/238948_1741004905.jpg",
+      "description": ""
+    },
+    {
+      "id": 1309,
+      "name": "KRISHAT 1000 OLEUM MORRHUAE B.P COD LIVER OIL 1000MG CAPSULES",
+      "price": 1000,
+      "imageUrl": "https://firstmedtrade.com/assets/uploads/media-uploader/img-07771721634577.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1310,
+      "name": "LOFNAC-100DICLOFENAC SODIUM SUSPOSITORIES 100MG",
+      "price": 500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyy9uDWtkgSx4aERoi_hCoWvKpxeaQiID24A&s",
+      "description": ""
+    },
+    {
+      "id": 1311,
+      "name": "LYSOCYL COUGH SYRUP 100ML",
+      "price": 2100,
+      "imageUrl": "https://vastoversfromatoz.com/wp-content/uploads/2022/02/Hnet.com-image505.jpg",
+      "description": ""
+    },
+    {
+      "id": 1312,
+      "name": "JESIL MIST POT CIT 200ML MIXTURE OF POTA CIT",
+      "price": 700,
+      "imageUrl": "https://effinghampharmacy.com/wp-content/uploads/2023/11/6006407000746.jpg",
+      "description": ""
+    },
+    {
+      "id": 1313,
+      "name": "P-ALAXIN TS TABLETS 960MG",
+      "price": 2500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX6BUm9wWZKo7LMLVI2u8JSvIJDgfFMuqYg&s",
+      "description": ""
+    },
+    {
+      "id": 1314,
+      "name": "MOKO MIST POT.CIT B.P.C 200ML",
+      "price": 1500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjadNYflvg-ZtwuY51OZh4qLXKgOf2Kl4Gcw&s",
+      "description": ""
+    },
+    {
+      "id": 1315,
+      "name": "NEUROGESIC EXTRA 85G OINMENT",
+      "price": 4000,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2018/03/Neurogesic-Extra-Ointment-35g-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1316,
+      "name": "CLODOREL (CLOPIDOGREL 75MG)",
+      "price": 2450,
+      "imageUrl": "https://drugstoc.odoo.com/web/image/product.template/15728/image_1024?unique=2b3c1e2",
+      "description": ""
+    },
+    {
+      "id": 1317,
+      "name": "ZINC FOR ACNE TAB X100",
+      "price": 19600,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/62/1007552/1.jpg?2712",
+      "description": ""
+    },
+    {
+      "id": 1318,
+      "name": "AMLODIPINE SWIPHA 5MG",
+      "price": 1400,
+      "imageUrl": "https://drugstoc.odoo.com/web/image/product.template/11786/image_1024?unique=b4b98c7",
+      "description": ""
+    },
+    {
+      "id": 1319,
+      "name": "DR MEYER FOLIC ACID B12",
+      "price": 750,
+      "imageUrl": "https://fromatoz.com.ng/wp-content/uploads/2024/11/WhatsApp-Image-2024-10-22-at-3.13.08-PM.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1320,
+      "name": "E MAL INJECTION 2ML",
+      "price": 6200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKTEy3gXXKjW-Fs42NmU-lEqxng5F8ZwAF7SudT34fLzm4busn01tSstpTED4ZLUszFXc&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 1321,
+      "name": "ALPA-XYLOGEL 2% JELLY LIDOCAINE GEL",
+      "price": 1550,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/products/Alpa-Xylogel-2-Jelly-30-g-Supermart-ng-5515.jpg?v=1690740957",
+      "description": ""
+    },
+    {
+      "id": 1322,
+      "name": "RATIN A PLUS CREAM",
+      "price": 5250,
+      "imageUrl": "https://www.padekhealthng.com/wp-content/uploads/2023/01/Retin-A-Tretinoin-0.05-Cream-30g.jpg",
+      "description": ""
+    },
+    {
+      "id": 1323,
+      "name": "DAONIL 5MG",
+      "price": 1650,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/1176/image_1024?unique=2901664",
+      "description": ""
+    },
+    {
+      "id": 1324,
+      "name": "EDEN AMLODIPINE 10MG TABLETS",
+      "price": 700,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/6397540875e9d9978a69e0product.jpg",
+      "description": ""
+    },
+    {
+      "id": 1325,
+      "name": "HEPBEST (TENOFOVIR ALAFENAMIDE) X 30",
+      "price": 23100,
+      "imageUrl": "https://www.shielddrugstore.com/web/image/product.template/26838/image_1024?unique=b85e44d",
+      "description": ""
+    },
+    {
+      "id": 1326,
+      "name": "ORALDOZ PLUS ZINC ORANGE FLAVOUR",
+      "price": 800,
+      "imageUrl": "https://carefortepharm.com/wp-content/uploads/2023/09/Oraldoz-Plus-Zinc-Orange-Flavour.jpg",
+      "description": ""
+    },
+    {
+      "id": 1327,
+      "name": "BERLIN FLUCONAZOLE TABLETS 150MG",
+      "price": 800,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/07/PhotoRoom-20240713_101749_23.png",
+      "description": ""
+    },
+    {
+      "id": 1328,
+      "name": "ESOFAG - D TABLETS 40MG",
+      "price": 7300,
+      "imageUrl": "https://sanlivepharmacy.com/images/products/hogahbhqmrflordpzmbg.jpg",
+      "description": ""
+    },
+    {
+      "id": 1329,
+      "name": "GLUCOPHAGE 1000MGX 30",
+      "price": 11650,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcOH5d6DqubvDAjwy-cyhHyvnaC9nnzzPBBA&s",
+      "description": ""
+    },
+    {
+      "id": 1330,
+      "name": "GESTID SUSPENSION 100ML",
+      "price": 1500,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/Psx1ZARTmOa3OWAK0Nr5f3N3hkbpB9r8qYahO1Z0.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1331,
+      "name": "ACCU-CHEK LANCETS X200",
+      "price": 200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0TLCXjkODGCy7WIxOnTg-44OuUwfndKoM4A&s",
+      "description": ""
+    },
+    {
+      "id": 1332,
+      "name": "SPANISH GOLD FLY",
+      "price": 1000,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls866_084af350-8922-4e0e-8f99-2bfcb4473abf_grande.jpg?v=1756131758",
+      "description": ""
+    },
+    {
+      "id": 1333,
+      "name": "PANFOR SR 1000",
+      "price": 2000,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/595/image_1024?unique=895f0d8",
+      "description": ""
+    },
+    {
+      "id": 1334,
+      "name": "CLARITHROMYCIN TABLETS 500MG (SAMJONES)",
+      "price": 5350,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/11/PhotoRoom-20240925_111525_43.png",
+      "description": ""
+    },
+    {
+      "id": 1335,
+      "name": "FYBOGEL ORANGE",
+      "price": 1100,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/12548297095ff83e326429aproduct.jpg",
+      "description": ""
+    },
+    {
+      "id": 1336,
+      "name": "TETRACYCLINE 250MG (HYDROCHLORIDE)",
+      "price": 350,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV2oKFBC-R-TIP-jks6J_JeMKOF0ErBck6_A&s",
+      "description": ""
+    },
+    {
+      "id": 1337,
+      "name": "NEWXINE (MECLOZINE B6)",
+      "price": 550,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/10/PhotoRoom-20240916_104923_21.png",
+      "description": ""
+    },
+    {
+      "id": 1338,
+      "name": "TETRACYCLIN CAPSULE 10X10",
+      "price": 300,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2019/03/Tetracycline-Capsules-10-Capsules-1-1200x630-cropped.jpg",
+      "description": ""
+    },
+    {
+      "id": 1339,
+      "name": "EVOFEM DKT",
+      "price": 650,
+      "imageUrl": "https://dktnigeria.org/wp-content/uploads/2016/07/levofem-dkt-resized-product-images.jpg",
+      "description": ""
+    },
+    {
+      "id": 1340,
+      "name": "THEOCLAV POWDER FOR ORAL SUSPENSION 228.5MG/5ML",
+      "price": 2200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYCnSwlpdmqifmrMMWCO3iPDY8Dht72mvPQ&s",
+      "description": ""
+    },
+    {
+      "id": 1341,
+      "name": "QUICK CHECK PREGNANCY TEST",
+      "price": 5200,
+      "imageUrl": "https://elegamedical.com/pic/big/189_0.jpg",
+      "description": ""
+    },
+    {
+      "id": 1342,
+      "name": "ACTIFED COLD",
+      "price": 12600,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/92368315460cb24d9de22dproduct.jpg",
+      "description": ""
+    },
+    {
+      "id": 1343,
+      "name": "ANDREW LIVER SALT",
+      "price": 350,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/18604922645e4272f21f4f5product.png",
+      "description": ""
+    },
+    {
+      "id": 1344,
+      "name": "YTALYTE ORS ORANGE X30",
+      "price": 200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf6kI1GkZ028767Gsg_FnjO4Q6wST4bsBbGQ&s",
+      "description": ""
+    },
+    {
+      "id": 1345,
+      "name": "STRIDOX DOXYCYCLINE GELULES X100",
+      "price": 300,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/07/PhotoRoom-20240623_204714_27.png",
+      "description": ""
+    },
+    {
+      "id": 1346,
+      "name": "AMARYL GLIMEPIRIDE 2MG X30",
+      "price": 5600,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Amaryl_20_28Glimepiride_29_202mg_20Tabs_20x30_06aea052-01c6-4183-87a3-f05a94ce54e7.webp?v=1757093286",
+      "description": ""
+    },
+    {
+      "id": 1347,
+      "name": "WIND HAND SANITIZER 500ML",
+      "price": 2700,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmt019.jpg?v=1688993864",
+      "description": ""
+    },
+    {
+      "id": 1348,
+      "name": "DEEP FREEZE COLD GEL",
+      "price": 8550,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/63700797061265e36eeef2product.webp",
+      "description": ""
+    },
+    {
+      "id": 1349,
+      "name": "TOTHEMA IRON MANGANESE ORAL SOLUTION",
+      "price": 800,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2022/08/Tothema-Oral-Solution-10ml-20-Oral-Ampoules.jpg",
+      "description": ""
+    },
+    {
+      "id": 1350,
+      "name": "HOSPIMOX AMOXYCILLIN 125MG/5ML",
+      "price": 2000,
+      "imageUrl": "https://drugstoc.odoo.com/web/image/product.template/16393/image_1920?unique=4cd678b",
+      "description": ""
+    },
+    {
+      "id": 1351,
+      "name": "OMRON M3",
+      "price": 131850,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/01HZFBA3S2E0J25YMJGK9Q86HV.png",
+      "description": ""
+    },
+    {
+      "id": 1352,
+      "name": "VOLTAREN DICLOFENAC 50",
+      "price": 1750,
+      "imageUrl": "https://www.binsina.ae/media/catalog/product/4/2/4284_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600",
+      "description": ""
+    },
+    {
+      "id": 1353,
+      "name": "TROOP-C VITAMIN C CHEWABLE X100 TABS",
+      "price": 1100,
+      "imageUrl": "https://megacare.ng/media/image/1_MOd9Tvz.png",
+      "description": ""
+    },
+    {
+      "id": 1354,
+      "name": "SPIROCARD 25MG X100 SPIRONOLAC",
+      "price": 1400,
+      "imageUrl": "https://drugstoc.odoo.com/web/image/product.template/12877/image_1024?unique=3084584",
+      "description": ""
+    },
+    {
+      "id": 1355,
+      "name": "DELEJECT EXTRA NEEDLE 22G 1X100",
+      "price": 50,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/06/PhotoRoom-20240516_144406_24.png",
+      "description": ""
+    },
+    {
+      "id": 1356,
+      "name": "MOKO SPIRIT 2LITER",
+      "price": 14000,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/06/PhotoRoom-20240430_151328_32-1.png",
+      "description": ""
+    },
+    {
+      "id": 1357,
+      "name": "LORENAC 50MG DICLOFENAC SODIUM",
+      "price": 450,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/09/PhotoRoom-20240821_110558_39.png",
+      "description": ""
+    },
+    {
+      "id": 1358,
+      "name": "NELBFENAC DICLOFENAC INJECTION 75MG/3ML",
+      "price": 100,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/08/PhotoRoom-20240806_105244_6.png",
+      "description": ""
+    },
+    {
+      "id": 1359,
+      "name": "HYDROCORTISONE CREAM 15G",
+      "price": 1400,
+      "imageUrl": "https://megacare.ng/media/image/Hydrocortisone-cream_G3fka5A.webp",
+      "description": ""
+    },
+    {
+      "id": 1360,
+      "name": "SOPCEE VITAMIN C CHEWABLE X1000TABS",
+      "price": 10,
+      "imageUrl": "https://mygetwell.app/assets/uploads/media-uploader/10000012901745692991.jpg",
+      "description": ""
     }
   ],
 
