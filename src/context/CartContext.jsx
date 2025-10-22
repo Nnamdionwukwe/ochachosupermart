@@ -30,8 +30,8 @@ export const CartProvider = ({ children }) => {
     setSearchTerm(event.target.value);
   };
 
-  const [cosmetic, setCosmetic] = useState(Data.cosmetics);
-  const [pharmacy, setPharmacy] = useState(Data.pharmacy);
+  // const [cosmetic, setCosmetic] = useState(Data.cosmetics);
+  // const [pharmacy, setPharmacy] = useState(Data.pharmacy);
   const [selectedID, setSelectedID] = useState({});
 
   // const [loading, setLoading] = useState(true);
@@ -136,8 +136,8 @@ export const CartProvider = ({ children }) => {
     removeFromCart,
     updateQuantity,
     lastAddedItem,
-    cosmetic,
-    pharmacy,
+    // cosmetic,
+    // pharmacy,
     selectedID,
     setSelectedID,
     handleSearchChange,

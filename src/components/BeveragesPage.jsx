@@ -25,7 +25,7 @@ function BeveragesPage() {
 
       <CategoryNavLinkSlider />
 
-      <CategoryName>Beverages</CategoryName>
+      <CategoryName>Household</CategoryName>
 
       <BeveragesList />
 

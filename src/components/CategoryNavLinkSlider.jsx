@@ -6,7 +6,7 @@ const categories = [
   { name: "All", path: "/products" },
   { name: "Cosmetics", path: "/products/cosmetics" },
   { name: "Phamarcy", path: "/products/phamarcy" },
-  { name: "Beverages", path: "/products/beverages" },
+  { name: "Household", path: "/products/beverages" },
   { name: "Cereals", path: "/products/cereals" },
   { name: "Toiletries", path: "/products/toiletries" },
   { name: "Kitchen Utensis", path: "/products/kitchenutensis" },
