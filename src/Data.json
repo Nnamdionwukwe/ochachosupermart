@@ -4726,6 +4726,594 @@
       "price": 3750,
       "imageUrl": "https://www.cphi-online.com/product/amoxicillin-potassium-clavulanate-tablets/theoclav-1000.jpg",
       "description": ""
+    },
+    {
+      "id": 1439,
+      "name": "OMEGA -H3 CAP",
+      "price": 12350,
+      "imageUrl": "https://ferozsons-labs.com/wp-content/uploads/2018/02/IMG_1325-copy.jpg",
+      "description": ""
+    },
+    {
+      "id": 1439,
+      "name": "SWE-CARE HIV TEST KITS",
+      "price": 2250,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2023/12/hiv20test20kit.png",
+      "description": ""
+    },
+    {
+      "id": 1440,
+      "name": "EXFORGE HCT 10MG/160MG/12.5MG",
+      "price": 41300,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/158142494561168e936c9baproduct.webp",
+      "description": ""
+    },
+    {
+      "id": 1441,
+      "name": "DICLOFENAC EYE DROP",
+      "price": 1600,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/10885069275e4184b02b085product.png",
+      "description": ""
+    },
+    {
+      "id": 1442,
+      "name": "TETANUS VACCINE DANO",
+      "price": 500,
+      "imageUrl": "https://www.danovaccines.com/wp-content/uploads/2024/02/Product1.png",
+      "description": ""
+    },
+    {
+      "id": 1443,
+      "name": "LONART ARTEMETHER +LUMEFANTRINE",
+      "price": 1050,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Lonart_20X24_20Tablets_55acfe6c-83f3-4eeb-9090-d90e4f8a5b90.webp?v=1757093248",
+      "description": ""
+    },
+    {
+      "id": 1444,
+      "name": "ASTYMIN",
+      "price": 5350,
+      "imageUrl": "https://www.vinmec.com/static/uploads/20220721_024946_470535_Astymin_max_1800x1800_jpg_85670bf1df.jpg",
+      "description": ""
+    },
+    {
+      "id": 1445,
+      "name": "LIVOLIN FORTE CAP",
+      "price": 12350,
+      "imageUrl": "https://cdn.mimsprd.mims.com/drug-resources/PH/packshot/Livolin%20Forte6001PPS0.JPG",
+      "description": ""
+    },
+    {
+      "id": 1446,
+      "name": "GINSOMIN 3 X 10 KOREAN PANAX GINSENG EXTRACT WITH MULTIVITALMINS&MINERALS",
+      "price": 11200,
+      "imageUrl": "https://m.media-amazon.com/images/I/91qZASuFhsL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1447,
+      "name": "CONTIFLO XL 400MG TABLETS",
+      "price": 6950,
+      "imageUrl": "https://medecify.com/storage/2023/12/Contiflo-XL.jpg",
+      "description": ""
+    },
+    {
+      "id": 1448,
+      "name": "PROCOMIL SPRAY",
+      "price": 7000,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/drrd97.jpg?v=1756132023",
+      "description": ""
+    },
+    {
+      "id": 1449,
+      "name": "STUD 100 SPRAY",
+      "price": 11350,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/medv313.png?v=1688750929",
+      "description": ""
+    },
+    {
+      "id": 1450,
+      "name": "GOYA EXTRA VIRGIN OIL",
+      "price": 1850,
+      "imageUrl": "https://uzoebo.com/images/uzoebo/1628245338_goya_bottle.jpg",
+      "description": ""
+    },
+    {
+      "id": 1451,
+      "name": "ANUSOL SUPPOSITORIES X24",
+      "price": 850,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/products/Anusol-Suppositories-x24-Supermart-ng-9967.jpg?v=1690929105",
+      "description": ""
+    },
+    {
+      "id": 1452,
+      "name": "KUNIMED YEAST POWDER",
+      "price": 4100,
+      "imageUrl": "https://renosuperstores.com.ng/wp-content/uploads/2025/01/IMG_20250116_102455@-2043057925-Photoroom.jpg",
+      "description": ""
+    },
+    {
+      "id": 1453,
+      "name": "CANLIST PROBIOTIC 3 PREBIOTICS CAP X 6",
+      "price": 34350,
+      "imageUrl": "https://m.media-amazon.com/images/I/71TneFwm5TL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1454,
+      "name": "UNIVAL DIAZEPAM 5MG",
+      "price": 900,
+      "imageUrl": "https://www.247pharmacy.net/Uploads/M7052P1465.jpg",
+      "description": ""
+    },
+    {
+      "id": 1455,
+      "name": "FRISKA TEA FOR WOMEN",
+      "price": 6300,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/60/3440214/1.jpg?3933",
+      "description": ""
+    },
+    {
+      "id": 1456,
+      "name": "TADALIS 20 TABS X 4",
+      "price": 4200,
+      "imageUrl": "https://medecify.com/storage/2024/05/A-FF-B-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1457,
+      "name": "ROBB 23ML",
+      "price": 500,
+      "imageUrl": "https://waziri.ng/wp-content/uploads/2023/12/ROBB-Original-Balm-23ml-x-12.jpg",
+      "description": ""
+    },
+    {
+      "id": 1458,
+      "name": "cabergoline(synergo 0.5mg)",
+      "price": 18900,
+      "imageUrl": "https://247pharmacy.net/Uploads/F6641J6668.jpg",
+      "description": ""
+    },
+    {
+      "id": 1459,
+      "name": "Esidrex 25mg x20 (compresse idroclerotiazide )",
+      "price": 6900,
+      "imageUrl": "https://medecify.com/storage/2023/04/esidrex-_hydrochlorothiazide_-25mg-tabs-x20-1_vdymoc_600x.webp",
+      "description": ""
+    },
+    {
+      "id": 1460,
+      "name": "Diarrhoea Relief 2mg capsule",
+      "price": 12600,
+      "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/22962135/4460624110.jpg",
+      "description": ""
+    },
+    {
+      "id": 1461,
+      "name": "OMRON M2 BP MONITOR",
+      "price": 99700,
+      "imageUrl": "https://www.swiftermall.com/5292-large_default/omron-m2-blood-pressure-monitor.jpg",
+      "description": ""
+    },
+    {
+      "id": 1462,
+      "name": "OMRON M1 BASIC",
+      "price": 61400,
+      "imageUrl": "https://www.omron-healthcare.ng/images/fit=crop-50-50,fm=jpg,h=1600,w=1600/products/m1_basic_l_01-1.jpg?signature=5db9718db320660b0fd01093b51ea4f4573f9dfca17681b5a4d0031a5733f745",
+      "description": ""
+    },
+    {
+      "id": 1463,
+      "name": "RELUMINS MAX DOSE GLUTATHIONE COMPLEX",
+      "price": 83750,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJtJV0jEQLnoizQrJehkXTcINw56AhBQ6nlA&s",
+      "description": ""
+    },
+    {
+      "id": 1464,
+      "name": "RELUMINS COLLAGEN COMPLEX FORMULA DRINK",
+      "price": 109900,
+      "imageUrl": "https://hollyswellness.com/wp-content/uploads/2020/11/20201103_113721_0000.png",
+      "description": ""
+    },
+    {
+      "id": 1465,
+      "name": "RELUMINS GLUTATHIONE",
+      "price": 50000,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/03/20211122_112213_0000.png",
+      "description": ""
+    },
+    {
+      "id": 1466,
+      "name": "RELUMINS (15X 1650MG GLUTATHIONE COMPLEX)",
+      "price": 244720,
+      "imageUrl": "https://maxhubpharm.com/wp-content/uploads/2022/06/29588.jpg",
+      "description": ""
+    },
+    {
+      "id": 1467,
+      "name": "RELUMIN 15X(1650MG GLUTATHIONE COMPLEX) WITH HYALURONIC ACID",
+      "price": 252448,
+      "imageUrl": "https://m.media-amazon.com/images/I/61eKSQq3BFL._AC_UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1468,
+      "name": "RELUMINS ORAL-VIALS 15000 ADVANCED GLUTAHIONE",
+      "price": 450800,
+      "imageUrl": "https://megacare.ng/media/image/2_kxpAmD4.png",
+      "description": ""
+    },
+    {
+      "id": 1469,
+      "name": "RELUMINS ADVANCE NUTRITION VITAMIN C COMPLEX",
+      "price": 77300,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/05/take-up-to-50-off-2024-05-08T.webp",
+      "description": ""
+    },
+    {
+      "id": 1470,
+      "name": "RELUMINS CHEWABLE COLLAGEN PLUS VITAMIN C",
+      "price": 159712,
+      "imageUrl": "https://maxhubpharm.com/wp-content/uploads/2023/01/54617.jpg",
+      "description": ""
+    },
+    {
+      "id": 1471,
+      "name": "IMMUNE BOOST 60 CAP(RELUMINS)",
+      "price": 89500,
+      "imageUrl": "https://www.relumins.com/assets/images/RL-IMMUNEBOOST-60-adam2020.jpg",
+      "description": ""
+    },
+    {
+      "id": 1472,
+      "name": "GLUTATHIONE DRINK WITH POMEGRANATE",
+      "price": 219800,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/07/Important-Announcement-14.webp",
+      "description": ""
+    },
+    {
+      "id": 1476,
+      "name": "RELUMINS ADVANCED GLUTATHIONE 3500",
+      "price": 579600,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/7/KD/TU/WL/44797325/relumins-3500mg-glutathione-injection-500x500.png",
+      "description": ""
+    },
+    {
+      "id": 1477,
+      "name": "GLUTA 3000",
+      "price": 450800,
+      "imageUrl": "https://rukminim2.flixcart.com/image/480/480/khz693k0-0/body-skin-treatment/s/q/7/50-oral-glutathione-spray-3000mg-for-skin-whitening-relumins-original-imafxvgkndfe8qzp.jpeg?q=90",
+      "description": ""
+    },
+    {
+      "id": 1478,
+      "name": "NEOSKIN CREAM 30G",
+      "price": 900,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2017/09/Neoskin-Cream-30g.jpg",
+      "description": ""
+    },
+    {
+      "id": 1479,
+      "name": "ALCOHOL SWABS",
+      "price": 150,
+      "imageUrl": "https://medicalmonks.com/wp-content/uploads/2016/05/Embecta_326895.jpg",
+      "description": ""
+    },
+    {
+      "id": 1480,
+      "name": "NURSE CAP STRIPED",
+      "price": 150,
+      "imageUrl": "https://i.pinimg.com/474x/18/69/b9/1869b9393bba6a5cd90fe6319ef40a76.jpg",
+      "description": ""
+    },
+    {
+      "id": 1481,
+      "name": "SCALP VEIN SET",
+      "price": 250,
+      "imageUrl": "https://betapharm.ng/wp-content/uploads/2024/08/22g.jpg",
+      "description": ""
+    },
+    {
+      "id": 1482,
+      "name": "I.V CANNULA MIXED",
+      "price": 350,
+      "imageUrl": "https://2.imimg.com/data2/PG/OK/IMFCP-956611/1198905385mix-20cannula.jpg",
+      "description": ""
+    },
+    {
+      "id": 1483,
+      "name": "DARAVIT OMEGA 3 FISH OIL SOFTGELS 1000MG",
+      "price": 5400,
+      "imageUrl": "https://www.daravit.com/wp-content/uploads/2022/12/IMG-20221017-WA0003-804x1024.jpg",
+      "description": ""
+    },
+    {
+      "id": 1484,
+      "name": "DARAVIT WOMAN COMBI PACK",
+      "price": 7000,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls3421_c9dded3c-8d19-4ae0-95d8-7822921323b6.jpg?v=1712667601",
+      "description": ""
+    },
+    {
+      "id": 1485,
+      "name": "BIO- OIL 25ML",
+      "price": 4350,
+      "imageUrl": "https://i0.wp.com/beccaville.com/wp-content/uploads/2024/02/58404DD1-5C62-4CD4-8264-799ABF5B73C5.jpeg?fit=531%2C577&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 1486,
+      "name": "GALACTOMYCES PURE VITAMIN C GLOW TONER",
+      "price": 19600,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDIRh8Lh4JKSTWOV6hH9flyeSf8VbzMNVrjw&s",
+      "description": ""
+    },
+    {
+      "id": 1487,
+      "name": "B-12 500MG",
+      "price": 44100,
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex36110/y/78.jpg",
+      "description": ""
+    },
+    {
+      "id": 1488,
+      "name": "PANADOL NIGHT CAP",
+      "price": 13720,
+      "imageUrl": "https://pharmazone.com/cdn/shop/files/20415-PANADOLNIGHT24CAP.webp?v=1746619991",
+      "description": ""
+    },
+    {
+      "id": 1489,
+      "name": "JOINT PANADOL PARACETAMOL 665MG",
+      "price": 26320,
+      "imageUrl": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/panadol-reborn/en_ME/product-detail/panadol-joint/Panadol-Joint-380x463.png?auto=format",
+      "description": ""
+    },
+    {
+      "id": 1490,
+      "name": "BABY SEBA MED SHAMPOO",
+      "price": 14000,
+      "imageUrl": "https://chfheron.com/wp-content/uploads/2025/02/Seb-3035231-1.png",
+      "description": ""
+    },
+    {
+      "id": 1491,
+      "name": "BISOPROLOL FUMARATE 10MG",
+      "price": 2600,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Sandoz_20Bisoprolol_20Fumerate_2010mg_20x28_d87df20f-3b55-4484-bad2-7be89e5eedb2.webp?v=1756577837",
+      "description": ""
+    },
+    {
+      "id": 1492,
+      "name": "IMMUN BOOST SENIOR",
+      "price": 22000,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products_alt_img/01JKZJXYW65N4916JPN6C21E0G.jpg",
+      "description": ""
+    },
+    {
+      "id": 1493,
+      "name": "GOOD MOLECULES",
+      "price": 32200,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2022/03/Good-Molecules-Hyaluronic-Acid-Serum-2-fl-oz-30ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 1494,
+      "name": "CETIRIZINE (TEVA) 10MG",
+      "price": 1550,
+      "imageUrl": "https://assets.viata.be/uploads/cache/product_original/img/product/ce/ti/cetirizine-teva-10mg-tablets-100pieces.bdd870.jpg",
+      "description": ""
+    },
+    {
+      "id": 1495,
+      "name": "IMMUN BOOST 60TAB",
+      "price": 20200,
+      "imageUrl": "https://m.media-amazon.com/images/I/61QnhjGPheL._AC_UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1496,
+      "name": "NATURE FIELD BEAUTY SURE ADVANCED COLLAGEN",
+      "price": 30800,
+      "imageUrl": "https://naturesfieldng.com/wp-content/uploads/2024/03/NaturesField-Beautysure-Collagen-Drink-Mix-1.webp",
+      "description": ""
+    },
+    {
+      "id": 1497,
+      "name": "INHALER POY-SIAN",
+      "price": 800,
+      "imageUrl": "https://www.gosupps.com/media/catalog/product/cache/25/small_image/375x450/9df78eab33525d08d6e5fb8d27136e95/7/1/71OQMOyfhAL.jpg",
+      "description": ""
+    },
+    {
+      "id": 1498,
+      "name": "CANESTEN 100MG SUPP",
+      "price": 18830,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/211862027-1.jpg?v=1751227493",
+      "description": ""
+    },
+    {
+      "id": 1499,
+      "name": "CIVODEX EYE/EAR DROP",
+      "price": 3000,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls3935_8aa29633-3443-4d39-9417-a05aa644991e.jpg?v=1712666692",
+      "description": ""
+    },
+    {
+      "id": 1500,
+      "name": "P-ALAXIN SUSP",
+      "price": 2400,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/1039792475e4187377ebe1product.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1501,
+      "name": "VICK INHALER NASAL STICK 197MG",
+      "price": 1800,
+      "imageUrl": "https://images.ctfassets.net/sabbecbbwaz3/15y3KaUGwzABZzw6KflycH/65d39b38bd64ee10281e5ab7395557ef/Product-Vicks-Inhaler.jpg",
+      "description": ""
+    },
+    {
+      "id": 1502,
+      "name": "ENSURE ORIGINAL NUTRITIONAL SHAKE 237ML",
+      "price": 4900,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Ensure_20Original_20Vanilla_20Shake_20237ml_ae1a2273-7959-4dbf-9f7d-fe3a7e2c5749.webp?v=1756311179",
+      "description": ""
+    },
+    {
+      "id": 1503,
+      "name": "BELLARTEM 80/480",
+      "price": 1100,
+      "imageUrl": "https://megacare.ng/media/image/ACT_CLARTEM-QS_700x700_tWjZB2x.webp",
+      "description": ""
+    },
+    {
+      "id": 1504,
+      "name": "ORIGINAL CHEST AND LUNG TAB",
+      "price": 450,
+      "imageUrl": "https://medecify.com/storage/2025/05/E-FCD-B-ED-E-CCA-C-804x1024.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1505,
+      "name": "ENSURE PLUS NUTRITION SHAKE 237 ML",
+      "price": 7000,
+      "imageUrl": "https://www.abbottnutrition.com/content/dam/an/abbottnutrition/products/Original/10001/X755ENP0620.png",
+      "description": ""
+    },
+    {
+      "id": 1506,
+      "name": "CUREFENAC FORTE",
+      "price": 350,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/655/image_1024?unique=01bbd64",
+      "description": ""
+    },
+    {
+      "id": 1507,
+      "name": "BOSKA",
+      "price": 700,
+      "imageUrl": "https://www.dexagroup.com/wp-content/uploads/2022/08/dexagroup-boska-tablet-ng-01.png",
+      "description": ""
+    },
+    {
+      "id": 1508,
+      "name": "ABBOTT",
+      "price": 28000,
+      "imageUrl": "https://cdn11.bigcommerce.com/s-rihs34rpvk/images/stencil/original/products/28862/150044/ADE-070074582993__46949.1647440193.jpg?c=1",
+      "description": ""
+    },
+    {
+      "id": 1509,
+      "name": "DARAVIT FORTE X 30",
+      "price": 1100,
+      "imageUrl": "https://www.daravit.com/wp-content/uploads/2021/12/Daravit_Forte-1-removebg-preview.png",
+      "description": ""
+    },
+    {
+      "id": 1510,
+      "name": "LIPITOR 20MG TABS X 30",
+      "price": 32200,
+      "imageUrl": "https://medecify.com/storage/2023/01/lipitor-20mg.webp",
+      "description": ""
+    },
+    {
+      "id": 1511,
+      "name": "CYPRIL GOLD SYRUP 200ML",
+      "price": 1450,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/197202592360815bed5f7e9product.jpg",
+      "description": ""
+    },
+    {
+      "id": 1512,
+      "name": "BONABABE 60ML",
+      "price": 600,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/111/image_1024?unique=6d8ed86",
+      "description": ""
+    },
+    {
+      "id": 1512,
+      "name": "ARBITEL 80MG",
+      "price": 8000,
+      "imageUrl": "https://medecify.com/storage/2025/01/D-D-E-BA-B-D-E-A-3000x3165.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1513,
+      "name": "AQUACLAV TABS 6625MG",
+      "price": 3600,
+      "imageUrl": "https://medecify.com/storage/2024/12/E-E-DF-E-F-A-D-E-CCD-DC-E-3000x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1514,
+      "name": "TELMISARTAN TABS 40MG X 30",
+      "price": 3750,
+      "imageUrl": "https://medecify.com/storage/2024/11/F-FDC-E-E-E-B-BBEF-E.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1515,
+      "name": "LONART SUSPENSION 60ML",
+      "price": 3000,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Lonart_2020-120_20Oral_20Suspension_2060ml.webp?v=1758759485",
+      "description": ""
+    },
+    {
+      "id": 1516,
+      "name": "NEOLEAVES SKIN WHITENING GUMMIES",
+      "price": 20300,
+      "imageUrl": "https://static.s123-cdn-static-d.com/uploads/5669147/normal_655016a86ba03.png",
+      "description": ""
+    },
+    {
+      "id": 1517,
+      "name": "NEOLEAVES APPLE CIDER GUMMIES",
+      "price": 18900,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKyBj0d1KVlBLlkacYQ3064u7hBERVxetlbw&s",
+      "description": ""
+    },
+    {
+      "id": 1518,
+      "name": "VITAMIN C KIDS GIMMY X 60",
+      "price": 19200,
+      "imageUrl": "https://lh5.googleusercontent.com/proxy/Cb7kpZFoueMKby_B-4NYWI9WH3CcLumiuokygWyTi_Ix1nzc4sHqOc_yx9ocN1xHgKZNa60uEd0G2JC_UtOQOhRS_jvCY596FavtgKXO5kPpoLwppZbM3qZ0lnEkrbVXJIt3EyXFgeLtQAlEwP-FFpOpfeCY4f7LLbPQojZXcyQ_6MztquRs8VcSrePMYOp6pw",
+      "description": ""
+    },
+    {
+      "id": 1519,
+      "name": "ASPIRIN 75MG",
+      "price": 1350,
+      "imageUrl": "https://www.chemist.net/media/catalog/product/cache/bafc858152eb164a42842649141eda27/a/s/aspirin-75mg-enteric-coated-tablets-28s_sp17871.jpg",
+      "description": ""
+    },
+    {
+      "id": 1520,
+      "name": "WELLWOMAN MAX",
+      "price": 34800,
+      "imageUrl": "https://www.vitabiotics.com/cdn/shop/products/wellwoman-max_002.png?v=1603905310",
+      "description": ""
+    },
+    {
+      "id": 1521,
+      "name": "EASADOL (ACATAMINOPHEN 500MG)",
+      "price": 250,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/09/PhotoRoom-20240820_110312_23.png",
+      "description": ""
+    },
+    {
+      "id": 1522,
+      "name": "CLIMAX DEXAMETHASONE 0.5MG",
+      "price": 700,
+      "imageUrl": "https://cdn.store-factory.com/www.parapromos.com/content/product_3293128hd.png?v=1702290927",
+      "description": ""
+    },
+    {
+      "id": 1523,
+      "name": "CICATRIN POWDER",
+      "price": 2000,
+      "imageUrl": "https://dvago-assets.s3.ap-southeast-1.amazonaws.com/ProductsImages/07792%20(2).jpg",
+      "description": ""
     }
   ],
 
