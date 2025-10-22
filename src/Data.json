@@ -4180,6 +4180,552 @@
       "price": 10,
       "imageUrl": "https://mygetwell.app/assets/uploads/media-uploader/10000012901745692991.jpg",
       "description": ""
+    },
+    {
+      "id": 1361,
+      "name": "ACC COTTON WOOL 100G",
+      "price": 450,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/aspar150.jpg?v=1688757225",
+      "description": ""
+    },
+    {
+      "id": 1362,
+      "name": "E MAL -75 INJECTION",
+      "price": 4050,
+      "imageUrl": "https://rommarpharmacy.com/wp-content/uploads/2021/03/EMAL-INJ.jpg",
+      "description": ""
+    },
+    {
+      "id": 1363,
+      "name": "ACC COTTON WOOL 50G",
+      "price": 200,
+      "imageUrl": "https://rommarpharmacy.com/wp-content/uploads/2021/03/EMAL-INJ.jpg",
+      "description": ""
+    },
+    {
+      "id": 1364,
+      "name": "ACC COOTON WOOL 250G",
+      "price": 650,
+      "imageUrl": "https://rommarpharmacy.com/wp-content/uploads/2021/03/EMAL-INJ.jpg",
+      "description": ""
+    },
+    {
+      "id": 1365,
+      "name": "ALABUKUN POWDER X10",
+      "price": 450,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/01HNAMD71GNE5RTHTTYFHZC1YZ.png",
+      "description": ""
+    },
+    {
+      "id": 1366,
+      "name": "UNICARE LATEX GLOVES",
+      "price": 6100,
+      "imageUrl": "https://www.unimedicalhealthcare.com/wp-content/uploads/2021/01/Unicare-Latex-Powdered_Nigeria-600x600.png",
+      "description": ""
+    },
+    {
+      "id": 1367,
+      "name": "DELEJECT NEEDLES 21G 1X100",
+      "price": 50,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/07/PhotoRoom-20240828_115011_16.png",
+      "description": ""
+    },
+    {
+      "id": 1368,
+      "name": "POCCO CEFTRIAXONE INJECTION 1V 1G",
+      "price": 1000,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/04/POCCO20CEFTRIAXONE201G20IM20INJECTION.jpg",
+      "description": ""
+    },
+    {
+      "id": 1369,
+      "name": "ZINC SULFATE 100MG",
+      "price": 1400,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2022/5/GJ/EW/QE/152375806/152375806-other-1651919524274-500x500.jpg",
+      "description": ""
+    },
+    {
+      "id": 1370,
+      "name": "GRISEO CREAM 30GM",
+      "price": 2950,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQkVuwdMszJO6A9gCMp4tar17OHhxqSlPXLA&s",
+      "description": ""
+    },
+    {
+      "id": 1371,
+      "name": "RELCER GEL ANTACIDE",
+      "price": 1750,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls1529_96973490-ee4e-4ef1-b219-5fe3958f7c58.jpg?v=1712666888",
+      "description": ""
+    },
+    {
+      "id": 1372,
+      "name": "ROCEPHIN CEFTRIAXONE 1G IM",
+      "price": 13377,
+      "imageUrl": "https://medecify.com/storage/2024/07/IMG-569-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1373,
+      "name": "LUTHERMIN ARTEMETER INJECTION 80MG",
+      "price": 700,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/07/PhotoRoom-20240918_130327_29.png",
+      "description": ""
+    },
+    {
+      "id": 1374,
+      "name": "RELOAD 4 KIDS MULTIVITAMIN SYRUP 237ML",
+      "price": 17400,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Reload_204_20Kidz_20237ml_8366cce2-fae5-431f-b751-2ccd007b75bf.webp?v=1756312717",
+      "description": ""
+    },
+    {
+      "id": 1375,
+      "name": "BUSCOPAN 10MG TAB",
+      "price": 22350,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/15341112876127884ca7b65product.webp",
+      "description": ""
+    },
+    {
+      "id": 1376,
+      "name": "GAVISCON PEPOERMINT LIQUID 200ML",
+      "price": 10900,
+      "imageUrl": "https://vanguardpharmacy.com/wp-content/uploads/2023/11/GAVISCON-PEPPERMINT-SUSP-200ML.jpg",
+      "description": ""
+    },
+    {
+      "id": 1377,
+      "name": "IMMUNBOOST VITAMIN C 1000 MG",
+      "price": 4900,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/medp8508.jpg?v=1689136283",
+      "description": ""
+    },
+    {
+      "id": 1378,
+      "name": "DELEJECT DISPOSAL NEEDLES 23G 1X100",
+      "price": 50,
+      "imageUrl": "https://drugstoc.odoo.com/web/image/product.template/19167/image_1920?unique=9dca07c",
+      "description": ""
+    },
+    {
+      "id": 1379,
+      "name": "VENT TAB SALBUTAMOL 2MG",
+      "price": 500,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/8039483805f36852690b33product.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1380,
+      "name": "TERBINAFINE CREAM",
+      "price": 1150,
+      "imageUrl": "https://evermorepharmacy.com/wp-content/uploads/2022/01/Terbinafine1-scaled.jpg",
+      "description": ""
+    },
+    {
+      "id": 1381,
+      "name": "REVIVE 400MG X10 CAPS",
+      "price": 16400,
+      "imageUrl": "https://medecify.com/storage/2023/01/re-vive-capsule.webp",
+      "description": ""
+    },
+    {
+      "id": 1382,
+      "name": "QUADRICLEAR CREAM",
+      "price": 2450,
+      "imageUrl": "https://vanguardpharmacy.com/wp-content/uploads/2023/12/QUADRICLEAR-CREAM-30GM.jpg",
+      "description": ""
+    },
+    {
+      "id": 1383,
+      "name": "PRAZGEN OMEPRAZOLE TABS X14",
+      "price": 750,
+      "imageUrl": "https://www.247pharmacy.net/Uploads/O9298O3679.jpg",
+      "description": ""
+    },
+    {
+      "id": 1384,
+      "name": "PELROZE VITAMIN C CHEWABLE 500MG X30",
+      "price": 3450,
+      "imageUrl": "https://medecify.com/storage/2024/12/B-B-C-B-F-F-E-EF-AB-B-3000x3010.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1385,
+      "name": "ORS HYDRALYTE SALT COLOUR",
+      "price": 200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR5AnSiFp-KAkFNMTI542-7IebZZxHiPSVfQ&s",
+      "description": ""
+    },
+    {
+      "id": 1386,
+      "name": "NOVARTL TAB ARTEMETHER 80MG/480MG",
+      "price": 800,
+      "imageUrl": "https://wonneinternational.com/wp-content/uploads/2022/10/Artemether-80-mg-Lumefantrine-480-mg-Tablets-Artin-Tablets-2.jpg",
+      "description": ""
+    },
+    {
+      "id": 1387,
+      "name": "NEMECLOX SUSPENSION",
+      "price": 700,
+      "imageUrl": "https://nemelgroup.com/wp-content/uploads/2019/04/Nemeclox-Suspension-.jpg",
+      "description": ""
+    },
+    {
+      "id": 1388,
+      "name": "JIMSTATIN SUSPENSION",
+      "price": 1050,
+      "imageUrl": "https://www.advacarepharma.com/static/e9e7abe4e7ebf2cabf1eaf7e43abaf2a/323c6/nystatin-oral-suspension-box-bottle.png",
+      "description": ""
+    },
+    {
+      "id": 1389,
+      "name": "MISOPT EYE DROPS",
+      "price": 6100,
+      "imageUrl": "https://medecify.com/storage/2025/03/AE-D-EF-E-BD-A-E-FF-B-3000x3056.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1390,
+      "name": "LORAT LORATADINE SYRUP",
+      "price": 1700,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/mega1836.jpg?v=1688758156",
+      "description": ""
+    },
+    {
+      "id": 1391,
+      "name": "LORENAC 100MG",
+      "price": 600,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/6/316937639/SJ/QB/NV/47956601/pharma-medicine-packaging-box-500x500.jpg",
+      "description": ""
+    },
+    {
+      "id": 1392,
+      "name": "MOKO GENTIAN VIOLET PAINT 60M",
+      "price": 600,
+      "imageUrl": "https://rxalldelivered.com/image/product/2476/MEDIUM/0/3368?t=1601474115",
+      "description": ""
+    },
+    {
+      "id": 1393,
+      "name": "GETZOME INSTA 40MG",
+      "price": 900,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2022/05/Getzome-40mg-Capsules-Omeprazole-40mg-14-Capsules-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1394,
+      "name": "PHILOGENTA GENTAMYCIN INJ 80MG/2ML",
+      "price": 100,
+      "imageUrl": "https://ryvispharma.com/wp-content/uploads/2020/12/156-4.jpg",
+      "description": ""
+    },
+    {
+      "id": 1395,
+      "name": "GARYLYTE ORS",
+      "price": 250,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAMBePKK618Hk7QGyANEu9YdeofWLHEjsGsA&s",
+      "description": ""
+    },
+    {
+      "id": 1396,
+      "name": "FITHEALTH COMPRESS GAUZE SWAB",
+      "price": 650,
+      "imageUrl": "https://regino.com.ng/wp-content/uploads/2025/09/c0fe6beb-4d5a-40a7-a6e1-c1911301405c.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1397,
+      "name": "COLOSEAL CAP 2MG (HAVID)",
+      "price": 650,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2025/05/Coloseal-2mg-Capsule-Loperamide-2mg-100-Capsules.jpg",
+      "description": ""
+    },
+    {
+      "id": 1398,
+      "name": "CLAVULIST 228.5 ORAL SUSPENSION POWDER",
+      "price": 2900,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/10/clavulist-228.5-600x477-2.jpg",
+      "description": ""
+    },
+    {
+      "id": 1399,
+      "name": "CETROXOL AZITHROMYCIN 500MG",
+      "price": 4800,
+      "imageUrl": "https://medecify.com/storage/2023/03/B-F-D-C-DC-C-EFA-EB--1024x802.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1400,
+      "name": "CHRISCAM EVENING PRIMEROSE OIL",
+      "price": 2250,
+      "imageUrl": "https://earthscreationshop.com/cdn/shop/products/Evening-Primrose-Oil_1080x.jpg?v=1672343711",
+      "description": ""
+    },
+    {
+      "id": 1401,
+      "name": "I-ZINE EYE DROPS",
+      "price": 2350,
+      "imageUrl": "https://ft-pharma.com/wp-content/uploads/2020/09/I-Zine-400x400.jpg",
+      "description": ""
+    },
+    {
+      "id": 1402,
+      "name": "MELOTEARS EYE DROPS",
+      "price": 4100,
+      "imageUrl": "https://amelapharmacy.com/cdn/shop/products/WhatsApp_Image_2021-12-16_at_10.20.30_AM-removebg-preview.png?v=1639646898",
+      "description": ""
+    },
+    {
+      "id": 1403,
+      "name": "ACIRAB RABEPRAZOLE 20MG",
+      "price": 900,
+      "imageUrl": "https://www.ikonlinestore.com/wp-content/uploads/2023/10/ik_online_store_-_2023-10-02T174930.715-removebg-preview.png",
+      "description": ""
+    },
+    {
+      "id": 1404,
+      "name": "MEFARTEM ARTEMETHER /LUMEFANTRINE 80MG/480MG",
+      "price": 1000,
+      "imageUrl": "https://conicalpharmaceuticals.com/wp-content/uploads/2023/12/Artefantrine-Forte-768x768.png",
+      "description": ""
+    },
+    {
+      "id": 1405,
+      "name": "CIPROTAB 500 X10",
+      "price": 4500,
+      "imageUrl": "https://megacare.ng/media/image/ciprotab_2.png",
+      "description": ""
+    },
+    {
+      "id": 1406,
+      "name": "ZINNAT TABLETS 500MG",
+      "price": 16250,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Zinnat_20_28Cefuroxime_20Axetil_29_20500mg_20Tabs_20x10_5b950078-5ae0-4f3c-92be-27f655a16cf4.webp?v=1758542843",
+      "description": ""
+    },
+    {
+      "id": 1407,
+      "name": "CEFOXIN INJECTION 1G",
+      "price": 850,
+      "imageUrl": "https://www.skyvetsupply.com/picts/products/cefosky.webp",
+      "description": ""
+    },
+    {
+      "id": 1408,
+      "name": "ARTHROTEC TABS 75MG X10",
+      "price": 3000,
+      "imageUrl": "https://greenlanddrugs.com/wp-content/uploads/2021/03/image_909446ac-0393-459a-9a3f-059a796c3c11_1200x1200-removebg-preview-300x300.png",
+      "description": ""
+    },
+    {
+      "id": 1409,
+      "name": "CHLORPHENIRAMINE TABS 4MG",
+      "price": 200,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/bbbpdrwfbrkim672fibh_grande.webp?v=1754944465",
+      "description": ""
+    },
+    {
+      "id": 1410,
+      "name": "NEUROVIT FORTE",
+      "price": 2150,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Neurovit_20Forte_20Tablet_20x_2010_20Blisters.webp?v=1758542845",
+      "description": ""
+    },
+    {
+      "id": 1411,
+      "name": "SINUFED 1.25MG/5ML SYRUP",
+      "price": 2100,
+      "imageUrl": "https://medecify.com/storage/2024/09/F-B-CD-E-B-AFDD-BC-A-E-3000x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1412,
+      "name": "SINUFED COLD DROP 0-11MONTHS",
+      "price": 700,
+      "imageUrl": "https://medecify.com/storage/2024/10/D-A-B-A-A-F-2617x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1413,
+      "name": "SINUFED TAB/2.5MG GX",
+      "price": 2100,
+      "imageUrl": "https://medecify.com/storage/2024/11/AE-B-D-B-CFA-C-BA-3000x3221.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1414,
+      "name": "PEPTIKIT",
+      "price": 13300,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFQbYX11FaecxF9qlctgk5SjlKvSPWApqNQ&s",
+      "description": ""
+    },
+    {
+      "id": 1415,
+      "name": "NEMETHER PLUS TABLETS 80/480",
+      "price": 750,
+      "imageUrl": "https://247pharmacy.net/Uploads/B8811L8676.jpg",
+      "description": ""
+    },
+    {
+      "id": 1416,
+      "name": "NATURAL ACCESS VITAMIN E 10X10",
+      "price": 1250,
+      "imageUrl": "https://naturesfieldng.com/wp-content/uploads/2024/03/Natures-Field-Vitamin-E-1000iu-1.webp",
+      "description": ""
+    },
+    {
+      "id": 1417,
+      "name": "MICROCEF-500",
+      "price": 4500,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/16535984155f365d4a08b90product.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1418,
+      "name": "LYNXICLAV SUSPENSION",
+      "price": 9350,
+      "imageUrl": "https://medecify.com/storage/2024/10/C-DA-CDD-E-BBD-BE-CE-3000x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1419,
+      "name": "LORENAC 12.5 DICLOFENAC SODIUM X10",
+      "price": 450,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2021/12/Voltaren-Suppositories-12.5mg-10-Suppositories-1-1200x900-cropped.jpg",
+      "description": ""
+    },
+    {
+      "id": 1420,
+      "name": "EMBASSY HYOSCINE BUTYLBROMIDE INJECTION 10MG/ML",
+      "price": 1500,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/11/PhotoRoom-20240923_114314_32.png",
+      "description": ""
+    },
+    {
+      "id": 1421,
+      "name": "FUROXETIL 125",
+      "price": 6300,
+      "imageUrl": "https://www.padekhealthng.com/wp-content/uploads/2023/01/Furoxetil-125mg-Oral-Suspension-100ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 1422,
+      "name": "DICLOMOL PAIN BUSTER GEL",
+      "price": 1100,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/868909128626c108fd1f87product.webp",
+      "description": ""
+    },
+    {
+      "id": 1423,
+      "name": "CHEMIRON VITAMIN C SYRUP 100ML",
+      "price": 600,
+      "imageUrl": "https://medecify.com/storage/2025/06/D-B-B-AD-C-AF-D-C-F-3000x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1424,
+      "name": "SUNDREX EXTRA",
+      "price": 1100,
+      "imageUrl": "https://medecify.com/storage/2024/05/IMG-54-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1425,
+      "name": "LYSOCYL COUGH SYRUP",
+      "price": 2199,
+      "imageUrl": "https://fromatoz.com.ng/wp-content/uploads/2022/01/Hnet.com-image129.jpg",
+      "description": ""
+    },
+    {
+      "id": 1426,
+      "name": "MALUTHER DS SOFTGEL CAPS 80MG/480MG",
+      "price": 2200,
+      "imageUrl": "https://basicsupplements.net/wp-content/uploads/2024/07/Maluther-DS-front.png",
+      "description": ""
+    },
+    {
+      "id": 1427,
+      "name": "SKINEAL CREAM",
+      "price": 1550,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/5CfgsZGLSOc535Ph7FUZclGHH2IFm0Rb6inU845g.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1428,
+      "name": "PARANELB PARACETAMOL INJECTION 300MG/2ML",
+      "price": 200,
+      "imageUrl": "https://catlog-s3.s3.eu-west-2.amazonaws.com/ITEMS//gg64k5tmwg.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1429,
+      "name": "EM-VIT C SYRUP 100ML",
+      "price": 1850,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/04/EM-VIT-C-VITAMIN-C.png",
+      "description": ""
+    },
+    {
+      "id": 1430,
+      "name": "BEEHIVE BALSAM SYRUP",
+      "price": 5550,
+      "imageUrl": "https://medecify.com/storage/2024/10/EA-B-EE-B-CF-F-3000x3464.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1431,
+      "name": "WELL BABY MULTI DROPS",
+      "price": 12200,
+      "imageUrl": "https://vanguardpharmacy.com/wp-content/uploads/2023/11/WELLBABY-DROP.jpg",
+      "description": ""
+    },
+    {
+      "id": 1432,
+      "name": "VEGA 100",
+      "price": 1000,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2019/08/Vega-100-Sildenafil-Tablets-4-Tablets-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1433,
+      "name": "3 BALLERINA TEA",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/61p4dQHVYhL._SL1500_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1434,
+      "name": "FEROGLOBIN TONIC 200ML",
+      "price": 13450,
+      "imageUrl": "https://www.vitabiotics.com/cdn/shop/products/feroglobin-liquid-front-CTFER200L7WL6E_resized.png?v=1652436155",
+      "description": ""
+    },
+    {
+      "id": 1435,
+      "name": "NUROFEN FOR CHILDREN STRAWB 100ML",
+      "price": 7000,
+      "imageUrl": "https://nettpharmacy.com/cdn/shop/files/NUROFENFORCHILDRENSTRAWBERRYFLAVOUR100ML_1.jpg?v=1735578356",
+      "description": ""
+    },
+    {
+      "id": 1436,
+      "name": "ASPIRIN CARDIO COATED TABS 100MG",
+      "price": 2600,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2017/09/Aspirin-Cardio-100mg-Tablets-30-Tablets-1-1200x900-cropped.jpg",
+      "description": ""
+    },
+    {
+      "id": 1437,
+      "name": "POLYGEL DUAL RELIEF ADVANCE 200ML",
+      "price": 3000,
+      "imageUrl": "https://medecify.com/storage/2024/09/F-C-BB-A-B-CC-CD-ACA-2448x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1438,
+      "name": "THEOCLAV AMOXICILLIN & CLAVULANATE POTASSIUM 1000 TABS",
+      "price": 3750,
+      "imageUrl": "https://www.cphi-online.com/product/amoxicillin-potassium-clavulanate-tablets/theoclav-1000.jpg",
+      "description": ""
     }
   ],
 
