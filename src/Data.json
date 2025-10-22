@@ -5314,6 +5314,286 @@
       "price": 2000,
       "imageUrl": "https://dvago-assets.s3.ap-southeast-1.amazonaws.com/ProductsImages/07792%20(2).jpg",
       "description": ""
+    },
+    {
+      "id": 1524,
+      "name": "NYLON SUTURE X12",
+      "price": 350,
+      "imageUrl": "https://www.kitsofmedicine.com/wp-content/uploads/2018/06/nylon-suturing-thread.jpg",
+      "description": ""
+    },
+    {
+      "id": 1525,
+      "name": "DRAMOXILIN 125 100ML",
+      "price": 1850,
+      "imageUrl": "https://medstockonline.com/wp-content/uploads/2022/09/Dramoxilin-125-4.jpg",
+      "description": ""
+    },
+    {
+      "id": 1526,
+      "name": "EMTRIM PAEDIATRIC SUSPENSION 50ML",
+      "price": 1000,
+      "imageUrl": "https://www.gramspharmaceutical.com.ng/wp-content/uploads/2018/11/emtrim.jpg",
+      "description": ""
+    },
+    {
+      "id": 1527,
+      "name": "CHLORPHENIRAMINE SYRUP 60ML",
+      "price": 710,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2017/09/Chlorpheniramine-Syrup-Allergy-Relief-Syrup-For-Children-60ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 1528,
+      "name": "D-KOFF COUGH EXPECTORANT 100ML",
+      "price": 1100,
+      "imageUrl": "https://precious-pharmacy.com/cdn/shop/products/Artboard10_9f1ea4ba-8901-4643-82ef-3c5d1eca2fbd_503x503.png?v=1597178418",
+      "description": ""
+    },
+    {
+      "id": 1529,
+      "name": "AQUACLAY AMOXICILLIN AND CLAVULANATE POTASSIUM 1000MG",
+      "price": 4150,
+      "imageUrl": "https://www.247pharmacy.net/Uploads/Q4851I7298.jpg",
+      "description": ""
+    },
+    {
+      "id": 1530,
+      "name": "NUTRAVIT VITAMIN SUPPLEMENT WITH LYSINE FOR CHILDREN ML",
+      "price": 3950,
+      "imageUrl": "https://megacare.ng/media/image/2_jrTtoIG.png",
+      "description": ""
+    },
+    {
+      "id": 1531,
+      "name": "CIPROTAB 500MG",
+      "price": 6476,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Ciprotab_20Ciprofloxacin_20500mg_20Tabs_20x14_a3523601-b194-4c80-af63-45ed6670fd78.webp?v=1757093097",
+      "description": ""
+    },
+    {
+      "id": 1532,
+      "name": "M&B CIPRO 500MG",
+      "price": 772,
+      "imageUrl": "https://assetpharmacy.com/wp-content/uploads/2019/08/Cipro-500-Tablets-Ciprofloxacin-500mg-10-Tablets-1-1200x630-cropped.jpg",
+      "description": ""
+    },
+    {
+      "id": 1533,
+      "name": "SWIDAR SULFADOXINE+PYRIMETHAMINE 500/25MG",
+      "price": 825,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/07/PhotoRoom-20240715_164341_1.png",
+      "description": ""
+    },
+    {
+      "id": 1534,
+      "name": "PIRITON TRIPLE ACTION 100ML",
+      "price": 950,
+      "imageUrl": "https://medecify.com/storage/2025/04/BB-BDAEC-C-E-A-F-E-3000x3683.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1535,
+      "name": "BROMEX ELIXIR",
+      "price": 1100,
+      "imageUrl": "https://medecify.com/storage/2024/10/DF-E-E-FBD-FD-A-F-C-CA-AB.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1536,
+      "name": "EXDRYL COUGH SYRUP CHILDREN",
+      "price": 6150,
+      "imageUrl": "https://victorydrugspharmacy.com/wp-content/uploads/2025/03/ExDryl-Adult-Formula.jpg",
+      "description": ""
+    },
+    {
+      "id": 1537,
+      "name": "EXDRYL COUGH SYRUP ADULT",
+      "price": 650,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2024/02/2022-08-29-630cfc91050b2-600x687.jpg",
+      "description": ""
+    },
+    {
+      "id": 1538,
+      "name": "EXPECTORANT TUXIL-N FOR ADULTS",
+      "price": 1150,
+      "imageUrl": "https://mybigpharmacy.com/wp-content/uploads/2019/08/W006VYSjDBlG9pUtL84bGQVgHRSBi2mYZgxF8Iqz.png",
+      "description": ""
+    },
+    {
+      "id": 1539,
+      "name": "EXIPLON CHILDREN COUGH SYRUP",
+      "price": 550,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/1768339886138b5cb5e072product.webp",
+      "description": ""
+    },
+    {
+      "id": 1540,
+      "name": "OSWORTH VITAMIN C 100ML",
+      "price": 500,
+      "imageUrl": "https://osworthnigeria.com/wp-content/uploads/2019/05/vitamin-c2.jpg",
+      "description": ""
+    },
+    {
+      "id": 1541,
+      "name": "MOKO MIST MAG TRISILICATE 200ML",
+      "price": 10427060,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Mist_20Mag_20Trisilicate_20Moko_20200ml.webp?v=1751074026",
+      "description": ""
+    },
+    {
+      "id": 1542,
+      "name": "FLUCAMED (FLUCONAZOLE 50MG)",
+      "price": 1950,
+      "imageUrl": "https://medecify.com/storage/2025/02/ACD-FAE-B-B-A-A-F-D-DB-AEDE-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1543,
+      "name": "VITACLOX 500MG",
+      "price": 7115,
+      "imageUrl": "https://svnl.in/wp-content/uploads/2020/05/Img4.png",
+      "description": ""
+    },
+    {
+      "id": 1544,
+      "name": "ROPHEGAN ELIXIR 60ML",
+      "price": 650,
+      "imageUrl": "https://www.247pharmacy.net/Uploads/Y9459J2520.jpg",
+      "description": ""
+    },
+    {
+      "id": 1545,
+      "name": "BONABABE SYRUP",
+      "price": 600,
+      "imageUrl": "https://medecify.com/storage/2025/05/ECEE-C-EDAD-A-B-A-CE-DE-C-DF-3000x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1546,
+      "name": "BABYREX",
+      "price": 600,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls1011_a9c85448-8a67-4154-b3e0-3f4fd8e37d9a.jpg?v=1712666063",
+      "description": ""
+    },
+    {
+      "id": 1547,
+      "name": "LIXYPED CHILDREN COUGH SYRUP",
+      "price": 750,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/520/image_1920?unique=802a0d4",
+      "description": ""
+    },
+    {
+      "id": 1548,
+      "name": "CONSTISTOP LACTULOSE SOLUTION (300ML)",
+      "price": 8100,
+      "imageUrl": "https://victorydrugspharmacy.com/wp-content/uploads/2025/03/Constistop-Lactulose-1.jpg",
+      "description": ""
+    },
+    {
+      "id": 1549,
+      "name": "EMCAP PARACETAMOL SUSPENSION 60ML",
+      "price": 850,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/11/03-EmCap-Suspension-View-01.png",
+      "description": ""
+    },
+    {
+      "id": 1550,
+      "name": "VITAMOX 500",
+      "price": 6883,
+      "imageUrl": "https://medecify.com/storage/2024/10/EB-C-A-A-A-DEF-F-3000x3000.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1551,
+      "name": "ZOLAT-400",
+      "price": 450,
+      "imageUrl": "https://medecify.com/storage/2025/04/E-AB-A-A-B-E-BAAF-DA-scaled.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1552,
+      "name": "NISE CHLORPHENIRAMINE MALEATE SYRUP 2MG/5ML 60ML",
+      "price": 700,
+      "imageUrl": "https://247pharmacy.net/Uploads/M4097X6807.jpg",
+      "description": ""
+    },
+    {
+      "id": 1553,
+      "name": "CO-CODAMOL 8MG/500MG",
+      "price": 20020,
+      "imageUrl": "https://homehealth-uk.com/wp-content/uploads/Co-Codamol_2.png",
+      "description": ""
+    },
+    {
+      "id": 1554,
+      "name": "BROMEX PLUS COUGH SYRUP",
+      "price": 1050,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Bromex_20Plus_20Cough_20Syrup_20100ml_f00315e1-7768-45bc-be48-db69d0f78226.webp?v=1756312914",
+      "description": ""
+    },
+    {
+      "id": 1555,
+      "name": "NCG COUGH SYRUP FOR CHILDREN",
+      "price": 700,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls2410_ffaf1cfe-3912-4d32-b447-d9455a4b4d17.jpg?v=1712665843",
+      "description": ""
+    },
+    {
+      "id": 1556,
+      "name": "CO-CODAM0L 30/500MG",
+      "price": 24416,
+      "imageUrl": "https://medvacc.com/wp-content/uploads/2021/02/Codamol-30-500mg-UK.jpg",
+      "description": ""
+    },
+    {
+      "id": 1557,
+      "name": "REPROFEN SUSPENSION FOR CHILDREN",
+      "price": 950,
+      "imageUrl": "https://drugstoreng.ams3.cdn.digitaloceanspaces.com/prod/drugstore-nigeria-online-pharmacy/products/fK8I6BZ5vmSErN7Te8lQxlDWG6lv6MxTKU2JtFhP.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1558,
+      "name": "EMZOLYN COUGH SYRUP FOR CHILDREN",
+      "price": 920,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/03/Emzolyn-Paediatric-Syrup.png",
+      "description": ""
+    },
+    {
+      "id": 1559,
+      "name": "GRISEOVAL (ORAL SUSPENSION) 100ML",
+      "price": 1870,
+      "imageUrl": "https://sanlivepharmacy.com/images/products/ijvyeijfbft1pakscljy.png",
+      "description": ""
+    },
+    {
+      "id": 1560,
+      "name": "PICCAN IBUPROFEN SUSPENSION 100ML",
+      "price": 9400,
+      "imageUrl": "https://medecify.com/storage/2025/04/Screenshot-.png",
+      "description": ""
+    },
+    {
+      "id": 1561,
+      "name": "HERBAL GREENTOL COUGH SYRUP",
+      "price": 1200,
+      "imageUrl": "https://medecify.com/storage/2025/01/B-F-B-C-B-E-D-CB-CA-3000x3533.jpeg",
+      "description": ""
+    },
+    {
+      "id": 1562,
+      "name": "L-FLOX-500 LEVOFLOXACIN TABLETS USP",
+      "price": 15000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPBYJjwauNNVpwCP2T8szupCB2zvPKC94-g&s",
+      "description": ""
+    },
+    {
+      "id": 1563,
+      "name": "NAZA PROMETHAZINE INJECTION 50MG/2ML",
+      "price": 603,
+      "imageUrl": "https://admin.generaldrugcentre.com/images/product/8646.jpg",
+      "description": ""
     }
   ],
 
