@@ -5594,6 +5594,328 @@
       "price": 603,
       "imageUrl": "https://admin.generaldrugcentre.com/images/product/8646.jpg",
       "description": ""
+    },
+    {
+      "id": 1564,
+      "name": "DKT KISS LUBE GEL",
+      "price": 3050,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/6071804/1.jpg?5011",
+      "description": ""
+    },
+    {
+      "id": 1565,
+      "name": "OSTEOCARE ORIGINAL VITABOTICS",
+      "price": 10100,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Vitabiotic_20Osteocare_20Original_2025Ug_20X90_eebed87e-c0b3-4f37-a146-ffad30552097.webp?v=1751071216",
+      "description": ""
+    },
+    {
+      "id": 1566,
+      "name": "PREGNACARE PLUS OMEGA-3",
+      "price": 28200,
+      "imageUrl": "https://www.vitabiotics.com/cdn/shop/products/pregnacare_plus_front_CTPRG056C4T32WM1E.png?v=1643808054",
+      "description": ""
+    },
+    {
+      "id": 1567,
+      "name": "BIOCINE (LICOMYCIN 500MG) CAPSULES",
+      "price": 3850,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/913/image_1024?unique=802a0d4",
+      "description": ""
+    },
+    {
+      "id": 1568,
+      "name": "TADALIS-20 TADALAFIL TABLETS 20MG",
+      "price": 4250,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaJam23azunpA9iqvw7sxcgp00-xGM1Z-kJw&s",
+      "description": ""
+    },
+    {
+      "id": 1569,
+      "name": "VIGOR CHOCOLATE (FOR MEN)",
+      "price": 40200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLzC1PBwFS5XA6-SJyBNY31zZDq4aMxswB4Q&s",
+      "description": ""
+    },
+    {
+      "id": 1570,
+      "name": "OMRON M6 COMFORT AUTOMATIC UPPER ARM BLOOD PRESSURE MONITOR",
+      "price": 1450000,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Omron_20M6_20Comfort_20Automatic_20Blood_20Pressure_20Monitor.webp?v=1759972106",
+      "description": ""
+    },
+    {
+      "id": 1571,
+      "name": "ASTYFER SYRUP (200ML)",
+      "price": 5630,
+      "imageUrl": "https://erp.eha.ng/web/image/product.template/20743/image_1920?unique=f0879f5",
+      "description": ""
+    },
+    {
+      "id": 1572,
+      "name": "OMRON DIGITAL PERSONAL SCALE",
+      "price": 48400,
+      "imageUrl": "https://vanguardpharmacy.com/wp-content/uploads/2023/11/OMRON-DIGITAL-PERSONAL-SCALE.png",
+      "description": ""
+    },
+    {
+      "id": 1573,
+      "name": "NATURE'SFIELD VITAMIN C (1000MG)",
+      "price": 16300,
+      "imageUrl": "https://naturesfieldng.com/wp-content/uploads/2024/03/Vitamin-C-1000mg-Mega-C-1.webp",
+      "description": ""
+    },
+    {
+      "id": 1574,
+      "name": "DAILY PROBIOTIC 500MG COMPLEX",
+      "price": 21555,
+      "imageUrl": "https://naturesfieldng.com/wp-content/uploads/2024/03/NaturesField-Daily-Probiotics-1.webp",
+      "description": ""
+    },
+    {
+      "id": 1575,
+      "name": "DR SECRET BIO HERBS MALE COFFEE",
+      "price": 21555,
+      "imageUrl": "https://realsgroup.com/wp-content/uploads/2023/07/new-bioherb2.jpg",
+      "description": ""
+    },
+    {
+      "id": 1578,
+      "name": "VISIN RED EYE",
+      "price": 7560,
+      "imageUrl": "https://images.ctfassets.net/k8ix1sm1b48c/3pZ5b3R5eX0PAsC5ZVlxDS/e1a9d20694718daf6525b89270e206f2/VIS_REDEYE_COMFORT_OBWB_Original_file.webp?fm=webp&w=3840",
+      "description": ""
+    },
+    {
+      "id": 1579,
+      "name": "RELOAD WOWEN'S FORMULA BY (30)",
+      "price": 13200,
+      "imageUrl": "https://i0.wp.com/vanguardpharmacy.com/wp-content/uploads/2023/01/Reload-Women-Formula-30-tab.jpg?fit=800%2C800&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 1580,
+      "name": "RELOAD MEN'S FORMULA",
+      "price": 13050,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/95472513464a583ef7848bproduct.webp",
+      "description": ""
+    },
+    {
+      "id": 1581,
+      "name": "NOVARTIS EXFORGE (amlodipine/valsartan)",
+      "price": 42500,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/jymojpr264ll0yqktdkr.webp?v=1759972104",
+      "description": ""
+    },
+    {
+      "id": 1582,
+      "name": "EMPROFEN SUSPENSION IBUPROFEN BP. 100MG/5ML",
+      "price": 1400,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/11/04-Emprofen-Suspension-View-01.png",
+      "description": ""
+    },
+    {
+      "id": 1583,
+      "name": "NGC EXPECTORANT COUGH SYRUP",
+      "price": 920,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/mega1876.jpg?v=1688758883",
+      "description": ""
+    },
+    {
+      "id": 1584,
+      "name": "CODOLIN EXPECTORANT 100ML",
+      "price": 660,
+      "imageUrl": "https://www.247pharmacy.net/Uploads/S6572V4904.jpg",
+      "description": ""
+    },
+    {
+      "id": 1585,
+      "name": "BRONCHOLYTE BROMHEXINE HYDROCHLORIDE 4MG/5ML 100ML ELIXIR",
+      "price": 1050,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHuTmTWZRxx4neXneL9kCeFlYruZgPBjtZA&s",
+      "description": ""
+    },
+    {
+      "id": 1586,
+      "name": "MOXIE VITAMIN-C SYRUP",
+      "price": 2250,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/01HMR9FNRHEGZNA72D1JCFZ9V0.jpg",
+      "description": ""
+    },
+    {
+      "id": 1587,
+      "name": "ALLERGIN CLORPHENIRAMINE MALEATE B.P. 2MG/5ML 60ML",
+      "price": 850,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/products/Allergin-Chlorpheniramine-Maleate-B-P-2mg-5-ml-60-ml-Supermart-ng-4770.jpg?v=1690734309",
+      "description": ""
+    },
+    {
+      "id": 1588,
+      "name": "ERYTHRO (Erythromycin) 250mg",
+      "price": 1900,
+      "imageUrl": "https://www.emzorpharma.com/wp-content/uploads/2019/03/Erythro-Suspension-50ml-300x300-1.png",
+      "description": ""
+    },
+    {
+      "id": 1589,
+      "name": "FOLIMOP ACIDE FOLIQUE SIROP BP 2.5MG/5ML 100ML",
+      "price": 800,
+      "imageUrl": "https://silverlinepharm.com/wp-content/uploads/2023/02/f.png",
+      "description": ""
+    },
+    {
+      "id": 1590,
+      "name": "EMMOX AMOXICILLINE 125MG",
+      "price": 1700,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Emmox_20_28Amoxicillin_29_20125mg-5ml_20100ml_20Suspension.webp?v=1756577735",
+      "description": ""
+    },
+    {
+      "id": 1591,
+      "name": "FENCLOR SYRUP",
+      "price": 486,
+      "imageUrl": "https://uniquepharm.com/wp-content/uploads/2024/07/Fenclor-Syrup.jpg",
+      "description": ""
+    },
+    {
+      "id": 1592,
+      "name": "ZOTRIM CO-TRIMOXAZOLE",
+      "price": 721,
+      "imageUrl": "https://fidson.com/wp-content/uploads/2022/09/Zotrim-Suspension-1-768x768.png",
+      "description": ""
+    },
+    {
+      "id": 1593,
+      "name": "AREACTIN CLORPHENIRAMINE MALEATE SYRUP 60ML",
+      "price": 293,
+      "imageUrl": "https://medex.com.bd/storage/images/packaging/acitrin-25-mg-pediatric-drop-27224109243-i1-IWUJgr0gRnPWfu7k6qiX.webp",
+      "description": ""
+    },
+    {
+      "id": 1594,
+      "name": "HOVID DHA EMULSION DOCOSAHEXEANOIC ACIDE 100 MG",
+      "price": 7553,
+      "imageUrl": "https://hovid.com/wp-content/uploads/2025/01/Hovid-DHA-Emulsion-Orange-Flavour.jpg",
+      "description": ""
+    },
+    {
+      "id": 1595,
+      "name": "AVROCOF 100ML",
+      "price": 735,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spls2247_4c170d3f-99fc-4498-90a2-b6b33bfee63c.jpg?v=1712665707",
+      "description": ""
+    },
+    {
+      "id": 1596,
+      "name": "COLIPAN HYSOCINE-N-BUTYLBROMIDE 5MG/5ML 60ML",
+      "price": 1069,
+      "imageUrl": "https://megacare.ng/media/image/8057-1_A34epE4.jpg",
+      "description": ""
+    },
+    {
+      "id": 1597,
+      "name": "AZITHROMYCINE 200MG",
+      "price": 2051,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYxAw_m9caepGJMsgA0wdyb4am0IiU4l24IUADq2HJBPRA-iFf6jqa2AwlKGNr95H6h48&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 1598,
+      "name": "ESOCEE VITAMIN C DROPS 15ML",
+      "price": 654,
+      "imageUrl": "https://www.gramspharmaceutical.com.ng/wp-content/uploads/2018/11/esocee.jpg",
+      "description": ""
+    },
+    {
+      "id": 1599,
+      "name": "PHAMATEX CETIDYN CETIRIZINE DIHYDROCHLORIDE SYRUP 5MG/5ML 60ML",
+      "price": 1265,
+      "imageUrl": "https://vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/06/PhotoRoom-20240530_144054_4.png",
+      "description": ""
+    },
+    {
+      "id": 1600,
+      "name": "SUPRITIN(Chlorpheniramine)2mg",
+      "price": 522,
+      "imageUrl": "https://peacestandardpharma.com/wp-content/uploads/2020/02/supritin-syrup.png",
+      "description": ""
+    },
+    {
+      "id": 1601,
+      "name": "BABYCCAN SYRUP 100ML",
+      "price": 1146,
+      "imageUrl": "https://admin.generaldrugcentre.com/images/product/943.jpg",
+      "description": ""
+    },
+    {
+      "id": 1602,
+      "name": "TANZOI",
+      "price": 400,
+      "imageUrl": "https://shalina.com/wp-content/uploads/2023/07/Tanzol-Susp-400-10ml-DRC-ANG-CAR-FE.jpg",
+      "description": ""
+    },
+    {
+      "id": 1603,
+      "name": "FIDSON PARACETAMOL",
+      "price": 635,
+      "imageUrl": "https://fidson.com/wp-content/uploads/2022/09/Paracetamol-syrup.jpg",
+      "description": ""
+    },
+    {
+      "id": 1604,
+      "name": "EMVITE MULTIVITAMIN SYRUP",
+      "price": 1168,
+      "imageUrl": "https://d3ckuu7lxvlwp2.cloudfront.net/products/13502268525e7b3e6aedfbdproduct.jpg",
+      "description": ""
+    },
+    {
+      "id": 1605,
+      "name": "15ML PANDA PARACETAMOL 100MG/1ML DROP",
+      "price": 915,
+      "imageUrl": "https://www.amkamed.com/web/image/product.template/671/image_1024?unique=01bbd64",
+      "description": ""
+    },
+    {
+      "id": 1606,
+      "name": "PURITAN'S PRIDE FOLATE 800MCG",
+      "price": 13720,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgi16czCTlfJJbBEX42KMSRpVli-eqwHL5FA&s",
+      "description": ""
+    },
+    {
+      "id": 1607,
+      "name": "PURITANS PRIDE CRANBERRY FRUIT CONCENTRATE 500MG",
+      "price": 22120,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/86/5660941/1.jpg?4410",
+      "description": ""
+    },
+    {
+      "id": 1608,
+      "name": "PURITANS PRIDE VITAMIN D3 50MCG",
+      "price": 13300,
+      "imageUrl": "https://m.media-amazon.com/images/I/71EgkYSSkUL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
+      "description": ""
+    },
+    {
+      "id": 1609,
+      "name": "PURITAN'S PRIDE CHELATED CALCIUM MAGNESIUM ZINC",
+      "price": 161000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9nm4TJ0Y9hoaE3xQ8v1E8g_Yv-QP-obm7xg&s",
+      "description": ""
+    },
+    {
+      "id": 1610,
+      "name": "PURITANS PRIDE VITAMIN E-180MG 400IU",
+      "price": 12600,
+      "imageUrl": "https://oneshopsupplements.com/wp-content/uploads/2024/09/43.png",
+      "description": ""
+    },
+    {
+      "id": 1611,
+      "name": "NORITE SUPER COLLAGEN 2500MG",
+      "price": 21000,
+      "imageUrl": "https://i0.wp.com/uae.nblnatural.com/wp-content/uploads/2024/07/nbl-natural-hydrolysed-marine-collagen-2500mg-with-hyaluronic-acid-resveratrol-biotin-selenium-and-vitamin-c-120-tablets.jpg",
+      "description": ""
     }
   ],
 
