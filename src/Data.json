@@ -5921,21 +5921,18 @@
 
   "toiletries": [
     {
-      "id": 1200,
       "name": "DOVE PAMPERING SHEA BUTTER",
       "price": 1300,
       "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/08/dove-pampering-bar.webp",
       "description": "90G"
     },
     {
-      "id": 1300,
       "name": "MAGNETIC SANITARY PANTY LINERS",
       "price": 3450,
       "imageUrl": "https://m.media-amazon.com/images/I/51xt1DcaaOL._UF1000,1000_QL80_.jpg",
       "description": ""
     },
     {
-      "id": 1400,
       "name": "AVEENO LOTION",
       "price": 2300,
       "imageUrl": "https://m.media-amazon.com/images/I/41E5nL4kRyL._UF1000,1000_QL80_.jpg",

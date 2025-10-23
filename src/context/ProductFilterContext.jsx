@@ -9,7 +9,11 @@ const getCombinedProducts = () => {
   return [
     ...cosmetics.map((c) => ({ ...c, type: "cosmetics" })),
     ...pharmacy.map((p) => ({ ...p, type: "pharmacy" })),
-    ...toiletries.map((t) => ({ ...t, type: "toiletries" })),
+    ...toiletries.map((t) => ({
+      ...t,
+      type: "toiletries", // Add a unique ID using the native browser API
+      id: crypto.randomUUID(),
+    })),
     ...household.map((h) => ({
       ...h,
       type: "household", // Add a unique ID using the native browser API
