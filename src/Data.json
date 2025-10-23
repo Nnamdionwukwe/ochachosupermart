@@ -5919,16 +5919,6 @@
     }
   ],
 
-  "household": [
-    {
-      "id": 1200,
-      "name": "DOVE PAMPERING SHEA BUTTER",
-      "price": 1300,
-      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/08/dove-pampering-bar.webp",
-      "description": "90G"
-    }
-  ],
-
   "toiletries": [
     {
       "id": 1200,
@@ -11360,6 +11350,15 @@
       "price": 6500,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/92/9174204/1.jpg?9115",
       "description": ""
+    }
+  ],
+
+  "household": [
+    {
+      "name": "DOVE PAMPERING SHEA BUTTER",
+      "price": 1300,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/08/dove-pampering-bar.webp",
+      "description": "90G"
     }
   ]
 }
