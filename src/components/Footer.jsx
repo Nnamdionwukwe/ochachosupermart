@@ -56,7 +56,7 @@ const Footer = () => {
         </div>
         <div className={styles.footercopyright}>
           <p>
-            &copy; {new Date().getFullYear()} OChacho Pharmacy/Supermarket. All
+            &copy; {new Date().getFullYear()} Ochacho Pharmacy/Supermarket. All
             rights reserved.
           </p>
         </div>
