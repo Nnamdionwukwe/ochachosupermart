@@ -4,6 +4,7 @@ import { useProductFilter } from "../context/ProductFilterContext";
 
 const CerealsList = () => {
   const { filteredCereals, searchTerm } = useProductFilter();
+  console.log(filteredCereals);
 
   return (
     <div className={styles.productgrid}>

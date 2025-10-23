@@ -42,6 +42,10 @@ export const ProductFilterProvider = ({ children }) => {
     return filteredProducts.filter((product) => product.type === "cereals");
   }, [filteredProducts]);
 
+  const filteredKitchen = useMemo(() => {
+    return filteredProducts.filter((product) => product.type === "kitchen");
+  }, [filteredProducts]);
+
   return (
     <ProductFilterContext.Provider
       value={{
@@ -52,6 +56,7 @@ export const ProductFilterProvider = ({ children }) => {
         filteredToiletries,
         filteredHousehold,
         filteredCereals,
+        filteredKitchen,
       }}
     >
       {children}
