@@ -2,7 +2,7 @@ import Data from "../Data.json"; // Contains "cosmetics" and "pharmacy" nested o
 
 // Helper to combine nested data from the JSON file
 const getCombinedProducts = () => {
-  const { cosmetics, pharmacy, toiletries, household } = Data;
+  const { cosmetics, pharmacy, toiletries, household, cereals } = Data;
   return [
     ...cosmetics.map((c) => ({ ...c, type: "cosmetics" })),
     ...pharmacy.map((p) => ({ ...p, type: "pharmacy" })),
@@ -14,6 +14,7 @@ const getCombinedProducts = () => {
       ...h,
       type: "household",
     })),
+    ...cereals.map((c) => ({ ...c, type: "cereals" })),
   ];
 };
 

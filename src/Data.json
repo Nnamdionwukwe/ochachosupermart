@@ -11915,5 +11915,26 @@
       "imageUrl": "https://shoptohouse.com/wp-content/uploads/2024/02/Mortein_insta_Kill_300ml.png",
       "description": ""
     }
+  ],
+
+  "cereals": [
+    {
+      "name": "DOVE PAMPERING SHEA BUTTER",
+      "price": 1300,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/08/dove-pampering-bar.webp",
+      "description": "90G"
+    },
+    {
+      "name": "MAGNETIC SANITARY PANTY LINERS",
+      "price": 3450,
+      "imageUrl": "https://m.media-amazon.com/images/I/51xt1DcaaOL._UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "name": "Molped sanitary pad single",
+      "price": 1300,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2023/09/Molped-Maxi-Thick-Extra-Long-Sanitary-Pa.png",
+      "description": ""
+    }
   ]
 }
