@@ -1,0 +1,53 @@
+import Data from "../Data.json"; // Contains "games" and "movies" nested objects
+
+// const getCombinedProducts = () => {
+//   const { games, movies } = productsData;
+//   return [
+//     ...games.map((p) => ({ ...p, type: "game" })),
+//     ...movies.map((p) => ({ ...p, type: "movie" })),
+//   ];
+// };
+
+// Helper to combine nested data from the JSON file
+const getCombinedProducts = () => {
+  const { cosmetics, pharmacy, toiletries, household } = Data;
+  return [
+    ...cosmetics.map((c) => ({ ...c, type: "cosmetics" })),
+    ...pharmacy.map((p) => ({ ...p, type: "pharmacy" })),
+    ...toiletries.map((t) => ({
+      ...t,
+      type: "toiletries",
+    })),
+    ...household.map((h) => ({
+      ...h,
+      type: "household",
+    })),
+  ];
+};
+
+export const getPersistentProductsWithIds = () => {
+  const STORAGE_KEY = "productsWithIds";
+  const storedData = localStorage.getItem(STORAGE_KEY);
+
+  // If data exists in localStorage, parse and return it
+  if (storedData) {
+    try {
+      return JSON.parse(storedData);
+    } catch (e) {
+      console.error("Failed to parse products from localStorage", e);
+      // Fallback to fresh generation on parse error
+    }
+  }
+
+  // If no data in localStorage, generate IDs and store
+  const combinedProducts = getCombinedProducts();
+  const productsWithIds = combinedProducts.map((product) => ({
+    ...product,
+    id: crypto.randomUUID(), // Use the native browser API
+  }));
+
+  // Store the new data in localStorage for future use
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(productsWithIds));
+
+  return productsWithIds;
+};

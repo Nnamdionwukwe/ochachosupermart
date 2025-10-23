@@ -6,7 +6,7 @@ import BackBtn from "./BackBtn";
 
 function ProductDetail() {
   const { addToCart, selectedID } = useCart();
-  // console.log(selectedID.id);
+  console.log(selectedID.id);
 
   if (!selectedID) {
     return <div>Product not found!</div>;
