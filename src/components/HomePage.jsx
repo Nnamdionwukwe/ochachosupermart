@@ -9,6 +9,7 @@ import supermarketImage from "../assets/dis3.jpeg"; // Path to your image
 import CategoryName from "./CategoryName";
 import PharmacyList from "./PharmacyList";
 import Toiletries from "./Toiletries";
+import BeveragesList from "./BeveragesLink";
 
 const benefits = [
   "Fresh, organic produce delivered daily from local farms. ",
@@ -33,6 +34,9 @@ function HomePage() {
 
       <CategoryName>Medications</CategoryName>
       <PharmacyList />
+
+      <CategoryName>Household</CategoryName>
+      <BeveragesList />
 
       <CategoryName>Toileteries</CategoryName>
       <Toiletries />
