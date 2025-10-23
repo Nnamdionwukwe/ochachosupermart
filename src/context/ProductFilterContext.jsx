@@ -1,27 +1,7 @@
 import React, { createContext, useState, useContext, useMemo } from "react";
 import { getPersistentProductsWithIds } from "./productsWithIds";
-// import Data from "../Data.json"; // Contains "games" and "movies" nested objects
 
 const ProductFilterContext = createContext();
-
-// // Helper to combine nested data from the JSON file
-// const getCombinedProducts = () => {
-//   const { cosmetics, pharmacy, toiletries, household } = Data;
-//   return [
-//     ...cosmetics.map((c) => ({ ...c, type: "cosmetics" })),
-//     ...pharmacy.map((p) => ({ ...p, type: "pharmacy" })),
-//     ...toiletries.map((t) => ({
-//       ...t,
-//       type: "toiletries", // Add a unique ID using the native browser API
-//       id: crypto.randomUUID(),
-//     })),
-//     ...household.map((h) => ({
-//       ...h,
-//       type: "household", // Add a unique ID using the native browser API
-//       id: crypto.randomUUID(),
-//     })),
-//   ];
-// };
 
 export const ProductFilterProvider = ({ children }) => {
   const [searchTerm, setSearchTerm] = useState("");

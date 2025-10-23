@@ -1,12 +1,4 @@
-import Data from "../Data.json"; // Contains "games" and "movies" nested objects
-
-// const getCombinedProducts = () => {
-//   const { games, movies } = productsData;
-//   return [
-//     ...games.map((p) => ({ ...p, type: "game" })),
-//     ...movies.map((p) => ({ ...p, type: "movie" })),
-//   ];
-// };
+import Data from "../Data.json"; // Contains "cosmetics" and "pharmacy" nested objects
 
 // Helper to combine nested data from the JSON file
 const getCombinedProducts = () => {

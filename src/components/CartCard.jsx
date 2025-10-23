@@ -2,7 +2,7 @@ import { formatNGN } from "../utils/FormartCurrncyNG";
 import styles from "./CartCard.module.css";
 
 function CartCard({ item, removeFromCart, updateQuantity }) {
-  console.log(item.id);
+  // console.log(item.id);
   return (
     <div className={styles.cartCard}>
       <div className={styles.productImage}>
