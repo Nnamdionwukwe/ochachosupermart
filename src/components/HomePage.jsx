@@ -10,6 +10,7 @@ import CategoryName from "./CategoryName";
 import PharmacyList from "./PharmacyList";
 import Toiletries from "./Toiletries";
 import BeveragesList from "./BeveragesLink";
+import CerealsList from "./CerealsLink";
 
 const benefits = [
   "Fresh, organic produce delivered daily from local farms. ",
@@ -37,6 +38,9 @@ function HomePage() {
 
       <CategoryName>Household</CategoryName>
       <BeveragesList />
+
+      <CategoryName>Cereals</CategoryName>
+      <CerealsList />
 
       <CategoryName>Toileteries</CategoryName>
       <Toiletries />
