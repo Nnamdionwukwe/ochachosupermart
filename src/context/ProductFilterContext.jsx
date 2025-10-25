@@ -6,18 +6,17 @@ const ProductFilterContext = createContext();
 // Helper to combine nested data from the JSON file
 const getCombinedProducts = () => {
   const { cosmetics, pharmacy, toiletries, household, cereals, kitchen } = Data;
+
   return [
     ...cosmetics.map((c) => ({ ...c, type: "cosmetics" })),
     ...pharmacy.map((p) => ({ ...p, type: "pharmacy" })),
     ...toiletries.map((t) => ({
       ...t,
-      type: "toiletries", // Add a unique ID using the native browser API
-      // id: crypto.randomUUID(),
+      type: "toiletries",
     })),
     ...household.map((h) => ({
       ...h,
-      type: "household", // Add a unique ID using the native browser API
-      // id: crypto.randomUUID(),
+      type: "household",
     })),
     ...kitchen.map((p) => ({ ...p, type: "kitchen" })),
     ...cereals.map((p) => ({ ...p, type: "cereals" })),

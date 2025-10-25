@@ -5,7 +5,6 @@ import { Link } from "react-router-dom";
 
 const ProductCard = ({ product }) => {
   const { addToCart, setSelectedID } = useCart();
-  // console.log(product.id);
 
   const handleAddToCart = () => {
     addToCart(product);

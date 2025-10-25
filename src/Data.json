@@ -5921,30 +5921,35 @@
 
   "toiletries": [
     {
+      "id": 2001,
       "name": "DOVE PAMPERING SHEA BUTTER",
       "price": 1300,
       "imageUrl": "https://tosnigeria.com/wp-content/uploads/2024/08/dove-pampering-bar.webp",
       "description": "90G"
     },
     {
+      "id": 2002,
       "name": "MAGNETIC SANITARY PANTY LINERS",
       "price": 3450,
       "imageUrl": "https://m.media-amazon.com/images/I/51xt1DcaaOL._UF1000,1000_QL80_.jpg",
       "description": ""
     },
     {
+      "id": 2003,
       "name": "Molped sanitary pad single",
       "price": 1300,
       "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2023/09/Molped-Maxi-Thick-Extra-Long-Sanitary-Pa.png",
       "description": ""
     },
     {
+      "id": 2004,
       "name": "MOLPED SANITARY PADS DOUBLE",
       "price": 2300,
       "imageUrl": "https://yesmin.ng/wp-content/uploads/2023/11/MolpedUltraSoftLongby16_600x600_crop_center.png",
       "description": ""
     },
     {
+      "id": 2005,
       "name": "SOFTCARE ZIP PAD",
       "price": 2500,
       "imageUrl": "https://wigmorewholesale.com/image/cache/wkseller/12353/Screenshot%202025-01-17%20144642-637x430.png",
@@ -5957,480 +5962,553 @@
       "description": ""
     },
     {
+      "id": 2006,
       "name": "MOLPED SANITARY PAD X32",
       "price": 2300,
       "imageUrl": "https://www.supermart.ng/cdn/shop/files/spasho1552_1e5d7afe-437f-467f-847d-37d2a7f3d585.jpg?v=1738323038",
       "description": ""
     },
     {
+      "id": 2007,
       "name": "ABC MACLEANS MILK TEETH 50ML",
       "price": 800,
       "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2023/06/Macleans-Milk-Teeth-Toothpaste-50ml.jpg?fit=1200%2C1200&ssl=1",
       "description": ""
     },
     {
+      "id": 2008,
       "name": "VICTORIA SECRET VEST AND PANT",
       "price": 12500,
       "imageUrl": "https://m.media-amazon.com/images/I/71MpxaXsDfL._AC_UY1000_.jpg",
       "description": ""
     },
     {
+      "id": 2009,
       "name": "FAIR CHILD SOAP VITAMIN C",
       "price": 1450,
       "imageUrl": "https://imoayi.com/storage/fair-child-vitamin-c-brightening-soap.jpg",
       "description": ""
     },
     {
+      "id": 2010,
       "name": "UNIQUE KIDS & TEENS BODY WASH VITAMIN C",
       "price": 5200,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/98/0922982/1.jpg?8624",
       "description": ""
     },
     {
+      "id": 2011,
       "name": "UNIQUE KIDS & TEENS BODY WASH",
       "price": 5200,
       "imageUrl": "https://mainmarketonline.com/wp-content/uploads/2025/04/1000156845-removebg-preview.png",
       "description": ""
     },
     {
+      "id": 2012,
       "name": "BOOTS BABY HEAD TO TOE WASH",
       "price": 8450,
       "imageUrl": "https://primegrocers.ng/wp-content/uploads/2024/02/boots-head-to-toe.jpg",
       "description": ""
     },
     {
+      "id": 2013,
       "name": "BOOTS BABY BATH BUBBLE 500ML PURPLE",
       "price": 8450,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/36/9548072/1.jpg?7206",
       "description": ""
     },
     {
+      "id": 2014,
       "name": "BOOTS BABY BATH BUBBLE 500ML GENTLE & MILD",
       "price": 8450,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/19/0021152/1.jpg?4494",
       "description": ""
     },
     {
+      "id": 2015,
       "name": "BOOT BABY SOAP ( 4X 100G) GENTLE & MILD",
       "price": 8450,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIcnvTCxw0ChvyNC6SB_5_1L2azDAlAkDDA&s",
       "description": ""
     },
     {
+      "id": 2016,
       "name": "JOHNSON BABY OIL GEL",
       "price": 13000,
       "imageUrl": "https://primegrocers.ng/wp-content/uploads/2022/07/JOHNSON-JEL.jpg",
       "description": ""
     },
     {
+      "id": 2017,
       "name": "JOHNSON BABY SOAP WHITE DUBIA",
       "price": 1200,
       "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h55/h30/47644708995102/2042_main.jpg?im=Resize=376",
       "description": ""
     },
     {
+      "id": 2018,
       "name": "JOHNSON BABY HONEY SOAP",
       "price": 1300,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvpfrUnO--DfKCdPLA0HCA1YohuTmTXJ5A6g&s",
       "description": ""
     },
     {
-      "name": "TT KIDS & TEENS BODY WASH",
-      "price": 4550,
-      "imageUrl": "",
-      "description": ""
-    },
-    {
+      "id": 2019,
       "name": "TT KIDS & TEENS BODY WASH",
       "price": 4550,
       "imageUrl": "https://cartnear.s3.us-east-2.amazonaws.com/ng/f3a1ad1c8059a954a48ddc1beaa9ac52.jpg",
       "description": ""
     },
     {
+      "id": 2020,
       "name": "UNIQUE KIDS & TEENS SOAP",
       "price": 1950,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/57/1661814/2.jpg?1940",
       "description": ""
     },
     {
+      "id": 2021,
       "name": "BABY GLOW KIDS & TEENS ALMOND SOAP",
       "price": 1950,
       "imageUrl": "https://cartnear.s3.us-east-2.amazonaws.com/ng/392d03b4444d37a1110d626707d988be.jpg",
       "description": ""
     },
     {
+      "id": 2022,
       "name": "WAW LIQUID DETERGENT 5 IN 1 2LTRS",
       "price": 7100,
       "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl3504_d57b5579-d517-45df-83b6-e0518e4c9336.jpg?v=1756132582",
       "description": ""
     },
     {
+      "id": 2023,
       "name": "WAW ACTIVE 5 ROSE BLOSSOM 2LTRS",
       "price": 4600,
       "imageUrl": "https://24hoursmarket.com/wp-content/uploads/2025/09/1756823920887.jpg",
       "description": ""
     },
     {
+      "id": 2024,
       "name": "WAW ACTIVE 5 SPRING MOUNTAIN 2LTRS",
       "price": 4600,
       "imageUrl": "https://24hoursmarket.com/wp-content/uploads/2025/09/1756823896737.jpg",
       "description": ""
     },
     {
+      "id": 2025,
       "name": "WAW ACTIVE 5 LAVENDER BLOSSOM 2LTRS",
       "price": 4600,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/26/979499/1.jpg?5705",
       "description": ""
     },
     {
+      "id": 2026,
       "name": "WAW LIQUID DETERGENT 5IN 1 1LTR",
       "price": 3800,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/36/979499/1.jpg?6793",
       "description": ""
     },
     {
+      "id": 2027,
       "name": "WAW ACTIVE 5 ROSE BLOSSOM 1LTR",
       "price": 2500,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/06/979499/1.jpg?5879",
       "description": ""
     },
     {
+      "id": 2028,
       "name": "WAW ACTIVE 5 LAVENDER BLOSSOM 1L",
       "price": 2500,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/08/979499/1.jpg?5649",
       "description": ""
     },
     {
+      "id": 2029,
       "name": "SADOER TEETH WHTENING MOUTHWASH",
       "price": 5200,
       "imageUrl": "https://cdn.doduae.com/image/cache/catalog/products/191571/191571_3428472333265_0-800x800.webp",
       "description": ""
     },
     {
+      "id": 2030,
       "name": "SADOER MINT MOUTHWASH",
       "price": 5200,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/2366814/1.jpg?8816",
       "description": ""
     },
     {
+      "id": 2031,
       "name": "SADOER GREEN TEA MOUTHWASH",
       "price": 5200,
       "imageUrl": "https://content.rozetka.com.ua/goods/images/big/478861107.jpg",
       "description": ""
     },
     {
+      "id": 2032,
       "name": "SADOER LEMON MOUTHWASH",
       "price": 5200,
       "imageUrl": "https://m.media-amazon.com/images/I/619iLRYAwNL.jpg",
       "description": ""
     },
     {
+      "id": 2033,
       "name": "SADOER COFFEE M0UTH WASH",
       "price": 5200,
       "imageUrl": "https://down-my.img.susercontent.com/file/my-11134207-7r98p-lvixypl0rdz095",
       "description": ""
     },
     {
+      "id": 2034,
       "name": "B-FRESH TOOTHBRUSH",
       "price": 500,
       "imageUrl": "https://fromatoz.com.ng/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-19-at-8.39.28-AM.jpeg",
       "description": ""
     },
     {
+      "id": 2035,
       "name": "SO EASY KIDS DETERGENT 160g",
       "price": 330,
       "imageUrl": "https://res.cloudinary.com/dqaha42be/image/upload/v1688574382/i4neos7wjl9myyf9uoiw.png",
       "description": ""
     },
     {
+      "id": 2036,
       "name": "WAKANDA FLORAL DETERGENT 850G",
       "price": 1660,
       "imageUrl": "https://extremenigeria.com/wp-content/uploads/2024/03/Wakanda-blue.png",
       "description": ""
     },
     {
+      "id": 2037,
       "name": "WAKANDA LEMON DETERGENT 850G",
       "price": 1660,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMqCyjTCXMTjtS7EE7O7h5mFsLPoehT24B8Q&s",
       "description": ""
     },
     {
+      "id": 2038,
       "name": "WAKANDA FLORAL DETERGENT 170G",
       "price": 380,
       "imageUrl": "https://extremenigeria.com/wp-content/uploads/2024/03/Wakanda-blue.png",
       "description": ""
     },
     {
+      "id": 2039,
       "name": "GOLD CIRCLE",
       "price": 600,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/72/8798201/1.jpg?8554",
       "description": ""
     },
     {
+      "id": 2040,
       "name": "KISS CONDOM",
       "price": 500,
       "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2021/09/Kiss-Lubricated-Condoms-x-3.jpg",
       "description": ""
     },
     {
+      "id": 2041,
       "name": "BESENSE SANITRY PADS",
       "price": 2700,
       "imageUrl": "https://cloza.com.ng/public/uploads/all/kyYkwvW2zJbAjArVcbzDd3t4c9LrsjDvNOWekI7y.png",
       "description": ""
     },
     {
+      "id": 2042,
       "name": "MOLPED PADS",
       "price": 1200,
       "imageUrl": "https://megacare.ng/media/image/1_PasBmAg.png",
       "description": ""
     },
     {
+      "id": 2043,
       "name": "ALWAYS PADS",
       "price": 1650,
       "imageUrl": "https://deeski.com/image/cache/catalog/always%20blue-500x500.jpg",
       "description": ""
     },
     {
+      "id": 2044,
       "name": "TAIL COMB",
       "price": 250,
       "imageUrl": "https://lh4.googleusercontent.com/proxy/fer40hMXIJToWkaFvFBGwlqMOsrpOe2Xz0V-L5BH_Yu9udx1qBvehbQpPEjKUPgsqULCnCM9dOBpvXDLcCCCG7gFtLQdKGrlNGpy3fueeNWT",
       "description": ""
     },
     {
+      "id": 2045,
       "name": "WEAVON BRUSH",
       "price": 1600,
       "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/X/B/195437_1696627513.jpg",
       "description": ""
     },
     {
+      "id": 2046,
       "name": "PREMIER ORIGIDNAL ANTESEPTIC LIQUID 500ML",
       "price": 5750,
       "imageUrl": "https://waziri.ng/wp-content/uploads/2023/12/IMG_20230512_144237.jpg",
       "description": ""
     },
     {
+      "id": 2047,
       "name": "PREMIER ORIGINAL ANTESEPTIC LIQUID 250ML",
       "price": 2850,
       "imageUrl": "https://waziri.ng/wp-content/uploads/2023/12/IMG_20230512_144237.jpg",
       "description": ""
     },
     {
+      "id": 2048,
       "name": "PREMIER ORIGINAL ANTESEPTIC LIQUID 1L",
       "price": 11000,
       "imageUrl": "https://chamuze.com/wp-content/uploads/2024/03/88.png",
       "description": ""
     },
     {
+      "id": 2049,
       "name": "SOFTWAVE JUMBO TISSUE",
       "price": 1700,
       "imageUrl": "https://ng.jumia.is/lUwFzKTjWALW3T15-ZfyAqvn4vY=/fit-in/500x500/filters:fill(white)/product/04/1308313/1.jpg?8454",
       "description": ""
     },
     {
+      "id": 2050,
       "name": "TURA ORIGINAL GERMICIDAL MEDIC",
       "price": 850,
       "imageUrl": "https://www.imoayi.com/storage/tura-soap.webp",
       "description": ""
     },
     {
+      "id": 2051,
       "name": "SANITOL ANTI BACTERIAL HAND WASH",
       "price": 1800,
       "imageUrl": "https://www.purehygieneltd.com/wp-content/uploads/2015/09/sanitol_hand.jpg",
       "description": ""
     },
     {
+      "id": 2052,
       "name": "CHARM AIR FRESHENER 283G",
       "price": 2000,
       "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2024/01/105411279_2612039649125175_4618833692495909095_n.jpg",
       "description": ""
     },
     {
+      "id": 2053,
       "name": "FEBREZE AIR MIST COTTON FRESH",
       "price": 7350,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDvJoM5w83Xr2wCEgiXgvpRqhnF9DiOBPSGw&s",
       "description": ""
     },
     {
+      "id": 2054,
       "name": "CAR WASH SUPER CONCENTRATE WASH",
       "price": 5850,
       "imageUrl": "https://www.lanrebhadmusindustries.com/image/cache/catalog/Car%20Wash%20250ml-500x500.png",
       "description": ""
     },
     {
+      "id": 2055,
       "name": "HARPIC MOUNTAIN PINE 725ML",
       "price": 3700,
       "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/10/99.jpg",
       "description": ""
     },
     {
+      "id": 2056,
       "name": "ZIPTOL ANTI-BACTERIAL DETERGENT",
       "price": 3000,
       "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl2250_43918bef-913b-4776-9e96-404a3a3a9b28.jpg?v=1756130246",
       "description": ""
     },
     {
+      "id": 2057,
       "name": "2SURE ORIGINAL MEDICATED ANTI-BACTERIAL SOAP 65G",
       "price": 350,
       "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2021/12/2Sure-Original-Medicated-Anti-Bacterial-Soap-Bar-70g.jpg",
       "description": ""
     },
     {
+      "id": 2058,
       "name": "NITTOL ANTIBACTERIAL DETERGENT 160G",
       "price": 380,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/65/979499/1.jpg?8669",
       "description": ""
     },
     {
+      "id": 2059,
       "name": "WAW LAUNDRY BAR SOAP 250G",
       "price": 780,
       "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/09/WAW-Multi-Purpose-Soap.jpg",
       "description": ""
     },
     {
+      "id": 2060,
       "name": "DETTOL SOAP ORIGINAL 160G",
       "price": 1300,
       "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/10/Dettol-Original-Soap-75gm-1.jpg",
       "description": ""
     },
     {
+      "id": 2061,
       "name": "REXONA SEXY BOUQUET 200ML",
       "price": 3600,
       "imageUrl": "https://allure.com.ng/wp-content/uploads/2025/07/Rexona-sexy.jpg",
       "description": ""
     },
     {
+      "id": 2062,
       "name": "CUSSONS MORNING FRESH 200ML",
       "price": 780,
       "imageUrl": "https://morningfresh.com.ng/wp-content/uploads/2020/04/MF-ORIGINAL.jpg",
       "description": ""
     },
     {
+      "id": 2063,
       "name": "CUSSON BABY SOAP SOFT SMOOTH (70G)",
       "price": 450,
       "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/08/1-8.jpg",
       "description": ""
     },
     {
+      "id": 2064,
       "name": "DETTOL EVENTONE B/S",
       "price": 1200,
       "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/10/DETTOL-EVEN-TONE-SOAP-160G-6009695934359.jpg",
       "description": ""
     },
     {
+      "id": 2065,
       "name": "BLOOM GLUTA BERRY 200000MG",
       "price": 5850,
       "imageUrl": "",
       "description": ""
     },
     {
+      "id": 2066,
       "name": "BLOOM GLUTA BERRY 200000MG",
       "price": 5850,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/51/5456882/1.jpg?2365",
       "description": ""
     },
     {
+      "id": 2067,
       "name": "AMLACTIN DAILY VITAMIN C SOAP",
       "price": 5850,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DuzaO1toO6sipOV-WWb6va7eAzVZPCXEpw&s",
       "description": ""
     },
     {
+      "id": 2068,
       "name": "CAREX ANTIBACTERIAL 75G",
       "price": 600,
       "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl3468_9f465689-4d4b-4ac0-ba69-53f25cb8d952.jpg?v=1756132372",
       "description": ""
     },
     {
+      "id": 2069,
       "name": "ASDA DIAPPERS SIZE 5 PLUS",
       "price": 31200,
       "imageUrl": "https://babyshopnigeria.com/wp-content/uploads/2018/10/5057172081592_T1.webp",
       "description": ""
     },
     {
+      "id": 2070,
       "name": "ASDA DIAPPERS SIZE 5",
       "price": 31200,
       "imageUrl": "https://babyshopnigeria.com/wp-content/uploads/2018/10/5057172081592_T1.webp",
       "description": ""
     },
     {
+      "id": 2071,
       "name": "ASDA DIAPPERS SIZE 4 PLUS",
       "price": 31200,
       "imageUrl": "https://babyshopnigeria.com/wp-content/uploads/2018/10/2799_1598727238.webp",
       "description": ""
     },
     {
+      "id": 2072,
       "name": "ASDA DIAPPERS SIZE 4",
       "price": 31200,
       "imageUrl": "https://babyshopnigeria.com/wp-content/uploads/2018/10/2799_1598727238.webp",
       "description": ""
     },
     {
+      "id": 2073,
       "name": "ASDA DIAPERS SIZE 3",
       "price": 31200,
       "imageUrl": "https://stockpointng.com/cdn/shop/products/asda-size-3.jpg?v=1644948365",
       "description": ""
     },
     {
+      "id": 2074,
       "name": "DEPEND XL (LF3152)",
       "price": 58500,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/78/5108752/1.jpg?5521",
       "description": ""
     },
     {
+      "id": 2075,
       "name": "DEPEND DIAPERS XL (LF4007)",
       "price": 58500,
       "imageUrl": "https://m.media-amazon.com/images/I/81NDzrKkooL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
       "description": ""
     },
     {
+      "id": 2076,
       "name": "DEPEND LARGE (LF5098)",
       "price": 58500,
       "imageUrl": "https://primegrocers.ng/wp-content/uploads/2020/08/Untitled-2-24.jpg",
       "description": ""
     },
     {
+      "id": 2077,
       "name": "DEPEND ADULT DIAPERS LARGE (LF5015)",
       "price": 58500,
       "imageUrl": "https://i5.walmartimages.com/asr/f43438c8-2bef-4e24-904d-fbc2c84b04d2.fc157cb679208f096683d21c0212648b.jpeg",
       "description": ""
     },
     {
+      "id": 2078,
       "name": "DEPEND SMALL MEDIUM (LF4351)",
       "price": 58500,
       "imageUrl": "https://storage.googleapis.com/images-lnb-prd-8936dd0.lnb.prd.v8.commerce.mi9cloud.com/product-images/zoom/00036000385335.png",
       "description": ""
     },
     {
+      "id": 2079,
       "name": "DEPEND ADULT DIAPER MEDIUM (LF5053)",
       "price": 58500,
       "imageUrl": "https://www.magicmedical.com/cdn/shop/products/35458.jpg?v=1653618762",
       "description": ""
     },
     {
+      "id": 2080,
       "name": "PULL UPs 4T - 5T BOYS & GIRLS",
       "price": 32500,
       "imageUrl": "https://www.csigrocery.com/wp-content/uploads/2023/11/95d805b0-868d-422e-9ad8-db0b14ad378c.png",
       "description": ""
     },
     {
+      "id": 2081,
       "name": "PULL UPS 3T - 4T BOYS & GIRLS",
       "price": 24400,
       "imageUrl": "https://thumbor.us-east4.msg-boxed-prod.e.spresso.com/unsafe/fit-in/512x400/filters:quality(100):max_bytes(200000):fill(white)/https://catalog-assets-us-east4.msg-boxed-prod.e.spresso.com/Y2F0YWxvZy1hc3NldHMtdXMtZWFzdDQubXNnLWJveGVkLXByb2QuZS5zcHJlc3NvLmNvbQ==/WTJGMFlXeHZaeTFoYzNObGRITXRkWE10WldGemREUXViWE5uTFdKdmVHVmtMWEJ5YjJRdVpTNXpjSEpsYzNOdkxtTnZiUT09/V1RKR01GbFhlSFphZVRGb1l6Tk9iR1JJVFhSa1dFMTBXbGRHZW1SRVVYVmlXRTV1VEZkS2RtVkhWbXRNV0VKNVlqSlJkVnBUTlhwalNFcHNZek5PZGt4dFRuWmlVVDA5/VjFjeGQyVnJlSFZVYlhCaFZucFdjMVJ1YXpGaGJVbDVUVVF3UFE9PQ==/V1Zab1RsQlJQVDA9/V1ZaamVHRkdiM2xXVkRBOQ==/VjFjeGQyVm5QVDA9/VkZkd1NrMXJOWEZTV0dSWlRWUnNiMWxyYUZKbFFUMDk=",
       "description": ""
     },
     {
+      "id": 2082,
       "name": "PULL UPS 3T - 3T BOYS & GIRLS",
       "price": 24400,
       "imageUrl": "https://www.csigrocery.com/wp-content/uploads/2023/02/img_0165.jpeg",
       "description": ""
     },
     {
+      "id": 2083,
       "name": "HUGGIES LITTLE SNUGGULERS SIZE 2",
       "price": 350000,
       "imageUrl": "https://babyshopnigeria.com/wp-content/uploads/2018/10/imageService-300x300.jpg",
       "description": ""
     },
     {
+      "id": 2084,
       "name": "HUGGIES LITTLE SNUGGLERS SIZE 1",
       "price": 34700,
       "imageUrl": "https://babyshopnigeria.com/wp-content/uploads/2018/10/large_c7201129-af8a-481a-897e-69bca50ae124.jpg",
@@ -6443,99 +6521,759 @@
       "description": ""
     },
     {
+      "id": 2085,
       "name": "HUGGIES NATURAL CARE WIPES ALOE VERA X 56",
       "price": 2350,
       "imageUrl": "https://www.supermart.ng/cdn/shop/files/1479314045576_spxspz375_huggies_baby_wipes_aloe_56_pieces_300x300_8bdc43a8-3b22-4e92-8662-7dd03f41a120.jpg?v=1688683210",
       "description": ""
     },
     {
+      "id": 2086,
       "name": "HUGGIES SENSITIVE & FRANGRACE FREE WIPES X64",
       "price": 4400,
       "imageUrl": "https://m.media-amazon.com/images/I/51vExW8mgoL._AC_SL1500_.jpg",
       "description": ""
     },
     {
+      "id": 2087,
       "name": "RADOX FEEL AWAKE SHOWER GEL FOR MEN",
       "price": 5700,
       "imageUrl": "https://megacare.ng/media/image/41OdxaqXKL_DXtVHP5.jpg",
       "description": ""
     },
     {
+      "id": 2088,
       "name": "RADOX FEEL UPLIFTED SHOWER GEL",
       "price": 3600,
       "imageUrl": "https://allure.com.ng/wp-content/uploads/2024/06/feel-uplifted-250ml.jpg",
       "description": ""
     },
     {
+      "id": 2089,
       "name": "ROSE CARLA KITCHEN TOWEL 2PLY SATIN SOFT(SINGLE)",
       "price": 2350,
       "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/05/carla_towel_double.png?fit=622%2C480&ssl=1",
       "description": ""
     },
     {
+      "id": 2090,
       "name": "BLOSSOM TISSUE BOX",
       "price": 4800,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf6dydQbh5_6U5fUqMa_MoIvhRbIbJZTs5Eg&s",
       "description": ""
     },
     {
+      "id": 2091,
       "name": "JOY NOURISHING BEAUTY SOAP 150G",
       "price": 900,
       "imageUrl": "https://edgedirect2u.com.ng/storage/app/public/product/2024-09-04-66d840b813f15.png",
       "description": ""
     },
     {
+      "id": 2092,
       "name": "RUTH SUPREME TISSUE",
       "price": 770,
       "imageUrl": "https://i0.wp.com/www.diapersworldmega.com/wp-content/uploads/2024/03/Ruth-supreme-tissue.png?fit=300%2C300&ssl=1",
       "description": ""
     },
     {
+      "id": 2093,
       "name": "VISITA ESSENCE B LIGHTENING WHITE UP",
       "price": 1200,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/22/3576752/1.jpg?1893",
       "description": ""
     },
     {
+      "id": 2094,
       "name": "BLUE HEAVEN MEN HAIR REMOVAL CREAM MAGIC CLEAN",
       "price": 2700,
       "imageUrl": "https://www.supermart.ng/cdn/shop/files/medv318_blue_heaven_magic_clean_perfumed_hair_removing_cream_lemon_60_ml.jpg?v=1689141651",
       "description": ""
     },
     {
+      "id": 2095,
       "name": "BLUE HEAVEN CUCUMBER MAGIC CLEAN",
       "price": 2700,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/78/8087814/1.jpg?3063",
       "description": ""
     },
     {
+      "id": 2096,
       "name": "BLUE HEAVEN LEMON MAGIC CLEAN",
       "price": 2700,
       "imageUrl": "https://www.supermart.ng/cdn/shop/files/medv318_blue_heaven_magic_clean_perfumed_hair_removing_cream_lemon_60_ml.jpg?v=1689141651",
       "description": ""
     },
     {
+      "id": 2097,
       "name": "BLUE HEAVEN ROSE MAGIC CLEAN",
       "price": 2700,
       "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/9385452/1.jpg?9132",
       "description": ""
     },
     {
+      "id": 2098,
       "name": "ROUND SOFT SPONGE",
       "price": 700,
       "imageUrl": "https://www.grimages.com/images/com_hikashop/upload/dfx_sponge_lilac_1.png",
       "description": ""
     },
     {
+      "id": 2099,
       "name": "SOFT LONG SPONGE BIG",
       "price": 2000,
       "imageUrl": "https://m.media-amazon.com/images/I/51VUwCaNNtL.jpg",
       "description": ""
     },
     {
+      "id": 2100,
       "name": "HARD LONG SPONGE",
       "price": 1950,
       "imageUrl": "https://images.essentialaids.com/essentialaids/productImages/l/o/long-handled-net-sponge.jpg",
+      "description": ""
+    },
+    {
+      "id": 2101,
+      "name": "HARPIC ACTIVE FRESH PARASITE 750ml",
+      "price": 4600,
+      "imageUrl": "https://primegrocers.ng/wp-content/uploads/2023/03/harpic-pine-new.png",
+      "description": ""
+    },
+    {
+      "id": 2102,
+      "name": "HARPIC POWER PLUS 10X CLEAN & PROTECT 750ml",
+      "price": 4600,
+      "imageUrl": "https://primegrocers.ng/wp-content/uploads/2023/12/powerplus.jpg",
+      "description": ""
+    },
+    {
+      "id": 2103,
+      "name": "HARPIC WHINE & SHINE 750ml",
+      "price": 4600,
+      "imageUrl": "https://images.cdn.shop.supervalu.ie/detail/1336182000_1",
+      "description": ""
+    },
+    {
+      "id": 2104,
+      "name": "EUTHYMOL ORIGINAL TOOTHPASTE WHITENING 75ML",
+      "price": 5450,
+      "imageUrl": "https://primegrocers.ng/wp-content/uploads/2025/02/euthymol-whitening.webp",
+      "description": ""
+    },
+    {
+      "id": 2105,
+      "name": "VIVA PLUS DETERGENT POWDER 80G",
+      "price": 250,
+      "imageUrl": "https://i0.wp.com/kovmarket.com.ng/wp-content/uploads/2024/11/Viva-Washing-Powder-Detergent-80g-1kov.png?fit=808%2C654&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 2106,
+      "name": "EUTHYMOL ORIGINAL TOOTHPASTE 75ML",
+      "price": 5000,
+      "imageUrl": "https://megacare.ng/media/image/download_jap2O4a.jpeg",
+      "description": ""
+    },
+    {
+      "id": 2107,
+      "name": "SO KLIN CONCENTRATED DETERGENT 170G",
+      "price": 460,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spasho2286_6b20311a-23fc-4af6-a918-ba23fea4f0c0.jpg?v=1738324008",
+      "description": ""
+    },
+    {
+      "id": 2108,
+      "name": "SURE MOTIONSENSE INVISIBLE ANTIBACTERIAL 250ML",
+      "price": 3500,
+      "imageUrl": "https://tosnigeria.com/wp-content/uploads/2023/10/s-l500_1.webp",
+      "description": ""
+    },
+    {
+      "id": 2109,
+      "name": "CORMART RENEW INSTANT COLD WATER STARCH 17G",
+      "price": 170,
+      "imageUrl": "https://egoleshopping.com/images/detailed/14/1_hi1i-b1.jpg",
+      "description": ""
+    },
+    {
+      "id": 2110,
+      "name": "SO KLIN CONCENTRATED DETERGENT 80G",
+      "price": 450,
+      "imageUrl": "https://tunamis.com.ng/wp-content/uploads/2023/03/so_klin_powder_detergent-247x296.png",
+      "description": ""
+    },
+    {
+      "id": 2111,
+      "name": "SO KLIN CONCENTRATED DETERGENT 20G",
+      "price": 70,
+      "imageUrl": "https://cloza.com.ng/public/uploads/all/EfOUirhEv5yeH0OjsOOonmNVynnFltYHcuD1HZ4o.jpg",
+      "description": ""
+    },
+    {
+      "id": 2112,
+      "name": "VIVA PLUS 170G",
+      "price": 550,
+      "imageUrl": "https://seamart.com.ng/wp-content/uploads/2024/12/WhatsApp-Image-2024-03-18-at-11.50.26-AM.jpeg",
+      "description": ""
+    },
+    {
+      "id": 2113,
+      "name": "VIVA PLUS 22G",
+      "price": 70,
+      "imageUrl": "https://cloza.com.ng/public/uploads/all/BK1kuBbrnhsV5FT0phslEfPwLslpQ3XtzQN626VE.jpg",
+      "description": ""
+    },
+    {
+      "id": 2114,
+      "name": "GORILLA HAIR GEL BIG 340G",
+      "price": 6200,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/42/1638814/1.jpg?5637",
+      "description": ""
+    },
+    {
+      "id": 2115,
+      "name": "GORILLA HAIR GEL SMALL 85G",
+      "price": 4000,
+      "imageUrl": "https://i5.walmartimages.com/seo/Moco-de-Gorila-Gorilla-Snot-Hair-Gel-Mini-Punk-Travel-Size-3-oz-85g_1f4f592d-6195-4daa-851c-964a79a06b49.2efcadcc4ce1327e3db0683a32bc0eed.jpeg",
+      "description": ""
+    },
+    {
+      "id": 2116,
+      "name": "COLGATE EXTRA CLEAN TOOTH BRUSH",
+      "price": 900,
+      "imageUrl": "https://shoponclick.ng/storage/2020/07/Colgate-Extra-Clean-Medium-Toothbrush.jpg",
+      "description": ""
+    },
+    {
+      "id": 2117,
+      "name": "SEA FRESH KITCHEN TOWEL (SINGLE)",
+      "price": 1200,
+      "imageUrl": "https://shoptohouse.com/wp-content/uploads/2024/02/sea-fresh-kitchen-towel.png",
+      "description": ""
+    },
+    {
+      "id": 2118,
+      "name": "SOFTWARE SERVIETTE",
+      "price": 600,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/97/0046814/2.jpg?0173",
+      "description": ""
+    },
+    {
+      "id": 2119,
+      "name": "PEPSODENT CAVITY FIGHTER 140G",
+      "price": 700,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/1507811263257_spwxyz1148_pepsodent_toothpaste_cavity_fighter_140_g_39888eae-7140-4120-b04c-a3c585c7c38b.jpg?v=1689083076",
+      "description": ""
+    },
+    {
+      "id": 2120,
+      "name": "COLGATE MAX FRESH 120G BLUE",
+      "price": 1400,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/05/278225493_4440372959397219_3758119668783952357_n.jpeg?fit=960%2C960&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 2121,
+      "name": "COLGATE TOOTHPASTE TRIPLE ACTION",
+      "price": 1800,
+      "imageUrl": "https://www.colgate.com/content/dam/cp-sites/oral-care/oral-care-center/en-sg/product-detail-pages/toothpaste/colgate-triple-action.jpg",
+      "description": ""
+    },
+    {
+      "id": 2122,
+      "name": "COLGATE TOTAL CLEAN MINT 75ML",
+      "price": 1850,
+      "imageUrl": "https://cdn.salla.sa/DGdDlG/566a5acc-187f-4e84-8154-08761e3658d1-1000x1000-MFBCkBFpWHeRvI3EPSz7XHpYxQR8qX5758tECwst.jpg",
+      "description": ""
+    },
+    {
+      "id": 2123,
+      "name": "COLGATE SENSITIVE PRO RELIEF",
+      "price": 1800,
+      "imageUrl": "https://www.colgate.com/content/dam/cp-sites/oral-care/oral-care-center/en_ca/product-detail-pages/toothpaste/toothpaste-sensitive-pro-relief-new.png",
+      "description": ""
+    },
+    {
+      "id": 2124,
+      "name": "COLGATE MAX FRESH 35GM",
+      "price": 600,
+      "imageUrl": "https://fromatoz.com.ng/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-17-at-11.58.15-AM.jpeg",
+      "description": ""
+    },
+    {
+      "id": 2125,
+      "name": "NITTOL ANTI BACTERIAL 60G",
+      "price": 180,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/09/nittol-anti-bacteria-detergent622f1042159b2.jpg?fit=281%2C281&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 2126,
+      "name": "PREMIER CARE NATURAL 175g",
+      "price": 120,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/08/Premier-Care-Naturals-Milk-And-Honey-Bar-Soap-175g-1.webp?fit=1200%2C1200&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 2127,
+      "name": "VICKI TOILET TISSUE",
+      "price": 250,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/1507214535229_sptotr2974_banrut_rolls_vicki_soft___tender_toilet_tissue_2_ply_2_rolls.jpg?v=1689129998",
+      "description": ""
+    },
+    {
+      "id": 2128,
+      "name": "SEA FRESH TISSUE OLD",
+      "price": 200,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/05/download-9.jpg",
+      "description": ""
+    },
+    {
+      "id": 2129,
+      "name": "CORAL SEA FRESH SERVIETTE",
+      "price": 600,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/05/download-2023-02-17T174438.310.jpg",
+      "description": ""
+    },
+    {
+      "id": 2130,
+      "name": "CORAL SEA FRESH TISSUE",
+      "price": 170,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/05/download-9.jpg",
+      "description": ""
+    },
+    {
+      "id": 2131,
+      "name": "PREMIER CARE NATURALS 110G",
+      "price": 400,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2021/06/Premier-Care-Naturals-Milk-And-Honey-Bar-Soap-175g.jpg",
+      "description": ""
+    },
+    {
+      "id": 2132,
+      "name": "DOVE REJUVENATING",
+      "price": 3250,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpfFBedVaSzlzkGNscSQ8w5NZpjUEMk-qrQ&s",
+      "description": ""
+    },
+    {
+      "id": 2133,
+      "name": "DOVE PINK ROSA",
+      "price": 3250,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5JboTlm7daPg5HXEJNlNvj3vXnszzETnk1g&s",
+      "description": ""
+    },
+    {
+      "id": 2134,
+      "name": "ALPHA ARBUTIN BODY WASH",
+      "price": 19500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVtXq16kFUJKX7LVu-s6V8vdbhheIAdWPuTw&s",
+      "description": ""
+    },
+    {
+      "id": 2135,
+      "name": "WINDOLENE DIAMON SHINE",
+      "price": 6850,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2W_vr-mWM2cNb18FSHANv9n0QZmLWz62fug&s",
+      "description": ""
+    },
+    {
+      "id": 2136,
+      "name": "XBC PAPAYA CLEANSING FACE WASH",
+      "price": 4700,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMpgmxdNeuzQQaZ4OXKINmTOUhFqyalpGM8w&s",
+      "description": ""
+    },
+    {
+      "id": 2137,
+      "name": "VITAMIN C ANTI AGING SHOWER GEL",
+      "price": 19500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO6lpNnWMRMGqVptO3z4_LAjpe2_aU8BiFwQ&s",
+      "description": ""
+    },
+    {
+      "id": 2138,
+      "name": "AHA SHOWER GEL",
+      "price": 13000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimhq4Yy9r-cu3zG8496tZFLgQNuElDwt3F0X9eUsg_kjrezPT2koD_nTZJVd4Yd8u69A&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 2139,
+      "name": "COSCHARIS SCENTS CHERRY",
+      "price": 1150,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3qpc8mDbMXThMoAc0LxmAFLtkir005KzB4w&s",
+      "description": ""
+    },
+    {
+      "id": 2140,
+      "name": "DR MEINAIER SHOWER GEL",
+      "price": 14300,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFCMmLIpP04AZ9172zvy3o8eL41o25BGy41w&s",
+      "description": ""
+    },
+    {
+      "id": 2141,
+      "name": "IRISH SPRING ORIGINAL",
+      "price": 3000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUh3XH9PztnHvYuCoka1ZRtE1L0NCVHanKgA&s",
+      "description": ""
+    },
+    {
+      "id": 2142,
+      "name": "KIKLAND SIGNATURE TOWEL",
+      "price": 2500,
+      "imageUrl": "https://noveltyshop.com.ng/wp-content/uploads/2024/05/kirk-2.jpeg",
+      "description": ""
+    },
+    {
+      "id": 2143,
+      "name": "MEMBER'S MARK SUPER PREMIUM TOWEL",
+      "price": 4200,
+      "imageUrl": "https://acleanpeststore.com/wp-content/uploads/2022/08/Untitled-design-79.png",
+      "description": ""
+    },
+    {
+      "id": 2144,
+      "name": "COMFORT FABRIC CONDITIONER 990ML",
+      "price": 8532,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/78/9638103/1.jpg?8364",
+      "description": ""
+    },
+    {
+      "id": 2145,
+      "name": "NICE ONE MULTI-PURPOSE SOAP 250g",
+      "price": 500,
+      "imageUrl": "https://fromatoz.com.ng/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-06-at-10.39.35-AM.jpeg",
+      "description": ""
+    },
+    {
+      "id": 2146,
+      "name": "NICE ONE MULTI-PURPOSE SOAP 150g",
+      "price": 350,
+      "imageUrl": "https://cloza.com.ng/public/uploads/all/GSaHqlV3v8wmgOvYG5d26TRNjz519pC9bpQHH6DU.jpg",
+      "description": ""
+    },
+    {
+      "id": 2147,
+      "name": "PRO ORAL DENTAL FLOSS X30",
+      "price": 400,
+      "imageUrl": "https://media.superdrug.com//medias/sys_master/prd-images/h8f/h3e/12225769439262/prd-front-790167_600x600/prd-front-790167-600x600.jpg",
+      "description": ""
+    },
+    {
+      "id": 2148,
+      "name": "COLGATE OPTIC WHITE ADVANCED",
+      "price": 4300,
+      "imageUrl": "https://pxmshare.colgatepalmolive.com/JPEG_1500/hlRaAGLu6YFukNa_GVm0W.jpg",
+      "description": ""
+    },
+    {
+      "id": 2149,
+      "name": "COLGATE BAKING SODA & PERIXIDE WHITENING",
+      "price": 8700,
+      "imageUrl": "https://pxmshare.colgatepalmolive.com/JPEG_1500/CCGV6nOZwlvfCVDjoz1Gv.jpg",
+      "description": ""
+    },
+    {
+      "id": 2150,
+      "name": "CREST 3D WHITE",
+      "price": 2200,
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/crr/crr05386/y/10.jpg",
+      "description": ""
+    },
+    {
+      "id": 2152,
+      "name": "CREST CAVITY PROTECTION FRESH MINT",
+      "price": 2200,
+      "imageUrl": "https://m.media-amazon.com/images/I/61CUx+Gy0rL.jpg",
+      "description": ""
+    },
+    {
+      "id": 2153,
+      "name": "CREST CAVITY PROTECTION HERBAL COLLECTION",
+      "price": 2200,
+      "imageUrl": "https://petracarestore.com/wp-content/uploads/2024/12/معجون-اسنان-حماية-ضد-التسوس-مجموعة-اعشاب-من-كرست-125-مل.webp",
+      "description": ""
+    },
+    {
+      "id": 2154,
+      "name": "SPRING FRESH DENTAL FLOSS X50",
+      "price": 1200,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/70/9086104/1.jpg?9657",
+      "description": ""
+    },
+    {
+      "id": 2155,
+      "name": "DR FLOSS",
+      "price": 1100,
+      "imageUrl": "https://i5.walmartimages.com/seo/Dr-Fresh-Brand-Kool-Floss-Mint-Waxed-Dental-Flossers-Picks-60-Count-in-a-Easy-Resealable-Packaging_2d3d6b2c-4f4b-4e29-bcd8-6a2438c40bcd.4b9308c5771914e6292718bc6499751b.jpeg",
+      "description": ""
+    },
+    {
+      "id": 2156,
+      "name": "AQUAFRESH MILK TEETH",
+      "price": 3250,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/62/2707104/1.jpg?7505",
+      "description": ""
+    },
+    {
+      "id": 2157,
+      "name": "LITTLE TEETH 3-5 PASTE",
+      "price": 3250,
+      "imageUrl": "https://www.onestop.co.uk/wp-content/uploads/960abd4b-3c64-4fd6-8dea-351bc986397a.png",
+      "description": ""
+    },
+    {
+      "id": 2158,
+      "name": "PRETTY FRESH MOUTH SPRAY",
+      "price": 1900,
+      "imageUrl": "https://nectarbeautyhub.com/cdn/shop/files/pretty-fresh-mouth-spray-fresh-spear-mint-20ml-456154_1024x1024.png?v=1750949505",
+      "description": ""
+    },
+    {
+      "id": 2159,
+      "name": "ORAL CARE KITS S/S",
+      "price": 2200,
+      "imageUrl": "https://skit.ng/wp-content/uploads/2023/11/Oral-care-kit.webp",
+      "description": ""
+    },
+    {
+      "id": 2160,
+      "name": "ORAL CARE KITS B/S",
+      "price": 3250,
+      "imageUrl": "https://skit.ng/wp-content/uploads/2023/11/Oral-care-kit.webp",
+      "description": ""
+    },
+    {
+      "id": 2161,
+      "name": "COLGATE 2-5 KIDS TOOTHBRUSH",
+      "price": 1400,
+      "imageUrl": "https://maxhubpharm.com/wp-content/uploads/2024/05/1000046307.jpg",
+      "description": ""
+    },
+    {
+      "id": 2162,
+      "name": "COLDENT ROUND TONGUE CLEANER",
+      "price": 1300,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/98/2737814/1.jpg?3163",
+      "description": ""
+    },
+    {
+      "id": 2163,
+      "name": "COLDENT TONGUE CLEANER S/S",
+      "price": 650,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/07/7737814/1.jpg?3291",
+      "description": ""
+    },
+    {
+      "id": 2164,
+      "name": "WAW ACTIVE 5 SPRING MOUNTAIN 1LTR",
+      "price": 2500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/16/979499/1.jpg?6404",
+      "description": ""
+    },
+    {
+      "id": 2165,
+      "name": "SADOER 500ML GRAPE MOUTHWASH",
+      "price": 6400,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK9Y0M5ORwUw4ASfuiEURxP4AupIV4wBgYLw&s",
+      "description": ""
+    },
+    {
+      "id": 2166,
+      "name": "SADOER 500ML MOUTHWASH",
+      "price": 6400,
+      "imageUrl": "https://sc04.alicdn.com/kf/H6182ad62661e4aaebc680dcc72de83f0r.jpg",
+      "description": ""
+    },
+    {
+      "id": 2167,
+      "name": "POPULAR OKCROWN - BRIGHT HEAVY DUTY MULTI-PURPOSE CLEANER",
+      "price": 950,
+      "imageUrl": "https://24hoursmarket.com/wp-content/uploads/2023/03/1679800122373-1200x1200.jpg",
+      "description": ""
+    },
+    {
+      "id": 2168,
+      "name": "SWISS FLOWER AIR FRESHENER -COOL FRESH",
+      "price": 1500,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/10/171695_1591889652.webp?fit=500%2C500&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 2169,
+      "name": "BLUE DIAMOND 200G",
+      "price": 8700,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2022/07/Blue-Diamond-Airfreshener-200g.jpg",
+      "description": ""
+    },
+    {
+      "id": 2170,
+      "name": "DETTOL ANTISEPTIC 250ML",
+      "price": 6500,
+      "imageUrl": "https://precious-pharmacy.com/cdn/shop/products/Artboard95.png?v=1597150642",
+      "description": ""
+    },
+    {
+      "id": 2171,
+      "name": "SNIPER CRAWLING INSECT KILLER",
+      "price": 5350,
+      "imageUrl": "https://primegrocers.ng/wp-content/uploads/2022/07/SNIPER-FLYING-AND-CRAWLING-INS.jpg",
+      "description": ""
+    },
+    {
+      "id": 2172,
+      "name": "BAYGON 300ML",
+      "price": 3700,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/09/374471_1-20210326-100032.png?fit=320%2C320&ssl=1",
+      "description": ""
+    },
+    {
+      "id": 2173,
+      "name": "BAYGON 500ML",
+      "price": 6000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3r-qsXr7HwT0Rg9hNOGJBIUMc0w3dU7YImg&s",
+      "description": ""
+    },
+    {
+      "id": 2174,
+      "name": "SANITOL ANTI BACTERIAL HAND WASH ALOE VERA 500ML",
+      "price": 1800,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjUatsju-vCCne60wU8UYzlVZb7J_FWU-VQ&s",
+      "description": ""
+    },
+    {
+      "id": 2175,
+      "name": "HARPIC ACTIVE FRESH CITRUS ZEST 750ML",
+      "price": 4250,
+      "imageUrl": "https://megacare.ng/media/image/IMG_20220831_151127_PbegI16.png",
+      "description": ""
+    },
+    {
+      "id": 2176,
+      "name": "HARPIC ACTIVE FRESH MOUNTAIN PINE 750ML",
+      "price": 4600,
+      "imageUrl": "https://primegrocers.ng/wp-content/uploads/2023/03/harpic-pine-new.png",
+      "description": ""
+    },
+    {
+      "id": 2177,
+      "name": "AIR WICK VANILLA 300ML",
+      "price": 2850,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3zvABzf-8ZOmfmoj6GyZFbpYxzZfBY13Wg&s",
+      "description": ""
+    },
+    {
+      "id": 2178,
+      "name": "AIR WICK CITRUS LEMON 300ML",
+      "price": 2850,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2021/02/Air-Wick-Freshmatic-Refill-Citrus-Lemon-250ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 2179,
+      "name": "AMBI PUR AIR CITRUS LEMON",
+      "price": 3050,
+      "imageUrl": "https://shopmamatega.com/cdn/shop/products/4084500342002_3b659c8f-2f67-421e-aea9-aeeee55a8914_1080x.png?v=1702116932",
+      "description": ""
+    },
+    {
+      "id": 2180,
+      "name": "AMBI PUR AIR ANTI TOBACCO",
+      "price": 3050,
+      "imageUrl": "https://allinonestore.ng/public/uploads/all/VNUSm7zqjkgSnfIIe2SlbZztGD0w72BibhtjRXZ6.webp",
+      "description": ""
+    },
+    {
+      "id": 2182,
+      "name": "ROOM FRESH ROSE FRAGRANCE 750ml",
+      "price": 7600,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/products/spar9792.jpg?v=1688287453",
+      "description": ""
+    },
+    {
+      "id": 2183,
+      "name": "FEBREZE AIR MIST SPARKLING BLOOM 185ML",
+      "price": 6500,
+      "imageUrl": "https://primegrocers.ng/wp-content/uploads/2025/02/febreze_air_mist_sparkling_bloom_lenor_185ml.jpeg",
+      "description": ""
+    },
+    {
+      "id": 2184,
+      "name": "FEBREZE AIR MIST LAVENDER 185ML",
+      "price": 6500,
+      "imageUrl": "https://fragrances.com.ng/media/catalog/product/cache/0daeb07bb1d294c1f281fab47369d56a/f/e/febreze_air_mist_lavender_185ml.jpeg",
+      "description": ""
+    },
+    {
+      "id": 2185,
+      "name": "FEBREZE AIR MIST LENOR 300ML",
+      "price": 3050,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ypfqn-z-KwFBAcTVFft8zq82wVIb7vSBWQ&s",
+      "description": ""
+    },
+    {
+      "id": 2186,
+      "name": "BLUE DIAMOND COMPHOR COLORED",
+      "price": 1200,
+      "imageUrl": "https://shoponclick.ng/storage/2023/12/IMG-20231222-WA0002.jpg",
+      "description": ""
+    },
+    {
+      "id": 2187,
+      "name": "SUNBELT PEGS",
+      "price": 1000,
+      "imageUrl": "https://addide.com/cdn/shop/products/SunbeltPeg-8_800x.png?v=1605714185",
+      "description": ""
+    },
+    {
+      "id": 2188,
+      "name": "DINO SHAVERS",
+      "price": 500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC42X_R3PH_1QPeLC3IkYgLKebFzsC471CcQ&s",
+      "description": ""
+    },
+    {
+      "id": 2189,
+      "name": "GILLETTE BLUE 11",
+      "price": 3800,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spar2467.jpg?v=1689020960",
+      "description": ""
+    },
+    {
+      "id": 2190,
+      "name": "ACCLOUD HARD BRUSH",
+      "price": 1000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswrGt2qgCZNBnXJ8Mf6fRP_5TurD2oTp7Q__QJv6j_WFTPOfqiY7zbheZqWycLlg9USc&usqp=CAU",
+      "description": ""
+    },
+    {
+      "id": 2191,
+      "name": "BABY SECRET APPLE & HONEY SOAP",
+      "price": 2100,
+      "imageUrl": "https://klycosmeticstore.com/wp-content/uploads/2025/04/Baby-Secret-Apple-Honey-Soap-120G.png",
+      "description": ""
+    },
+    {
+      "id": 2192,
+      "name": "COLGATE CLASSIC DEEP CLEAN TOOTHBRUSH",
+      "price": 500,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2022/03/Colgate-Classic-Deep-Clean-Toothbrush-scaled.jpg",
+      "description": ""
+    },
+    {
+      "id": 2193,
+      "name": "PERSIL NON-BIO 648ML",
+      "price": 3800,
+      "imageUrl": "https://images.ctfassets.net/6jpeaipefazr/1vJPGlG6CfCBwKpiMOb27A/12bb0b0bfb0c51426a0e5fb30e296918/8720181006289__1_.jpg?w=1440&h=1080",
+      "description": ""
+    },
+    {
+      "id": 2194,
+      "name": "PERSIL BIO 648ML",
+      "price": 5850,
+      "imageUrl": "https://res.cloudinary.com/dqaha42be/image/upload/v1702301819/qmdxt3nthtnegr9fgf97.jpg",
       "description": ""
     }
   ],

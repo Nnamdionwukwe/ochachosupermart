@@ -3,9 +3,7 @@ import styles from "./ProductList.module.css";
 import { useProductFilter } from "../context/ProductFilterContext";
 
 const Toiletries = () => {
-  // const { filteredProducts, searchTerm } = useCart();
   const { filteredToiletries, searchTerm } = useProductFilter();
-  console.log(filteredToiletries);
 
   return (
     <div className={styles.productgrid}>
