@@ -58,21 +58,23 @@ const testimonials = [
 const supermarketBestsellers = [
   {
     id: 1,
-    name: "Organic Bananas",
-    price: "₦1,250.00",
-    image: "/images/bananas.jpg",
+    name: "MCVITIES CHOCOLATE SHORTBREAD 200G",
+    price: "₦3,000.00",
+    image:
+      "https://renosuperstores.com.ng/wp-content/uploads/2025/02/2-Photoroom-1-3.jpg",
   },
   {
     id: 2,
-    name: "Fresh Chicken",
-    price: "₦5,500.00",
-    image: "/images/chicken.jpg",
+    name: "COMPLAN MILK NDAC WHITE 400G",
+    price: "₦12,600.00",
+    image: "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
   },
   {
     id: 3,
-    name: "Whole Wheat Bread",
-    price: "₦800.00",
-    image: "/images/bread.jpg",
+    name: "SADOER VITAMIN C COTTON PADS",
+    price: "4,500.00",
+    image:
+      "https://sc04.alicdn.com/kf/H5c5b2ca66dc340c7b0164c4f2dee017ew.jpg_350x350.jpg",
   },
 ];
 
