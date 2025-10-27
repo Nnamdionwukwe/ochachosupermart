@@ -11,8 +11,7 @@
    Hero Banner Section
    ======================== */
 .hero-banner {
-  background: url("https://i.pinimg.com/736x/fa/3d/c3/fa3dc3ad1a28b1c066c8a88c4aafa230.jpg")
-    no-repeat center center/cover;
+  background: url("./hero-bg.png") no-repeat center center/cover;
   height: 60vh;
   display: flex;
   justify-content: center;
