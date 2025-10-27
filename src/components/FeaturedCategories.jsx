@@ -9,7 +9,7 @@ const FeaturedCategories = ({ categories }) => {
       <div className="categories-grid">
         {categories.map((category) => (
           <Link
-            to={`/category/${category.id}`}
+            to={`/${category.id}`}
             key={category.id}
             className="category-card-link"
           >
