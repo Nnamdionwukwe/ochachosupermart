@@ -8,9 +8,24 @@ import "./SupermarketHomepage.css";
 
 // Mock data (replace with API call)
 const supermarketCategories = [
-  { id: 1, name: "Fresh Produce", image: "/images/produce.jpg" },
-  { id: 2, name: "Meat & Seafood", image: "/images/meat.jpg" },
-  { id: 3, name: "Dairy & Eggs", image: "/images/dairy.jpg" },
+  {
+    id: 1,
+    name: "Cosmetics",
+    image:
+      "https://previews.123rf.com/images/seikachujo/seikachujo1902/seikachujo190200029/136920725-bangkok-thailand-february-10-foodland-supermarket-fully-stocks-various-brands-of-shampoo-hair.jpg",
+  },
+  {
+    id: 2,
+    name: "Pharmacy",
+    image:
+      "https://media.istockphoto.com/id/1135284188/photo/if-you-need-its-here.jpg?s=612x612&w=0&k=20&c=2yfZHUqTEGW4-5r4Sc4pzWKx0DtubpdbTkX3h_w1AJg=",
+  },
+  {
+    id: 3,
+    name: "Cereals & Biscuits",
+    image:
+      "https://c8.alamy.com/comp/2GBCNNF/miami-beach-floridapublix-grocery-store-supermarketshelves-display-sale-competing-brands-cereal-barskelloggs-store-brand-nature-valley-grain-fiber-2GBCNNF.jpg",
+  },
 ];
 
 const testimonials = [
