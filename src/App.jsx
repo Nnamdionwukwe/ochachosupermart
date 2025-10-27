@@ -17,6 +17,7 @@ import BeveragesPage from "./components/BeveragesPage";
 import CerealsPage from "./components/CerealsPage";
 import KitchenUtensisPage from "./components/KitchenUtensisPage";
 import FoodCondimentsPage from "./components/FoodCondimentsPage";
+import SupermarketHomepage from "./components/SupermarketHomepage";
 
 function App() {
   return (
@@ -25,7 +26,8 @@ function App() {
         <div className="content">
           <Routes>
             {/* <Route path="/" element={<LayoutNav />} /> */}
-            <Route index element={<HomePage />} />
+            <Route index element={<SupermarketHomepage />} />
+            {/* <Route index element={<HomePage />} /> */}
             <Route path="/products" element={<ProductsPage />} />
             <Route path="/products/:id" element={<ProductMainDetails />} />
             <Route path="/products/cosmetics" element={<CosmeticsPage />} />
