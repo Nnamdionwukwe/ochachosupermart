@@ -3,6 +3,7 @@ import HeroBanner from "../components/HeroBanner";
 import FeaturedCategories from "../components/FeaturedCategories";
 import BestSellers from "../components/BestSellers";
 import Testimonials from "../components/Testimonials";
+// import PharmarcyHomepage from "./components/PharmarcyHomepage";
 import "./SupermarketHomepage.css";
 
 // Mock data (replace with API call)
@@ -65,7 +66,7 @@ const SupermarketHomepage = () => {
     <div className="supermarket-homepage">
       <HeroBanner
         title="Fresh Groceries, Delivered to Your Doorstep"
-        subtitle="Shop quality produce, meats, and pantry staples with ease."
+        subtitle="Shop quality produce, drinks, and household equipments with ease."
         ctaText="Shop Now"
         ctaLink="/products"
       />
