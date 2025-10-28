@@ -72,10 +72,10 @@ const benefits = [
 const supermarketBestsellers = [
   {
     id: 1,
-    name: "MCVITIES CHOCOLATE SHORTBREAD 200G",
-    price: "₦3,000.00",
+    name: "ARBUTIN WHITE SLEEPING MASK",
+    price: "₦3,250.00",
     image:
-      "https://renosuperstores.com.ng/wp-content/uploads/2025/02/2-Photoroom-1-3.jpg",
+      "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/41/0895814/1.jpg?4639",
   },
   {
     id: 2,
