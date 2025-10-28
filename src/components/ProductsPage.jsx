@@ -11,6 +11,7 @@ import CategoryName from "./CategoryName";
 import Toiletries from "./Toiletries";
 import BeveragesList from "./BeveragesLink";
 import CerealsList from "./CerealsLink";
+import KitchenUtensisList from "./KitchenUtensisList";
 
 const benefits = [
   "Fresh, organic produce delivered daily from local farms. ",
@@ -43,6 +44,9 @@ function ProductsPage() {
 
       <CategoryName>Toileteries</CategoryName>
       <Toiletries />
+
+      <CategoryName>Kitchen Utensis</CategoryName>
+      <KitchenUtensisList />
 
       <WhyChooseUs
         title="Why Choose Us?"

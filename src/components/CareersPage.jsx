@@ -33,7 +33,7 @@ const CareersPage = () => {
     <div className="careers-page">
       <BackBtn />
       <section className="careers-hero">
-        <div className="hero-content">
+        <div className="hero-content2">
           <h1>Join Our Team</h1>
           <p>
             Be a part of a dynamic and innovative team that is shaping the

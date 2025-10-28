@@ -1,4 +1,3 @@
-import React from "react";
 import "./Mission.css";
 
 const Mission = () => {
