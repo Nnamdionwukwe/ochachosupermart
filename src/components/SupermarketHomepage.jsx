@@ -33,27 +33,31 @@ const supermarketCategories = [
 const testimonials = [
   {
     text: "The delivery service is incredibly fast and the produce is always fresh. My family loves it and we'll never go back to our old way of shopping!",
-    author: "Alice Johnson",
+    author: "King Johnson",
     title: "Happy Customer",
-    image: "/images/alice.jpg", // Path to the image
+    image:
+      "https://thumbs.dreamstime.com/b/portrait-male-african-american-professional-possibly-business-executive-corporate-ceo-finance-attorney-lawyer-sales-stylish-155546880.jpg", // Path to the image
   },
   {
-    text: "Great selection and easy ordering process. The quality of their meat and seafood is top-notch. Highly recommended!",
-    author: "Robert Smith",
+    text: "Great selection and easy ordering process. The quality of their produce and experience is top-notch. Highly recommended!",
+    author: "KC Ugwu",
     title: "Online Shopper",
-    image: "/images/robert.jpg",
+    image:
+      "https://www.instacart.com/company/wp-content/uploads/2023/05/shopper-customer-1050x700.png",
   },
   {
     text: "I save so much time and the prices are very competitive. This is a game-changer for busy professionals like myself.",
-    author: "Maria Garcia",
+    author: "Maria Jame",
     title: "Busy Parent",
-    image: "/images/maria.jpg",
+    image:
+      "https://www.parentmap.com/sites/default/files/styles/1180x660_scaled_cropped/public/2017-03/iStock-516034730-big%20res.jpg?itok=YhU1vNUp",
   },
   {
     text: "Excellent customer service and a fantastic variety of organic options. This is my new favorite place to shop for groceries.",
-    author: "David Lee",
+    author: "David Bright",
     title: "Health Enthusiast",
-    image: "/images/david.jpg",
+    image:
+      "https://www.brgeneral.org/sites/default/files/hg_features/hg_post/66d5dc8f6af79ff92ca85f690753025d.jpg",
   },
 ];
 
