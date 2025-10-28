@@ -2,14 +2,14 @@ import ProductCard from "./ProductCard";
 import styles from "./ProductList.module.css";
 import { useProductFilter } from "../context/ProductFilterContext";
 
-const FoodCondiments = () => {
-  const { filteredFood, searchTerm } = useProductFilter();
+const Toiletries = () => {
+  const { filteredToiletries, searchTerm } = useProductFilter();
 
   return (
     <div className={styles.productgrid}>
-      {filteredFood.length > 0 ? (
+      {filteredToiletries.length > 0 ? (
         <>
-          {filteredFood.map((product) => (
+          {filteredToiletries.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
         </>
@@ -20,4 +20,4 @@ const FoodCondiments = () => {
   );
 };
 
-export default FoodCondiments;
+export default Toiletries;
