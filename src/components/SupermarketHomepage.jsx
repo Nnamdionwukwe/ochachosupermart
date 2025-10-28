@@ -5,6 +5,7 @@ import BestSellers from "../components/BestSellers";
 import Testimonials from "../components/Testimonials";
 // import PharmarcyHomepage from "./components/PharmarcyHomepage";
 import "./SupermarketHomepage.css";
+import Footer from "./Footer";
 
 // Mock data (replace with API call)
 const supermarketCategories = [
@@ -90,6 +91,7 @@ const SupermarketHomepage = () => {
       <FeaturedCategories categories={supermarketCategories} />
       <BestSellers products={supermarketBestsellers} title="Best Sellers" />
       <Testimonials testimonials={testimonials} />
+      <Footer />
     </div>
   );
 };
