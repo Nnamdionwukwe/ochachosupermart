@@ -3,9 +3,10 @@ import HeroBanner from "../components/HeroBanner";
 import FeaturedCategories from "../components/FeaturedCategories";
 import BestSellers from "../components/BestSellers";
 import Testimonials from "../components/Testimonials";
-// import PharmarcyHomepage from "./components/PharmarcyHomepage";
 import "./SupermarketHomepage.css";
 import Footer from "./Footer";
+import WhyChooseUs from "./WhyChooseUs";
+import supermarketImage from "../assets/dis3.jpeg"; // Path to your image
 
 // Mock data (replace with API call)
 const supermarketCategories = [
@@ -56,6 +57,14 @@ const testimonials = [
   },
 ];
 
+const benefits = [
+  "Fresh, organic produce delivered daily from local farms. ",
+  "Competitive pricing with daily deals and discounts.",
+  "Fast and reliable delivery service right to your doorstep.",
+  "Wide selection of products to meet all your household needs.",
+  "Easy-to-use mobile app for a seamless shopping experience.",
+];
+
 const supermarketBestsellers = [
   {
     id: 1,
@@ -91,6 +100,11 @@ const SupermarketHomepage = () => {
       <FeaturedCategories categories={supermarketCategories} />
       <BestSellers products={supermarketBestsellers} title="Best Sellers" />
       <Testimonials testimonials={testimonials} />
+      <WhyChooseUs
+        title="Why Choose Us?"
+        image={supermarketImage}
+        benefits={benefits}
+      />
       <Footer />
     </div>
   );
