@@ -12,6 +12,13 @@ import Toiletries from "./Toiletries";
 import BeveragesList from "./BeveragesLink";
 import CerealsList from "./CerealsLink";
 import KitchenUtensisList from "./KitchenUtensisList";
+import FoodCondiments from "./FoodCondimentsList";
+import Chocolate from "./Chocolate";
+import FrozenFoodLink from "./FrozenFoodLink";
+import WinesAndSpiritsLink from "./WinesAndSpiritsLink";
+import SoftDrinksLink from "./SoftDrinksLink";
+import ToysAndGamesLink from "./ToysAndGamesLink";
+import StationariesList from "./StationariesList";
 
 const benefits = [
   "Fresh, organic produce delivered daily from local farms. ",
@@ -47,6 +54,30 @@ function ProductsPage() {
 
       <CategoryName>Kitchen Utensis</CategoryName>
       <KitchenUtensisList />
+
+      <CategoryName>Food & Condiments</CategoryName>
+      <FoodCondiments />
+
+      <CategoryName>Chocolate</CategoryName>
+      <Chocolate />
+
+      <CategoryName>Cigars/Tobacco</CategoryName>
+      <KitchenUtensisList />
+
+      <CategoryName>Frozen Food</CategoryName>
+      <FrozenFoodLink />
+
+      <CategoryName>Wines & Spirits</CategoryName>
+      <WinesAndSpiritsLink />
+
+      <CategoryName>Soft drinks</CategoryName>
+      <SoftDrinksLink />
+
+      <CategoryName>Toys & Games</CategoryName>
+      <ToysAndGamesLink />
+
+      <CategoryName>Stationaries</CategoryName>
+      <StationariesList />
 
       <WhyChooseUs
         title="Why Choose Us?"

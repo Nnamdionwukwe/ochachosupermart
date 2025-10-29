@@ -1,15 +1,17 @@
+import React from "react";
 import ProductCard from "./ProductCard";
+// import { product } from "../data/products";
 import styles from "./ProductList.module.css";
 import { useProductFilter } from "../context/ProductFilterContext";
 
-const WinesAndSpiritsLink = () => {
-  const { filteredToiletries, searchTerm } = useProductFilter();
+const StationariesList = () => {
+  const { filteredCosmetics, searchTerm } = useProductFilter();
 
   return (
     <div className={styles.productgrid}>
-      {filteredToiletries.length > 0 ? (
+      {filteredCosmetics.length > 0 ? (
         <>
-          {filteredToiletries.map((product) => (
+          {filteredCosmetics.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
         </>
@@ -20,4 +22,4 @@ const WinesAndSpiritsLink = () => {
   );
 };
 
-export default WinesAndSpiritsLink;
+export default StationariesList;
