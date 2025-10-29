@@ -99,7 +99,7 @@ export const ProductFilterProvider = ({ children }) => {
   }, [filteredProducts]);
 
   const filteredFrozenFoods = useMemo(() => {
-    return filteredProducts.filter((product) => product.type === "food");
+    return filteredProducts.filter((product) => product.type === "frozenfood");
   }, [filteredProducts]);
 
   const filteredWinesSpirits = useMemo(() => {
