@@ -89,8 +89,11 @@ const Contact = () => {
             <p>ochachopharmacy&supermarket@gmail.com</p>
           </div>
           <div className="info-item">
-            <strong>Phone:</strong>
-            <p>+234 000 000 0000</p>
+            <strong>Pharmacy Customer Care Line:</strong>
+            <p>+234 903 382 2884</p>
+
+            <strong>Supermarket Customer Care Line:</strong>
+            <p>+234 701 697 9474</p>
           </div>
           <div className="info-item">
             <strong>Address:</strong>
