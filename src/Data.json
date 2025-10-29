@@ -15352,13 +15352,619 @@
     {
       "name": "RICH IN CALCIUM & MILK SODA CRACKER 248G",
       "price": 2800,
-      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmex549_feng_wei_yuan_milk_soda_cracker_248_g.jpg?v=1688693676",
+      "imageUrl": "https://image.made-in-china.com/2f0j00dmrWaoMUCGgj/100g-Sugar-Free-Rich-in-Calcium-Soda-Biscuit-Soda-Cracker.webp",
       "description": ""
     },
     {
       "name": "RICH IN CALCIUM & MILK SODA CRACKER 100G",
       "price": 1370,
       "imageUrl": "https://image.made-in-china.com/2f0j00dmrWaoMUCGgj/100g-Sugar-Free-Rich-in-Calcium-Soda-Biscuit-Soda-Cracker.webp",
+      "description": ""
+    },
+    {
+      "name": "MINI OREO",
+      "price": 360,
+      "imageUrl": "https://i5.walmartimages.com/seo/OREO-Mini-Chocolate-Sandwich-Cookies-Baked-Snak-Saks-8-oz-Shelf-Stable-Plastic-Pouch_c5fd393d-927a-4346-8ea9-906ddb56a6d9.5ccfd56657f6086c1ce5fb5f3a162921.jpeg",
+      "description": ""
+    },
+    {
+      "name": "MUNCHKINS",
+      "price": 500,
+      "imageUrl": "https://www.dunkindonuts.com/content/dam/dd/img/menu-redesign/donuts/5Munchkins_570x570.png",
+      "description": ""
+    },
+    {
+      "name": "MALT & MILK",
+      "price": 250,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spar0346_hollandia_malt___milk_drink_250_ml.jpg?v=1689066953",
+      "description": ""
+    },
+    {
+      "name": "DELISSO BISCUITS-HAZELNUT DEEP TASTE",
+      "price": 550,
+      "imageUrl": "https://yesmin.ng/wp-content/uploads/2023/11/Delisso-40-gr-findik-01-scaled-1.jpg",
+      "description": ""
+    },
+    {
+      "name": "OXFORD BUTTER COOKIES",
+      "price": 50,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spwiow401.jpg?v=1688716619",
+      "description": ""
+    },
+    {
+      "name": "JO-JO MEATY CHUNKS IN GRAVY WITH BEEF& VEGETABLES 400G",
+      "price": 2800,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spppdg2847.jpg?v=1689089337",
+      "description": ""
+    },
+    {
+      "name": "GINO TOMATO 2200GMS",
+      "price": 8700,
+      "imageUrl": "https://www.foodlocker.com.ng/public/product/Gino%20Tin%20400g.png",
+      "description": ""
+    },
+    {
+      "name": "GINO TOMATO 400G",
+      "price": 1750,
+      "imageUrl": "https://shoponclick.ng/storage/2020/08/Gino-Tin-Tomato-Mix-400g.png",
+      "description": ""
+    },
+    {
+      "name": "JAGO LOW FAT MAYONNAISE 443ML",
+      "price": 2000,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/dbk2903.jpg?v=1689125924",
+      "description": ""
+    },
+    {
+      "name": "GINO TOMATO MIX 210G",
+      "price": 1100,
+      "imageUrl": "https://addasmallng.com/wp-content/uploads/2024/11/GINO-TOMATO-MIX-TIN-210G.jpeg",
+      "description": ""
+    },
+    {
+      "name": "BLUE PEARL STRAWBERRY JAM",
+      "price": 3050,
+      "imageUrl": "https://yesmin.ng/wp-content/uploads/2023/11/blue-pearl-jam-450g.jpg",
+      "description": ""
+    },
+    {
+      "name": "HONEYWELL WHOLE WHEAT MEAL 1KG",
+      "price": 2000,
+      "imageUrl": "https://shoponclick.ng/storage/2020/06/honeywell-whole-wheat-meal-1kg.jpg",
+      "description": ""
+    },
+    {
+      "name": "DE RICH BAKING POWDER 454G",
+      "price": 3050,
+      "imageUrl": "https://24hoursmarket.com/wp-content/uploads/2023/11/1701030149168.jpg.webp",
+      "description": ""
+    },
+    {
+      "name": "WHIPPY REAL MAYONNAISE 910G",
+      "price": 3437,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/dbk2908.jpg?v=1689126026",
+      "description": ""
+    },
+    {
+      "name": "CORNED BEEF EXETER 200G",
+      "price": 3250,
+      "imageUrl": "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2FExeter%20Corned%20Beef%20(200g)-1719096351089.jpg&w=3840&q=75",
+      "description": ""
+    },
+    {
+      "name": "LATYF WHITE VINEGAR 750ML",
+      "price": 650,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/06/6651583/1.jpg?6546",
+      "description": ""
+    },
+    {
+      "name": "KINGS OIL 2 L",
+      "price": 10650,
+      "imageUrl": "https://pp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com/image-1719349884221.webp",
+      "description": ""
+    },
+    {
+      "name": "LAL QUILLA BASMATI RICE 5KG",
+      "price": 28300,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/09/oyghgh.jpg?fit=520%2C520&ssl=1",
+      "description": ""
+    },
+    {
+      "name": "MAHARANA PARBOILED BASMATI RICE 5KG",
+      "price": 25100,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/1490030953205_sparxyz2335_maharana_parboiled_basmati_rice_5_kg.jpg?v=1689101828",
+      "description": ""
+    },
+    {
+      "name": "KENT TRIX",
+      "price": 1400,
+      "imageUrl": "https://cocktails.ng/wp-content/uploads/2025/06/Kent-Boringer-Trix-Cocktail-Instant-Drink.jpg",
+      "description": ""
+    },
+    {
+      "name": "MILLVILLE ORIGINAL SYRUP",
+      "price": 7042,
+      "imageUrl": "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2FMillville%20Original%20Syrup(1%20Piece)-1718989144294.jpg&w=3840&q=75",
+      "description": ""
+    },
+    {
+      "name": "JOHN WEST TUNA CHUNKS",
+      "price": 3000,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/1518617331153_sprsi326_john_west_tuna_chunks_in_sunflower_oil_160_g.jpg?v=1688731036",
+      "description": ""
+    },
+    {
+      "name": "KTC COCONUT MILK 400ML",
+      "price": 2655,
+      "imageUrl": "https://shoponclick.ng/storage/2022/12/20221208_172640_0000-300x300.png",
+      "description": ""
+    },
+    {
+      "name": "REEL FRUIT & NUT MIX",
+      "price": 15100,
+      "imageUrl": "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2FReelfruit%20Fruit%20and%20Nut%20Mix%20100g%20F-1718648843452.jpg&w=3840&q=75",
+      "description": ""
+    },
+    {
+      "name": "COSTA MEDITERRANEAN SEA SALT",
+      "price": 4485,
+      "imageUrl": "https://shoponclick.ng/storage/2023/10/Mediterranean-Sea-Salt.jpg",
+      "description": ""
+    },
+    {
+      "name": "HUNGRY JACK BUTTERMILK PANCAKE & WAFFLE MIX",
+      "price": 8017,
+      "imageUrl": "https://www.hungryjack.com/wp-content/uploads/2024/01/HJ-Buttermilk32oz-Jan2024.png",
+      "description": ""
+    },
+    {
+      "name": "HP BBQ SAUCE CLASSIC",
+      "price": 8857,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/dbk2891.jpg?v=1689126147",
+      "description": ""
+    },
+    {
+      "name": "NATURAL BROWN BASMATI RICE 2kg",
+      "price": 12000,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2025/04/1655414199013-1024x1024-1.jpg?fit=1024%2C1024&ssl=1",
+      "description": ""
+    },
+    {
+      "name": "HP BBQ SAUCE",
+      "price": 8857,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/dbk2891.jpg?v=1689126147",
+      "description": ""
+    },
+    {
+      "name": "MRS ALEX BARBECUE SAUCE 560G",
+      "price": 4333,
+      "imageUrl": "https://shoponclick.ng/storage/2021/11/WhatsApp-Image-2021-11-19-at-6.24.36-PM-1.jpeg",
+      "description": ""
+    },
+    {
+      "name": "CANADIAN PRIDE ADULT WET DOG FOOD PATE WITH CHICKEN",
+      "price": 4000,
+      "imageUrl": "https://shoptohouse.com/wp-content/uploads/2024/02/canadian-pride-adult-dog-food.png",
+      "description": ""
+    },
+    {
+      "name": "ANADIAN PRIDE ADULT WET DOG FOOD WITH CHICKEN CHUNKS IN GRAVY",
+      "price": 4000,
+      "imageUrl": "https://vanguardpharmacy.com/wp-content/uploads/2022/12/london-pride-adult-can-food.jpg",
+      "description": ""
+    },
+    {
+      "name": "CANADIAN PRIDE PUPPY WET FOOD PATE WITH CHICKEN & BEEF CHUNKS IN GRAVY",
+      "price": 4000,
+      "imageUrl": "https://shoptohouse.com/wp-content/uploads/2024/02/canadian-pride-puppy-dog-food.png",
+      "description": ""
+    },
+    {
+      "name": "CANADIAN PRIDE ADULT WET DOG FOOD PATE WITH BEEF",
+      "price": 4000,
+      "imageUrl": "https://www.kroger.com/product/images/xlarge/front/0001111090501",
+      "description": ""
+    },
+    {
+      "name": "CANADIAN PRIDE ADULT WET DOG FOOD WITH BEEF CHUNKS IN GRAVY",
+      "price": 4000,
+      "imageUrl": "https://shoptohouse.com/wp-content/uploads/2024/02/canadian-pride-adult-dog-food.png",
+      "description": ""
+    },
+    {
+      "name": "CANADIAN PRIDE PUPPY WET FOOD PATE WITH CHICKEN, BEEF & LAMB",
+      "price": 4000,
+      "imageUrl": "https://shoptohouse.com/wp-content/uploads/2024/02/canadian-pride-puppy-dog-food.png",
+      "description": ""
+    },
+    {
+      "name": "CANADIAN PRIDE DRY PUPPY FOOD TASTY BEEF MIX 5KG",
+      "price": 46000,
+      "imageUrl": "https://shoptohouse.com/wp-content/uploads/2024/02/canadian-pride-puppy-dog-food.png",
+      "description": ""
+    },
+    {
+      "name": "PRINGLES TEXAS BBQ SAUCE 40G",
+      "price": 2000,
+      "imageUrl": "https://images.kglobalservices.com/www.pringles.com.uk/en_gb/product/product_6604916/prod_img-6605476_05053990107278_a1n.png",
+      "description": ""
+    },
+    {
+      "name": "PIGEON GEISHA 155G",
+      "price": 1250,
+      "imageUrl": "https://fromatoz.com.ng/wp-content/uploads/2024/03/WhatsApp-Image-2024-07-15-at-1.27.49-PM.jpeg",
+      "description": ""
+    },
+    {
+      "name": "GOLDEN PENNY SPREAD 250g",
+      "price": 1250,
+      "imageUrl": "https://chamuze.com/wp-content/uploads/2024/11/Spread-250g.jpg",
+      "description": ""
+    },
+    {
+      "name": "CHECKERS CUSTARD 3 IN 1 (1.5Kg)",
+      "price": 9550,
+      "imageUrl": "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2FCheckers%20Custard%20Powder%20-%203%20in%201%20(1.5%20kg)-1719218147080.webp&w=3840&q=75",
+      "description": ""
+    },
+    {
+      "name": "BLUE BAND 250g",
+      "price": 2200,
+      "imageUrl": "https://shoponclick.ng/storage/2020/06/Blue-Band-Original-250g.png",
+      "description": ""
+    },
+    {
+      "name": "AGBO WHITE GARRI 1KG",
+      "price": 1400,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0sXGKeGs4dunyE0n9W21UqTUxdhn-NGmtQ&s",
+      "description": ""
+    },
+    {
+      "name": "AGBO WHITE GARRI 2KG",
+      "price": 2600,
+      "imageUrl": "https://store.tdreamsgroup.com/wp-content/uploads/2025/01/White-Corn.jpg",
+      "description": ""
+    },
+    {
+      "name": "AGBO YELLOW GARRI 1KG",
+      "price": 1600,
+      "imageUrl": "https://filta.ng/wp-content/uploads/2021/04/200.jpg",
+      "description": ""
+    },
+    {
+      "name": "MAMADOR PURE VEGETABLE OIL 900ML",
+      "price": 4500,
+      "imageUrl": "https://shoponclick.ng/storage/2020/08/MAMADOR-900ML.jpg",
+      "description": ""
+    },
+    {
+      "name": "MAMADOR PURE VEGETABLE OIL 1.5LTR",
+      "price": 8000,
+      "imageUrl": "https://shop.nownowgo.net/public/uploads/all/nRpDJoOwCNsKsp7Mjhu9Vc52QoJOYR6LPSCawnJi.jpg",
+      "description": ""
+    },
+    {
+      "name": "MAMADOR PURE VEGETABLE OIL 3.5LTR",
+      "price": 19000,
+      "imageUrl": "https://247foods.ng/wp-content/uploads/2025/03/Mamador-Vegetable-Oil-3.5Ltr.jpg",
+      "description": ""
+    },
+    {
+      "name": "DEVON KING'S SOYA OIL 1000ML",
+      "price": 4300,
+      "imageUrl": "https://chamuze.com/wp-content/uploads/2025/03/Devon-Kings-1000ml.jpg",
+      "description": ""
+    },
+    {
+      "name": "DEVON KING'S PURE VEGETABLE OIL 1000ML",
+      "price": 4500,
+      "imageUrl": "https://chamuze.com/wp-content/uploads/2025/03/Devon-Kings-1000ml.jpg",
+      "description": ""
+    },
+    {
+      "name": "DEVON KING'S SOYA OIL 5LTR",
+      "price": 21000,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl3567_0a65b261-17f9-431e-b927-52535f3a4ca0.jpg?v=1756132322",
+      "description": ""
+    },
+    {
+      "name": "SUNOLA SOYA OIL 1LTR",
+      "price": 5500,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmex2768.jpg?v=1689114267",
+      "description": ""
+    },
+    {
+      "name": "SUNOLA SOYA OIL 1.9LTR",
+      "price": 10335,
+      "imageUrl": "https://mysasun.com/cdn/shop/files/sunola-soya-oil-19l-163806_grande.jpg?v=1751323329",
+      "description": ""
+    },
+    {
+      "name": "SUNOLA SOYA OIL 2.7LTR",
+      "price": 14365,
+      "imageUrl": "https://enistoresonline.com/wp-content/uploads/2021/08/Sunola-Soya-Oil-3ltr.png",
+      "description": ""
+    },
+    {
+      "name": "CEST BON MAYONNAISE",
+      "price": 2318,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6E5RDivBbsXLrAliLiFWYdatbICDxAJ0XH6CosOH7HdZ1Ra3wyplBIFKC20PKG_x3iVw&usqp=CAU",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL STRAWBERRY AND BANANA",
+      "price": 6320,
+      "imageUrl": "https://mastermacfood.com/wp-content/uploads/2022/12/PASCUAL-STRAWBERRY-BANANA-YOGURT-125G.jpg",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL PLAIN NATURAL 480G",
+      "price": 7815,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl2050_dacb17eb-e214-4240-87c8-50a2e503e837.jpg?v=1756130683",
+      "description": ""
+    },
+    {
+      "name": "CHAMPION 3 IN 1 CUSTARD POWDER 1.5KG",
+      "price": 6650,
+      "imageUrl": "https://waziri.ng/wp-content/uploads/2023/12/IMG-20230306-WA0018.jpg",
+      "description": ""
+    },
+    {
+      "name": "JO-JO PRO NATURE BEEF CAN 400G",
+      "price": 4150,
+      "imageUrl": "https://www.jojopetfood.com/cdn/shop/files/JOJONATUREBEEF.png?v=1707714082&width=1445",
+      "description": ""
+    },
+    {
+      "name": "JO-JO PRO NATURE CHICKEN CAN 400G",
+      "price": 4150,
+      "imageUrl": "https://www.jojopetfood.com/cdn/shop/files/JOJONATURECHICKEN.png?v=1707714095&width=1445",
+      "description": ""
+    },
+    {
+      "name": "JO-JO PRO PUPPY 3KG",
+      "price": 34170,
+      "imageUrl": "https://exoticpetcafe.com/cdn/shop/files/PROPuppyPRO3kg_860f119d-2bc3-4455-97d6-ff7763c437e2.webp?v=1706454724",
+      "description": ""
+    },
+    {
+      "name": "FOAM SPONGE SMALL",
+      "price": 200,
+      "imageUrl": "https://shoponclick.ng/storage/2020/07/FOAM-SPONGE-S-S.png",
+      "description": ""
+    },
+    {
+      "name": "GEURTS STRAWBERRY JAM 450G",
+      "price": 4900,
+      "imageUrl": "https://melcom.com/media/catalog/product/cache/d0e1b0d5c74d14bfa9f7dd43ec52d082/7/6/76020_1b.jpg",
+      "description": ""
+    },
+    {
+      "name": "NUTELLA 750G",
+      "price": 14700,
+      "imageUrl": "https://megacare.ng/media/image/dsjkhssd_800x_1ELwse1.webp",
+      "description": ""
+    },
+    {
+      "name": "AMERICAN GREEN HONEY 500G",
+      "price": 4350,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl1912_6164be06-78f3-4226-8b08-5d3e9cdab8ae.jpg?v=1756131572",
+      "description": ""
+    },
+    {
+      "name": "PORRIDGE OATS 1KG",
+      "price": 5700,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/05/51L1Y7A4vwL._AC_-1.jpg",
+      "description": ""
+    },
+    {
+      "name": "MANGROVE GREEN PEAS IN BRINE 300G",
+      "price": 1600,
+      "imageUrl": "https://image.made-in-china.com/365f3j00hoJiLWlkkKqb/Nigeria-Market-300g-565g-Farrow-Canned-Green-Peas.webp",
+      "description": ""
+    },
+    {
+      "name": "MANGROVE GREEN PEAS IN BRINE 538G",
+      "price": 2000,
+      "imageUrl": "https://image.made-in-china.com/365f3j00hoJiLWlkkKqb/Nigeria-Market-300g-565g-Farrow-Canned-Green-Peas.webp",
+      "description": ""
+    },
+    {
+      "name": "WONDER TURMERIC POWDER SATCHET 100G",
+      "price": 750,
+      "imageUrl": "https://m.media-amazon.com/images/I/61Cuuw-S5sL._AC_UF894,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "name": "FRESH GARLIC",
+      "price": 400,
+      "imageUrl": "https://i5.walmartimages.com/seo/Garlic-Bulb-Fresh-Whole-Each_a4f114d9-93ab-4d39-a8d6-9170536f57a9.f9f8e58c8e3e74894050c7c2267437e3.jpeg",
+      "description": ""
+    },
+    {
+      "name": "FRESH GINGER",
+      "price": 550,
+      "imageUrl": "https://shoponclick.ng/storage/2020/10/New-Project-4.png",
+      "description": ""
+    },
+    {
+      "name": "GRIND PEPPER (CAMERON)",
+      "price": 100,
+      "imageUrl": "https://heritagefoodinternational.com/wp-content/uploads/2025/01/Cameroon-Pepper-1-265x331.png",
+      "description": ""
+    },
+    {
+      "name": "GRIND PEPPER (NIGERIAN",
+      "price": 100,
+      "imageUrl": "https://www.foodlocker.com.ng/public/product/nmSjHkpz290cItKR1GRqzEIh6XBeeO7s.png",
+      "description": ""
+    },
+    {
+      "name": "AMA WONDA HERBS & SPICES CINNAMON 100G",
+      "price": 750,
+      "imageUrl": "https://amawonda.com/wp-content/uploads/2024/05/Cinnamon_Spice.png",
+      "description": ""
+    },
+    {
+      "name": "AMA WONDA CURRY SPICE 50G",
+      "price": 70,
+      "imageUrl": "https://waziri.ng/wp-content/uploads/2023/12/Ama-Wonda-Curry-100g-x-60-sachets.jpg",
+      "description": ""
+    },
+    {
+      "name": "MA WONDA THYME LEAVES 50G",
+      "price": 400,
+      "imageUrl": "https://sundryagro.com/wp-content/uploads/2025/10/Ama20Wonda20Thyme20Leaves2050g-1717771665580.jpg",
+      "description": ""
+    },
+    {
+      "name": "AMA WONDA CURRY SPICE 100G",
+      "price": 400,
+      "imageUrl": "https://funmistores-public.s3.eu-north-1.amazonaws.com/products/thumb_Mgnbu7a3PApvNRR.jpg",
+      "description": ""
+    },
+    {
+      "name": "AMA WONDA FRIED RICE POWDER BTL 140G",
+      "price": 1800,
+      "imageUrl": "https://waziri.ng/wp-content/uploads/2023/12/Ama-Wonda-Fried-Rice-Spice-140g-Bottle.jpeg",
+      "description": ""
+    },
+    {
+      "name": "AMA WONDA JOLLOF RICE POWDER BTL 140G",
+      "price": 2150,
+      "imageUrl": "https://waziri.ng/wp-content/uploads/2024/06/Ama-Wonda-Jollof-Rice-Spice-100g-x-60-pieces-1.jpg",
+      "description": ""
+    },
+    {
+      "name": "AMA WONDA TURMERIC POWDER BTL 140G",
+      "price": 1800,
+      "imageUrl": "https://amawonda.com/wp-content/uploads/2024/05/Turmeric_Spice_30.png",
+      "description": ""
+    },
+    {
+      "name": "HEINZ KETCHUP 300G",
+      "price": 2600,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsjM59t8G8jgOgvZv0uhPqBcQSR1C1HFPPrg&s",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL MACEDONIA / FRUIT SALAD",
+      "price": 6800,
+      "imageUrl": "https://surefood.com.cy/wp-content/uploads/2023/11/11.-Yogikids-Fruit-Salad-600x600.png",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL BANANA",
+      "price": 6400,
+      "imageUrl": "https://minimegh.com/cdn/shop/files/PASCUAL-YOGHURT-BANANA-125G.jpg?v=1704791816",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL YOGIKIDS",
+      "price": 7000,
+      "imageUrl": "https://surefood.com.cy/wp-content/uploads/2020/12/PYSB80-Yogikids-Strawberry-_-Banana-80g-min.png",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL YOGIKIDS",
+      "price": 7000,
+      "imageUrl": "https://surefood.com.cy/wp-content/uploads/2020/12/PYSB80-Yogikids-Strawberry-_-Banana-80g-min.png",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL GREEK",
+      "price": 6800,
+      "imageUrl": "https://d19oj5aeuefgv.cloudfront.net/0215889",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL GREEK",
+      "price": 7900,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYNDOLGY8RIEW7-f64udRxN6cPdydU2RdohA&s",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL CREAMY YOGHURT WITH APRICOT AND MANGO",
+      "price": 7900,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV1zM4rYzSVWf2re32YReQqqWkFQAD_GOEfw&s",
+      "description": ""
+    },
+    {
+      "name": "JO-JO PUPPY WITH FISH",
+      "price": 2900,
+      "imageUrl": "https://www.jojopetfood.com/cdn/shop/files/JOJOPUPPYFISH.png?v=1707713914&width=1445",
+      "description": ""
+    },
+    {
+      "name": "JO-JO PUPPY WITH BEEF",
+      "price": 2900,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl2251_7da56e15-fb82-4997-a3da-1309b5727aeb.jpg?v=1756131028",
+      "description": ""
+    },
+    {
+      "name": "ONIONS SMALL PCS",
+      "price": 250,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/1487170910144_oniru114_onions_small_4-5_pieces.jpg?v=1689133775",
+      "description": ""
+    },
+    {
+      "name": "CHAMPS CASHEW NUTS",
+      "price": 3500,
+      "imageUrl": "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2FChampions-1740176220938.jpg&w=3840&q=75",
+      "description": ""
+    },
+    {
+      "name": "AMOY PREMIUM OYSTER SAUCE 710g",
+      "price": 4900,
+      "imageUrl": "https://shoponclick.ng/storage/2021/07/0001-4266603167_20210713_202103_0000.png",
+      "description": ""
+    },
+    {
+      "name": "SUNRIPE WHOLE SWEETCORN 340g",
+      "price": 2000,
+      "imageUrl": "https://shoponclick.ng/storage/2020/08/SUNRIPE-WHOLE-SWEETCORN.jpg",
+      "description": ""
+    },
+    {
+      "name": "BARILLA CLASSIC SPAGHETTI 500G",
+      "price": 3900,
+      "imageUrl": "https://primegrocers.ng/wp-content/uploads/2025/01/Barilla-Pasta-Spaghetti-500g.png",
+      "description": ""
+    },
+    {
+      "name": "PRINCES CORNED BEEF",
+      "price": 2700,
+      "imageUrl": "https://soritesuperstore.com.ng/wp-content/uploads/2023/12/princess-corned-beef-340g.jpg",
+      "description": ""
+    },
+    {
+      "name": "MJ'S HONEY 500G",
+      "price": 6000,
+      "imageUrl": "https://shoponclick.ng/storage/2023/04/20230417_135804_0000.png",
+      "description": ""
+    },
+    {
+      "name": "SUNRIPE WHITE PRAWN CRACKERS",
+      "price": 1500,
+      "imageUrl": "https://renosuperstores.com.ng/wp-content/uploads/2025/01/IMG_20250116_102227@392861598-Photoroom.jpg",
+      "description": ""
+    },
+    {
+      "name": "NATURE CHOICE ZARTECH GOLDEN CHICKEN",
+      "price": 9200,
+      "imageUrl": "https://oldenglishsuperstores.com/image/cache/catalog/REGULAR%20ZARTECH%201299g-500x500.jpg",
+      "description": ""
+    },
+    {
+      "name": "CHICKEN BURGER",
+      "price": 4000,
+      "imageUrl": "https://images.food52.com/9Wxm0Gnwir417LUgnY71M0lsV8I=/4389b1f0-e753-45d2-bf5f-c582ff4b1ab7--23babc90-c2f5-11ed-b690-19a95b5a1898-SOUTHERNZING_variant_0-2023-03-15054924.jpg",
+      "description": ""
+    },
+    {
+      "name": "GARRI",
+      "price": 1700,
+      "imageUrl": "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2FGarri%20-%20White%20Big%20Bowl%20cropped-1725024972240.jpg&w=3840&q=75",
       "description": ""
     }
   ]
