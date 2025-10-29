@@ -2,7 +2,7 @@ import ProductCard from "./ProductCard";
 import styles from "./ProductList.module.css";
 import { useProductFilter } from "../context/ProductFilterContext";
 
-const Toiletries = () => {
+const Chocolate = () => {
   const { filteredToiletries, searchTerm } = useProductFilter();
 
   return (
@@ -20,4 +20,4 @@ const Toiletries = () => {
   );
 };
 
-export default Toiletries;
+export default Chocolate;

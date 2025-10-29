@@ -3,10 +3,9 @@ import Header from "./Header";
 import ImageSlider from "./ImageSlider";
 import Layout from "./Layout";
 import WhyChooseUs from "./WhyChooseUs";
-
 import supermarketImage from "../assets/dis3.jpeg";
 import CategoryName from "./CategoryName";
-import CosmeticsList from "./CosmeticsList";
+import CigarsLink from "./CigarsLink";
 
 const benefits = [
   "Fresh, organic produce delivered daily from local farms. ",
@@ -16,7 +15,7 @@ const benefits = [
   "Easy-to-use mobile app for a seamless shopping experience.",
 ];
 
-function CosmeticsPage() {
+function SoftDrinksPage() {
   return (
     <div>
       <Header />
@@ -25,9 +24,9 @@ function CosmeticsPage() {
 
       <CategoryNavLinkSlider />
 
-      <CategoryName>Cosmetics</CategoryName>
+      <CategoryName>Soft Drinks</CategoryName>
 
-      <CosmeticsList />
+      <CigarsLink />
 
       <WhyChooseUs
         title="Why Choose Us?"
@@ -40,4 +39,4 @@ function CosmeticsPage() {
   );
 }
 
-export default CosmeticsPage;
+export default SoftDrinksPage;

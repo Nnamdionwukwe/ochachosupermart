@@ -18,6 +18,13 @@ import CerealsPage from "./components/CerealsPage";
 import KitchenUtensisPage from "./components/KitchenUtensisPage";
 import FoodCondimentsPage from "./components/FoodCondimentsPage";
 import SupermarketHomepage from "./components/SupermarketHomepage";
+import ChocolatePage from "./components/ChocolatePage";
+import CigarsPage from "./components/CigarsPage";
+import FrozenFoodPage from "./components/FrozenFoodPage";
+import WinesAndSpiritsPage from "./components/WinesAndSpiritsPage";
+import SoftDrinksPage from "./components/SoftDrinksPage";
+import ToysAndGamesPage from "./components/ToysAndGamesPage";
+import StationariesPage from "./components/StationariesPage";
 
 function App() {
   return (
@@ -44,6 +51,20 @@ function App() {
               path="/products/foodcondiments"
               element={<FoodCondimentsPage />}
             />
+            <Route path="/products/chocolate" element={<ChocolatePage />} />
+            <Route path="/products/cigars" element={<CigarsPage />} />
+            <Route path="/products/frozenfood" element={<FrozenFoodPage />} />
+            <Route
+              path="/products/winesspirits"
+              element={<WinesAndSpiritsPage />}
+            />
+            <Route path="/products/softdrinks" element={<SoftDrinksPage />} />
+            <Route path="/products/toysgames" element={<ToysAndGamesPage />} />
+            <Route
+              path="/products/stationaries"
+              element={<StationariesPage />}
+            />
+
             <Route path="/cart" element={<Cart />} />
             <Route path="/cart/checkout" element={<Checkout />} />
             <Route path="/About" element={<About />} />
