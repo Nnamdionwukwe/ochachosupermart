@@ -87,7 +87,7 @@ export const ProductFilterProvider = ({ children }) => {
   }, [filteredProducts]);
 
   const filteredFood = useMemo(() => {
-    return filteredProducts.filter((product) => product.type === "frozenfood");
+    return filteredProducts.filter((product) => product.type === "food");
   }, [filteredProducts]);
 
   const filteredChocolates = useMemo(() => {
