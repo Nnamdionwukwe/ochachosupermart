@@ -87,7 +87,7 @@ export const ProductFilterProvider = ({ children }) => {
   }, [filteredProducts]);
 
   const filteredFood = useMemo(() => {
-    return filteredProducts.filter((product) => product.type === "food");
+    return filteredProducts.filter((product) => product.type === "frozenfood");
   }, [filteredProducts]);
 
   const filteredChocolates = useMemo(() => {
@@ -95,27 +95,29 @@ export const ProductFilterProvider = ({ children }) => {
   }, [filteredProducts]);
 
   const filteredCigars = useMemo(() => {
-    return filteredProducts.filter((product) => product.type === "chocolates");
+    return filteredProducts.filter((product) => product.type === "cigars");
   }, [filteredProducts]);
 
   const filteredFrozenFoods = useMemo(() => {
-    return filteredProducts.filter((product) => product.type === "chocolates");
+    return filteredProducts.filter((product) => product.type === "food");
   }, [filteredProducts]);
 
   const filteredWinesSpirits = useMemo(() => {
-    return filteredProducts.filter((product) => product.type === "chocolates");
+    return filteredProducts.filter((product) => product.type === "winespirits");
   }, [filteredProducts]);
 
   const filteredSoftDrinks = useMemo(() => {
-    return filteredProducts.filter((product) => product.type === "chocolates");
+    return filteredProducts.filter((product) => product.type === "softdrinks");
   }, [filteredProducts]);
 
   const filteredToys = useMemo(() => {
-    return filteredProducts.filter((product) => product.type === "chocolates");
+    return filteredProducts.filter((product) => product.type === "toys");
   }, [filteredProducts]);
 
   const filteredStationaries = useMemo(() => {
-    return filteredProducts.filter((product) => product.type === "chocolates");
+    return filteredProducts.filter(
+      (product) => product.type === "stationaries"
+    );
   }, [filteredProducts]);
 
   return (
