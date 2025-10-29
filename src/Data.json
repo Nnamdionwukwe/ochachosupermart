@@ -15966,6 +15966,24 @@
       "price": 1700,
       "imageUrl": "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2FGarri%20-%20White%20Big%20Bowl%20cropped-1725024972240.jpg&w=3840&q=75",
       "description": ""
+    },
+    {
+      "name": "BEANS",
+      "price": 4400,
+      "imageUrl": "https://media.istockphoto.com/id/176805172/photo/pail-of-black-eyed-peas.jpg?s=612x612&w=0&k=20&c=WpKMP9kEuDoVLax5Te4iZg_hrgvE-2P0fPytAvV9Mbo=",
+      "description": ""
+    },
+    {
+      "name": "PRINGLES ORIGINAL 37g",
+      "price": 1750,
+      "imageUrl": "https://shalomstores.com/wp-content/uploads/2022/08/images-31.jpeg",
+      "description": ""
+    },
+    {
+      "name": "HEINZ KETCHUP 1.25KG",
+      "price": 9150,
+      "imageUrl": "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2Fimage-1719090762259.webp&w=3840&q=75",
+      "description": ""
     }
   ]
 }
