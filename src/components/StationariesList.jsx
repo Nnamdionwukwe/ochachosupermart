@@ -5,13 +5,13 @@ import styles from "./ProductList.module.css";
 import { useProductFilter } from "../context/ProductFilterContext";
 
 const StationariesList = () => {
-  const { filteredCosmetics, searchTerm } = useProductFilter();
+  const { filteredStationaries, searchTerm } = useProductFilter();
 
   return (
     <div className={styles.productgrid}>
-      {filteredCosmetics.length > 0 ? (
+      {filteredStationaries.length > 0 ? (
         <>
-          {filteredCosmetics.map((product) => (
+          {filteredStationaries.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
         </>

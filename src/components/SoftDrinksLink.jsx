@@ -3,13 +3,13 @@ import styles from "./ProductList.module.css";
 import { useProductFilter } from "../context/ProductFilterContext";
 
 const SoftDrinksLink = () => {
-  const { filteredToiletries, searchTerm } = useProductFilter();
+  const { filteredSoftDrinks, searchTerm } = useProductFilter();
 
   return (
     <div className={styles.productgrid}>
-      {filteredToiletries.length > 0 ? (
+      {filteredSoftDrinks.length > 0 ? (
         <>
-          {filteredToiletries.map((product) => (
+          {filteredSoftDrinks.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
         </>
