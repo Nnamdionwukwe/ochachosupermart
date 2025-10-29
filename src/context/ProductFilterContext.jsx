@@ -5,8 +5,22 @@ const ProductFilterContext = createContext();
 
 // Helper to combine nested data from the JSON file
 const getCombinedProducts = () => {
-  const { cosmetics, pharmacy, toiletries, household, cereals, kitchen, food } =
-    Data;
+  const {
+    cosmetics,
+    pharmacy,
+    toiletries,
+    household,
+    cereals,
+    kitchen,
+    food,
+    chocolates,
+    cigars,
+    frozenfood,
+    winespirits,
+    softdrinks,
+    toys,
+    stationaries,
+  } = Data;
 
   return [
     ...cosmetics.map((c) => ({ ...c, type: "cosmetics" })),
@@ -22,6 +36,13 @@ const getCombinedProducts = () => {
     ...kitchen.map((p) => ({ ...p, type: "kitchen" })),
     ...cereals.map((p) => ({ ...p, type: "cereals" })),
     ...food.map((p) => ({ ...p, type: "food" })),
+    ...chocolates.map((p) => ({ ...p, type: "chocolates" })),
+    ...cigars.map((p) => ({ ...p, type: "cigars" })),
+    ...frozenfood.map((p) => ({ ...p, type: "frozenfood" })),
+    ...winespirits.map((p) => ({ ...p, type: "winespirits" })),
+    ...softdrinks.map((p) => ({ ...p, type: "softdrinks" })),
+    ...toys.map((p) => ({ ...p, type: "toys" })),
+    ...stationaries.map((p) => ({ ...p, type: "stationaries" })),
   ];
 };
 
@@ -35,11 +56,8 @@ export const ProductFilterProvider = ({ children }) => {
       return allProducts;
     }
     const lowerCaseSearch = searchTerm.toLowerCase();
-    return allProducts.filter(
-      (product) =>
-        product.name.toLowerCase().includes(lowerCaseSearch) ||
-        (product.price &&
-          product.description.toLowerCase().includes(lowerCaseSearch))
+    return allProducts.filter((product) =>
+      product.name.toLowerCase().includes(lowerCaseSearch)
     );
   }, [searchTerm, allProducts]);
 
@@ -72,6 +90,34 @@ export const ProductFilterProvider = ({ children }) => {
     return filteredProducts.filter((product) => product.type === "food");
   }, [filteredProducts]);
 
+  const filteredChocolates = useMemo(() => {
+    return filteredProducts.filter((product) => product.type === "chocolates");
+  }, [filteredProducts]);
+
+  const filteredCigars = useMemo(() => {
+    return filteredProducts.filter((product) => product.type === "chocolates");
+  }, [filteredProducts]);
+
+  const filteredFrozenFoods = useMemo(() => {
+    return filteredProducts.filter((product) => product.type === "chocolates");
+  }, [filteredProducts]);
+
+  const filteredWinesSpirits = useMemo(() => {
+    return filteredProducts.filter((product) => product.type === "chocolates");
+  }, [filteredProducts]);
+
+  const filteredSoftDrinks = useMemo(() => {
+    return filteredProducts.filter((product) => product.type === "chocolates");
+  }, [filteredProducts]);
+
+  const filteredToys = useMemo(() => {
+    return filteredProducts.filter((product) => product.type === "chocolates");
+  }, [filteredProducts]);
+
+  const filteredStationaries = useMemo(() => {
+    return filteredProducts.filter((product) => product.type === "chocolates");
+  }, [filteredProducts]);
+
   return (
     <ProductFilterContext.Provider
       value={{
@@ -84,6 +130,13 @@ export const ProductFilterProvider = ({ children }) => {
         filteredCereals,
         filteredKitchen,
         filteredFood,
+        filteredChocolates,
+        filteredCigars,
+        filteredFrozenFoods,
+        filteredWinesSpirits,
+        filteredSoftDrinks,
+        filteredToys,
+        filteredStationaries,
       }}
     >
       {children}

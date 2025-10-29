@@ -16190,5 +16190,85 @@
       "imageUrl": "https://www.pricepally.com/_next/image?url=https%3A%2F%2Fpp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com%2Fimage-1719090762259.webp&w=3840&q=75",
       "description": ""
     }
+  ],
+
+  "chocolates": [
+    {
+      "id": 20496,
+      "name": "FRESH CARROT",
+      "price": 1600,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmt1066.jpg?v=1689133914",
+      "description": ""
+    },
+    {
+      "id": 20497,
+      "name": "FRESH CUCUMBER",
+      "price": 800,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmt1070.jpg?v=1689133943",
+      "description": ""
+    },
+    {
+      "id": 20498,
+      "name": "FRESH LETTUCE",
+      "price": 1500,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmt1074.jpg?v=1689133967",
+      "description": ""
+    }
+  ],
+
+  "cigars": [
+    {
+      "id": 20606,
+      "name": "LATYF WHITE VINEGAR 500ML",
+      "price": 450,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/06/6651583/1.jpg?6546",
+      "description": ""
+    }
+  ],
+
+  "frozenfood": [
+    {
+      "id": 20607,
+      "name": "KINGS OIL 1 L",
+      "price": 5650,
+      "imageUrl": "https://pp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com/image-1719349884221.webp",
+      "description": ""
+    }
+  ],
+  "winespirits": [
+    {
+      "id": 20607,
+      "name": "KINGS OIL 1 L",
+      "price": 5650,
+      "imageUrl": "https://pp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com/image-1719349884221.webp",
+      "description": ""
+    }
+  ],
+  "softdrinks": [
+    {
+      "id": 20607,
+      "name": "KINGS OIL 1 L",
+      "price": 5650,
+      "imageUrl": "https://pp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com/image-1719349884221.webp",
+      "description": ""
+    }
+  ],
+  "toys": [
+    {
+      "id": 20607,
+      "name": "KINGS OIL 1 L",
+      "price": 5650,
+      "imageUrl": "https://pp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com/image-1719349884221.webp",
+      "description": ""
+    }
+  ],
+  "stationaries": [
+    {
+      "id": 20607,
+      "name": "KINGS OIL 1 L",
+      "price": 5650,
+      "imageUrl": "https://pp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com/image-1719349884221.webp",
+      "description": ""
+    }
   ]
 }
