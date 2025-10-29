@@ -34,9 +34,9 @@ const Navbar = () => {
             </a>
           </li>
           <li>
-            <NavLink to="/products" onClick={closeMenu}>
+            <a href="/products" onClick={closeMenu}>
               Products
-            </NavLink>
+            </a>
           </li>
           <li>
             <NavLink to="/about" onClick={closeMenu}>
