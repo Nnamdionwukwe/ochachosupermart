@@ -16194,21 +16194,21 @@
 
   "chocolates": [
     {
-      "id": 20496,
+      "id": 20696,
       "name": "SECRET BITES MILK COOKIES",
       "price": 120,
       "imageUrl": "https://ghadconigeria.com/wp-content/uploads/2024/10/secret-bites.jpg",
       "description": ""
     },
     {
-      "id": 20497,
+      "id": 20699,
       "name": "LOLLIPOPS HARD CANDIES",
       "price": 150,
       "imageUrl": "https://m.media-amazon.com/images/I/81331LViczL._SL1171_.jpg",
       "description": ""
     },
     {
-      "id": 20498,
+      "id": 20698,
       "name": "ELVAN IBON FRUITY",
       "price": 50,
       "imageUrl": "https://www.elvan.com.tr/httpswwwelvancomtribon-sutlu-meyveli-seker-1000-gr-1-poset-hard-candy-ibon-240-76-B.jpg",
@@ -16819,9 +16819,393 @@
   "cigars": [
     {
       "id": 20606,
-      "name": "LATYF WHITE VINEGAR 500ML",
-      "price": 456,
-      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/06/6651583/1.jpg?6546",
+      "name": "ESSE COMPACT BLACK",
+      "price": 1000,
+      "imageUrl": "https://blackhorsetobacco.com.ng/wp-content/uploads/2025/01/Esse-Compact-Black-Mini-Slim-Cigarette-removebg-preview.png",
+      "description": ""
+    },
+    {
+      "name": "ESSE CHANGE",
+      "price": 2000,
+      "imageUrl": "https://shoptohouse.com/wp-content/uploads/2024/03/esse-change.jpg",
+      "description": ""
+    },
+    {
+      "name": "ESSE CHANGE DOUBLE",
+      "price": 900,
+      "imageUrl": "https://blackhorsetobacco.com.ng/wp-content/uploads/2025/01/Esse-Change-Double-Yellow-Super-Slim-Double-Capsule-Cigarette-removebg-preview.png",
+      "description": ""
+    },
+    {
+      "name": "PALL MALL",
+      "price": 600,
+      "imageUrl": "https://remap.stir.ac.uk/wp-content/uploads/2024/02/pallmall_sunrisemixxl_front.jpg",
+      "description": ""
+    },
+    {
+      "name": "MARLBORO RED",
+      "price": 1400,
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/1*FQ2qwoaNXdubTAVp4do6ag.png",
+      "description": ""
+    },
+    {
+      "name": "ORIS STR",
+      "price": 1050,
+      "imageUrl": "https://shoptohouse.com/wp-content/uploads/2024/03/Oris-STR-Slims.jpg",
+      "description": ""
+    },
+    {
+      "name": "ORIS CHO",
+      "price": 1200,
+      "imageUrl": "https://foodvillagestore.com/admin5352/assets/img/products/6897a8f1c5.jpeg",
+      "description": ""
+    },
+    {
+      "name": "ROTHMANS SWITCH",
+      "price": 1400,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/09/Rothmans-Switch-1.jpg?fit=400%2C400&ssl=1",
+      "description": ""
+    },
+    {
+      "name": "VIPER MEGA STRAWBERRY 3500 PUFFS",
+      "price": 14400,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8akVDyWRNckdHuvipBPRA-7hGVxBzsaIug&s",
+      "description": ""
+    },
+    {
+      "name": "VIPER MEGA VAPES 3500 PUFFS",
+      "price": 14400,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8akVDyWRNckdHuvipBPRA-7hGVxBzsaIug&s",
+      "description": ""
+    },
+    {
+      "name": "ALIEN PLASTIC GRINDER",
+      "price": 8200,
+      "imageUrl": "https://m.media-amazon.com/images/I/81sIqvTdiQL.jpg",
+      "description": ""
+    },
+    {
+      "name": "RAW CLASSIC NATURAL UNREFINED ROL",
+      "price": 3000,
+      "imageUrl": "https://m.media-amazon.com/images/I/51rUpoIzuzL.jpg",
+      "description": ""
+    },
+    {
+      "name": "BACKWOODS SWEET AROMATIC (1 CIGARS)",
+      "price": 3700,
+      "imageUrl": "https://d3koznjjgilbyx.cloudfront.net/lowesfoods/product_images/0007161030192.jpg",
+      "description": ""
+    },
+    {
+      "name": "BACKWOODS HONEY (1 CIGAR)",
+      "price": 3800,
+      "imageUrl": "https://cigarchief.com/wp-content/uploads/2021/03/backwoods-honey.jpg",
+      "description": ""
+    },
+    {
+      "name": "BACKWOODS BANANA (5 CIGAR)",
+      "price": 15500,
+      "imageUrl": "https://goodvibe.ch/wp-content/uploads/2022/11/backwoods-banana.webp",
+      "description": ""
+    },
+    {
+      "name": "BACKWOODS (HONEY BOURBON) (1 CIGAR)",
+      "price": 3800,
+      "imageUrl": "https://www.momscigars.com/cdn/shop/files/backwoods-honeybourbon-1pk-straight-rgb_1024x1024.jpg?v=1686259277",
+      "description": ""
+    },
+    {
+      "name": "BACKWOODS PLASTIC CRUSHER",
+      "price": 1600,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0NCO2XIxzip6-Stjuxmk12Q1ANZxmriotoQ&s",
+      "description": ""
+    },
+    {
+      "name": "CHARACTER IRON CRUSHER",
+      "price": 10500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/47/5769021/2.jpg?5399",
+      "description": ""
+    },
+    {
+      "name": "DUMMY VAPES BAD BERRY 8000 PUFFS",
+      "price": 20800,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-aKDHysrSFnzBMRsGnckZN3Un83B17MpBTg&s",
+      "description": ""
+    },
+    {
+      "name": "DUMMY VAPES STOOPID STRAWBERRY 8000 PUFFS",
+      "price": 20800,
+      "imageUrl": "https://www.huffvape.com/cdn/shop/files/stoopid-strawberry.png?v=1703831656",
+      "description": ""
+    },
+    {
+      "name": "DUMMY VAPES TWISTED TANGY 8000 PUFFS",
+      "price": 20800,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZlh3MU938VU8F3_oI45rSv7b8DRE-0FD2A&s",
+      "description": ""
+    },
+    {
+      "name": "BACKWOOD BLACK RUSSIAN 1 CIGARS",
+      "price": 3800,
+      "imageUrl": "https://reyvape.com/wp-content/uploads/2021/10/BACKWOODS-BLACK-RUSSIAN-CIGAR.jpg",
+      "description": ""
+    },
+    {
+      "name": "100 QUICK LIGTHNING CHACOAL",
+      "price": 4400,
+      "imageUrl": "https://www.goodfellascigarshop.com/cdn/shop/products/threekingsgroupimage_1200x1200.jpg?v=1618010775",
+      "description": ""
+    },
+    {
+      "name": "DUMMY VAPES WACKY WATERMELON 8000 PUFFS",
+      "price": 20800,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRURvrZN-tFC1inRn3otnetkSVvhTc3H0chRA&s",
+      "description": ""
+    },
+    {
+      "name": "DUMMY VAPES REDD DUMMY 8000 PUFFS",
+      "price": 20800,
+      "imageUrl": "https://ohmcityvapes.com/cdn/shop/files/dummy-vapes_redd_dummy-disposable-vape-device_5dec38da-bb0b-4fb4-8761-0b26b31d46ea_1024x1024@2x.png?v=1686236182",
+      "description": ""
+    },
+    {
+      "name": "DUMMY VAPES GOOBA GRAPE 8000 PUFFS",
+      "price": 20800,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4nn-Lkc5Mw4TkNQEYgw8rPKLUri8qRmOdg&s",
+      "description": ""
+    },
+    {
+      "name": "DUMMY VAPES RAINBOW RAPPER 8000 PUFFS",
+      "price": 20800,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtv2Swu1BZ67HG-ymOAonGbsv3ISQq3wVpQ&s",
+      "description": ""
+    },
+    {
+      "name": "DUMMY VAPES DUMMY DREAM 8000 PUFFS",
+      "price": 20800,
+      "imageUrl": "https://ohmcityvapes.com/cdn/shop/files/dummy-vapes_stoopid_strawberry-disposable-vape-device_2048x.png?v=1692799368",
+      "description": ""
+    },
+    {
+      "name": "DUMMY VAPES ALIEN INVASION 8000 PUFFS",
+      "price": 20800,
+      "imageUrl": "https://ohmcityvapes.com/cdn/shop/files/dummy-vapes_alien_invasion-disposable-vape-device_500x.png?v=1686235631",
+      "description": ""
+    },
+    {
+      "name": "METAL GRINDER",
+      "price": 11400,
+      "imageUrl": "https://m.media-amazon.com/images/I/61YdNW8QhLL.jpg",
+      "description": ""
+    },
+    {
+      "name": "CLASSIC RAW BLACK",
+      "price": 1200,
+      "imageUrl": "https://thejuicyjoint.co.uk/cdn/shop/products/rawblack.jpg?v=1675185009",
+      "description": ""
+    },
+    {
+      "name": "ORGANIC HEMP RAW CLASSIC ROLLING PAPER",
+      "price": 1300,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwTn3xgOBGne7skLO3aFLUzwnerzwNnqfcw&s",
+      "description": ""
+    },
+    {
+      "name": "DUMMY VAPES LUSH ICE 8000 PUFFS",
+      "price": 20800,
+      "imageUrl": "https://cdn11.bigcommerce.com/s-gq4icuzl7/images/stencil/1280x1280/products/4262/5185/dummy-vapes-8000-puffs-disposable-vape-3-pack-4_turbo_1024x1024__16425.1692269265.png?c=2",
+      "description": ""
+    },
+    {
+      "name": "EDGE BLACK",
+      "price": 1050,
+      "imageUrl": "https://blackhorsetobacco.com.ng/wp-content/uploads/2025/01/Esse-Edge-Black-Mini-Slim-Cigarette-removebg-preview.png",
+      "description": ""
+    },
+    {
+      "name": "CHESTERFIELD",
+      "price": 2500,
+      "imageUrl": "https://i0.wp.com/vapegoro.com/wp-content/uploads/2024/05/1000734009.jpg?fit=600%2C600&ssl=1",
+      "description": ""
+    },
+    {
+      "name": "BOHEM",
+      "price": 1110,
+      "imageUrl": "https://blackhorsetobacco.com.ng/wp-content/uploads/2025/01/Bohem-Grip-Queen-Size-Cigar-Cigarette-1.png",
+      "description": ""
+    },
+    {
+      "name": "SHISHA TIPS",
+      "price": 2600,
+      "imageUrl": "https://m.media-amazon.com/images/I/51Yp1kLcfQL._AC_UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "name": "ALUMINIUM FOIL",
+      "price": 720,
+      "imageUrl": "https://i5.walmartimages.com/asr/23e7f37b-5e34-40dd-ae96-0c7e284443fb.dbf187cabfc11bfa632d9bb28c45af20.jpeg",
+      "description": ""
+    },
+    {
+      "name": "PREMIUM QUICK LIGHTING CHARCOAL",
+      "price": 4100,
+      "imageUrl": "https://shishahub.co.za/wp-content/uploads/2022/06/FAKIC001-4.jpg",
+      "description": ""
+    },
+    {
+      "name": "KINGS CHARCOAL",
+      "price": 7000,
+      "imageUrl": "https://cdn11.bigcommerce.com/s-4c6eg5d3xf/products/14751/images/19487/57099-three-kings-charcoal__03916.1681248128.386.513.jpg?c=1",
+      "description": ""
+    },
+    {
+      "name": "SMOKING KITS",
+      "price": 28600,
+      "imageUrl": "https://reyvape.com/wp-content/uploads/2021/06/week-complete-bag.jpg",
+      "description": ""
+    },
+    {
+      "name": "IRON CRUSHER M/S",
+      "price": 6500,
+      "imageUrl": "https://primemarsstore.com/storage/media/KvGFXYiR8UAJbWjoREiQOpme1bINXb8xcOmv5Tgl.jpg",
+      "description": ""
+    },
+    {
+      "name": "BIG IRON CRUSHER",
+      "price": 7800,
+      "imageUrl": "https://primemarsstore.com/storage/media/KvGFXYiR8UAJbWjoREiQOpme1bINXb8xcOmv5Tgl.jpg",
+      "description": ""
+    },
+    {
+      "name": "MAX RICH",
+      "price": 19500,
+      "imageUrl": "https://cdn11.bigcommerce.com/s-2ooutu2zpl/images/stencil/2048x2048/products/39162/42157/MAX-01-103M__41970.1509508545.jpg?c=2",
+      "description": ""
+    },
+    {
+      "name": "PRO RICH",
+      "price": 19500,
+      "imageUrl": "https://cdn11.bigcommerce.com/s-3om7ob/images/stencil/1280x1280/products/9530/32569/Alec-Bradley-MAXX-Culture---5-Pack-with-Slanted-One__64553.1717515494.jpg?c=3&imbypass=on",
+      "description": ""
+    },
+    {
+      "name": "KING SONG",
+      "price": 19500,
+      "imageUrl": "https://lmcigars.com/wp-content/uploads/2023/01/Caldwell-The-Heater-Open-Box-324x324.jpg",
+      "description": ""
+    },
+    {
+      "name": "HONEYPUFF ORGANIC WRAPS BLUEBERRY",
+      "price": 1000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh2Xu4dO0XQ3aozLXhMdk6_F9u81w6RVr1Ow&s",
+      "description": ""
+    },
+    {
+      "name": "HONEYPUFF ORGANIC WRAPS STRAWBERRY",
+      "price": 1000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS3csMBPw9f_eGA_GMUu1gVfpSj6y2DlqKVg&s",
+      "description": ""
+    },
+    {
+      "name": "SHISHA BOX BIG SIZE",
+      "price": 35100,
+      "imageUrl": "https://shishasklep.pl/hpeciai/00be6670a345faa98ce83d4b0abc400f/eng_pl_Shisha-Jookah-Aluriium-NR-03-Big-Size-Black-Red-26344_1.webp",
+      "description": ""
+    },
+    {
+      "name": "SHISHA CHARCOAL",
+      "price": 4100,
+      "imageUrl": "https://hookahmarket.com/files/images/ecommerce/products/shisha-charcoal-cocodalya-64-pcs-1kg.jpg",
+      "description": ""
+    },
+    {
+      "name": "HOOKAH FANCY SHISHA",
+      "price": 117000,
+      "imageUrl": "https://image.made-in-china.com/2f0j00WbHVdGAsyZfO/Large-Size-Fancy-Wholesale-Tobacco-Shisha-Hookah-with-4-Hoses.jpg",
+      "description": ""
+    },
+    {
+      "name": "ALOSTOURA WATERMELON FLAVOR",
+      "price": 1120,
+      "imageUrl": "https://res.cloudinary.com/dqaha42be/image/upload/v1699631896/njuwoe77rkf1idsssfve.jpg",
+      "description": ""
+    },
+    {
+      "name": "ALOSTOURA MIX FRUITS FLAVOR",
+      "price": 1120,
+      "imageUrl": "https://alostoura-tobacco.com/public/storage/products/June2023/zZQxYSOHWdjevwMgVi2F.png",
+      "description": ""
+    },
+    {
+      "name": "ALOSTOURA STRAWBERRY FLAVOR",
+      "price": 1120,
+      "imageUrl": "https://alostoura-tobacco.com/public/storage/products/June2023/fSurIsbXGRIsM4s3Mv6O.png",
+      "description": ""
+    },
+    {
+      "name": "ALOSTOURA CHOCOLATE FLAVOR",
+      "price": 1120,
+      "imageUrl": "https://alostoura-tobacco.com/public/storage/products/June2023/u75Eaq2XooexaQQs3mlk.png",
+      "description": ""
+    },
+    {
+      "name": "ALOSTOURA MINT FLAVOR",
+      "price": 1120,
+      "imageUrl": "https://alostoura-tobacco.com/public/storage/products/June2023/UH0187rN329hMEWffsPZ.png",
+      "description": ""
+    },
+    {
+      "name": "ALOSTOURA MINT & CREAM FLAVOR",
+      "price": 1120,
+      "imageUrl": "https://alostoura-tobacco.com/public/storage/products/June2023/QAMVZfPWFgJOqiXS7e62.png",
+      "description": ""
+    },
+    {
+      "name": "ALOSTOURA ORANGE FLAVOR",
+      "price": 1120,
+      "imageUrl": "https://alostoura-tobacco.com/public/storage/products/June2023/eWV7lfWSfhXu5IDhtmNN.png",
+      "description": ""
+    },
+    {
+      "name": "ALOSTOURA KIWI FLAVOR",
+      "price": 1120,
+      "imageUrl": "https://alostoura-tobacco.com/public/storage/products/June2023/elNEc5HXqkPNfsxlNqUw.jpeg",
+      "description": ""
+    },
+    {
+      "name": "KINGKONG ELECTRIC CRUSHER",
+      "price": 31200,
+      "imageUrl": "https://ae01.alicdn.com/kf/S22403cff53ba4d729dd891dd884b53dbh.jpg",
+      "description": ""
+    },
+    {
+      "name": "BISCUIT CRUSHER",
+      "price": 5200,
+      "imageUrl": "https://image.made-in-china.com/202f0j00asAVPEjCZIbL/12-PCS-One-Case-Diameter-30mm-Herb-Grinder-Biscuit-Shape-Tobacco-Grinder-Spice-Crusher-Smoke-Cigarette-Accessories.webp",
+      "description": ""
+    },
+    {
+      "name": "REAL WOODS ITALIAN GELATO 5IN1",
+      "price": 12200,
+      "imageUrl": "https://www.manroenterprises.com/web/image/product.template/2387/image_1920?unique=ac5f747",
+      "description": ""
+    },
+    {
+      "name": "REAL WOODS VANILLA 5IN1",
+      "price": 12200,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/O/E/149346_1730645974.jpg",
+      "description": ""
+    },
+    {
+      "name": "REAL WOODS BANANA 5IN1",
+      "price": 12200,
+      "imageUrl": "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/Z/E/149346_1730645157.jpg",
+      "description": ""
+    },
+    {
+      "name": "CRUSHER PLASTIC (MINI)",
+      "price": 3900,
+      "imageUrl": "https://outontrip.com/cdn/shop/products/71pro_V3x7L._SL1500_1500x.jpg?v=1538324887",
       "description": ""
     }
   ],
@@ -16867,13 +17251,6 @@
   ],
 
   "stationaries": [
-    {
-      "id": 30607,
-      "name": "KINGS OIL 1 L",
-      "price": 5650,
-      "imageUrl": "https://pp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com/image-1719349884221.webp",
-      "description": ""
-    },
     {
       "id": 30607,
       "name": "KINGS OIL 1 L",
