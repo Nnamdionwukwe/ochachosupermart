@@ -16195,23 +16195,623 @@
   "chocolates": [
     {
       "id": 20496,
-      "name": "FRESH CARROT",
-      "price": 1600,
-      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmt1066.jpg?v=1689133914",
+      "name": "SECRET BITES MILK COOKIES",
+      "price": 120,
+      "imageUrl": "https://ghadconigeria.com/wp-content/uploads/2024/10/secret-bites.jpg",
       "description": ""
     },
     {
       "id": 20497,
-      "name": "FRESH CUCUMBER",
-      "price": 800,
-      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmt1070.jpg?v=1689133943",
+      "name": "LOLLIPOPS HARD CANDIES",
+      "price": 150,
+      "imageUrl": "https://m.media-amazon.com/images/I/81331LViczL._SL1171_.jpg",
       "description": ""
     },
     {
       "id": 20498,
-      "name": "FRESH LETTUCE",
+      "name": "ELVAN IBON FRUITY",
+      "price": 50,
+      "imageUrl": "https://www.elvan.com.tr/httpswwwelvancomtribon-sutlu-meyveli-seker-1000-gr-1-poset-hard-candy-ibon-240-76-B.jpg",
+      "description": ""
+    },
+    {
+      "name": "RITCH MILK MIX POP",
+      "price": 150,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spar12561.jpg?v=1689121414",
+      "description": ""
+    },
+    {
+      "name": "EMSA EASY POP",
+      "price": 100,
+      "imageUrl": "https://i0.wp.com/ebbomaroc.com/wp-content/uploads/2022/07/EMSA_PRODUCT_LOLLIPOPS_EASY-POP_STRAWBERRY.png?fit=600%2C880&ssl=1",
+      "description": ""
+    },
+    {
+      "name": "DIABETA MIL",
+      "price": 8450,
+      "imageUrl": "https://omitosh.com/images/diabetamil/diabetamil-img3.png",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL 0% FAT FRESA/STRAWBERRY 500G",
+      "price": 6800,
+      "imageUrl": "https://static.wixstatic.com/media/f18837_e5c22a30b159417d8d78eee48b402547~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL CREAMY STRAWBERRY / FRESA 500G",
+      "price": 7600,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLqIQy1IzI_Q1_n7xkHgKC5op5serHy5Ub8Q&s",
+      "description": ""
+    },
+    {
+      "name": "CAPPUCCINO MARTINA WHITE MILK PCS",
+      "price": 150,
+      "imageUrl": "https://yesmin.ng/wp-content/uploads/2023/11/869056211816.webp",
+      "description": ""
+    },
+    {
+      "name": "CAPPUCINO MARTINA WHITE MILK (PKT)",
+      "price": 150,
+      "imageUrl": "https://yesmin.ng/wp-content/uploads/2023/11/869056211816.webp",
+      "description": ""
+    },
+    {
+      "name": "MENTOS PURE FRESH TROPICAL FLAVOUR 87.5HG PCS",
+      "price": 3800,
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61MnJDNy6wL._AC_UL600_SR600,600_.jpg",
+      "description": ""
+    },
+    {
+      "name": "MENTOS SUPEARMINT 56G",
+      "price": 3250,
+      "imageUrl": "https://primegrocers.ng/wp-content/uploads/2025/06/pure-fresh-1.jpg",
+      "description": ""
+    },
+    {
+      "name": "MEGA POP PCS",
+      "price": 150,
+      "imageUrl": "https://sweetchocolatewarehouse.com.au/wp-content/uploads/2024/12/Sweetworld-Mega-Pop-60pcs.jpg",
+      "description": ""
+    },
+    {
+      "name": "TIFFANY DELUXE TOFFEE 300g",
+      "price": 5200,
+      "imageUrl": "https://cdn.zetupstore.com/uploads/146/23/02/100223167603479663e642ec77cda.webp",
+      "description": ""
+    },
+    {
+      "name": "FOX'S FABULOUS HALF COATED MILK CHOCOLATE 180G",
+      "price": 3900,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/products/sprnw561.png?v=1688378656",
+      "description": ""
+    },
+    {
+      "name": "BUTTER TOFFEE MILQUE",
+      "price": 30,
+      "imageUrl": "https://cdn11.bigcommerce.com/s-3stx4pub31/images/stencil/1280x1280/products/2552/32709/butter-toffees-milk__92481.1736355217.jpg?c=2?imbypass=on",
+      "description": ""
+    },
+    {
+      "name": "KOPIKO COFFEE",
+      "price": 2000,
+      "imageUrl": "https://360african.com/wp-content/uploads/2021/02/Kopiko-Coffee-Candy-1-1.jpg",
+      "description": ""
+    },
+    {
+      "name": "CHUPA CHUPS COTTON BUBBLE GUM",
+      "price": 350,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPBA7Qd7HevNt8YWFe3lwi0SXFYn4_llcx9A&s",
+      "description": ""
+    },
+    {
+      "name": "FRUITS SKITTLES AROME DE FRUCTE 45g",
+      "price": 1400,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/OkeA1076.jpg?v=1689121849",
+      "description": ""
+    },
+    {
+      "name": "ALPENLIEBE WITH CALCIUM CANDY",
+      "price": 6500,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/03/caramel.jpg",
+      "description": ""
+    },
+    {
+      "name": "ENGLISH ECLAIR POP",
+      "price": 100,
+      "imageUrl": "https://richester.co.za/wp-content/uploads/2021/09/white-fudge.jpg",
+      "description": ""
+    },
+    {
+      "name": "ALPENLIEBE WITH VITAMIN C",
+      "price": 1000,
+      "imageUrl": "https://d4pmlgzenkweq.cloudfront.net/5flz6a8gq1v7uoxvwty6szlyaim1",
+      "description": ""
+    },
+    {
+      "name": "ALPENLIEBE WITH CALCIUM 40PCS",
+      "price": 1000,
+      "imageUrl": "https://chamuze.com/wp-content/uploads/2024/11/Artboard-1-1-1000x1000.jpg",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL STRAWBERRY / FRESA 500G",
+      "price": 6400,
+      "imageUrl": "https://minimegh.com/cdn/shop/files/Screenshot-20240118_224723_Google_630x870.jpg?v=1705618311",
+      "description": ""
+    },
+    {
+      "name": "MENTOS PURE FRESH WATERMELON 87.5G",
+      "price": 3800,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl3749_617e86fb-4db3-41a2-8a79-aac9b56ec799.jpg?v=1756132167",
+      "description": ""
+    },
+    {
+      "name": "ALPENLIEBE CHEWY CHEW (50PCS)",
+      "price": 100,
+      "imageUrl": "https://tradefair.ng/wp-content/uploads/2022/08/10-1-1.jpg",
+      "description": ""
+    },
+    {
+      "name": "KELIFA LOLLIPOP",
+      "price": 200,
+      "imageUrl": "https://agtplaza.com/cdn/shop/files/WhatsAppImage2025-05-29at3.39.04PM.jpg?v=1748529985",
+      "description": ""
+    },
+    {
+      "name": "FANICE STRAWBERRY ICE CREAM 250ML",
       "price": 1500,
-      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmt1074.jpg?v=1689133967",
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/aspar349_fanice_strawberry_ice_cream_4_l.jpg?v=1688998235",
+      "description": ""
+    },
+    {
+      "name": "KELITA CHOCO CUBE (PIECES)",
+      "price": 20,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2020/11/Kelita-Chocolate-Cube-550g.jpg",
+      "description": ""
+    },
+    {
+      "name": "ENGLISH ECLAIR POPS PCS",
+      "price": 100,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCCejm5yI4XKGty8RDN5GX-NzuCQMQpv2fA&s",
+      "description": ""
+    },
+    {
+      "name": "TWIX CHOCOLATE",
+      "price": 1200,
+      "imageUrl": "https://www.twix.com/sites/g/files/fnmzdf236/files/migrate-product-files/pm57alsea7mspqhhgfuf.png",
+      "description": ""
+    },
+    {
+      "name": "MENTOS CHEWY DRAGEES FRUIT 37.8G",
+      "price": 550,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/sparb1032_mentos_chewy_dragees_fruit_37-8_g.jpg?v=1689120577",
+      "description": ""
+    },
+    {
+      "name": "MENTOS CHEWY DRAGEES COLA B/S 37.8G",
+      "price": 550,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl2655_41b9e856-b4e3-442d-a687-15c05376a8b5.jpg?v=1756130807",
+      "description": ""
+    },
+    {
+      "name": "STAR COOL SPONGE SCOURING PAD S/S",
+      "price": 1500,
+      "imageUrl": "https://riftvalley.ng/wp-content/uploads/2024/10/STAR-COOL-SPONGE-SCOURING-PAD.jpeg",
+      "description": ""
+    },
+    {
+      "name": "ORBIT PEPPERMINT FLAVORED CHEWING GUM",
+      "price": 900,
+      "imageUrl": "https://shoprite.ng/wp-content/uploads/2023/06/Gum-Orbit-14S-Peppermint-559.99.jpg",
+      "description": ""
+    },
+    {
+      "name": "MENTOS FRUIT",
+      "price": 250,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/03/strawberry-mentos.jpg",
+      "description": ""
+    },
+    {
+      "name": "MENTOS COLA FLAVOUR",
+      "price": 250,
+      "imageUrl": "https://m.media-amazon.com/images/I/51HSK6d0isL._SS400_.jpg",
+      "description": ""
+    },
+    {
+      "name": "MENTOS MINT S/S 21.6g",
+      "price": 250,
+      "imageUrl": "https://i.ebayimg.com/images/g/h8AAAOSwIUxg7WdP/s-l400.jpg",
+      "description": ""
+    },
+    {
+      "name": "MENTOS STRAWBERRY",
+      "price": 3250,
+      "imageUrl": "https://fromatoz.com.ng/wp-content/uploads/2025/01/WhatsApp-Image-2024-10-10-at-1.15.28-PM-1.jpeg",
+      "description": ""
+    },
+    {
+      "name": "MENTOS PEPPERMINT",
+      "price": 3250,
+      "imageUrl": "https://primegrocers.ng/wp-content/uploads/2014/11/MENTOS_PEPPERMINT_40S-removebg-preview-1.png",
+      "description": ""
+    },
+    {
+      "name": "MENTOS BUBBLE FRESH",
+      "price": 3250,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5T7M4idmD7xHr_to0q6-UkWbtP5OE6sEYg&s",
+      "description": ""
+    },
+    {
+      "name": "CENTER FRUIT LIQUID FILLED EXTRA FRESH(ASSORTED)",
+      "price": 50,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMHkGxdDz5sswUNmQVrng9R98qGpbBo5VHkswoIlk1Ln7yKN1MLDSv-VWScKjyy7v0AY&usqp=CAU",
+      "description": ""
+    },
+    {
+      "name": "PARAGO CHEWY CANDY",
+      "price": 100,
+      "imageUrl": "https://martech.ng/uploads/images/products/prod-img_739ffcf8-7165-4592-99fc-3a9bb6547c9e_202304_0501_4301.jpg",
+      "description": ""
+    },
+    {
+      "name": "MIX FRUIT LOLLIPOP",
+      "price": 150,
+      "imageUrl": "https://www.keepitsweet.co.uk/images/Fruit-Lolly-1KID-LOL-MFR.jpg",
+      "description": ""
+    },
+    {
+      "name": "FANICE SUPERYOGO SWEETENED FROZEN 120ML",
+      "price": 400,
+      "imageUrl": "https://www.bellanaija.com/wp-content/uploads/2021/10/Mockup_Sachet_160ml_SuperYogo_Low.jpg",
+      "description": ""
+    },
+    {
+      "name": "FANICE VANILLA ICE CREAM 900M",
+      "price": 5000,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/sparb1290_fanice_vanilla_ice_cream_1_l.jpg?v=1688998298",
+      "description": ""
+    },
+    {
+      "name": "FANICE STRAWBERRY ICE CREAM 120ML",
+      "price": 700,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/1498057279602_spxtyabc461_fanice_strawberry_ice_cream_120_ml.jpg?v=1688998050",
+      "description": ""
+    },
+    {
+      "name": "FANICE GOSLO SALTED CARAMEL 460ML",
+      "price": 6550,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmt1122.jpg?v=1688997161",
+      "description": ""
+    },
+    {
+      "name": "GO SLO PEANUT BUTTER 460ML",
+      "price": 6550,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spar9652.jpg?v=1689170967",
+      "description": ""
+    },
+    {
+      "name": "FANICE GOSLO PEANUT BUTTER 320ML",
+      "price": 5800,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2020/03/Go-Slo-Peanut-Butter-Ice-Cream-320ml.jpg",
+      "description": ""
+    },
+    {
+      "name": "WIMMY'S BY 5 63G",
+      "price": 2600,
+      "imageUrl": "https://addasmallng.com/wp-content/uploads/2024/11/WIMMYS-CHOCOLATE-63G.jpeg",
+      "description": ""
+    },
+    {
+      "name": "WIMMY'S BY 12 150G",
+      "price": 5850,
+      "imageUrl": "https://barakibodegon.net/cdn/shop/files/35_909bbd20-495c-4d0e-93e3-ae72570354e2.jpg?v=1730057132",
+      "description": ""
+    },
+    {
+      "name": "MALTESERS",
+      "price": 1370,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/09/1591189247.MALTESERS-37G-5000159020312-9.jpg",
+      "description": ""
+    },
+    {
+      "name": "DE-ELO CHOCO ECLAIRS WITH DARK CHOCOLATE",
+      "price": 30,
+      "imageUrl": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/fbb2b81b-7dd9-49f7-957d-da9f759aa710/500x500.jpg",
+      "description": ""
+    },
+    {
+      "name": "LOLLIPOP CANDY PCS",
+      "price": 140,
+      "imageUrl": "https://m.media-amazon.com/images/I/619aIjfA1PL._SL1500_.jpg",
+      "description": ""
+    },
+    {
+      "name": "FAMOUS AMOS CHOCOLATE CHIP 56g",
+      "price": 1200,
+      "imageUrl": "https://shoponclick.ng/storage/2020/08/Famous-Amos-Chocolate-Chip-1.jpg",
+      "description": ""
+    },
+    {
+      "name": "YOGURT + PLAIN SWEETENED FLAVOR",
+      "price": 4500,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl3376_a0f0fcff-240b-4496-9706-ee6cdc15776c.jpg?v=1756132447s",
+      "description": ""
+    },
+    {
+      "name": "YOGU + FRUIT SALAD FLAVOR",
+      "price": 4500,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spdpyo2382.png?v=1689141904",
+      "description": ""
+    },
+    {
+      "name": "YOGU+ BANANA FLAVOR",
+      "price": 4500,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl3373_4061a016-52fe-409f-a4e0-2665c037bc0c.jpg?v=1756132449",
+      "description": ""
+    },
+    {
+      "name": "YOUG + MANGO FLAVOR",
+      "price": 4500,
+      "imageUrl": "https://assets.deliveradd.is/img/ProductsImg/11179/db50b5e3-ca5c-4759-b7ef-d19e4478b1da.jpg",
+      "description": ""
+    },
+    {
+      "name": "M & S CHOCOLATE 36G",
+      "price": 1400,
+      "imageUrl": "https://nulinetraders.com/cdn/shop/files/604615011_0_640x640_1363487d-4c55-4455-aa92-4c633bb5f15e_640x640.jpg?v=1754496512",
+      "description": ""
+    },
+    {
+      "name": "M & S PEANUT 36G",
+      "price": 1400,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5BAtpc8WkFMRaArrLet3Jcvcxa2Ds64u4hA&s",
+      "description": ""
+    },
+    {
+      "name": "M & S CRISPY 36G",
+      "price": 1400,
+      "imageUrl": "https://www.wholesalesweets.co.uk/_next/image?url=https%3A%2F%2Fws-api.hancocks.co.uk%2Fmedia%2Fcatalog%2Fproduct%2F1%2F8%2F18525_a.jpg&w=3840&q=75",
+      "description": ""
+    },
+    {
+      "name": "MINI OREO CHOCOLATE",
+      "price": 400,
+      "imageUrl": "https://i5.walmartimages.com/seo/OREO-Mini-Chocolate-Sandwich-Cookies-Baked-Snak-Saks-8-oz-Shelf-Stable-Plastic-Pouch_c5fd393d-927a-4346-8ea9-906ddb56a6d9.5ccfd56657f6086c1ce5fb5f3a162921.jpeg",
+      "description": ""
+    },
+    {
+      "name": "MARS CHOCOLATE 51G",
+      "price": 1200,
+      "imageUrl": "https://philhallmark.com/production/wp-content/uploads/2023/05/MARS-CHOCOLATE-51G.jpg",
+      "description": ""
+    },
+    {
+      "name": "CHUPPA CHUPS SOUR BELT STRAWBERRY FLAVOUR 8G",
+      "price": 170,
+      "imageUrl": "https://cariboucandy.co.uk/cdn/shop/files/chupa-chups-belts-sour-strawberry-share-bag-257819.jpg?v=1719962038&width=1946",
+      "description": ""
+    },
+    {
+      "name": "CHUPA CHUPS JELLY BELTS BLINK SOUR",
+      "price": 870,
+      "imageUrl": "https://cdn.mafrservices.com/sys-master-root/h25/ha2/51244330811422/252214_main.jpg",
+      "description": ""
+    },
+    {
+      "name": "CHUPA CHUPS BITES 56G",
+      "price": 700,
+      "imageUrl": "https://shop.annam-gourmet.com/pub/media/catalog/product/i/t/item_F169282_f2c5.png",
+      "description": ""
+    },
+    {
+      "name": "CHUPA CHUPS BITES 150G",
+      "price": 1900,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl2628_db80d0c3-fb08-4b60-9d40-9712c2ff1252.jpg?v=1756131386",
+      "description": ""
+    },
+    {
+      "name": "CHUPPA CHUPS COTTON BUBBLE GUM 11G",
+      "price": 360,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/03/chupachups.jpg",
+      "description": ""
+    },
+    {
+      "name": "ALPENLIEBE STRAWBERRY FLAVOUR CUP",
+      "price": 2400,
+      "imageUrl": "https://lagmart.com/wp-content/uploads/2022/08/Perfetti-Alpenliebe-Strawberry-Flavour-Candy-Cup-X-88pcs.jpg",
+      "description": ""
+    },
+    {
+      "name": "CENTER FRUIT WATERMELON FLAVOUR CUP",
+      "price": 2400,
+      "imageUrl": "https://m.media-amazon.com/images/I/51C7ha9i0XL._AC_UF894,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "name": "CENTER FRUIT STRAWBERRY FLAVOUR CUP",
+      "price": 2400,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/03/2851_1630062364.webp?fit=500%2C500&ssl=1",
+      "description": ""
+    },
+    {
+      "name": "CENTER FRUIT MANGO FLAVOUR CUP",
+      "price": 2400,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/03/2851_1630062277.webp",
+      "description": ""
+    },
+    {
+      "name": "CENTER FRUIT MIXED FRUIT CUP",
+      "price": 2400,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/03/2851_1630062364.webp?fit=500%2C500&ssl=1",
+      "description": ""
+    },
+    {
+      "name": "CENTER FRUIT BANANA FLAVOUR",
+      "price": 50,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0523/9934/1736/products/Center-fruit-launches-limited-edition-packs-inspired-by-Illumination_s-Minions-1.jpg?v=1634627624",
+      "description": ""
+    },
+    {
+      "name": "CENTER FRUIT LIQUID FILLED EXTRA FRESH",
+      "price": 2400,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/03/center-fresh.webp?fit=500%2C500&ssl=1",
+      "description": ""
+    },
+    {
+      "name": "MENTOS FRUIT - CUP",
+      "price": 2220,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/03/lemon.png",
+      "description": ""
+    },
+    {
+      "name": "MENTOS MINT - CUP",
+      "price": 2220,
+      "imageUrl": "https://nextcashandcarry.com.ng/wp-content/uploads/2022/03/fresh-action.jpg",
+      "description": ""
+    },
+    {
+      "name": "CHUPA CHUPS 20G",
+      "price": 250,
+      "imageUrl": "https://mysweeties.com.au/cdn/shop/files/chupachupbites_1024x.jpg?v=1715564081",
+      "description": ""
+    },
+    {
+      "name": "CHUPA CHUPS PAPER STICKS",
+      "price": 550,
+      "imageUrl": "https://cdn.sanity.io/images/e4jxgyeh/production/02e3b4b36a855de4982c1eca7bbc86f992070f7e-1886x2483.png",
+      "description": ""
+    },
+    {
+      "name": "NEXT CAO CHOCOLATE BUBBLE POP",
+      "price": 150,
+      "imageUrl": "https://www.sunnysyrup.com/proimages/products/02Boba/02/02-4/Chocolate-Popping-Boba-2.jpg",
+      "description": ""
+    },
+    {
+      "name": "OCHRA MAX ASSORTED LOLLIPOP",
+      "price": 150,
+      "imageUrl": "https://cdn11.bigcommerce.com/s-xk4uicgdlw/images/stencil/1280x1280/products/30715/70206/getImage__20086.1700074818.jpg?c=2",
+      "description": ""
+    },
+    {
+      "name": "SAFI POP ASSORTED LOLLIPOP",
+      "price": 150,
+      "imageUrl": "https://www.u-buy.com.ng/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFqak15TG9NcUwuX1NMMTUwMF8uanBn.jpg",
+      "description": ""
+    },
+    {
+      "name": "OAT MILK (MILK FLAVOR) 600g",
+      "price": 7280,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/products/sprnw446.jpg?v=1688378370",
+      "description": ""
+    },
+    {
+      "name": "LUSH CHOCO CREAM COOKIES MOSAIC",
+      "price": 470,
+      "imageUrl": "https://www.universalyums.com/wp-content/uploads/2025/01/c4706a59-0778-46a6-b505-8abbdd7ae21c.jpg",
+      "description": ""
+    },
+    {
+      "name": "ARMEDA CREAM FILLED",
+      "price": 200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd6v5WRBNA0ClfpU5PBSnmeVfsmiI916KXw&s",
+      "description": ""
+    },
+    {
+      "name": "MENTOS FRESH ACTION GUM",
+      "price": 2300,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj-LVd0IZJnZKidV05It7f2gkotFKNtjTe3ot7ZnpXl55PtL2v-TMq_U-gF4dvHWxpMPc&usqp=CAU",
+      "description": ""
+    },
+    {
+      "name": "MENTOS WHITE",
+      "price": 2300,
+      "imageUrl": "https://shoprite.ng/wp-content/uploads/2023/06/Chewing-Gum-White-Mentos-38S-929.99.jpg",
+      "description": ""
+    },
+    {
+      "name": "SPLASH SWEET",
+      "price": 1000,
+      "imageUrl": "https://shoponclick.ng/storage/2023/11/IMG-20231109-WA0004.jpg",
+      "description": ""
+    },
+    {
+      "name": "MILKOSE",
+      "price": 1000,
+      "imageUrl": "https://i.etsystatic.com/44081568/r/il/7b0081/5502379279/il_fullxfull.5502379279_rq3y.jpg",
+      "description": ""
+    },
+    {
+      "name": "KONA CAFE",
+      "price": 1000,
+      "imageUrl": "https://shoptohouse.com/wp-content/uploads/2024/03/Sweetco-Kona-Cafe-Coffee-Candy.png",
+      "description": ""
+    },
+    {
+      "name": "BIG BOOM LOLLIPOP",
+      "price": 5850,
+      "imageUrl": "https://m.media-amazon.com/images/I/914eENdjXQS._AC_UF894,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "name": "GO SLO COOKIES AND CREAM ICE CREAM 460ML",
+      "price": 6550,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spar9651.jpg?v=1689170961&width=460",
+      "description": ""
+    },
+    {
+      "name": "ZIORA PLANTAIN CHIPS",
+      "price": 3500,
+      "imageUrl": "https://geminifoods.co.uk/wp-content/uploads/2021/09/Bimms-24.jpg.webp",
+      "description": ""
+    },
+    {
+      "name": "OAT MILK 600g",
+      "price": 7280,
+      "imageUrl": "https://soritesuperstore.com.ng/wp-content/uploads/2024/01/FADAELLA-OAT-MILK-PACKS-600G.jpeg",
+      "description": ""
+    },
+    {
+      "name": "CENTER FRUIT STRAWBERRY FLAVOUR(ASSORTED)",
+      "price": 50,
+      "imageUrl": "https://freshtodommot.com/cdn/shop/products/images_da1fe597-2de0-4bb2-8be6-8b314381adbc.jpg?v=1757104519",
+      "description": ""
+    },
+    {
+      "name": "FANICE VANILLA 900ML",
+      "price": 5000,
+      "imageUrl": "https://savvysupermart.com/wp-content/uploads/2024/10/FANICE-VANILLA-S.jpg",
+      "description": ""
+    },
+    {
+      "name": "FANICE VANILLA ICE CREAM SACHET",
+      "price": 400,
+      "imageUrl": "https://allschoolabs.com/wp-content/uploads/2025/04/Fanice-Vanilla-Ice-Cream-160ml.jpg",
+      "description": ""
+    },
+    {
+      "name": "GO SLO VANILLA & COCONUT 460ML",
+      "price": 6550,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spasho1411_64882176-e28f-45ed-85c1-ca7ef5133c1c.jpg?v=1738324263",
+      "description": ""
+    },
+    {
+      "name": "GO SLO COOKIES & CREAM 320ML",
+      "price": 5750,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spar9638.jpg?v=1688998326",
+      "description": ""
+    },
+    {
+      "name": "GO SLO VANILLA & COCONUT 320ML",
+      "price": 5750,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spasho1411_64882176-e28f-45ed-85c1-ca7ef5133c1c.jpg?v=1738324263",
+      "description": ""
+    },
+    {
+      "name": "RITCH CHOCOMILK MIX",
+      "price": 150,
+      "imageUrl": "https://m.media-amazon.com/images/I/71iVZytCegL._SL1500_.jpg",
       "description": ""
     }
   ],
