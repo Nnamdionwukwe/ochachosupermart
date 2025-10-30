@@ -58,7 +58,7 @@ function ProductsPage() {
       <CategoryName>Food & Condiments</CategoryName>
       <FoodCondiments />
 
-      <CategoryName>Chocolate</CategoryName>
+      <CategoryName>Chocolate & Candy</CategoryName>
       <Chocolate />
 
       <CategoryName>Cigars/Tobacco</CategoryName>

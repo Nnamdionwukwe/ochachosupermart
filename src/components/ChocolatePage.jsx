@@ -24,7 +24,7 @@ function ChocolatePage() {
 
       <CategoryNavLinkSlider />
 
-      <CategoryName>Chocolate</CategoryName>
+      <CategoryName>Chocolate & Candy</CategoryName>
 
       <Chocolate />
 

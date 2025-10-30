@@ -11,7 +11,7 @@ const categories = [
   { name: "Toiletries", path: "/products/toiletries" },
   { name: "Kitchen Utensis", path: "/products/kitchenutensis" },
   { name: "Food & Condiments", path: "/products/foodcondiments" },
-  { name: "Chocolate", path: "/products/chocolate" },
+  { name: "Chocolate & Candy", path: "/products/chocolate" },
   { name: "Cigars & Tobacco", path: "/products/cigars" },
   { name: "Frozen Food", path: "/products/frozenfood" },
   { name: "Wines & Spirits", path: "/products/winesspirits" },
