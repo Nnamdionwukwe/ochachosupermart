@@ -6,6 +6,7 @@ import WhyChooseUs from "./WhyChooseUs";
 import supermarketImage from "../assets/dis3.jpeg";
 import CategoryName from "./CategoryName";
 import CigarsLink from "./CigarsLink";
+import FrozenFoodLink from "./FrozenFoodLink";
 
 const benefits = [
   "Fresh, organic produce delivered daily from local farms. ",
@@ -26,7 +27,7 @@ function FrozenFoodPage() {
 
       <CategoryName>Frozen Food</CategoryName>
 
-      <CigarsLink />
+      <FrozenFoodLink />
 
       <WhyChooseUs
         title="Why Choose Us?"
