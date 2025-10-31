@@ -24,7 +24,7 @@ function CigarsPage() {
 
       <CategoryNavLinkSlider />
 
-      <CategoryName>Cigars/Tobacco</CategoryName>
+      <CategoryName>Cigars & Tobacco</CategoryName>
 
       <CigarsLink />
 

@@ -61,7 +61,7 @@ function ProductsPage() {
       <CategoryName>Chocolate & Candy</CategoryName>
       <Chocolate />
 
-      <CategoryName>Cigars/Tobacco</CategoryName>
+      <CategoryName>Cigars & Tobacco</CategoryName>
       <KitchenUtensisList />
 
       <CategoryName>Frozen Food</CategoryName>
