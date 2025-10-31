@@ -17376,10 +17376,17 @@
 
   "frozenfood": [
     {
-      "id": 20607,
-      "name": "KINGS OIL 1 L",
-      "price": 5651,
-      "imageUrl": "https://pp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com/image-1719349884221.webp",
+      "id": 20864,
+      "name": "BEEF (N) 1KG",
+      "price": 8000,
+      "imageUrl": "https://www.agrohandlers.com/uploaded_files/product-pix/PR878-066f6d0364949f.jpg",
+      "description": ""
+    },
+    {
+      "id": 20865,
+      "name": "TITUS ICE FISH",
+      "price": 4250,
+      "imageUrl": "https://shoponclick.ng/storage/2020/07/WMART-TITUS-1KG.png",
       "description": ""
     }
   ],

@@ -25,7 +25,7 @@ function FrozenFoodPage() {
 
       <CategoryNavLinkSlider />
 
-      <CategoryName>Frozen Food</CategoryName>
+      <CategoryName>Frozen Foods & Dairries</CategoryName>
 
       <FrozenFoodLink />
 
