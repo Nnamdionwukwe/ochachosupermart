@@ -17407,18 +17407,21 @@
       "description": ""
     },
     {
+      "id": 20868,
       "name": "ENCORE AROMATIC LIQUEUR",
       "price": 4890,
       "imageUrl": "https://chamuze.com/wp-content/uploads/2024/02/GOL-copy-6-2.jpg",
       "description": ""
     },
     {
+      "id": 20869,
       "name": "KORRECT BITTERS ALCOHOLIC DRINK",
       "price": 3117,
       "imageUrl": "https://www.supermart.ng/cdn/shop/files/spasho1740_051aed5b-d8d1-4c6d-b8f5-973df2965c4e.jpg?v=1738325382",
       "description": ""
     },
     {
+      "id": 20870,
       "name": "LORDS DRY GIN 17.5CL",
       "price": 1000,
       "imageUrl": "https://www.supermart.ng/cdn/shop/files/dbk1068.jpg?v=1688846114",
@@ -17801,9 +17804,291 @@
   "softdrinks": [
     {
       "id": 20607,
-      "name": "KINGS OIL 1 L",
-      "price": 5650,
-      "imageUrl": "https://pp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com/image-1719349884221.webp",
+      "name": "LUCOZADE ENERGY DRINK 1 LITRE",
+      "price": 3400,
+      "imageUrl": "https://shoponclick.ng/storage/2020/06/LUCOZADE-ORIGINAL.jpgq",
+      "description": ""
+    },
+    {
+      "name": "RED BULL ENERGY DRINK 355ML",
+      "price": 1935,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl1475_d414392c-0959-4d71-ac7c-9ce661973c98.jpg?v=1756130631",
+      "description": ""
+    },
+    {
+      "name": "RED BULL ENERGY DRINK 350ML",
+      "price": 1451,
+      "imageUrl": "https://m.media-amazon.com/images/I/41iO7GTVCQL._QL92_SH45_SS200_.jpg",
+      "description": ""
+    },
+    {
+      "name": "STAR RADLER CAN 33CL",
+      "price": 820,
+      "imageUrl": "https://shoponclick.ng/storage/2020/07/star-radler-can-1.jpg",
+      "description": ""
+    },
+    {
+      "name": "RIBENA FRUIT DRINK 450ML",
+      "price": 1200,
+      "imageUrl": "https://shoponclick.ng/storage/2020/08/RIBENA-450ML.jpg",
+      "description": ""
+    },
+    {
+      "name": "ITAMILK SOYMILK 1000ML",
+      "price": 4350,
+      "imageUrl": "https://martritesuperstores.com/wp-content/uploads/2024/04/download-61.jpeg",
+      "description": ""
+    },
+    {
+      "name": "DUDU LAIT AUX FRUITS CAN DRINK",
+      "price": 750,
+      "imageUrl": "https://agtplaza.com/cdn/shop/files/rn-image_picker_lib_temp_652cab19-fd26-4256-b5e1-a5e3422128d4.png?v=1735092506",
+      "description": ""
+    },
+    {
+      "name": "VIJU YOGHURT PLAIN SWEET 500ML",
+      "price": 700,
+      "imageUrl": "https://agtplaza.com/cdn/shop/files/rn-image_picker_lib_temp_a794f0d7-7bd8-4e01-9c58-b322558931d1.png?v=1735092507",
+      "description": ""
+    },
+    {
+      "name": "MIRINDA PINEAPPLE FLAVOUR SWEEET",
+      "price": 500,
+      "imageUrl": "https://poppin-candy.com/cdn/shop/files/image-Photoroom-2025-07-14T142053.315.png?v=1752499265&width=480",
+      "description": ""
+    },
+    {
+      "name": "LACASERA 50CL",
+      "price": 500,
+      "imageUrl": "https://i0.wp.com/kovmarket.com.ng/wp-content/uploads/2024/12/la-casera-3-1.png?fit=1000%2C1000&ssl=1",
+      "description": ""
+    },
+    {
+      "name": "LACASERA 35 CL",
+      "price": 300,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFbGTDJSq15mRu0DBXo9DZNpAx4TnGSi9lkw&s",
+      "description": ""
+    },
+    {
+      "name": "ACE ROOTS CAN 50CL",
+      "price": 1300,
+      "imageUrl": "https://wigmorewholesale.com/image/cache/wkseller/11401/Screenshot%202024-12-03%20140607-637x430.png",
+      "description": ""
+    },
+    {
+      "name": "JACK DANIEL'S",
+      "price": 28500,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spspwh422.jpg?v=1688719365&width=460",
+      "description": ""
+    },
+    {
+      "name": "PURE JOY",
+      "price": 1600,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzNKWRrmItdaGRmAP0ZMqqwul9gTzQCvU3KfEjgHYi_srlL8tUt9UQLbyzS1otNBXNoc&usqp=CAU",
+      "description": ""
+    },
+    {
+      "name": "CAPRI-SUN APPLE SACHET",
+      "price": 360,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2021/04/Capri-Sun-Apple-Fruit-Drink-200ml.jpg",
+      "description": ""
+    },
+    {
+      "name": "TROPICAL SUN LIME JUICE 500ML",
+      "price": 4300,
+      "imageUrl": "https://geminifoods.co.uk/wp-content/uploads/2020/08/Tropical-Sun-Lime-Juice-500ml.jpg.webp",
+      "description": ""
+    },
+    {
+      "name": "MALTINA CLASSIC CAN 33CL",
+      "price": 800,
+      "imageUrl": "https://static.wixstatic.com/media/bc12db_cad1f261e683411c8ea0e9e777240339~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+      "description": ""
+    },
+    {
+      "name": "NESTLE PURE LIFE PROTECT WATER 150CL",
+      "price": 450,
+      "imageUrl": "https://shoponclick.ng/storage/2020/08/NESTLE-WATER-150CL.jpg",
+      "description": ""
+    },
+    {
+      "name": "BULLET ENERGY DRINK",
+      "price": 1200,
+      "imageUrl": "https://www.sunmark.co.uk/wp-content/uploads/2018/10/bullet-energy-drinkvodka-mixed-1.jpg",
+      "description": ""
+    },
+    {
+      "name": "SOSA FRUIT DRINK",
+      "price": 500,
+      "imageUrl": "https://pavi.ng/storage/app/public/product/2024-07-16-669670e8785b5.png",
+      "description": ""
+    },
+    {
+      "name": "FOUR COUSINS NATURAL SWEET WHITE WINE",
+      "price": 8000,
+      "imageUrl": "https://www.drinksonline.store/wp-content/uploads/2021/11/FC-W..jpg",
+      "description": ""
+    },
+    {
+      "name": "FOUR COUSINS DRY RED WINE",
+      "price": 8800,
+      "imageUrl": "https://shoprite.ng/wp-content/uploads/2024/03/Red-Wine-Dry-Red-Four-Cousins-750Ml.jpg",
+      "description": ""
+    },
+    {
+      "name": "HOLLANDIA MILK 120G",
+      "price": 600,
+      "imageUrl": "https://pp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com/image-1719150302330.webp",
+      "description": ""
+    },
+    {
+      "name": "CWAY NUTRI WITH NATURAL APPLE 500ML",
+      "price": 650,
+      "imageUrl": "https://megacare.ng/media/image/download_2_ZwSXwqv.jpg",
+      "description": ""
+    },
+    {
+      "name": "CHIVITA ACTIVE ZEST 125ML",
+      "price": 150,
+      "imageUrl": "https://www.hydramarts.com/wp-content/uploads/2023/03/CHIVITA-ACTIVE-ZEST-125ML-PACK.webp",
+      "description": ""
+    },
+    {
+      "name": "IGBOYA BITTERS ALCOHOLIC DRINK 200ML",
+      "price": 550,
+      "imageUrl": "https://i.ebayimg.com/images/g/7MAAAOSwL-5hfrPi/s-l400.jpg",
+      "description": ""
+    },
+    {
+      "name": "PURE HEAVEN SPARKLING HEALTH DRINK RED GRAPE 330ML",
+      "price": 1750,
+      "imageUrl": "https://kudyunusbislar.com.ng/wp-content/uploads/2019/12/Pure-Haven-Red-Grape-Sparkling-Health-Drink-330ml.jpg",
+      "description": ""
+    },
+    {
+      "name": "SCHWEPPES VIRGIN MOJITO PET 40CL",
+      "price": 470,
+      "imageUrl": "https://seamart.com.ng/wp-content/uploads/2024/12/schwmojito.jpg",
+      "description": ""
+    },
+    {
+      "name": "BLUE BOAT FRESH YO STRAWBERRY 375ML",
+      "price": 900,
+      "imageUrl": "https://shoponclick.ng/storage/2020/08/Freshyo-Strawberry.png",
+      "description": ""
+    },
+    {
+      "name": "EVIRON HEALTH DRINK 250ML",
+      "price": 1250,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/06/3db106_8a356926124c42cea45d491a9a8dec25_mv2.png?fit=600%2C600&ssl=1",
+      "description": ""
+    },
+    {
+      "name": "HOLLANDIA YOGHURT DRINK SWEETENED 315ML",
+      "price": 800,
+      "imageUrl": "https://shoponclick.ng/storage/2020/08/hollandia-yoghurt-315ml-600x600.jpg",
+      "description": ""
+    },
+    {
+      "name": "CERES SPARKLING APPLE JUICE 27.5ML",
+      "price": 2300,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spax123.jpg?v=1706176747",
+      "description": ""
+    },
+    {
+      "name": "CHIVITA ICE TEA LEMON 1 L",
+      "price": 1400,
+      "imageUrl": "https://shoponclick.ng/storage/2020/08/Chi-Ice-Tea-1-Litre.jpg",
+      "description": ""
+    },
+    {
+      "name": "MALTINA VANILLA FLAVOUR 33CL",
+      "price": 800,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spmt1405.jpg?v=1689112861",
+      "description": ""
+    },
+    {
+      "name": "MIRINDA ORANGE 50CL",
+      "price": 350,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/omkt312.jpg?v=1689112648",
+      "description": ""
+    },
+    {
+      "name": "PASCUAL FULL CREAM MILK 1LTR",
+      "price": 3800,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spxvl3148_3214ddec-b9ad-43d8-b624-03d6aafd03e2.jpg?v=1756132614",
+      "description": ""
+    },
+    {
+      "name": "SPRITE LEMON LIME 60CL",
+      "price": 500,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/sprnw1554.jpg?v=1689112563",
+      "description": ""
+    },
+    {
+      "name": "HUNTER'S REAL CIDER GOLD",
+      "price": 1900,
+      "imageUrl": "https://barrels.ng/wp-content/uploads/2021/10/hunters-gold-bottle-330ml-997x1024_1_377a6379-1fa0-4a6f-8511-b3552cfbbf46_copy-removebg-preview.png",
+      "description": ""
+    },
+    {
+      "name": "ORIJIN BITTERS BOTTLE 60CL",
+      "price": 1550,
+      "imageUrl": "https://www.weshayo.com/wp-content/uploads/2016/08/Orijin-alcoholic-beverage.png",
+      "description": ""
+    },
+    {
+      "name": "AMSTEL MALT PET 33CL",
+      "price": 670,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/spwiow670_e9625034-7378-40b1-9433-033798458ce2.jpg?v=1712000198",
+      "description": ""
+    },
+    {
+      "name": "CHIVITA HAPPY HOUR ORANGE FLAVOUR",
+      "price": 200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF3kxAoLIW-e6SefNjSE5iiKVdy4nyKfnKA&s",
+      "description": ""
+    },
+    {
+      "name": "HOLLANDIA YOGHURT SWEETENED 90ML",
+      "price": 200,
+      "imageUrl": "https://deeski.com/image/cache/catalog/Chi/HY%20100ML%20PACK%20PLAIN%20SWEETENED%20copy-500x500.png",
+      "description": ""
+    },
+    {
+      "name": "FANTA ORANGE 50CL PET",
+      "price": 500,
+      "imageUrl": "https://waziri.ng/wp-content/uploads/2024/03/Fanta-PET-Bottles-50cl-x-12-1.jpg",
+      "description": ""
+    },
+    {
+      "name": "COCA-COLA 60CL",
+      "price": 650,
+      "imageUrl": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/03/image_9fdeedc7-7e07-4084-b577-7eb138c51fb7_1059x700-1.png?fit=400%2C400&ssl=1",
+      "description": ""
+    },
+    {
+      "name": "AQUAVIE WATER",
+      "price": 250,
+      "imageUrl": "https://lh4.googleusercontent.com/proxy/yRSEMTuYv-qtUsDHpSkjTjGCuDHOmlhDnkP-5_c9aXCkGcvE2TTkSR6xdeRjIycJArMlRnIqrx8705Mx_uVzjubaDLpcpjzx",
+      "description": ""
+    },
+    {
+      "name": "TOBI WATERMELON JUICE",
+      "price": 1100,
+      "imageUrl": "https://etutun.ro/wp-content/uploads/2021/08/Capsule-pentru-tigari-TOBI-Watermelon-Mint-100-etutun.ro_.jpg",
+      "description": ""
+    },
+    {
+      "name": "NESTLE PURE LIFE WATER 33CL",
+      "price": 150,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/OkeA472x_png.jpg?v=1756131635",
+      "description": ""
+    },
+    {
+      "name": "AQUAFINA BOTTLE WATER 75CL",
+      "price": 200,
+      "imageUrl": "https://addide.com/cdn/shop/products/aquafina75cl_7c4f6602-28eb-4979-b3a8-ad8c8f84f199.jpg?v=1626091475",
       "description": ""
     }
   ],
