@@ -18275,9 +18275,231 @@
   "stationaries": [
     {
       "id": 30607,
-      "name": "KINGS OIL 1 L",
-      "price": 5650,
-      "imageUrl": "https://pp-new-node-medusa-prod-bucket.s3.us-east-1.amazonaws.com/image-1719349884221.webp",
+      "name": "KANGARO STAPLE PIN 26/6-1M",
+      "price": 650,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqc3KRjISifGUrSl4QmvlHtD8VTSl2SIcoA&s",
+      "description": ""
+    },
+    {
+      "name": "KANGARO STAPLER No. 384556 HP-45",
+      "price": 6500,
+      "imageUrl": "https://m.media-amazon.com/images/I/711B1BL3AxL._AC_SL1500_.jpg",
+      "description": ""
+    },
+    {
+      "name": "A- STAR GLOBE TAPE MEDIUM SIZE",
+      "price": 450,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNzVa-Junyt3eeqODHNpgG2Rrlw0-9wGr3lw&s",
+      "description": ""
+    },
+    {
+      "name": "A- STAR GLOBE TAPE BIG",
+      "price": 1250,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBmOamxK4YEGqI_wxczf8FyQkfVGPBkK1gQ&s",
+      "description": ""
+    },
+    {
+      "name": "BLACK TAPE",
+      "price": 450,
+      "imageUrl": "https://artpavilion.com.ng/marketplace/wp-content/uploads/sites/5/2020/11/AD-Global-Black-Tape-1-1.jpg",
+      "description": ""
+    },
+    {
+      "name": "TIANTIAN MATHS SET & CARRY CASE",
+      "price": 3000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJddt8zN0OdTPVUYKsy8U3nxW7aXNKxRr7ng&s",
+      "description": ""
+    },
+    {
+      "name": "JAGUAR SCISSOR",
+      "price": 1500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51XZ9aOKEfL._SL1500_.jpg",
+      "description": ""
+    },
+    {
+      "name": "PRINTING POS PAPER",
+      "price": 200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxUVn8ZE-WxeGLVawI5W3hqWpeAHvmAUJLHw&s",
+      "description": ""
+    },
+    {
+      "name": "PRINTING RECEIPT PAPER",
+      "price": 1500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVTmCmJRgrByE1jJgIzdw4ZjE-y3XC8R7zEA&s",
+      "description": ""
+    },
+    {
+      "name": "STICK NOTE PAD",
+      "price": 1900,
+      "imageUrl": "https://paperlla.com/cdn/shop/files/5_6e7e5951-4173-4538-b507-a2226861b639.jpg?v=1699181615",
+      "description": ""
+    },
+    {
+      "name": "ARIWA KING SHORT HARD COVER NOTEBOOK - TICK",
+      "price": 2500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/74/9867613/1.jpg?7874",
+      "description": ""
+    },
+    {
+      "name": "ARIWA KING SHORT HARD COVER NOTE BOOK - TIN",
+      "price": 2200,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/74/9867613/1.jpg?7874",
+      "description": ""
+    },
+    {
+      "name": "GLOBE MASKING TAPE",
+      "price": 550,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtb4izKcsv3auCuXGq8He6U847vZ2Nv1q28w&s",
+      "description": ""
+    },
+    {
+      "name": "GLOBE TAPE TRANSPARENT",
+      "price": 1400,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/84/7836814/1.jpg?1980",
+      "description": ""
+    },
+    {
+      "name": "CARD BOARD PAPER",
+      "price": 250,
+      "imageUrl": "https://arteasy.com.ng/wp-content/uploads/2024/07/paper.jpg",
+      "description": ""
+    },
+    {
+      "name": "MAPLELEAF EXERCISE BOOK 60 LEAVES",
+      "price": 400,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/oru6494.jpg?v=1689077564",
+      "description": ""
+    },
+    {
+      "name": "MAPLELEAF EXERCISE BOOK 80 LEAVES",
+      "price": 500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeGae2EAwsau7_oivn-6j_Rg81lRz3_ByVew&s",
+      "description": ""
+    },
+    {
+      "name": "MAPLELEAF EXERCISE BOOK 40 LEAVES",
+      "price": 250,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/63/9782261/1.jpg?6205",
+      "description": ""
+    },
+    {
+      "name": "ARIWA KING LONG HARD COVER NOTE BOOK - TIN",
+      "price": 2600,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/03/2443904/1.jpg?5726",
+      "description": ""
+    },
+    {
+      "name": "EAGLE STAPLE PIN REMOVER",
+      "price": 650,
+      "imageUrl": "https://m.media-amazon.com/images/I/51wIM61FRSL.jpg",
+      "description": ""
+    },
+    {
+      "name": "YELLOW FLOWER DOCUMENT FILE",
+      "price": 350,
+      "imageUrl": "https://m.media-amazon.com/images/I/41pxoVpwxFL.jpg",
+      "description": ""
+    },
+    {
+      "name": "BANTEX DOCUMENT TRANSPARENT FILE",
+      "price": 500,
+      "imageUrl": "https://m.media-amazon.com/images/I/71CSOKlfI4L._AC_UF1000,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "name": "CRYSTAL ORIGINAL BIC",
+      "price": 200,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/03-BICcristal2008-03-26.jpg",
+      "description": ""
+    },
+    {
+      "name": "AVANTI SUPERIOR PEN",
+      "price": 100,
+      "imageUrl": "https://static.wixstatic.com/media/cdfe8e_1f7ea7771f8c47ae92c00565036959ab~mv2.png/v1/fill/w_480,h_446,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/cdfe8e_1f7ea7771f8c47ae92c00565036959ab~mv2.png",
+      "description": ""
+    },
+    {
+      "name": "FANCY PENCIL",
+      "price": 600,
+      "imageUrl": "https://cdn11.bigcommerce.com/s-jnwuwe/images/stencil/1280x1280/products/5399/23755/lwt-pnkt-fancypcl-satinsilver__0__55531.1667489725.jpg?c=2",
+      "description": ""
+    },
+    {
+      "name": "NATARAJ SHARPENER",
+      "price": 200,
+      "imageUrl": "https://arteasy.com.ng/wp-content/uploads/2024/05/Nataraj-621-sharpener-min.png",
+      "description": ""
+    },
+    {
+      "name": "FANCY SHARPENER",
+      "price": 200,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/oru6661.jpg?v=1689085854",
+      "description": ""
+    },
+    {
+      "name": "LUCKY STAR PEN",
+      "price": 100,
+      "imageUrl": "https://skit.ng/wp-content/uploads/2023/04/Lucky-Corer-Pen-Black-Skit-Store.jpg.webp",
+      "description": ""
+    },
+    {
+      "name": "EEZEE GLORY PEN",
+      "price": 100,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/oru3398_grande.jpg?v=1689087659",
+      "description": ""
+    },
+    {
+      "name": "A4 PAPER",
+      "price": 6000,
+      "imageUrl": "https://www.foodlocker.com.ng/public/product/a4%20paper%20pack.png",
+      "description": ""
+    },
+    {
+      "name": "DECAN RUBBER BAND 150G",
+      "price": 1600,
+      "imageUrl": "https://cartnear.s3.us-east-2.amazonaws.com/ng/0b71ac0e7d658dd470bb708021c41233.jpg",
+      "description": ""
+    },
+    {
+      "name": "LONG EXERCISE BOOK 80 LEAVES",
+      "price": 1000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkKywcr3w4pbXJYCKbuo0os4Jk_qWskCF_uA&s",
+      "description": ""
+    },
+    {
+      "name": "ERASER",
+      "price": 600,
+      "imageUrl": "https://5.imimg.com/data5/GK/RH/KB/SELLER-80261643/eraser-500x500.jpg",
+      "description": ""
+    },
+    {
+      "name": "CHILDREN BAG",
+      "price": 1200,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0h6ySwHi7Z9wp-gE5iQcXSWMoO4SUBMDFQ&s",
+      "description": ""
+    },
+    {
+      "name": "BIC PEN",
+      "price": 230,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmggAxIleglraiAYnhV_IjmsdS7Nw4jK1rAA&s",
+      "description": ""
+    },
+    {
+      "name": "BIC PERMANENT MARKER 2300 (GREEN)",
+      "price": 450,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJS0j6q6b2bZxWNkwBhJuwqFCsvSqWiWFZQ&s",
+      "description": ""
+    },
+    {
+      "name": "BIC PERMANENT MARKER 2300 (RED)",
+      "price": 450,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsQoEUXy02n9OJDQs5nPgULz6BCXBLXdInQ&s",
+      "description": ""
+    },
+    {
+      "name": "BIC PERMANENT MARKER 2300 (BLACK)",
+      "price": 450,
+      "imageUrl": "https://www.officemax.co.nz/Images/ProductImages/500/2106957.jpeg",
       "description": ""
     }
   ]
