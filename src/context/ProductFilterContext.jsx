@@ -20,6 +20,7 @@ const getCombinedProducts = () => {
     softdrinks,
     toys,
     stationaries,
+    contraceptives,
   } = Data;
 
   return [
@@ -43,6 +44,7 @@ const getCombinedProducts = () => {
     ...softdrinks.map((p) => ({ ...p, type: "softdrinks" })),
     ...toys.map((p) => ({ ...p, type: "toys" })),
     ...stationaries.map((p) => ({ ...p, type: "stationaries" })),
+    ...contraceptives.map((p) => ({ ...p, type: "contraceptives" })),
   ];
 };
 
@@ -120,6 +122,12 @@ export const ProductFilterProvider = ({ children }) => {
     );
   }, [filteredProducts]);
 
+  const filteredContraceptives = useMemo(() => {
+    return filteredProducts.filter(
+      (product) => product.type === "contraceptives"
+    );
+  }, [filteredProducts]);
+
   return (
     <ProductFilterContext.Provider
       value={{
@@ -139,6 +147,7 @@ export const ProductFilterProvider = ({ children }) => {
         filteredSoftDrinks,
         filteredToys,
         filteredStationaries,
+        filteredContraceptives,
       }}
     >
       {children}

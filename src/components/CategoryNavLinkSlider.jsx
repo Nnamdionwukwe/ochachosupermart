@@ -18,6 +18,7 @@ const categories = [
   { name: "Soft Drinks", path: "/products/softdrinks" },
   { name: "Toys & Games", path: "/products/toysgames" },
   { name: "Stationaries", path: "/products/stationaries" },
+  { name: "Contraceptives", path: "/products/contraceptives" },
 ];
 
 const CategoryNavLinkSlider = () => {

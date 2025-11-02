@@ -25,6 +25,7 @@ import WinesAndSpiritsPage from "./components/WinesAndSpiritsPage";
 import SoftDrinksPage from "./components/SoftDrinksPage";
 import ToysAndGamesPage from "./components/ToysAndGamesPage";
 import StationariesPage from "./components/StationariesPage";
+import ContraceptivesPage from "./components/ContraceptivesPage";
 
 function App() {
   return (
@@ -63,6 +64,10 @@ function App() {
             <Route
               path="/products/stationaries"
               element={<StationariesPage />}
+            />
+            <Route
+              path="/products/contraceptives"
+              element={<ContraceptivesPage />}
             />
 
             <Route path="/cart" element={<Cart />} />

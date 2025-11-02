@@ -18674,5 +18674,127 @@
       "imageUrl": "https://www.officemax.co.nz/Images/ProductImages/500/2106957.jpeg",
       "description": ""
     }
+  ],
+
+  "contraceptives": [
+    {
+      "id": 209144,
+      "name": "HOT RIDER",
+      "price": 5320,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/medp8496.jpg?v=1688751741",
+      "description": ""
+    },
+    {
+      "id": 209145,
+      "name": "ROUGH RIDER STUDDED",
+      "price": 5320,
+      "imageUrl": "https://megacare.ng/media/image/21453432025ffef1af2b9ddproduct_mDk2APw.jpg",
+      "description": ""
+    },
+    {
+      "id": 209146,
+      "name": "SWEET RIDER",
+      "price": 5320,
+      "imageUrl": "https://hbwebstorepro.com/product_images/h/103/Untitled_design_-_2023-07-20T115619.007__90801_zoom.png",
+      "description": ""
+    },
+    {
+      "id": 209147,
+      "name": "TROJAN MAGNUM THIN",
+      "price": 7980,
+      "imageUrl": "https://www.u-buy.com.ng/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNDFIZVREQ2YzTEwuX1NTNDAwXy5qcGc.jpg",
+      "description": ""
+    },
+    {
+      "id": 209148,
+      "name": "TROJAN MAGNUM BARESKIN",
+      "price": 7980,
+      "imageUrl": "https://images.cdn.saveonfoods.com/zoom/00061700912635.jpg",
+      "description": ""
+    },
+    {
+      "id": 209149,
+      "name": "TROJAN ULTRAN RIBBED",
+      "price": 6020,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/bdykzcdhsz0lvxhfmmpt_cb978284-0af5-4514-8316-313cc72f6910.webp?v=1756311217",
+      "description": ""
+    },
+    {
+      "id": 209150,
+      "name": "TROJAN MAGNUM XL",
+      "price": 7980,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Trojan_20Magnum_20XL_20Condoms_20x3_c5493a4b-d20e-46ea-adc5-96f4425086a8.webp?v=1756665644",
+      "description": ""
+    },
+    {
+      "id": 209151,
+      "name": "TROJAN BARESKIN",
+      "price": 7980,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/8732651/1.jpg?9672",
+      "description": ""
+    },
+    {
+      "id": 209152,
+      "name": "TROJAN DOUBLE ECSTASY",
+      "price": 7980,
+      "imageUrl": "https://www.trojanbrands.com/images/pdp/hero/trojan-double-ecstasy-lubricated-condoms/hero-03.png",
+      "description": ""
+    },
+    {
+      "id": 209153,
+      "name": "TROJAN ULTRAN THIN",
+      "price": 6020,
+      "imageUrl": "https://www.supermart.ng/cdn/shop/files/mega1781.jpg?v=1688751934",
+      "description": ""
+    },
+    {
+      "id": 209154,
+      "name": "TROJAN MAGNUM ECSTASY",
+      "price": 7980,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/4474939-1_bdbe547f-4ac5-477d-824d-11e8bfa7cf76.jpg?v=1753876980",
+      "description": ""
+    },
+    {
+      "id": 209155,
+      "name": "TROJAN MAGNUM",
+      "price": 7980,
+      "imageUrl": "https://healthplusnigeria.com/cdn/shop/files/Trojan_20Magnum_20XL_20Condoms_20x3_c5493a4b-d20e-46ea-adc5-96f4425086a8.webp?v=1756665644",
+      "description": ""
+    },
+    {
+      "id": 209156,
+      "name": "GOLD CIRCLE STRAWBERRY",
+      "price": 800,
+      "imageUrl": "https://admin.generaldrugcentre.com/images/product/14223.JPG",
+      "description": ""
+    },
+    {
+      "id": 209157,
+      "name": "GOLD CIRCLE STUDDED",
+      "price": 650,
+      "imageUrl": "https://www.meldinpharma.com/web/image/product.template/3697/image_1024?unique=68205cb",
+      "description": ""
+    },
+    {
+      "id": 209158,
+      "name": "ROUGH RIDER",
+      "price": 5670,
+      "imageUrl": "https://megacare.ng/media/image/Rough-rider-condoms_FzvuJsq.jpg",
+      "description": ""
+    },
+    {
+      "id": 209159,
+      "name": "LUBRICANT WATER-BASED CONDOM",
+      "price": 3500,
+      "imageUrl": "https://www.kondomiverkkokauppa.fi/WebRoot/vilkasfi01/Shops/2014050659/6204/E61E/94B7/17CF/1154/0A28/1011/7D36/durex-naturals-condom-kondomi-side-800_ml.jpg",
+      "description": ""
+    },
+    {
+      "id": 209160,
+      "name": "POWDERA LUBRICANT",
+      "price": 2600,
+      "imageUrl": "https://m.media-amazon.com/images/I/51Ir6Ll-rBL.jpg",
+      "description": ""
+    }
   ]
 }
