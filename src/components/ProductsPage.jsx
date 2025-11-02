@@ -19,6 +19,8 @@ import WinesAndSpiritsLink from "./WinesAndSpiritsLink";
 import SoftDrinksLink from "./SoftDrinksLink";
 import ToysAndGamesLink from "./ToysAndGamesLink";
 import StationariesList from "./StationariesList";
+import ContraceptivesList from "./ContraceptiveList";
+import WearsList from "./WearsList";
 
 const benefits = [
   "Fresh, organic produce delivered daily from local farms. ",
@@ -78,6 +80,12 @@ function ProductsPage() {
 
       <CategoryName>Stationaries</CategoryName>
       <StationariesList />
+
+      <CategoryName>Contraceptives</CategoryName>
+      <ContraceptivesList />
+
+      <CategoryName>Boutique</CategoryName>
+      <WearsList />
 
       <WhyChooseUs
         title="Why Choose Us?"

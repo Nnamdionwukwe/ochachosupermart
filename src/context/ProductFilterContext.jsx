@@ -21,6 +21,7 @@ const getCombinedProducts = () => {
     toys,
     stationaries,
     contraceptives,
+    wears,
   } = Data;
 
   return [
@@ -45,6 +46,7 @@ const getCombinedProducts = () => {
     ...toys.map((p) => ({ ...p, type: "toys" })),
     ...stationaries.map((p) => ({ ...p, type: "stationaries" })),
     ...contraceptives.map((p) => ({ ...p, type: "contraceptives" })),
+    ...wears.map((p) => ({ ...p, type: "wears" })),
   ];
 };
 
@@ -128,6 +130,10 @@ export const ProductFilterProvider = ({ children }) => {
     );
   }, [filteredProducts]);
 
+  const filteredWears = useMemo(() => {
+    return filteredProducts.filter((product) => product.type === "wears");
+  }, [filteredProducts]);
+
   return (
     <ProductFilterContext.Provider
       value={{
@@ -148,6 +154,7 @@ export const ProductFilterProvider = ({ children }) => {
         filteredToys,
         filteredStationaries,
         filteredContraceptives,
+        filteredWears,
       }}
     >
       {children}

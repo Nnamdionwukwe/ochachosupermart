@@ -19,6 +19,7 @@ const categories = [
   { name: "Toys & Games", path: "/products/toysgames" },
   { name: "Stationaries", path: "/products/stationaries" },
   { name: "Contraceptives", path: "/products/contraceptives" },
+  { name: "Boutique", path: "/products/wears" },
 ];
 
 const CategoryNavLinkSlider = () => {

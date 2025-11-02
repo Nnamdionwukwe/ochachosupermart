@@ -26,6 +26,7 @@ import SoftDrinksPage from "./components/SoftDrinksPage";
 import ToysAndGamesPage from "./components/ToysAndGamesPage";
 import StationariesPage from "./components/StationariesPage";
 import ContraceptivesPage from "./components/ContraceptivesPage";
+import WearsPage from "./components/WearsPage";
 
 function App() {
   return (
@@ -69,6 +70,7 @@ function App() {
               path="/products/contraceptives"
               element={<ContraceptivesPage />}
             />
+            <Route path="/products/wears" element={<WearsPage />} />
 
             <Route path="/cart" element={<Cart />} />
             <Route path="/cart/checkout" element={<Checkout />} />
