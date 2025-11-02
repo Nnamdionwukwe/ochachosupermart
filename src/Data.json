@@ -18796,5 +18796,279 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51Ir6Ll-rBL.jpg",
       "description": ""
     }
+  ],
+
+  "wears": [
+    {
+      "id": 209161,
+      "name": "US POLO ASSN FEMALE SINGLET 3 IN 1",
+      "price": 12800,
+      "imageUrl": "https://www.polopajama.com/wp-content/uploads/2025/07/U.S.-Polo-Assn.-90000-2-Pack-100-Cotton-Plus-Size-Mens-Singlet-Set-White.jpg",
+      "description": ""
+    },
+    {
+      "name": "LACOSTE FEMALE SINGLET 3 IN 1",
+      "price": 12800,
+      "imageUrl": "https://cdn.deporvillage.com/cdn-cgi/image/h=960,w=768,dpr=1,f=auto,q=75,fit=contain,background=white/product-vertical/LAC-TF7390-IUV_004.jpg",
+      "description": ""
+    },
+    {
+      "name": "HIGH WAIST LEGGING",
+      "price": 14000,
+      "imageUrl": "https://m.media-amazon.com/images/I/51XzBHLrcBL._AC_SL1500_.jpg",
+      "description": ""
+    },
+    {
+      "name": "HUGO MEN SOCKS 3 IN 1",
+      "price": 14500,
+      "imageUrl": "https://images.hugoboss.com/is/image/boss/hbeu50541597_100_250?$re_fullPageZoom$&qlt=85&fit=crop,1&align=1,1&bgcolor=ebebeb&lastModified=1760526980000&wid=1200&hei=1818",
+      "description": ""
+    },
+    {
+      "name": "LACOSTE SINGLET 3 IN 1",
+      "price": 12800,
+      "imageUrl": "https://i.ebayimg.com/images/g/SEkAAeSwXDtoCNrg/s-l1200.jpg",
+      "description": ""
+    },
+    {
+      "name": "AMI ALEXANDRE MATTIUSSI MEN SOCKS 6 IN 1",
+      "price": 14500,
+      "imageUrl": "https://www.mrporter.com/variants/images/1647597340282863/in/w2000_q60.jpg",
+      "description": ""
+    },
+    {
+      "name": "BRA PAD L",
+      "price": 3500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51VAKDpmvTL._AC_SL1200_.jpg",
+      "description": ""
+    },
+    {
+      "name": "PIERRE CUIDIY FEMALE SINGLET",
+      "price": 4300,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWSTJe6ybbMHKYBIYjJoMG7gqDRuMrZexqzw&s",
+      "description": ""
+    },
+    {
+      "name": "PHILIPP PLEIN BOXER MEN 3 IN 1",
+      "price": 12500,
+      "imageUrl": "https://www.plein.com/on/demandware.static/-/Sites-plein-master-catalog/default/dwbd8fff9e/images/large/FABC-MUY0335-PTE003N_02_sf.jpg",
+      "description": ""
+    },
+    {
+      "name": "PRADA SOCKS FEMALE 6 IN 1",
+      "price": 14500,
+      "imageUrl": "https://www.prada.com/content/dam/pradabkg_products/6/663/66386/12R6F0002/66386_12R6_F0002_S_191_SLF.jpg",
+      "description": ""
+    },
+    {
+      "name": "DISNEY KIDS BATHROBE",
+      "price": 22250,
+      "imageUrl": "https://m.media-amazon.com/images/I/51YonsGnfZL._AC_UY1000_.jpg",
+      "description": ""
+    },
+    {
+      "name": "VERSACE BATHING ROPE",
+      "price": 390000,
+      "imageUrl": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw30927066/original/90_ZACJ00008-ZCOSP052_Z4002_20_I~~Baroque~Bathrobe--Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+      "description": ""
+    },
+    {
+      "name": "HERMES BATHING ROBE",
+      "price": 390000,
+      "imageUrl": "https://lunafide.com/cdn/shop/products/Hermes_robe_front.jpg?v=1733749762",
+      "description": ""
+    },
+    {
+      "name": "F F SOCKS 6 IN 1",
+      "price": 13200,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/64/5910401/1.jpg?6767",
+      "description": ""
+    },
+    {
+      "name": "GELIN HOME",
+      "price": 390000,
+      "imageUrl": "https://www.creativehome-designs.com/cdn/shop/products/gelin-bathrobe-379224.jpg?v=1711618794",
+      "description": ""
+    },
+    {
+      "name": "FACE TOWEL SMALL SIZE",
+      "price": 800,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/97/5436141/1.jpg?6788",
+      "description": ""
+    },
+    {
+      "name": "FACE TOWEL MEDIUM SIZE",
+      "price": 800,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/97/5436141/1.jpg?6788",
+      "description": ""
+    },
+    {
+      "name": "FACE TOWEL BIG SIZE",
+      "price": 1500,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/97/5436141/1.jpg?6788",
+      "description": ""
+    },
+    {
+      "name": "LACOSTE UNDERWEAR ROUND NECK 3 IN 1",
+      "price": 14600,
+      "imageUrl": "https://beta.ebeosi.com.ng/public/uploads/products/thumbnail/1647263256.jpg",
+      "description": ""
+    },
+    {
+      "name": "HUGO BOSS MEN UNDERWEAR ROUND NECK 3 IN 1",
+      "price": 14600,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_AvQ8blu6EVaOPcSwj2TOF-dyO_B6CwHY3s9KKKRYEOSyXEUqiChSzMWzXBcJMFpMMAg&usqp=CAU",
+      "description": ""
+    },
+    {
+      "name": "CALVIN KLEIN MEN SINGLET 3 IN 1",
+      "price": 12800,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/49/7767283/1.jpg?6148",
+      "description": ""
+    },
+    {
+      "name": "TOMMY HILFIGER MEN ROUND NECK 3 IN 1",
+      "price": 14600,
+      "imageUrl": "https://www.standout.co.uk/images/product/52381a.jpg",
+      "description": ""
+    },
+    {
+      "name": "TOMMY HILFIGER MEN SINGLET 3 IN 1",
+      "price": 12800,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/96/7653483/1.jpg?6319",
+      "description": ""
+    },
+    {
+      "name": "VENUS PREMIUMS MEN'S UNDERWEAR 3 BOXERS M",
+      "price": 10200,
+      "imageUrl": "https://m.media-amazon.com/images/I/61l4KAT4JSL._AC_UY1100_.jpg",
+      "description": ""
+    },
+    {
+      "name": "US POLO ASSN MEN SINGLET 3 IN 1",
+      "price": 12800,
+      "imageUrl": "https://www.stildepo.com/en/wp-content/uploads/2023/09/U.S.-Polo-Assn.-Mens-Singlet-Boxer-Set-80088-White-3.png",
+      "description": ""
+    },
+    {
+      "name": "VENUS PREMIUMS MEN'S UNDERWEAR 3 BOXERS XXL",
+      "price": 10000,
+      "imageUrl": "https://m.media-amazon.com/images/I/91SWQndF0KS._AC_SX569_.jpg",
+      "description": ""
+    },
+    {
+      "name": "CELINEROYAL COLLECTION HANDKERCHIEFS(6in1)",
+      "price": 2500,
+      "imageUrl": "https://m.media-amazon.com/images/I/61py65bXO5L._AC_UF894,1000_QL80_.jpg",
+      "description": ""
+    },
+    {
+      "name": "DIOR FEMALE PYJAMAS",
+      "price": 15000,
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/341V33A6759X0859_E01?$r2x3_default_s85$&crop=486,150,1020,1352&wid=1334&hei=2000&scale=0.85&bfc=on&qlt=85",
+      "description": ""
+    },
+    {
+      "name": "GUCCI FEMALE PYJAMAS SIZE 40",
+      "price": 15000,
+      "imageUrl": "https://cdn.theluxurycloset.com/uploads/opt/products/750x750/luxury-women-gucci-used-clothes-p1141010-005.jpg",
+      "description": ""
+    },
+    {
+      "name": "BALENCIAGA FEMALE PYJAMAS L",
+      "price": 15000,
+      "imageUrl": "https://www.mytheresa.com/media/1094/1238/100/13/P00999616_b2.jpg",
+      "description": ""
+    },
+    {
+      "name": "GUCCI FEMALE PYJAMAS SIZE 36",
+      "price": 15000,
+      "imageUrl": "https://img.gem.app/1871082371/1t/1761918198/gucci-silk-pajamas-by-alessandro-michele-neutrals.jpg",
+      "description": ""
+    },
+    {
+      "name": "GUCCI FEMALE PYJAMAS SIZE 38",
+      "price": 15000,
+      "imageUrl": "https://img.gem.app/1871082371/1t/1761918198/gucci-silk-pajamas-by-alessandro-michele-neutrals.jpg",
+      "description": ""
+    },
+    {
+      "name": "GUCCI FEMALE PYJAMAS SIZE 36",
+      "price": 15000,
+      "imageUrl": "https://img.gem.app/1871082371/1t/1761918198/gucci-silk-pajamas-by-alessandro-michele-neutrals.jpg",
+      "description": ""
+    },
+    {
+      "name": "GUCCI FEMALE PYJAMAS SIZE 38",
+      "price": 15000,
+      "imageUrl": "https://img.gem.app/1871082371/1t/1761918198/gucci-silk-pajamas-by-alessandro-michele-neutrals.jpg",
+      "description": ""
+    },
+    {
+      "name": "GUCCI BRA & PANT XL",
+      "price": 16700,
+      "imageUrl": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1598339703/624777_XJBVY_1000_002_100_0000_Light-gg-embroidered-tulle-lingerie-set.jpg",
+      "description": ""
+    },
+    {
+      "name": "GUCCI BRA & PANT M",
+      "price": 16700,
+      "imageUrl": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1598339703/624777_XJBVY_1000_002_100_0000_Light-gg-embroidered-tulle-lingerie-set.jpg",
+      "description": ""
+    },
+    {
+      "name": "OYSHO LEATHER",
+      "price": 22250,
+      "imageUrl": "https://static.oysho.net/assets/public/3de8/d5a7/a11f41c69d99/9a8c6d511ffc/11155680040-p/11155680040-p.jpg?ts=1756903071126",
+      "description": ""
+    },
+    {
+      "name": "VINCONTE AMORE TIALIANO 5 XL",
+      "price": 15600,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQ-klpbB_8JvGHt6Lbjm7oih3_JPgP-A95w&s",
+      "description": ""
+    },
+    {
+      "name": "VINCONTE AMORE TIALIANO 3 M",
+      "price": 15600,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQ-klpbB_8JvGHt6Lbjm7oih3_JPgP-A95w&s",
+      "description": ""
+    },
+    {
+      "name": "LACOSTE SPORT ACTIVE",
+      "price": 18000,
+      "imageUrl": "https://akn-lacoste.b-cdn.net/products/2022/08/10/188616/c3ff8169-aa93-4a21-ae37-3d988e361478_size2000x2000_cropCenter.jpg",
+      "description": ""
+    },
+    {
+      "name": "GUCCI FEMALE PYJAMAS SIZE 42",
+      "price": 15000,
+      "imageUrl": "https://img.gem.app/1871082371/1t/1761918198/gucci-silk-pajamas-by-alessandro-michele-neutrals.jpg",
+      "description": ""
+    },
+    {
+      "name": "ALO LEATHER",
+      "price": 22250,
+      "imageUrl": "https://www.mytheresa.com/media/1094/1238/100/09/P01016438_d1.jpg",
+      "description": ""
+    },
+    {
+      "name": "PIERRE CUIDIY FEMALE SINGLET 3 IN 1",
+      "price": 12800,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/63/8607763/1.jpg?9409",
+      "description": ""
+    },
+    {
+      "name": "TOMMY HILFIGER FEMALE SINGLET 3 IN 1",
+      "price": 12800,
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c5bb165a011842019cc45e930d42307e/edd820cb19294821901ca1b398682de4.jpg?imwidth=762&filter=packshot",
+      "description": ""
+    },
+    {
+      "name": "VICTORIA SECRET FEMALE SINGLET 3 IN 1",
+      "price": 12800,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/63/8607763/1.jpg?9409",
+      "description": ""
+    }
   ]
 }
