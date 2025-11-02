@@ -72,16 +72,16 @@ const benefits = [
 const supermarketBestsellers = [
   {
     id: 1,
-    name: "ARBUTIN WHITE SLEEPING MASK",
-    price: "₦3,250.00",
-    image:
-      "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/41/0895814/1.jpg?4639",
+    name: "RIGGS LORD",
+    price: "₦67,200.00",
+    image: "https://the-fragrance-shop.imgix.net/products/70156.jpg",
   },
   {
     id: 2,
-    name: "COMPLAN MILK NDAC WHITE 400G",
-    price: "₦12,600.00",
-    image: "https://uzoebo.com/images/uzoebo/1628184223_complan_milk.jpg",
+    name: "VITAMIN C + CALCIUM CECE 1000MG ",
+    price: "3,800.00",
+    image:
+      "https://maydonpharma.com/wp-content/uploads/2024/10/CeCe-1000-2.jpg",
   },
   {
     id: 3,
