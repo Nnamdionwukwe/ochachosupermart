@@ -43,7 +43,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="https://twitter.com">
+              <a href="https://whatsapp.com">
                 <i class="bi bi-whatsapp"></i>
               </a>
             </li>
