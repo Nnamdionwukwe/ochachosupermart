@@ -48,7 +48,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="https://instagram.com">
+              <a href="https://www.instagram.com/ochacho_pharmacy_supermarket?igsh=MXFyNHQwdWlxencwMw%3D%3D&utm_source=qr">
                 <i class="bi bi-instagram"></i>
               </a>
             </li>
