@@ -38,7 +38,7 @@ const Footer = () => {
           <h3>Social</h3>
           <ul className={styles.sociallinks}>
             <li>
-              <a href="https://facebook.com">
+              <a href="https://www.facebook.com/share/1Gj1B46a3L/?mibextid=wwXIfr">
                 <i class="bi bi-facebook"></i>
               </a>
             </li>
