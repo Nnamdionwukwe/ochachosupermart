@@ -27,6 +27,7 @@ import ToysAndGamesPage from "./components/ToysAndGamesPage";
 import StationariesPage from "./components/StationariesPage";
 import ContraceptivesPage from "./components/ContraceptivesPage";
 import WearsPage from "./components/WearsPage";
+import CheckoutPage from "./components/CheckOutPage";
 
 function App() {
   return (
@@ -73,7 +74,7 @@ function App() {
             <Route path="/products/wears" element={<WearsPage />} />
 
             <Route path="/cart" element={<Cart />} />
-            <Route path="/cart/checkout" element={<Checkout />} />
+            <Route path="/cart/checkout" element={<CheckoutPage />} />
             <Route path="/About" element={<About />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="careers" element={<CareersPage />} />

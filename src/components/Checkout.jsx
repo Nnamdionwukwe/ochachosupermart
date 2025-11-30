@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import axios from "axios";
 import { useCart } from "../context/CartContext";
 import styles from "./Checkout.module.css";
 import { Link } from "react-router-dom";
@@ -23,8 +24,21 @@ const Checkout = ({ onCheckout }) => {
     setFormData({ ...formData, [name]: value });
   };
 
+  async function handleSubmit(e) {
+    e.preventDefault();
+
+    try {
+      await axios.post("http://localhost:5000/", {
+        formData,
+        paymentMethod,
+      });
+    } catch (e) {
+      console.log(e);
+    }
+  }
+
   // Handle form submission
-  const handleSubmit = (e) => {
+  const Submit = (e) => {
     e.preventDefault();
     // In a real application, you would send this data to a backend server.
     console.log(
@@ -35,6 +49,18 @@ const Checkout = ({ onCheckout }) => {
     );
     onCheckout(formData); // A function passed from a parent component
   };
+  // // Handle form submission
+  // const handleSubmit = (e) => {
+  //   e.preventDefault();
+  //   // In a real application, you would send this data to a backend server.
+  //   console.log(
+  //     "Submitting order with:",
+  //     formData,
+  //     "and payment method:",
+  //     paymentMethod
+  //   );
+  //   onCheckout(formData); // A function passed from a parent component
+  // };
 
   const calculateTotal = () => {
     // Calculate the total price of all items in the cart

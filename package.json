@@ -9,7 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "start": "node ./app.mjs",
-    "back": "node ./index.mjs"
+    "server": "node ./backend.mjs",
+    "back": "node ./index.mjs",
+    "post": "node ./server.mjs"
   },
   "dependencies": {
     "axios": "^1.12.2",
@@ -19,9 +21,10 @@
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "mogodb": "^0.0.1-security",
-    "mongoose": "^8.19.0",
+    "mongoose": "^8.19.3",
     "node": "^24.9.0",
     "nodemon": "^3.1.10",
+    "paystack": "^2.0.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-icons": "^5.5.0",
@@ -40,5 +43,18 @@
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.4.0",
     "vite": "^7.1.6"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nnamdionwukwe/ochachosupermart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nnamdionwukwe/ochachosupermart/issues"
+  },
+  "homepage": "https://github.com/Nnamdionwukwe/ochachosupermart#readme"
 }

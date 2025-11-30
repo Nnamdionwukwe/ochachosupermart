@@ -1,7 +1,7 @@
 import express from "express";
 import { mockUsers } from "./users.js";
 // import { product } from "./products.js";
-import product from "./data/product.json";
+import product from "./Data.json";
 
 const app = express();
 
