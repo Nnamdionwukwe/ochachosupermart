@@ -13,9 +13,7 @@ createRoot(document.getElementById("root")).render(
     <CartProvider>
       <ProductProvider>
         <ProductFilterProvider>
-          <NotificationProvider>
-            <App />
-          </NotificationProvider>
+          <NotificationProvider>{/* <App /> */}Hello</NotificationProvider>
         </ProductFilterProvider>
       </ProductProvider>
     </CartProvider>
